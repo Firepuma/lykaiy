@@ -1,0 +1,81 @@
+/* Reset */
+#admincp span, #admincp applet, #admincp object, #admincp iframe,
+
+#admincp pre, #admincp sub, #admincp sup, #admincp em { margin: 0; padding: 0; border: 0; outline: 0; }
+
+:focus { outline: 0; }
+.clearfix { clear: both; }
+
+#admincp-reset { }
+#admincp-save {  }
+.defaults-hover { display: none; position: absolute; background: #ffffff; width: 222px; padding: 15px; line-height: 18px; top: -330px; left:200px; border: 1px solid orange; border-radius: 3px; }
+#admincp-reset { }
+.yes,
+.no { float: right; margin-left: 4px !important; }
+.box-desc { position: fixed; top: 30%; left: 25%; width: 394px; z-index: 10000; overflow: auto; font-family: Arial, sans-serif; }
+.box-desc-top { background: #fff; width: 394px; height: 0px; }
+.box-desc-content { background: #fff; display: block; padding: 15px 15px 20px 15px; color: #858585; font-size: 12px; line-height: 23px; position: relative; }
+.box-desc-content h3 { color: #369; font-size: 18px; line-height: 25px; margin: 0px 0px 15px; width: 320px; font-weight: normal; }
+.box-desc-content p { margin: 0px; line-height: 23px; }
+.box-desc-content .lightboxclose { position: absolute; top: 15px; right: 10px; }
+.box-desc-bottom { background: #fff; width: 394px; height: 0px; }
+.ui-tabs-hide, .box-descr { display: none; }
+.desc-string,
+.form-table .descr { color: #666666; clear: both; display: block; font-style: italic; width: 500px; margin-top: 15px;  }
+div.shadow { position: fixed; top: 0%; left: 0%; width: 100%; height: 100%; background-color: black; z-index: 9500; }
+.box-description{ width:18px; cursor: pointer; }
+.lightboxclose { cursor: pointer; }
+/* admincp css changes */
+/* #admincp-content .admincp-box { clear: both; } */
+
+/* additions for jquery checkbox */
+.jquery-checkbox { cursor: pointer; }
+.jquery-checkbox img { vertical-align: middle; width: 150px; height: 18px; background: transparent url(../images/checkbox.gif) no-repeat; margin-left: 0px !important; }
+.jquery-checkbox img { background-position: -150px 0px; }
+.jquery-checkbox-checked img { background-position: 0px 0px; }
+
+#admincp p.inputs{ display: block; float: left; width: 160px; margin: 0; }
+#admincp p.inputs.last { }
+
+#admincp p.inputs .jquery-checkbox img { vertical-align: middle; width: 23px; height: 19px; background: transparent url(../images/checkbox-2.gif) no-repeat; margin-right: 3px; margin-left: 0px !important; }
+#admincp p.inputs .jquery-checkbox img { background-position: 0px 0px; }
+#admincp p.inputs .jquery-checkbox-checked img { background-position: -26px 0px; }
+#admincp p.inputs.different .jquery-checkbox img { background-position: -26px 0; }
+#admincp p.inputs.different .jquery-checkbox-checked img { background-position: 0px 0; }
+#admincp p.inputs  span.jquery-checkbox { float: left; }
+#admincp p.inputs label { vertical-align: middle; font-size: 12px; width: 105px; margin-bottom: 15px; }
+#admincp-content div.content-div .inner-content { padding: 0px 25px 0px 0px; }
+#admincp-content div.content-div .inner-content .boldtext { color: #333; font-size: 12px; font-weight: bold; }
+#admincp-content div.content-div .inner-content .indent { margin-bottom: 15px; margin-top: 6px; padding-left: 27px; }
+#admincp-content div.content-div .inner-content p { padding: 10px 0px; color: #444; font-family: Arial,Helvetica,sans-serif; font-size: 12px; line-height: 22px; }
+#admincp-content div.content-div .inner-content strong { font-weight: bold; font-style: italic; }
+#admincp-content div.content-div .inner-content ol li { margin: 0 0 5px 20px; list-style: decimal outside; } 
+
+/* Ajax Saving */
+div#admincp-ajax-saving { position: fixed; top: 30%; left: 25%; padding: 20px; background: #ffffff; overflow: hidden; border: 1px solid #8bad53; border-radius: 3px; display: none; line-height: 20px; }
+div#admincp-ajax-saving img { float: left; display: inline; margin-right: 20px; }
+div#admincp-ajax-saving span { float: left; }
+#admincp-content .admincp-box .upload_image_button, #admincp-content .admincp-box .upload_image_reset { color: #000000; float: left; font-size: 11px; font-weight: bold; margin-top: 10px; padding: 4px; width: 100px; cursor: pointer; }
+#admincp-content .admincp-box .upload_image_reset { margin-right: 7px; background: url("../images/bg-input-top.png") repeat-x scroll 0 0 #FFFFFF; border: 1px solid #e6e6e6; padding: 3px 7px 3px 8px; width: 33px; color: #666666; }
+#admincp-content .admincp-box .upload_image_reset:hover { color: #111111; }
+.column3_input select{ width:30% !important}
+/*categories level*/
+.level-0{background: #F5F5F5; color:#000 }
+
+/*news*/
+a:focus {
+     outline:none;
+     -moz-outline:none;
+}
+#admincp p.inputs { width: 180px; float: left; border:solid #fff 1px; height:21px; overflow:hidden}
+#admincp p.inputs label{}
+.box-content{float:left; margin-right:20px}
+.idTabs li{ display:inline-block; border-right:solid 1px #999; padding:0 5px; line-height: 1;}
+#admincp-bottom{ margin: 20px 0 0 6px }
+#icon-junkie{ background:url(../images/logo.png) no-repeat; width:32px; height:32px; float:left; margin:8px 10px 0 0}
+.box-content textarea{ width:468px; height:100px}
+.box-content .upload_buttons td{ padding:0; margin:0}
+.box-content input[type=text]{ width:25em}
+.tab-content { padding:0} 
+.form-table .tr { background: #cccccc; }
+.form-table th{ padding:10px 5px !important}

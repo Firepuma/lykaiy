@@ -1,0 +1,335 @@
+/* ---------------------------------------------------------------------- */
+/*	Media Queries
+/* ---------------------------------------------------------------------- */
+
+/* Standard 960 or larger (browsers) */
+@media only screen and (min-width: 960px) {
+
+}
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {
+
+	#primary-nav .nav,
+	.published,
+	.footer-ad {
+		display: none;
+	}
+	.header-icons {
+		position: absolute;
+		right: 120px;
+	}
+	#responsive-menu {
+		color: #999999;
+		display: none;
+		font-family: Arial, serif;
+		margin: 30px 0;
+		padding: 30px 0;		
+		width: 100%;
+		background: #ffffff;
+		border: 1px solid #ffffff;
+		border-radius: 3px;
+		border-bottom-color: #eeeeee;
+	}
+	#responsive-menu li {
+		color: #999999;
+		line-height: 30px;
+		margin-left: 30px;
+	}
+	#responsive-menu li li {
+		list-style: disc;
+	}
+	#responsive-menu li a {
+		color: #666666;
+		border-bottom: 1px dotted #cccccc;
+	}
+	.btn-nav-right {
+		background: url('../images/ico-menu.png') no-repeat right 0;
+		color: #999999;
+		display: block;
+		position: absolute;
+		top: 40px;
+		right: 30px;
+		font-size: 13px;
+		line-height: 16px;
+		padding-right: 16px;
+		cursor: pointer;
+		text-transform: uppercase;
+	}
+	.content-loop .hentry,
+	.content-loop .hentry .entry-thumb {
+		width: 100%;
+	}
+	#copyright img {
+		margin-right: 15px;
+	}
+	
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	
+	#main,
+	.container {
+		width: 720px;
+	}
+	#portfolio,
+	.one-col {
+		width: 660px !important;
+	}
+	#content {
+		width: 430px;
+	}
+	.content-loop {
+		width: 450px !important;
+	}	
+	#sidebar {
+		width: 200px;
+	}
+	.home .section-content {
+		width: 535px;
+	}	
+	#home-features .feature-block {
+		width: 165px;
+	}
+	.home .section-desc,
+	#home-work .portfolio-item,
+	#home-posts .hentry,
+	#footer-columns .footer-column-1,
+	#footer-columns .footer-column-2,
+	#footer-columns .footer-column-3,
+	#footer-columns .footer-column-4 {
+		width: 165px;
+	}
+	#home-testimonials .container {
+		height: 220px;
+	}	
+	#home-testimonials .testimonial {
+		top: 20px;
+	}
+	#home-testimonials .testimonial p {
+		font-size: 14px;
+	}
+	#home-testimonials .testimonial-nav-wrapper {
+		width: 380px;
+	}
+	#home-testimonials .testimonial-nav a {
+		display: block;
+		width: 76px;
+		height: 76px;
+	}
+	#home-testimonials .testimonial-author {
+		top: 152px;
+		right: 400px;
+	}
+	.single-portfolio .entry-content {
+		width: 470px;
+	}	
+	#related-work .portfolio-item {
+		width: 142px; height: 152px;		
+	}
+	#portfolio .portfolio-item-2-col,
+	#portfolio .portfolio-item-3-col,
+	#portfolio .portfolio-item-4-col { width: 315px; height: 285px; }
+	
+	.video-portfolio embed,
+	.video-portfolio object,
+	.video-portfolio iframe {
+		width: 660px;
+		height: 420px;
+	}
+	
+}
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+	#portfolio .portfolio-header {
+		display: none;
+	}
+	.single-portfolio .entry-meta {
+		border-right: none;
+		width: 100%;
+		margin-bottom: 30px;
+	}
+	.single-portfolio .entry-content {
+		width: 100%;
+	}
+	#related-work .portfolio-item,
+	#portfolio .portfolio-item-2-col,
+	#portfolio .portfolio-item-3-col,
+	#portfolio .portfolio-item-4-col { width: 100%; height: auto; margin: 0 0 30px 0; padding-bottom: 20px; }	
+	#copyright .left {
+		margin-bottom: 40px !important;	
+	}	
+	#copyright .left,	
+	#copyright .right {
+		clear: both;
+		display: block;
+		float: none !important;
+	}
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	#main,
+	.container,
+	#sidebar,
+	#home-features .feature-block,	
+	.home .section-content,
+	.home .section-desc,
+	#home-work .portfolio-item,
+	#home-posts .hentry,
+	#footer-columns .footer-column-1,
+	#footer-columns .footer-column-2,
+	#footer-columns .footer-column-3,
+	#footer-columns .footer-column-4 {
+		width: 420px;
+	}
+	#portfolio,
+	.one-col,
+	.ourHolder {
+		width: 360px !important;
+	}
+	#content {
+		width: 360px;
+		margin-bottom: 30px;
+	}
+	.content-loop {
+		width: 380px !important;
+	}		
+	#home-features {
+		padding-bottom: 20px;
+	}
+	#home-features .feature-block {
+		margin-bottom: 20px;
+	}
+	.home .section-desc {
+		margin-bottom: 30px;
+		text-align: center;
+	}
+	#home-testimonials .container {
+		width: 420px;
+		height: 420px;
+		padding: 0;
+	}	
+	#home-testimonials .testimonial {
+		top: 0;
+		left: 0;
+		margin: 0 auto;
+		padding: 20px 0;
+		width: 80%;
+	}
+	#home-testimonials .testimonial p {
+		font-size: 14px;
+	}
+	#home-testimonials .testimonial-nav-wrapper {
+		top: 190px;	
+		width: 420px;
+	}
+	#home-testimonials .testimonial-nav a {
+		display: block;
+		width: 84px;
+		height: 84px;
+	}
+	#home-testimonials .testimonial-author {
+		top: 376px;
+		right: 0;
+		text-align: center;
+	}
+	.video-portfolio embed,
+	.video-portfolio object,
+	.video-portfolio iframe {
+		width: 360px;
+		height: 240px;
+	}
+	
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+	
+	.header-icons,
+	.comment .avatar {
+		display: none;
+	}
+	#logo {
+		font-size: 90%;
+	}
+
+	#main,
+	.container,
+	#sidebar,
+	#home-features .feature-block,	
+	.home .section-content,
+	.home .section-desc,
+	#home-work .portfolio-item,
+	#home-posts .hentry,
+	#footer-columns .footer-column-1,
+	#footer-columns .footer-column-2,
+	#footer-columns .footer-column-3,
+	#footer-columns .footer-column-4 {
+		width: 280px;
+	}
+	#portfolio,
+	.one-col,
+	.ourHolder {
+		width: 220px !important;
+	}
+	#content {
+		width: 220px;
+		margin-bottom: 30px;
+	}
+	.content-loop {
+		width: 240px !important;
+	}		
+	#home-features {
+		padding-bottom: 20px;
+	}
+	#home-features .feature-block {
+		margin-bottom: 20px;
+	}
+	.home .section-desc {
+		margin-bottom: 30px;
+		text-align: center;
+	}
+	#home-testimonials .container {
+		width: 280px;
+		height: 420px;
+		padding: 0;
+	}	
+	#home-testimonials .testimonial {
+		top: 0;
+		left: 0;
+		margin: 0 auto;
+		padding: 20px 0;
+		width: 80%;
+	}
+	#home-testimonials .testimonial p {
+		font-size: 14px;
+	}
+	#home-testimonials .testimonial-nav-wrapper {
+		top: 250px;	
+		width: 280px;
+	}
+	#home-testimonials .testimonial-nav a {
+		display: block;
+		width: 56px;
+		height: 56px;
+	}
+	#home-testimonials .testimonial-author {
+		font-size: 12px;
+		top: 380px;
+		left: 0;
+		right: 0;
+		text-align: left;
+	}
+	.video-portfolio embed,
+	.video-portfolio object,
+	.video-portfolio iframe {
+		width: 220px;
+		height: 160px;
+	}
+	.comment-body {
+		padding-left: 0;
+	}	
+
+}

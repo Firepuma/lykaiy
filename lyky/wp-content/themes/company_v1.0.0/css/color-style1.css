@@ -1,0 +1,47 @@
+/* Color */
+a:link,
+a:visited,
+a:hover,
+.nav li a:hover,
+.nav li.first a,
+.nav .current_page_item a,
+.nav li ul li a:hover,
+.entry-title a:hover,
+#sidebar .widget a:hover,
+#sort-by li a:hover,
+.portfolio-item:hover .entry-title a,
+.hentry:hover .entry-title a,
+.junkie-pagination .current,
+.junkie-pagination a:hover {
+	color: #40bac8;
+}
+/* Background */
+#home-slider,
+#home-features .feature-block a:hover .all span,
+.read-more a:link,
+.read-more a:visited,
+#home-testimonials .container,
+.page-header,
+button, .btn, 
+.form-submit input,
+.contact-form #submit,
+#commentform .form-submit #submit {
+	background: #40bac8;
+}
+/* Border Color */
+.nav li a:hover,
+.nav li.first a,
+.nav .current_page_item a {
+	border-color: #40bac8;
+}
+/* Green Background */
+#home-posts .section-desc .more-button a:link,
+#home-posts .section-desc .more-button a:visited,
+#home-work {
+	background: #72c5a1;
+}
+/* Green Color */
+#home-work .section-desc .more-button a:link,
+#home-work .section-desc .more-button a:visited {
+	color: #72c5a1;
+}

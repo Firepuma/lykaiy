@@ -1,0 +1,49 @@
+.junkie-metabox-table { font-size: 12px; }
+.junkie-metabox-table tr { border-top: 1px solid #eee; }
+
+.junkie-metabox-table th { width: 25%; }
+
+.junkie-metabox-table label span {
+	line-height: 20px; 
+	display: block; 
+	color: #999; 
+	margin: 5px 0 0 0;
+}
+
+.junkie-metabox-table input,
+.junkie-metabox-table textarea {
+	width: 100%; 
+	margin-right: 20px; 
+	float: left;
+}
+
+.junkie-metabox-table input.file { width: 85%; }
+
+.junkie-metabox-table input.button {
+	width: auto; 
+	margin-right: 0;
+}
+
+.junkie-metabox-table input.radio {
+	width: auto; 
+	margin-right: 3px;
+	float: none;
+}
+
+.junkie-metabox-table .radio-label { margin-right: 10px; }
+
+
+/*------------------------------------------------------------------------------
+	Media Metabox
+------------------------------------------------------------------------------*/
+.junkie-gallery-thumbs { 
+	clear: left; 
+	margin-top: 45px;
+}
+
+.junkie-gallery-thumbs li { 
+	float: left;
+	margin-right: 10px;
+}
+
+.junkie-gallery-thumbs img { vertical-align: bottom; }

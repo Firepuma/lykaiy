@@ -1,0 +1,762 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Company 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-07 15:06+0700\n"
+"PO-Revision-Date: 2013-11-07 15:07+0700\n"
+"Last-Translator: Roy Guan <roy@theme-junkie.com>\n"
+"Language-Team: Theme Junkie <support@theme-junkie.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:5
+msgid "Error 404"
+msgstr ""
+
+#: ../404.php:15
+msgid "The page you've requested <strong>can not be displayed</strong>. It appears you've missed your intended destination, either through a bad or outdated link, or a typo in the page you were hoping to reach."
+msgstr ""
+
+#: ../archive.php:9
+#, php-format
+msgid "All posts in %s"
+msgstr ""
+
+#: ../archive.php:11
+#, php-format
+msgid "All posts tagged %s"
+msgstr ""
+
+#: ../archive.php:13
+#: ../archive.php:15
+#: ../archive.php:17
+msgid "Archive for"
+msgstr ""
+
+#: ../archive.php:19
+msgid "All posts by"
+msgstr ""
+
+#: ../archive.php:21
+msgid "Blog Archives"
+msgstr ""
+
+#: ../comments.php:13
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:29
+msgid "0 Comment"
+msgstr ""
+
+#: ../comments.php:29
+#: ../content.php:21
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:29
+#: ../content.php:21
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:41
+msgid "Trackbacks"
+msgstr ""
+
+#: ../comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:77
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:78
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out &raquo;</a>"
+msgstr ""
+
+#: ../comments.php:81
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../comments.php:82
+#, php-format
+msgid "Reply to %s"
+msgstr ""
+
+#: ../comments.php:83
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:84
+msgid "Submit Comment"
+msgstr ""
+
+#: ../content-none.php:1
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:6
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:10
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr ""
+
+#: ../content-none.php:14
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: ../content.php:20
+msgid "by"
+msgstr ""
+
+#: ../content.php:21
+msgid "No Comments"
+msgstr ""
+
+#: ../content.php:22
+#: ../page.php:27
+#: ../single-portfolio.php:108
+msgid "Edit"
+msgstr ""
+
+#: ../content.php:30
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content.php:31
+#: ../page.php:21
+msgid "Pages:"
+msgstr ""
+
+#: ../header.php:60
+msgid "Home"
+msgstr ""
+
+#: ../header.php:73
+msgid "Menu"
+msgstr ""
+
+#: ../index.php:38
+msgid "Read More &raquo;"
+msgstr ""
+
+#: ../search.php:5
+#, php-format
+msgid "Search Results for: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: ../single-portfolio.php:34
+msgid "Portfolio"
+msgstr ""
+
+#: ../single-portfolio.php:79
+msgid "Date"
+msgstr ""
+
+#: ../single-portfolio.php:84
+msgid "Client"
+msgstr ""
+
+#: ../single-portfolio.php:91
+msgid "Skills"
+msgstr ""
+
+#: ../single-portfolio.php:100
+msgid "Launch Project"
+msgstr ""
+
+#: ../single-portfolio.php:114
+msgid "Related Work"
+msgstr ""
+
+#: ../single.php:5
+msgid "Blog"
+msgstr ""
+
+#: ../functions/shortcodes/tinymce/window_page.php:6
+#: ../functions/shortcodes/tinymce/window_post.php:6
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: ../functions/shortcodes/tinymce/window_page.php:42
+#: ../functions/shortcodes/tinymce/window_post.php:42
+msgid "Select Shortcodes"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:155
+#: ../includes/plugins-install.php:86
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:156
+#: ../includes/plugins-install.php:87
+msgid "Install Plugins"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:157
+#: ../includes/plugins-install.php:88
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:169
+#: ../includes/plugins-install.php:100
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:171
+#: ../includes/class-tgm-plugin-activation.php:1840
+#: ../includes/plugins-install.php:101
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1085
+#: ../includes/meta-portfolio-items.php:120
+msgid "External Link"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1949
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1950
+#: ../includes/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1950
+#: ../includes/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1956
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/custom-functions.php:19
+msgid "Primary Nav"
+msgstr ""
+
+#: ../includes/custom-functions.php:178
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../includes/custom-functions.php:181
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../includes/custom-functions.php:181
+msgid "(Edit)"
+msgstr ""
+
+#: ../includes/custom-functions.php:184
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/meta-mini-features.php:5
+msgid "Mini Feature Settings"
+msgstr ""
+
+#: ../includes/meta-mini-features.php:11
+msgid "Feature Icon "
+msgstr ""
+
+#: ../includes/meta-mini-features.php:12
+msgid "Upload an icon or enter an URL to your feature icon"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:5
+msgid "Image Settings"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:11
+msgid "Image 1"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:12
+#: ../includes/meta-portfolio-items.php:26
+#: ../includes/meta-portfolio-items.php:40
+#: ../includes/meta-portfolio-items.php:54
+#: ../includes/meta-portfolio-items.php:68
+msgid "940px x unlimited"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:25
+msgid "Image 2"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:39
+msgid "Image 3"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:53
+msgid "Image 4"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:67
+msgid "Image 5"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:85
+msgid "Video Settings"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:90
+msgid "Video Embedded Code"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:91
+msgid "best width: 940px"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:100
+msgid "Additional Info Settings"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:106
+msgid "Short Description"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:113
+msgid "Client Name"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:148
+msgid "Upload an image and then click \"insert into post\". To delete an image, simply clear the field."
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:208
+msgid "These settings enable you to embed videos into your portfolio pages."
+msgstr ""
+
+#: ../includes/meta-testimonials.php:5
+msgid "Testimonial Author Information"
+msgstr ""
+
+#: ../includes/meta-testimonials.php:11
+msgid "Author Name "
+msgstr ""
+
+#: ../includes/meta-testimonials.php:18
+msgid "Author Avatar "
+msgstr ""
+
+#: ../includes/meta-testimonials.php:32
+msgid "Site Name "
+msgstr ""
+
+#: ../includes/meta-testimonials.php:39
+msgid "Site URL "
+msgstr ""
+
+#: ../includes/plugins-install.php:89
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/plugins-install.php:102
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../includes/sidebar-init.php:6
+msgid "Sidebar"
+msgstr ""
+
+#: ../includes/sidebar-init.php:8
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+#: ../includes/sidebar-init.php:16
+msgid "Footer (column1)"
+msgstr ""
+
+#: ../includes/sidebar-init.php:18
+#: ../includes/sidebar-init.php:28
+#: ../includes/sidebar-init.php:38
+#: ../includes/sidebar-init.php:48
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: ../includes/sidebar-init.php:26
+msgid "Footer (column2)"
+msgstr ""
+
+#: ../includes/sidebar-init.php:36
+msgid "Footer (column3)"
+msgstr ""
+
+#: ../includes/sidebar-init.php:46
+msgid "Footer (column4)"
+msgstr ""
+
+#: ../includes/sidebar-init.php:56
+msgid "Home Slider"
+msgstr ""
+
+#: ../includes/sidebar-init.php:58
+msgid "Please drag the LayerSlider widget only."
+msgstr ""
+
+#: ../includes/theme-posttypes.php:8
+msgid "Mini Features"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:9
+msgid "features"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:10
+#: ../includes/theme-posttypes.php:44
+#: ../includes/theme-posttypes.php:79
+msgid "Add New"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:11
+msgid "Add New Feature"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:12
+msgid "Edit Feature"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:13
+msgid "New Feature"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:14
+msgid "View Feature"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:15
+msgid "Search Feature"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:16
+msgid "No feature found"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:17
+msgid "No feature found in Trash"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:34
+msgid "feature"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:42
+msgid "Testimonials"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:43
+msgid "Testimonial"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:45
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:46
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:47
+msgid "New Testimonial"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:48
+msgid "View Testimonial"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:49
+msgid "Search Testimonial"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:50
+msgid "No testimonial found"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:51
+msgid "No testimonial found in Trash"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:68
+msgid "testimonial"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:77
+msgid "Portfolio Items"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:80
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:81
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:82
+msgid "New Portfolio"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:83
+msgid "View Portfolio"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:84
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:85
+msgid "No portfolio found"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:86
+msgid "No portfolio found in Trash"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:103
+#: ../includes/theme-posttypes.php:116
+msgid "portfolio"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:110
+msgid "Portfolio Types"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:111
+msgid "Portfolio Type"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:116
+#: ../includes/theme-posttypes.php:137
+msgid "portfolio-type"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:124
+msgid "Portfolio Item Title"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:136
+msgid "type"
+msgstr ""
+
+#: ../pages/template-archives.php:19
+msgid "The Latest 30 Posts"
+msgstr ""
+
+#: ../pages/template-archives.php:23
+msgid "Comments"
+msgstr ""
+
+#: ../pages/template-archives.php:28
+msgid "Categories"
+msgstr ""
+
+#: ../pages/template-archives.php:34
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../pages/template-contact.php:71
+msgid "Thanks, your email was sent successfully. "
+msgstr ""
+
+#: ../pages/template-contact.php:81
+msgid "Name:"
+msgstr ""
+
+#: ../pages/template-contact.php:88
+msgid "Email:"
+msgstr ""
+
+#: ../pages/template-contact.php:95
+msgid "Message:"
+msgstr ""
+
+#: ../pages/template-contact.php:104
+msgid "Send Email"
+msgstr ""
+
+#: ../pages/template-portfolio-2col.php:69
+#: ../pages/template-portfolio-3col.php:69
+#: ../pages/template-portfolio-4col.php:69
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: ../pages/template-sitemap.php:26
+msgid "Pages"
+msgstr ""
+
+#: ../pages/template-sitemap.php:43
+msgid "Posts per category"
+msgstr ""
+

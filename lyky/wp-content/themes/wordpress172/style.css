@@ -1,0 +1,29 @@
+/*
+Theme Name: mohuan
+Theme URI: http://www.mohuansenlin.com
+
+Author: the WordPress team
+Author URI: http://www.mohuansenlin.com
+
+Description: The 2011 theme for WordPress is sophisticated, .
+Version: 1.4
+License: GNU General Public License v2 or later
+License URI: http://www.mohuansenlin.com
+Tags: dark, light
+Text Domain: mohuan
+-------------------------------------------------------------- */
+
+
+/* Comment Form */
+#commentform input {width: 170px;	padding: 4px;	border:1px solid #ccc;	font-size:14px;	 color:#777;	}
+#commentform {	margin: 5px 10px 0 0;}
+#commentform p label { display:block;float:left}
+#commentform p { padding: 10px 0; margin:0;font-size: 14px}
+#commentform textarea {	width: 100%;	padding: 2px;	border:1px solid #ccc;	padding: 4px;}
+.cancel-comment-reply {display: none;}
+#commentform #submit {	margin-top: 10px;border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px;border:1px solid #aaa; font-weight: bold; background-color:#ccc; cursor:pointer; color:#c00;}
+#commentform #submit:hover {background-color:#fff; color:#333;}
+
+
+#comment li.even { background:#fff; }
+#comment li.odd { background:#f6f6f6; }

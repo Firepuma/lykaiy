@@ -1,0 +1,15 @@
+*** Theme Junkie Framework Changelog ***
+
+2013.08.29 - version 1.0.4
+ * latest version
+
+2013.08.15 - version 1.0.2
+ * Resort theme functions
+ * Fixed javascript conflicts
+ 
+2013.08.06 - version 1.0.1
+ * Removed autosave action in Theme Options
+ * Excluded our themes from WordPress auto theme updates
+
+2013.07.31 - version 1.0.0
+ * Initial release!
