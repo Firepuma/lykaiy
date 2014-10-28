@@ -1,0 +1,594 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: agivee theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-01 01:56+0700\n"
+"PO-Revision-Date: 2012-02-01 01:56+0700\n"
+"Last-Translator: irkham <imediapixel@gmail.com>\n"
+"Language-Team: Indonez <templates@indonez.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: INDONESIA\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:5
+msgid "Page Not Found!"
+msgstr ""
+
+#: ../404.php:15
+msgid "Apologies, but the page you requested could not be found."
+msgstr ""
+
+#: ../archive.php:11
+msgid "Posts Tagged"
+msgstr ""
+
+#: ../archive.php:13
+#: ../archive.php:15
+#: ../archive.php:17
+msgid "Archive for"
+msgstr ""
+
+#: ../archive.php:19
+msgid "Author Archive"
+msgstr ""
+
+#: ../archive.php:21
+msgid "Blog Archives"
+msgstr ""
+
+#: ../archive.php:52
+#: ../blog-template.php:49
+msgid "Posted by "
+msgstr ""
+
+#: ../archive.php:52
+#: ../archives.php:44
+#: ../blog-template.php:49
+msgid "0 Comment"
+msgstr ""
+
+#: ../archive.php:52
+#: ../archives.php:44
+#: ../blog-template.php:49
+msgid "1 Comment"
+msgstr ""
+
+#: ../archive.php:52
+#: ../archives.php:44
+#: ../blog-template.php:49
+msgid "% Comments"
+msgstr ""
+
+#: ../archive.php:73
+#: ../blog-template.php:68
+#: ../gallery-template.php:52
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: ../archive.php:74
+#: ../blog-template.php:69
+#: ../gallery-template.php:53
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: ../archives.php:33
+msgid "The Last 10 Posts"
+msgstr ""
+
+#: ../archives.php:51
+msgid "Categories"
+msgstr ""
+
+#: ../archives.php:56
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: ../comments.php:9
+#: ../comments.php:19
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:30
+msgid "Comments for this entry"
+msgstr ""
+
+#: ../comments.php:30
+msgid "Comment for this entry"
+msgstr ""
+
+#: ../comments.php:45
+msgid "Trackbacks / Pingbacks for this entry "
+msgstr ""
+
+#: ../comments.php:45
+msgid "Trackback or Pingback for this entry"
+msgstr ""
+
+#: ../comments.php:56
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:62
+msgid "Leave a comment"
+msgstr ""
+
+#: ../comments.php:72
+msgid "logged in"
+msgstr ""
+
+#: ../comments.php:72
+msgid "to post a comment."
+msgstr ""
+
+#: ../comments.php:77
+msgid "Logout &raquo;"
+msgstr ""
+
+#: ../comments.php:79
+#: ../contact-form.php:59
+msgid "Name "
+msgstr ""
+
+#: ../comments.php:81
+msgid "Mail"
+msgstr ""
+
+#: ../comments.php:83
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:88
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:88
+msgid "(required)"
+msgstr ""
+
+#: ../contact-form.php:53
+msgid "Your message has been sent successfully. Thank you!"
+msgstr ""
+
+#: ../contact-form.php:63
+msgid "E-mail "
+msgstr ""
+
+#: ../contact-form.php:67
+msgid "Subject "
+msgstr ""
+
+#: ../contact-form.php:71
+msgid "Message "
+msgstr ""
+
+#: ../contact-form.php:78
+msgid "Please wait.."
+msgstr ""
+
+#: ../contact-form.php:89
+msgid "on the map"
+msgstr ""
+
+#: ../contact-form.php:93
+msgid "Phone "
+msgstr ""
+
+#: ../contact-form.php:96
+#: ../footer.php:22
+msgid "Fax "
+msgstr ""
+
+#: ../contact-form.php:99
+msgid "Email"
+msgstr ""
+
+#: ../footer.php:38
+msgid "Get Connected"
+msgstr ""
+
+#: ../footer.php:41
+msgid "Let's Get Personal"
+msgstr ""
+
+#: ../footer.php:44
+msgid "Tweet with Us"
+msgstr ""
+
+#: ../footer.php:47
+msgid "Check us Out"
+msgstr ""
+
+#: ../footer.php:50
+msgid "Subscribe to Our Feed"
+msgstr ""
+
+#: ../header.php:70
+msgid "Get in touch "
+msgstr ""
+
+#: ../header.php:85
+msgid "Search"
+msgstr ""
+
+#: ../homepage-kwicksslider.php:20
+#: ../homepage-nivoslider.php:20
+#: ../index.php:20
+msgid "Welcome "
+msgstr ""
+
+#: ../homepage-kwicksslider.php:28
+#: ../homepage-nivoslider.php:28
+#: ../index.php:28
+msgid "Latest Projects"
+msgstr ""
+
+#: ../homepage-kwicksslider.php:35
+#: ../homepage-nivoslider.php:35
+#: ../index.php:35
+msgid "Our Services"
+msgstr ""
+
+#: ../homepage-kwicksslider.php:55
+#: ../homepage-nivoslider.php:55
+#: ../index.php:55
+msgid "Get free quote now..!!"
+msgstr ""
+
+#: ../homepage-kwicksslider.php:61
+#: ../homepage-nivoslider.php:61
+#: ../index.php:61
+msgid "What our client says"
+msgstr ""
+
+#: ../portfolio-template.php:49
+#: ../taxonomy-portfolio_category.php:50
+msgid "Detail info &raquo;"
+msgstr ""
+
+#: ../search.php:6
+msgid "Search Results for "
+msgstr ""
+
+#: ../search.php:30
+msgid "Nothing Found!"
+msgstr ""
+
+#: ../search.php:31
+msgid "try different search?"
+msgstr ""
+
+#: ../single-portfolio.php:6
+msgid "Portfolio"
+msgstr ""
+
+#: ../single.php:7
+msgid "Blog"
+msgstr ""
+
+#: ../single.php:34
+msgid "Posted by :"
+msgstr ""
+
+#: ../twitter.php:1
+msgid "Twitter Update..!!"
+msgstr ""
+
+#: ../admin/admin-functions.php:83
+msgid "Columns"
+msgstr ""
+
+#: ../admin/admin-functions.php:84
+msgid "Elements"
+msgstr ""
+
+#: ../admin/admin-functions.php:85
+msgid "List Style"
+msgstr ""
+
+#: ../admin/admin-functions.php:86
+msgid "Message Box"
+msgstr ""
+
+#: ../admin/admin-functions.php:87
+msgid "One Fourth"
+msgstr ""
+
+#: ../admin/admin-functions.php:88
+msgid "One Fourth Last"
+msgstr ""
+
+#: ../admin/admin-functions.php:89
+msgid "One Third"
+msgstr ""
+
+#: ../admin/admin-functions.php:90
+msgid "One Third Last"
+msgstr ""
+
+#: ../admin/admin-functions.php:91
+msgid "One Half"
+msgstr ""
+
+#: ../admin/admin-functions.php:92
+msgid "One Half Last"
+msgstr ""
+
+#: ../admin/admin-functions.php:93
+msgid "Two Third"
+msgstr ""
+
+#: ../admin/admin-functions.php:94
+msgid "Three Fourth"
+msgstr ""
+
+#: ../admin/admin-functions.php:95
+msgid "Dropcap 1"
+msgstr ""
+
+#: ../admin/admin-functions.php:96
+msgid "Dropcap 2"
+msgstr ""
+
+#: ../admin/admin-functions.php:97
+msgid "Dropcap 3"
+msgstr ""
+
+#: ../admin/admin-functions.php:98
+msgid "Pullquote Left"
+msgstr ""
+
+#: ../admin/admin-functions.php:99
+msgid "Pullquote Right"
+msgstr ""
+
+#: ../admin/admin-functions.php:100
+msgid "Line"
+msgstr ""
+
+#: ../admin/admin-functions.php:101
+msgid "Divider"
+msgstr ""
+
+#: ../admin/admin-functions.php:102
+msgid "Tabs"
+msgstr ""
+
+#: ../admin/admin-functions.php:103
+msgid "Toggle"
+msgstr ""
+
+#: ../admin/admin-functions.php:104
+msgid "Image"
+msgstr ""
+
+#: ../admin/admin-functions.php:105
+msgid "Google Map"
+msgstr ""
+
+#: ../admin/admin-functions.php:106
+msgid "Youtube"
+msgstr ""
+
+#: ../admin/admin-functions.php:107
+msgid "Vimeo"
+msgstr ""
+
+#: ../admin/admin-functions.php:108
+msgid "Buttons"
+msgstr ""
+
+#: ../admin/admin-functions.php:109
+msgid "Bullet List"
+msgstr ""
+
+#: ../admin/admin-functions.php:110
+msgid "Star List"
+msgstr ""
+
+#: ../admin/admin-functions.php:111
+msgid "Arrow List"
+msgstr ""
+
+#: ../admin/admin-functions.php:112
+msgid "Green Arrow List"
+msgstr ""
+
+#: ../admin/admin-functions.php:113
+msgid "Delete List"
+msgstr ""
+
+#: ../admin/admin-functions.php:114
+msgid "Check List"
+msgstr ""
+
+#: ../admin/admin-functions.php:115
+msgid "Info Box"
+msgstr ""
+
+#: ../admin/admin-functions.php:116
+msgid "Success Box"
+msgstr ""
+
+#: ../admin/admin-functions.php:117
+msgid "Warning Box"
+msgstr ""
+
+#: ../admin/admin-functions.php:118
+msgid "Error Box"
+msgstr ""
+
+#: ../admin/admin-functions.php:119
+msgid "Page List"
+msgstr ""
+
+#: ../admin/admin-functions.php:120
+msgid "Post List"
+msgstr ""
+
+#: ../functions/metabox.php:29
+msgid "Custom Slideshow Url"
+msgstr ""
+
+#: ../functions/metabox.php:35
+msgid "Slideshow Text Button"
+msgstr ""
+
+#: ../functions/metabox.php:36
+msgid "Custom text for slideshow button."
+msgstr ""
+
+#: ../functions/metabox.php:49
+msgid "Short Description"
+msgstr ""
+
+#: ../functions/metabox.php:50
+msgid "Add short description for your page."
+msgstr ""
+
+#: ../functions/metabox.php:180
+msgid "Page options"
+msgstr ""
+
+#: ../functions/metabox.php:181
+msgid "Slideshow options"
+msgstr ""
+
+#: ../functions/metabox.php:182
+msgid "Portfolio options"
+msgstr ""
+
+#: ../functions/post-types.php:7
+msgid "portfolio"
+msgstr ""
+
+#: ../functions/post-types.php:8
+#: ../functions/post-types.php:73
+msgid "Add New"
+msgstr ""
+
+#: ../functions/post-types.php:9
+msgid "Add New portfolio"
+msgstr ""
+
+#: ../functions/post-types.php:10
+msgid "Edit portfolio"
+msgstr ""
+
+#: ../functions/post-types.php:11
+msgid "New portfolio"
+msgstr ""
+
+#: ../functions/post-types.php:12
+msgid "View portfolio"
+msgstr ""
+
+#: ../functions/post-types.php:13
+msgid "Search portfolio"
+msgstr ""
+
+#: ../functions/post-types.php:14
+msgid "No portfolio found"
+msgstr ""
+
+#: ../functions/post-types.php:15
+msgid "No portfolio found in Trash"
+msgstr ""
+
+#: ../functions/post-types.php:55
+#: ../functions/post-types.php:56
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../functions/post-types.php:71
+msgid "Slideshow"
+msgstr ""
+
+#: ../functions/post-types.php:72
+msgid "slideshow"
+msgstr ""
+
+#: ../functions/post-types.php:74
+msgid "Add New slideshow"
+msgstr ""
+
+#: ../functions/post-types.php:75
+msgid "Edit slideshow"
+msgstr ""
+
+#: ../functions/post-types.php:76
+msgid "New slideshow"
+msgstr ""
+
+#: ../functions/post-types.php:77
+msgid "View slideshow"
+msgstr ""
+
+#: ../functions/post-types.php:78
+msgid "Search slideshow"
+msgstr ""
+
+#: ../functions/post-types.php:79
+msgid "No slideshow found"
+msgstr ""
+
+#: ../functions/post-types.php:80
+msgid "No slideshow found in Trash"
+msgstr ""
+
+#: ../functions/theme-functions.php:121
+msgid "Main Navigation"
+msgstr ""
+
+#: ../functions/theme-functions.php:266
+#: ../functions/theme-functions.php:275
+msgid "Unable to parse URL"
+msgstr ""
+
+#: ../functions/theme-functions.php:312
+msgid "Similar Portfolio"
+msgstr ""
+
+#: ../functions/theme-functions.php:340
+msgid "Related Posts"
+msgstr ""
+
+#: ../functions/theme-functions.php:481
+msgid "Thumbnail"
+msgstr ""
+
+#: ../functions/theme-functions.php:506
+msgid "None"
+msgstr ""
+
+#: ../functions/theme-widgets.php:256
+msgid "Latest News"
+msgstr ""
+
+#: ../functions/theme-widgets.php:333
+msgid "Testimonial"
+msgstr ""
+
+#: ../functions/theme-widgets.php:583
+msgid "Twitter Update!"
+msgstr ""
+
+#: ../functions/theme-widgets.php:623
+msgid "Our Address"
+msgstr ""
+
+#: ../functions/theme-widgets.php:670
+msgid "Description"
+msgstr ""
+
+#: ../slideshow/slideshow.php:22
+msgid "Learn more &raquo;"
+msgstr ""
+

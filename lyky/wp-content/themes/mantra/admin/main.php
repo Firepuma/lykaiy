@@ -21,6 +21,7 @@ require_once(dirname(__FILE__) . "/sanitize.php");
 function mantra_get_theme_options() {
 	global $mantra_defaults;
 	$optionsMantra = get_option( 'ma_options', (array)$mantra_defaults );
+    //var_dump($optionsMantra );
 	$optionsMantra = array_merge((array)$mantra_defaults, (array)$optionsMantra);
 return $optionsMantra;
 }
