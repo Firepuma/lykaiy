@@ -1,0 +1,194 @@
+/* =Responsive Structure
+----------------------------------------------- */
+
+@media (max-width: 1100px) {
+	body.mobile #content {
+          float:none;
+		margin:0 2%;
+		width:96%;
+		height:auto; 	}
+	body.mobile #access, body.mobile #branding {width:100%;}
+	body.mobile #wrapper, body.mobile #colophon, body.mobile #main, body.mobile article.post, body.mobile #container, body.mobile #linky { width: auto; }
+	body.mobile #branding { height:auto; min-height:90px; }
+	body.mobile #bg_image { min-height:90px; width:100%; }
+
+	body.mobile #header-container > div {
+     	margin-top:7px;
+     	margin-left:14px;
+     	height:100%; 	}
+
+	body.mobile a#logo { height:100%; display: block !important; }
+
+	body.mobile a#logo img { height:80%; width:auto; max-width:90%; }
+	body.mobile #site-title {margin-top:22px;}
+	body.mobile #site-description {clear:both;margin-left:0;}
+	body.mobile.safari a#logo img { max-height: 80px; height:auto;}
+
+	body.mobile #smenul, body.mobile #smenur { margin-top:0; }
+
+	body.mobile .socials a { margin:0; padding-left:5px; display: block; }
+	body.mobile .socials a img { width:22px; }
+	body.mobile #wrapper { margin:10px; }
+	body.mobile #access .menu-header, body.mobile div.menu { width:95%; }
+	body.mobile #primary, body.mobile #secondary { width:100%; height:auto !important; }
+
+	body.mobile #content img, body.mobile content article.post img, body.mobile #content article .wp-caption, body.mobile article embed {
+          max-width:90% !important; }
+	body.mobile #access { /*background:#ddd;*/ }
+	body.mobile #slider { width:auto; height:auto; }
+	body.mobile #footer-widget-area .widget-title { background:none !important; padding-left:10px; }
+	body.mobile .widget-title { -moz-border-radius:0; -webkit-border-radius:0; border-radius:0; }
+	body.mobile .xoxo .widget-title { margin-left:-10px !important; text-align:left !important; }
+	body.mobile #site-title  { font-size:30px; line-height: 30px; padding-left:0; }
+	body.mobile #site-description { margin-top:5px; font-size:15px; line-height: 15px; }
+
+	body.mobile #main .widget-area ul.xoxo { padding-left:10px; }
+
+	body.mobile .footertwo .widget-area, body.mobile .footerthree .widget-area, body.mobile .footerfour .widget-area {
+     	width:95%; margin-left:2.5%; }
+	body.mobile #sfooter { display:table; float:none; text-align:center; margin:0 auto; padding:0; top:0; margin-top:10px; }
+}
+
+@media (max-width: 800px) {
+	#content {
+		float:none;
+		margin:0 2%;
+		width:96%;
+		height:auto; 	}
+	#access, #branding {width:100%;}
+	#wrapper, #colophon,  #main, article.post, #container, #linky { width: auto; }
+	#branding { height:auto; min-height:90px; }
+	#bg_image { min-height:90px; width:100%; }
+
+	#header-container > div {
+     	margin-top:7px;
+     	margin-left:14px;
+     	height:100%; 	}
+
+	a#logo { height:100%; display: block !important; }
+
+	a#logo img { height:80%; width:auto; max-width:90%; }
+	#site-title {margin-top:22px;}
+	#site-description {clear:both;margin-left:0;}
+	.safari a#logo img { max-height: 80px; height:auto;}
+
+	#smenul, #smenur { margin-top:0; }
+
+	.socials a { margin:0; padding-left:5px; display: block; }
+	.socials a img { width:22px; }
+	#wrapper { margin:10px; }
+	#access .menu-header, div.menu { width:95%; }
+	#primary, #secondary { width:100%; height:auto !important; }
+
+	.slider-wrapper { width:95%; }
+	#slider, #slider img { width:100%; }
+	#front-columns > div { width:45%; }
+	#front-columns .column-image, #front-columns .column-image img { height:inherit; }
+
+	#content img, #content article.post img, #content .wp-caption, article embed { max-width:100% !important;}
+	#access { /*background:#ddd;*/ }
+	#column3 { clear:left; }
+	#slider { width:auto; height:auto; }
+	#footer-widget-area .widget-title { background:none !important; padding-left:10px; }
+	.widget-title { -moz-border-radius:0; -webkit-border-radius:0; border-radius:0; }
+	.xoxo .widget-title { margin-left:-10px !important; text-align:left !important; }
+	#site-title  { font-size:30px; line-height: 30px; padding-left:0; }
+	#site-description { margin-top:5px; font-size:15px; line-height: 15px; }
+
+	#main .widget-area ul.xoxo { padding-left:10px; }
+
+	.footertwo .widget-area, .footerthree .widget-area, .footerfour .widget-area {
+     	width:95%; margin-left:2.5%; }
+
+	#sfooter { display:table; float:none; text-align:center; margin:0 auto; padding:0; top:0; margin-top:10px; }
+}
+
+@media (max-width: 650px) {
+	/* @media (max-width: 650px) Reduce font-sizes for better readability on smaller devices */
+	body, #content p, #content ul, #content ol,#content code, #content pre, #content blockquote {
+		font-size: 13px !important;
+	}
+	#front-text1 h1, #front-text2 h1 {
+	font-size:2em;
+	line-height:2em;
+	}
+	#access ul {
+		font-size: 12px;
+	}
+	article.intro .entry-content {
+		font-size: 12px;
+	}
+	.entry-title {
+		font-size: 21px;
+	}
+	.featured-post .entry-title {
+		font-size: 14px;
+	}
+	.singular .entry-title {
+		font-size: 28px;
+	}
+	.entry-meta {border:none;padding:0;}
+	.entry-meta a , .entry-meta, .comments-link{
+		font-size: 10px !important;
+		background:none !important;
+		-moz-box-shadow:none !important;
+		-webkit-box-shadow:none !important;
+		box-shadow:none !important;
+	}
+	#content .entry-title {
+		font-size:20px !important;
+	}
+	#content h1, #content h2, #content h3, #content h4, #content h5, #content h6 {
+		margin-left:0 !important;
+	}
+	.widget-area a:link, .widget-area a:visited {
+		font-size:10px !important;
+	}
+	.tinynav	{
+	display: block;
+	}
+    #access .menu ul:first-child {
+	display: none;
+	}
+	.theme-default .nivo-caption {
+	font-size:9px;
+	}
+	.short-columns {
+		width:100%;
+	}
+}
+
+
+
+@media (max-width: 480px) {
+	/* @media (max-width: 450px) Reduce font-sizes for better readability on the smalles of devices */
+
+
+body, #content p, #content ul, #content ol,#content code, #content pre, #content blockquote {
+		font-size: 12px !important;
+	}
+
+	#site-title span a{
+		font-size: 18px;
+		line-height:18px;
+	}
+	#site-description {
+		font-size: 11px;
+		line-height:10px;
+	}
+	#front-columns > div {
+		width:90% ;
+	}
+
+	body {
+		padding: 0;
+	}
+	#page {
+		margin-top: 0;
+	}
+	#branding {
+		border-top: none;
+	}
+
+}
+

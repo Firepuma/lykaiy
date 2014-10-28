@@ -1,0 +1,2313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mantra 197\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-23 14:29+0200\n"
+"PO-Revision-Date: 2013-09-06 13:28+0400\n"
+"Last-Translator: Дмитрий Кирьянов <dmitry.kirjanov@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\Users\\medicated\\Desktop\\mantra\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Not Found"
+msgstr "Не найдено"
+
+#: 404.php:19
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+"Приносим извинения, но запрашиваемая страница не найдена. Попробуйте "
+"воспользоваться поиском."
+
+#: archive.php:26
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Архив по дням: %s"
+
+#: archive.php:28
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Архив по месяцам: %s"
+
+#: archive.php:28
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:30
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Годовой архив: %s"
+
+#: archive.php:30
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:32
+msgid "Blog Archives"
+msgstr "Записи блога"
+
+#: archive.php:58 author.php:75 category.php:51 index.php:41 search.php:41
+#: tag.php:52 template-blog.php:36
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: archive.php:62 author.php:79 category.php:55 index.php:45 tag.php:56
+#: template-blog.php:40
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+"Приносим извинения, но для запрашиваемого архива ничего не найдено. "
+"Попробуйте воспользоваться поиском."
+
+#: attachment.php:18
+#, php-format
+msgid "Return to %s"
+msgstr "Переход к %s"
+
+#: attachment.php:29
+msgid "By"
+msgstr "Автор"
+
+#: attachment.php:40
+msgid "Published"
+msgstr "Опубликовано"
+
+#: attachment.php:50
+#, php-format
+msgid "Full size is %s pixels"
+msgstr "Полный размер в %s пикселях"
+
+#: attachment.php:53
+msgid "Link to full-size image"
+msgstr "Ссылка к полному изображению"
+
+#: attachment.php:60 attachment.php:107 content-aside.php:48
+#: content-chat.php:49 content-gallery.php:65 content-image.php:42
+#: content-link.php:49 content-page.php:22 content-quote.php:46
+#: content-status.php:48 content.php:76 single.php:54
+#: template-onecolumn.php:27 template-page-with-intro.php:17
+msgid "Edit"
+msgstr "Изменить"
+
+#: attachment.php:100
+msgid "Continue reading"
+msgstr "Продолжить чтение"
+
+#: attachment.php:101 content-aside.php:39 content-chat.php:38
+#: content-gallery.php:55 content-image.php:33 content-link.php:38
+#: content-page.php:21 content-quote.php:36 content-status.php:39
+#: content.php:49 content.php:65 single.php:32 template-onecolumn.php:26
+#: template-page-with-intro.php:16
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: author.php:29
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Архив по автору: %s"
+
+#: author.php:50
+#, php-format
+msgid "About %s"
+msgstr "О %s"
+
+#: category.php:20
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Архив по рубрикам: %s"
+
+#: comments.php:18
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Эта запись защищена паролем. Пожалуйста, введите пароль для просмотра "
+"комментариев."
+
+#: content-aside.php:20
+msgid "Aside"
+msgstr "Отступление"
+
+#: content-aside.php:38 content-chat.php:37 content-gallery.php:33
+#: content-image.php:32 content-link.php:37 content-quote.php:35
+#: content-status.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продолжить чтение <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:46 content-chat.php:45 content-gallery.php:62
+#: content-image.php:39 content-link.php:45 content-quote.php:43
+#: content-status.php:46 content.php:74 includes/theme-loop.php:206
+msgid "Tagged"
+msgstr "Метки"
+
+#: content-chat.php:20
+msgid "Chat"
+msgstr "Чат"
+
+#: content-gallery.php:20
+msgid "Gallery"
+msgstr "Галерея"
+
+#: content-image.php:19 admin/settings.php:452 admin/settings.php:467
+#: admin/settings.php:482 admin/settings.php:497 admin/settings.php:512
+#: admin/settings.php:554 admin/settings.php:569 admin/settings.php:584
+#: admin/settings.php:599
+msgid "Image"
+msgstr "Изображение"
+
+#: content-link.php:20 admin/settings.php:459 admin/settings.php:474
+#: admin/settings.php:489 admin/settings.php:504 admin/settings.php:519
+#: admin/settings.php:561 admin/settings.php:576 admin/settings.php:591
+#: admin/settings.php:606
+msgid "Link"
+msgstr "Ссылка"
+
+#: content-page.php:27 includes/theme-comments.php:136
+msgid "Comments are closed."
+msgstr "Возможность комментирования заблокирована."
+
+#: content-quote.php:18
+msgid "Quote"
+msgstr "Цитировать"
+
+#: content-status.php:30
+msgid "Status"
+msgstr "Статус"
+
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Искомые результаты к: %s"
+
+#: search.php:39
+#, php-format
+msgid "No search results for: %s"
+msgstr "Нет результатов поиска к: %s"
+
+#: searchform.php:1
+msgid "Search"
+msgstr "Искать"
+
+#: single.php:45
+msgid "View all posts by "
+msgstr "Просмотреть все записи за авторством"
+
+#: tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Архив меток: %s"
+
+#: admin/admin-functions.php:62
+msgid ""
+"Before you can upload your import file, you will need to fix the following "
+"error:"
+msgstr "Перед загрузкой файла Вам следует устранить возможную ошибку:"
+
+#: admin/admin-functions.php:70
+msgid "Import Mantra Theme Options"
+msgstr "Импорт настроек темы"
+
+#: admin/admin-functions.php:72
+msgid ""
+"Hi! This is where you import the  Mantra settings.<i> Please remember that "
+"this is still an experimental feature.</i>"
+msgstr ""
+"Здесь импортируются настройки темы Mantra.<i> Пожалуйста помните, эта "
+"возможность до сих пор экспериментальная.</i>"
+
+#: admin/admin-functions.php:74
+msgid "Just choose a file from your computer:"
+msgstr "Выберите файл с Вашего компьютера:"
+
+#: admin/admin-functions.php:76
+#, php-format
+msgid "Maximum size: %s"
+msgstr "Максимальный размер: %s"
+
+#: admin/admin-functions.php:82
+msgid "And import!"
+msgstr "Импорт!"
+
+#: admin/admin-functions.php:148
+msgid "Import Mantra Theme Options "
+msgstr "Импорт настроек темы"
+
+#: admin/admin-functions.php:151
+msgid "Great! The options have been imported!"
+msgstr "Превосходно! Настройки импортированы!"
+
+#: admin/admin-functions.php:152
+msgid "Go back to the Mantra options page and check them out!"
+msgstr "Вернитесь к странице настроек Mantra и проверьте их!"
+
+#: admin/admin-functions.php:155 admin/admin-functions.php:161
+#: admin/admin-functions.php:167
+msgid "Oops, there's a small problem."
+msgstr "Oops, похоже есть небольшая проблема."
+
+#: admin/admin-functions.php:156
+msgid ""
+"The uploaded file does not contain valid Mantra options. Make sure the file "
+"is exported from the Mantra Options page."
+msgstr ""
+"Загруженный файл не содержит требуемых настроек темы. Пожалуйста убедитесь, "
+"что файл экспортирован из настроек Mantra."
+
+#: admin/admin-functions.php:162
+msgid "The uploaded file could not be read."
+msgstr "Не удаётся прочесть загруженный файл."
+
+#: admin/admin-functions.php:168
+msgid ""
+"The uploaded file is not supported. Make sure the file was exported from the "
+"Mantra page and that it is a text file."
+msgstr ""
+"Загруженный файл не поддерживается. Пожалуйста убедитесь, что файл "
+"экспортирован из настроек Mantra и имеет расширение .txt."
+
+#: admin/admin-functions.php:177
+msgid ""
+"Oops! The file is empty or there was no file. This error could also be "
+"caused by uploads being disabled in your php.ini or by post_max_size being "
+"defined as smaller than upload_max_filesize in php.ini."
+msgstr ""
+"Oops! Файл пустой или отсутствует. Такая ошибка может возникнуть если в "
+"настройках php.ini отключена возможность загрузки или значение post_max_size "
+"определено меньше, чем upload_max_filesize всё в том же php.ini."
+
+#: admin/admin-functions.php:183
+msgid "ERROR: You are not authorised to perform that operation"
+msgstr "ОШИБКА: Вы не авторизованы для проведения данной операции."
+
+#: admin/main.php:100
+msgid "Layout Settings"
+msgstr "Настройки схемы расположения"
+
+#: admin/main.php:101
+msgid "Header Settings"
+msgstr "Настройки заголовка"
+
+#: admin/main.php:102
+msgid "Presentation Page"
+msgstr "Страничка презентаций"
+
+#: admin/main.php:103
+msgid "Text Settings"
+msgstr "Настройки текста"
+
+#: admin/main.php:104
+msgid "Color Settings"
+msgstr "Настройки цвета"
+
+#: admin/main.php:105
+msgid "Graphics Settings"
+msgstr "Настройки графического оформления"
+
+#: admin/main.php:106
+msgid "Post Information Settings"
+msgstr "Настройки записей"
+
+#: admin/main.php:107
+msgid "Post Excerpt Settings"
+msgstr "Настройки краткого содержания"
+
+#: admin/main.php:108
+msgid "Featured Image Settings"
+msgstr "Настройки миниатюр"
+
+#: admin/main.php:109
+msgid "Social Media Settings"
+msgstr "Настройки интеграции социальных сетей"
+
+#: admin/main.php:110
+msgid "Miscellaneous Settings"
+msgstr "Остальные настройки"
+
+#: admin/main.php:113
+msgid "Main Layout"
+msgstr "Основная схема расположения"
+
+#: admin/main.php:114
+msgid "Content / Sidebar Width"
+msgstr "Ширина: Контента / Боковой панели"
+
+#: admin/main.php:115
+msgid "Responsiveness"
+msgstr "Автоподстройка ширины и разрешения"
+
+#: admin/main.php:118
+msgid "Enable Presentation Page"
+msgstr "Включение странички презентаций"
+
+#: admin/main.php:119
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: admin/main.php:120
+msgid "Slides"
+msgstr "Слайды"
+
+#: admin/main.php:121
+msgid "Presentation Page Columns"
+msgstr "Колонки странички презентаций"
+
+#: admin/main.php:122
+msgid "Extras"
+msgstr "Дополнения"
+
+#: admin/main.php:125
+msgid "Header Height"
+msgstr "Высота заголовка"
+
+#: admin/main.php:126
+msgid "Header Image"
+msgstr "Изображение заголовка"
+
+#: admin/main.php:127
+msgid "Site Header"
+msgstr "Заголовок сайта"
+
+#: admin/main.php:128
+msgid "Custom Logo Upload"
+msgstr "Загрузка своего логотипа"
+
+#: admin/main.php:129
+msgid "Header Spacing"
+msgstr "Отступ заголовка"
+
+#: admin/main.php:130
+msgid "Rounded Menu Corners"
+msgstr "Закруглённые углы меню"
+
+#: admin/main.php:131
+msgid "FavIcon Upload"
+msgstr "Загрузка иконки сайта (фав-иконки)"
+
+#: admin/main.php:133
+msgid "General Font"
+msgstr "Основной шрифт"
+
+#: admin/main.php:134
+msgid "General Font Size"
+msgstr "Размер основного шрифта"
+
+#: admin/main.php:135
+msgid "Post Title Font "
+msgstr "Шрифт заголовка записи"
+
+#: admin/main.php:136
+msgid "Post Title Font Size"
+msgstr "Размер шрифта заголовка записи"
+
+#: admin/main.php:137
+msgid "Sidebar Font"
+msgstr "Шрифт бокового меню"
+
+#: admin/main.php:138
+msgid "SideBar Font Size"
+msgstr "Размер шрифта бокового меню"
+
+#: admin/main.php:139
+msgid "Headings Font"
+msgstr "Шрифт подзаголовков"
+
+#: admin/main.php:140
+msgid "Force Text Align"
+msgstr "Принудительное выравнивание текста"
+
+#: admin/main.php:141
+msgid "Paragraph spacing"
+msgstr "Отступ абзаца"
+
+#: admin/main.php:142
+msgid "Paragraph indent"
+msgstr "Отступ абзаца"
+
+#: admin/main.php:143
+msgid "Header indent"
+msgstr "Отступ заголовка"
+
+#: admin/main.php:144
+msgid "Line Height"
+msgstr "Межстрочный интервал"
+
+#: admin/main.php:145
+msgid "Word spacing"
+msgstr "Интервал между словами"
+
+#: admin/main.php:146
+msgid "Letter spacing"
+msgstr "Межбуквенный интервал"
+
+#: admin/main.php:147
+msgid "Text shadow"
+msgstr "Отбрасывание тени в тексте"
+
+#: admin/main.php:149
+msgid "Background Image"
+msgstr "Цвета фона"
+
+#: admin/main.php:150
+msgid "Background Color"
+msgstr "Цвета фона"
+
+#: admin/main.php:151
+msgid "Header (Banner and Menu) Background Color"
+msgstr "Фоновый цвет заголовка (баннер и меню)"
+
+#: admin/main.php:152
+msgid "Content Background Color"
+msgstr "Цвет фона основного содержимого"
+
+#: admin/main.php:153
+msgid "Menu Items Background Color"
+msgstr "Цвет фона меню элементов"
+
+#: admin/main.php:154
+msgid "First Sidebar Background Color"
+msgstr "Цвет фона первого бокового меню"
+
+#: admin/main.php:155
+msgid "Second Sidebar Background Color"
+msgstr "Цвет фона второго бокового меню"
+
+#: admin/main.php:157
+msgid "Site Title Color"
+msgstr "Цвет названия сайта"
+
+#: admin/main.php:158
+msgid "Site Description Color"
+msgstr "Цвет описания сайта"
+
+#: admin/main.php:160
+msgid "Content Text Color"
+msgstr "Цвет основного текста"
+
+#: admin/main.php:161
+msgid "Links Color"
+msgstr "Цвет ссылок"
+
+#: admin/main.php:162
+msgid "Links Hover Color"
+msgstr "Цвет выделенных ссылок"
+
+#: admin/main.php:163
+msgid "Post Title Color"
+msgstr "Цвет заголовка записи"
+
+#: admin/main.php:164
+msgid "Post Title Hover Color"
+msgstr "Цвет выделенного заголовка записи"
+
+#: admin/main.php:165
+msgid "Sidebar Header Background Color"
+msgstr "Цвет фона заголовка боковой панели"
+
+#: admin/main.php:166
+msgid "Sidebar Header Text Color"
+msgstr "Цвет текста заголовка боковой панели"
+
+#: admin/main.php:167
+msgid "Footer Widget Background Color"
+msgstr "Цвет фона виджетов нижнего колонтитула (footer)"
+
+#: admin/main.php:168
+msgid "Footer Background Color"
+msgstr "Цвет фона нижнего колонтитула (footer)"
+
+#: admin/main.php:169
+msgid "Footer Widget Header Text Color"
+msgstr "Цвет текста заголовков виджетов нижнего колонтитула (footer)"
+
+#: admin/main.php:170
+msgid "Footer Widget Link Color"
+msgstr "Цвет ссылок нижнего колонтитула (footer)"
+
+#: admin/main.php:171
+msgid "Footer Widget Hover Color"
+msgstr "Цвет выделенных ссылок нижнего колонтитула (footer)"
+
+#: admin/main.php:173
+msgid "Breadcrumbs"
+msgstr "Строка пути"
+
+#: admin/main.php:174
+msgid "Pagination"
+msgstr "Нумерация страниц"
+
+#: admin/main.php:175
+msgid "Post Images Border"
+msgstr "Рамка изображения"
+
+#: admin/main.php:176
+msgid "Caption Border"
+msgstr "Рамка изображения"
+
+#: admin/main.php:177
+msgid "Caption Pin"
+msgstr "Отметка прикрепления"
+
+#: admin/main.php:178
+msgid "Sidebar Menu Bullets"
+msgstr "Маркеры бокового меню"
+
+#: admin/main.php:179
+msgid "Meta Area Background"
+msgstr "Фон мета данных"
+
+#: admin/main.php:180
+msgid "Post Separator"
+msgstr "Разделитель записей"
+
+#: admin/main.php:181
+msgid "Content List Bullets"
+msgstr "Маркеры основного содержимого"
+
+#: admin/main.php:182
+msgid "Page Titles"
+msgstr "Названия страниц"
+
+#: admin/main.php:183
+msgid "Category Page Titles"
+msgstr "Названия странички рубрик"
+
+#: admin/main.php:184
+msgid "Hide Tables"
+msgstr "Скрыть таблицы"
+
+#: admin/main.php:185
+msgid "Back to Top button"
+msgstr "Кнопка \"Наверх\""
+
+#: admin/main.php:186
+msgid "Text Under Comments"
+msgstr "Текст под комментариями"
+
+#: admin/main.php:187
+msgid "Comments are closed text"
+msgstr "Текст заблокированных комментариев"
+
+#: admin/main.php:188
+msgid "Comments off"
+msgstr "Комментарии отключены"
+
+#: admin/main.php:190
+msgid "Post Comments Link"
+msgstr "Ссылка на комментарии к записи"
+
+#: admin/main.php:191
+msgid "Post Date"
+msgstr "Дата записи"
+
+#: admin/main.php:192
+msgid "Post Time"
+msgstr "Время записи"
+
+#: admin/main.php:193
+msgid "Post Author"
+msgstr "Автор записи"
+
+#: admin/main.php:194
+msgid "Post Category"
+msgstr "Рубрика записи"
+
+#: admin/main.php:195
+msgid "Meta Bar"
+msgstr "Дополнительная информация"
+
+#: admin/main.php:196
+msgid "Post Tags"
+msgstr "Метки записи"
+
+#: admin/main.php:197
+msgid "Post Permalink"
+msgstr "Неизменная ссылка на запись"
+
+#: admin/main.php:199
+msgid "Post Excerpts on Home Page"
+msgstr "Краткое содержание записей на главной страничке"
+
+#: admin/main.php:200
+msgid "Affect Sticky Posts"
+msgstr "Действие связанных записей"
+
+#: admin/main.php:201
+msgid "Post Excerpts on Archive and Category Pages"
+msgstr "Краткое содержание записей на страницах архива и рубрик"
+
+#: admin/main.php:202
+msgid "Number of Words for Post Excerpts "
+msgstr "Количество слов для формирования краткого содержания"
+
+#: admin/main.php:203
+msgid "Magazine Layout"
+msgstr "Журнальный вид"
+
+#: admin/main.php:204
+msgid "Excerpt suffix"
+msgstr "Приписка к краткому содержанию"
+
+#: admin/main.php:205
+msgid "Continue reading link text "
+msgstr "Текст ссылки \"Продолжить чтение\""
+
+#: admin/main.php:206
+msgid "HTML tags in Excerpts"
+msgstr "HTML метки в кратком содержании"
+
+#: admin/main.php:208
+msgid "Featured Images as POST Thumbnails "
+msgstr "Миниатюра в качестве иконки к записи"
+
+#: admin/main.php:209
+msgid "Auto Select Images From Posts "
+msgstr "Автовыбор изображений из записей"
+
+#: admin/main.php:210
+msgid "Thumbnails Alignment "
+msgstr "Выравнивание иконок"
+
+#: admin/main.php:211
+msgid "Thumbnails Size "
+msgstr "Размер иконок"
+
+#: admin/main.php:212
+msgid "Featured Images as HEADER Images "
+msgstr "Миниатюра в качестве заглавной картинки"
+
+#: admin/main.php:214
+msgid "Link nr. 1"
+msgstr "Ссылка 1"
+
+#: admin/main.php:215
+msgid "Link nr. 2"
+msgstr "Ссылка 2"
+
+#: admin/main.php:216
+msgid "Link nr. 3"
+msgstr "Ссылка 3"
+
+#: admin/main.php:217
+msgid "Link nr. 4"
+msgstr "Ссылка 4"
+
+#: admin/main.php:218
+msgid "Link nr. 5"
+msgstr "Ссылка 5"
+
+#: admin/main.php:219
+msgid "Socials display"
+msgstr "Отображение социальных сетей"
+
+#: admin/main.php:221
+msgid "SEO Settings"
+msgstr "Настройки раскрутки"
+
+#: admin/main.php:222
+msgid "Custom Footer Text"
+msgstr "Произвольный текст нижнего колонтитула"
+
+#: admin/main.php:223
+msgid "Custom CSS"
+msgstr "Свой CSS"
+
+#: admin/main.php:224
+msgid "Custom JavaScript"
+msgstr "Свой JavaScript"
+
+#: admin/main.php:241
+msgid "Sorry, but you do not have sufficient permissions to access this page."
+msgstr "Извините, но у Вас недостаточно прав доступа к этой странице"
+
+#: admin/main.php:262
+msgid "Mantra settings updated successfully."
+msgstr "Настройки темы успешно обновлены"
+
+#: admin/main.php:274
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: admin/main.php:275
+msgid "Reset to Defaults"
+msgstr "Сбросить настройки"
+
+#: admin/main.php:307
+msgid "Import/Export Settings"
+msgstr "Настройки импорта/экспорта"
+
+#: admin/main.php:313
+msgid "Export Theme options"
+msgstr "Экспорт настроек темы"
+
+#: admin/main.php:314
+msgid ""
+"It's that easy: a mouse click away - the ability to export your Mantra "
+"settings and save them on your computer. Feeling safer? You should!"
+msgstr ""
+"Всё очень просто. Щелчок мыши отделяет Вас от возможности экспортировать "
+"настройки вашей Мантры и сохранить их на компьютере. Вздохнули свободней? "
+"Так и должно быть!"
+
+#: admin/main.php:319
+msgid "Import Theme options"
+msgstr "Импорт настроек темы"
+
+#: admin/main.php:320
+msgid ""
+" Without the import, the export would just be a fool's exercise. Make sure "
+"you have the exported file ready and see you after the mouse click."
+msgstr ""
+" Без импорта экспорт бесполезен. Убедитесь, что Ваш экспортированный файл "
+"готов и продолжите щёлкнув мышкой."
+
+#: admin/main.php:328
+msgid "Mantra Latest News"
+msgstr "Последние новости Мантра"
+
+#: admin/main.php:339
+msgid "No news items."
+msgstr "Новости отсутствуют."
+
+#: admin/main.php:343
+msgid "Posted on"
+msgstr "Опубликовано"
+
+#: admin/settings.php:66
+msgid "One column (no sidebars)"
+msgstr "Одна колонка (без бокового меню)"
+
+#: admin/settings.php:67
+msgid "Two columns,  sidebar on the right"
+msgstr "Две колонки, боковое меню справа"
+
+#: admin/settings.php:68
+msgid "Two columns,  sidebar on the left"
+msgstr "Две колонки, боковое меню слева"
+
+#: admin/settings.php:69
+msgid "Three columns, sidebars on the right"
+msgstr "Три колонки, боковое меню справа"
+
+#: admin/settings.php:70
+msgid "Three columns, sidebars on the left"
+msgstr "Три колонки, боковое меню слева"
+
+#: admin/settings.php:71
+msgid "Three columns, one sidebar on each side"
+msgstr "Три колонки, боковое меню с каждой стороны (и справа, и слева)"
+
+#: admin/settings.php:86
+msgid ""
+"Choose your layout. Possible options are: <br> No sidebar, a single sidebar "
+"on either left of right, two sidebars on either left or\n"
+"\t\tright and two sidebars on each side."
+msgstr "Выберите свою схему расположения. Возможные варианты: <br> Без "
+
+#: admin/settings.php:95
+msgid "Absolute"
+msgstr "Абсолютная"
+
+#: admin/settings.php:95
+msgid "Relative *DEPRECATED"
+msgstr "Относительная *УСТАРЕВШАЯ"
+
+#: admin/settings.php:96
+msgid "Dimensions to use: "
+msgstr "Используемый размер:"
+
+#: admin/settings.php:178 admin/settings.php:198
+msgid "Content ="
+msgstr "Содержимое ="
+
+#: admin/settings.php:179 admin/settings.php:199
+msgid "Sidebar(s) ="
+msgstr "Боковая меню ="
+
+#: admin/settings.php:180 admin/settings.php:200
+msgid "Total width ="
+msgstr "Общая ширина ="
+
+#: admin/settings.php:189
+msgid ""
+"Select the width of your <b>content</b> and <b>sidebar(s)</b>.\n"
+" \t\tWhile the content cannot be less than 500px wide, the sidebar area is "
+"at least 220px and no more than 800px.<br />\n"
+"\tIf you went for a 3 column area ( with 2 sidebars) they will each have "
+"half the selected width."
+msgstr ""
+"Выберите ширину <b>основного содержимого</b> и <b>бокового меню</b>. \n"
+" \t\tШирина основного содержимого не может быть меньше 500px. Боковое меню "
+"от 220px до 800px.<br />\n"
+"\tПри использовании трёхкомпонентной схемы расположения (с двумя боковыми "
+"колонками), каждая из них будет шириной в половину выбранного значения."
+
+#: admin/settings.php:209
+msgid ""
+"Select the width of your <b>content</b> and <b>sidebar(s)</b>.\n"
+" \t\tThese are realtive dimmensions - relative to the user's browser. The "
+"total width is a percentage of the browser's width.<br />\n"
+"\t While the content cannot be less than 40% wide, the sidebar area is at "
+"least 20% and no more than 50%.<br />\n"
+"\tIf you went for a 3 column area ( with 2 sidebars) they will each have "
+"half the selected width."
+msgstr ""
+"Выберите ширину <b>основного содержимого</b> и <b>бокового меню</b>. \n"
+" \t\tЭто относительные величины, зависящие от ширины браузера пользователя. "
+"Общая ширина это заданный процент от ширины пользовательского браузера.<br /"
+">\n"
+"\t Ширина общего содержимого (контента) не должна быть меньше 40%, область "
+"бокового меню от 20% до 50%.<br />\n"
+"\tПри использовании трёхкомпонентной схемы расположения (с двумя боковыми "
+"колонками), каждая из них будет шириной в половину выбранного значения."
+
+#: admin/settings.php:223 admin/settings.php:246 admin/settings.php:715
+#: admin/settings.php:1078 admin/settings.php:1140 admin/settings.php:1328
+#: admin/settings.php:1343 admin/settings.php:1500 admin/settings.php:1562
+#: admin/settings.php:1763 admin/settings.php:1792 admin/settings.php:1815
+#: admin/settings.php:1838 admin/settings.php:1887 admin/settings.php:2023
+msgid "Enable"
+msgstr "Включить"
+
+#: admin/settings.php:223 admin/settings.php:246 admin/settings.php:715
+#: admin/settings.php:1078 admin/settings.php:1140 admin/settings.php:1328
+#: admin/settings.php:1343 admin/settings.php:1500 admin/settings.php:1562
+#: admin/settings.php:1763 admin/settings.php:1792 admin/settings.php:1815
+#: admin/settings.php:1838 admin/settings.php:1887 admin/settings.php:2023
+msgid "Disable"
+msgstr "Выключить"
+
+#: admin/settings.php:232
+msgid ""
+"Enable to make Mantra fully responsive. The layout and general sizes of your "
+"blog will adjust depending on what device and what resolution it is viewed "
+"in.<br> Do not disable unless you have a good reason to."
+msgstr ""
+"Включите автоподстройку, чтобы сделать Мантру наиболее гибкой. Схема "
+"расположения и основные размеры вашего сайта будут подстраиваться под то "
+"устройство, на котором его просматривают (в зависимости от размера экрана и "
+"его разрешения). <br> Не выключайте этот режим, если у вас нет на то веских "
+"оснований"
+
+#: admin/settings.php:254
+msgid ""
+"Enable the presentation front-page. This will become your new home page. It "
+"has a slider and columns for presentation\n"
+"\t\ttext and images.<br>If you have this enabled but don't see a "
+"Presentation page then go to <a href='options-reading.php'> Settings &raquo; "
+"Reading </a> and make sure you have selected <strong>Front Page Displays</"
+"strong> as <Strong>Your Latest Posts</strong>."
+msgstr ""
+"Активация странички презентаций. У вас появится новая домашняя страничка, на "
+"которой будут представлены слайдеры и колонки для эффектного представления\n"
+"\t\tтекста и изображений.<br>Если у вас включена эта опция, но Вы не видете "
+"странички презентаций, откройте <a href='options-reading.php'> Параметры "
+"&raquo; Чтение </a> и убедитесь в том, что <strong>На главной странице "
+"отображать</strong> у вас выбрано <Strong>Ваши последние записи</strong>."
+
+#: admin/settings.php:264
+msgid "Slider Dimensions:"
+msgstr "Размер слайдера:"
+
+#: admin/settings.php:265
+msgid "width"
+msgstr "ширина"
+
+#: admin/settings.php:266
+msgid "height"
+msgstr "высота"
+
+#: admin/settings.php:267
+msgid ""
+"The dimensions of your slider. Make sure your images are of the same size."
+msgstr ""
+"Размеры Вашего слайдера. Убедитесь в том, что используемые изображения имеют "
+"идентичный размер."
+
+#: admin/settings.php:269
+msgid "Animation:"
+msgstr "Анимация:"
+
+#: admin/settings.php:271
+msgid "Random"
+msgstr "Случайно"
+
+#: admin/settings.php:271
+msgid "Fold"
+msgstr "Эффект сгибания"
+
+#: admin/settings.php:271
+msgid "Fade"
+msgstr "Эффект затемнения"
+
+#: admin/settings.php:271
+msgid "SlideInRight"
+msgstr "Скольжение направо"
+
+#: admin/settings.php:271
+msgid "SlideInLeft"
+msgstr "Скольжение налево"
+
+#: admin/settings.php:271
+msgid "SliceDown"
+msgstr "Срезание вниз"
+
+#: admin/settings.php:271
+msgid "SliceDownLeft"
+msgstr "Срезание вниз и налево"
+
+#: admin/settings.php:271
+msgid "SliceUp"
+msgstr "Срезание вверх"
+
+#: admin/settings.php:271
+msgid "SliceUpLeft"
+msgstr "Срезание вверх и направо"
+
+#: admin/settings.php:271
+msgid "SliceUpDown"
+msgstr "Срезание сверху вниз"
+
+#: admin/settings.php:271
+msgid "SliceUpDownLeft"
+msgstr "Срезание сверху вниз и налево"
+
+#: admin/settings.php:271
+msgid "BoxRandom"
+msgstr "BoxRandom"
+
+#: admin/settings.php:271
+msgid "BoxRain"
+msgstr "BoxRain"
+
+#: admin/settings.php:271
+msgid "BoxRainReverse"
+msgstr "BoxRainReverse"
+
+#: admin/settings.php:271
+msgid "BoxRainGrow"
+msgstr "BoxRainGrow"
+
+#: admin/settings.php:271
+msgid "BoxRainGrowReverse"
+msgstr "BoxRainGrowReverse"
+
+#: admin/settings.php:279
+msgid "The transition effect your slider will have."
+msgstr "Эффект перехода, используемый в Вашем слайдере."
+
+#: admin/settings.php:281
+msgid "Border Settings:"
+msgstr "Настройки рамки:"
+
+#: admin/settings.php:282
+msgid "Width"
+msgstr "Ширина"
+
+#: admin/settings.php:283
+msgid "Color"
+msgstr "Цвет"
+
+#: admin/settings.php:285
+msgid "The width and color of the slider's border."
+msgstr "Ширина и цвет рамки слайдера."
+
+#: admin/settings.php:287
+msgid "Animation Time:"
+msgstr "Время анимации:"
+
+#: admin/settings.php:288 admin/settings.php:292
+msgid "milliseconds"
+msgstr "миллисекунды"
+
+#: admin/settings.php:289
+msgid "The time in which the transition animation will take place."
+msgstr "Время действия анимации перехода."
+
+#: admin/settings.php:291
+msgid "Pause Time:"
+msgstr "Время паузы:"
+
+#: admin/settings.php:293
+msgid "The time in which a slide will be still and visible."
+msgstr "Время, в которое слайдер будет неподвижным и видимым."
+
+#: admin/settings.php:296
+msgid "Slider navigation:"
+msgstr "Навигация по слайдам:"
+
+#: admin/settings.php:298
+msgid "Numbers"
+msgstr "Номера"
+
+#: admin/settings.php:298
+msgid "Bullets"
+msgstr "Маркеры"
+
+#: admin/settings.php:298 admin/settings.php:1421
+msgid "None"
+msgstr "-"
+
+#: admin/settings.php:306
+msgid "Your slider navigation type. Shown under the slider."
+msgstr ""
+"Тип навигации по Вашиму слайдам. Демонстрируется под ними (или номера, или "
+"кружки маркеров)"
+
+#: admin/settings.php:308
+msgid "Slider arrows:"
+msgstr "Стрелки сладов:"
+
+#: admin/settings.php:310
+msgid "Always Visible"
+msgstr "Видимые постоянно"
+
+#: admin/settings.php:310
+msgid "Visible on Hover"
+msgstr "Видимые при наведении курсора"
+
+#: admin/settings.php:310
+msgid "Hidden"
+msgstr "Скрытые"
+
+#: admin/settings.php:318
+msgid "The Left and Right arrows on your slider"
+msgstr "Левая и правая стрелки на Ваших слайдах"
+
+#: admin/settings.php:359 admin/settings.php:428
+msgid "Select Category"
+msgstr "Выберите рубрику"
+
+#: admin/settings.php:386
+msgid "Custom Slides"
+msgstr "Собственные слайды"
+
+#: admin/settings.php:386
+msgid "Latest Posts"
+msgstr "Последние записи"
+
+#: admin/settings.php:386
+msgid "Random Posts"
+msgstr "Случайные записи"
+
+#: admin/settings.php:386
+msgid "Sticky Posts"
+msgstr "Связанные записи"
+
+#: admin/settings.php:386
+msgid "Latest Posts from Category"
+msgstr "Последние записи из рубрики"
+
+#: admin/settings.php:386
+msgid "Random Posts from Category"
+msgstr "Случайные записи из рубрики"
+
+#: admin/settings.php:386
+msgid "Specific Posts"
+msgstr "Выбранные записи"
+
+#: admin/settings.php:395
+msgid ""
+"Your slides' content. Only the image is required, all other fields are "
+"optional. Only the slides with an image selected will become acitve and "
+"visible in the live slider."
+msgstr ""
+"Содержимое Вашего слайда. Изображение обязательно, остальные поля "
+"опциональны. Только слайды с картинками будут активны и начнут отображаться "
+"в слайдере сайта."
+
+#: admin/settings.php:400
+msgid "Latest posts will be loaded into the slider."
+msgstr "Последние записи будут загружены в слайдер."
+
+#: admin/settings.php:404
+msgid "Random  posts will be loaded into the slider."
+msgstr "Случайные записи будут загружены в слайдер."
+
+#: admin/settings.php:408
+msgid "Latest posts from the category you choose will be loaded in the slider."
+msgstr "Последние записи из выбранной рубрики будут загружены в слайдер."
+
+#: admin/settings.php:413
+msgid ""
+"Random posts from the category you choose will be loaded into the slider."
+msgstr "Случайные записи из выбранной рубрики будут загружены в слайдер."
+
+#: admin/settings.php:417
+msgid "Only sticky posts will be loaded into the slider."
+msgstr "Только связанные записи будут загружены в слайдер."
+
+#: admin/settings.php:421
+msgid "List the post IDs you want to display (separated by a comma): "
+msgstr ""
+"Перечислите ID записей, которые Вы хотели бы отобразить в слайдере "
+"(отделяются запятой):"
+
+#: admin/settings.php:426
+msgid "<br> Choose the cateogry: "
+msgstr "<br> Выберите рубрику: "
+
+#: admin/settings.php:443
+msgid "Number of posts to show:"
+msgstr "Количество отображаемых записей:"
+
+#: admin/settings.php:450
+msgid "Slide 1"
+msgstr "Слайд первый"
+
+#: admin/settings.php:454 admin/settings.php:469 admin/settings.php:484
+#: admin/settings.php:499 admin/settings.php:514 admin/settings.php:556
+#: admin/settings.php:571 admin/settings.php:586 admin/settings.php:601
+#: admin/settings.php:750 admin/settings.php:773
+msgid "Select / Upload Image"
+msgstr "Выберите / Загрузите изображение"
+
+#: admin/settings.php:455 admin/settings.php:470 admin/settings.php:485
+#: admin/settings.php:500 admin/settings.php:515 admin/settings.php:557
+#: admin/settings.php:572 admin/settings.php:602
+msgid "Title"
+msgstr "Название"
+
+#: admin/settings.php:457 admin/settings.php:472 admin/settings.php:487
+#: admin/settings.php:502 admin/settings.php:517 admin/settings.php:559
+#: admin/settings.php:574 admin/settings.php:589 admin/settings.php:604
+msgid "Text"
+msgstr "Текст"
+
+#: admin/settings.php:465
+msgid "Slide 2"
+msgstr "Слайд второй"
+
+#: admin/settings.php:480
+msgid "Slide 3"
+msgstr "Слайд третий"
+
+#: admin/settings.php:495
+msgid "Slide 4"
+msgstr "Слайд четвёртый"
+
+#: admin/settings.php:510
+msgid "Slide 5"
+msgstr "Слайд пятый"
+
+#: admin/settings.php:532
+msgid "Number of columns:"
+msgstr "Количество колонок:"
+
+#: admin/settings.php:542
+msgid "Image Height:"
+msgstr "Высота изображения:"
+
+#: admin/settings.php:545
+msgid "Read more text:"
+msgstr "Больше текста:"
+
+#: admin/settings.php:548
+msgid ""
+"The linked text that appears at the bottom of all the columns. You can "
+"delete all text inside if you don't want it."
+msgstr ""
+"Связанный текст, отображаемый под колонкой. Опционален. Можно удалить, если "
+"не желаете его видеть."
+
+#: admin/settings.php:552
+msgid "1st Column"
+msgstr "Первая колонка"
+
+#: admin/settings.php:567
+msgid "2nd Column"
+msgstr "Вторая колонка"
+
+#: admin/settings.php:582
+msgid "3rd Column"
+msgstr "Третья колонка"
+
+#: admin/settings.php:597
+msgid "4th Column"
+msgstr "Четвёртая колонка"
+
+#: admin/settings.php:619
+msgid "Extra Text"
+msgstr "Дополнительный текст"
+
+#: admin/settings.php:621
+msgid ""
+"More text for your front page. The top title is above the slider, the second "
+"title between the slider and the columns and 2 more rows of text under the "
+"columns.\n"
+"\t\t It's all optional so leave any input field empty if it's not required. "
+msgstr ""
+"Верхний заголовок расположен над слайдером, второй между слайдером, колонкой "
+"и двумя строками текста под колонками.\n"
+"\t\t Оставьте поля пустыми, если не нуждаетесь в дополнительном тексте."
+
+#: admin/settings.php:624
+msgid "Top Title"
+msgstr "Верхний заголовок"
+
+#: admin/settings.php:625
+msgid "Second Title"
+msgstr "Второй заголовок"
+
+#: admin/settings.php:628
+msgid "Title color"
+msgstr "Цвет заголовка"
+
+#: admin/settings.php:632
+msgid "Bottom Text 1"
+msgstr "Нижний текст 1"
+
+#: admin/settings.php:634
+msgid "Bottom Text 2"
+msgstr "Нижний текст 2"
+
+#: admin/settings.php:642
+msgid "Hide areas"
+msgstr "Скрыть области"
+
+#: admin/settings.php:644
+msgid "Choose the areas to hide on the first page."
+msgstr "Выбрать области для скрытия на первой страничке"
+
+#: admin/settings.php:656
+msgid "Hide the header area (image or background color)."
+msgstr "Скрыть область заголовка (изображение и фоновый цвет)"
+
+#: admin/settings.php:660
+msgid "Hide the main menu (the top navigation tabs)."
+msgstr "Скрыть основное меню (верхние вкладки навигации)"
+
+#: admin/settings.php:664
+msgid "Hide the footer widgets. "
+msgstr "Скрыть виджеты нижнего колонтитула (footer)."
+
+#: admin/settings.php:668
+msgid "Hide the footer (copyright area)."
+msgstr "Скрыть нижний колонтитул (footer), область копирайтов."
+
+#: admin/settings.php:672
+msgid "Hide the white color. Only the background color remains."
+msgstr "Скрыть белый цвет. Останется только фоновый цвет."
+
+#: admin/settings.php:692
+msgid ""
+"Select the header's height. After saving the settings make sure you reupload "
+"a new header image (if you're using one). The header's width will be = "
+msgstr ""
+"Укажите высоту заголовка. После сохранения загрузите изображение вашего "
+"нового заголовка (если вы используете его). Ширина заголовка составляет = "
+
+#: admin/settings.php:699
+msgid "Define header image"
+msgstr "Укажите изображение заголовка"
+
+#: admin/settings.php:700
+msgid ""
+"The header image should not be used to display logos.<br> Enable ratio "
+"preservation to force the header image aspect ratio. Keep in mind that short "
+"images will become very small on mobile devices."
+msgstr ""
+"Изображение заголовка не следует использовать в качестве логотипа. <br> "
+"Включите сохранение соотношений для принудительного сохранения текущих "
+"соотношений изображения заголовка. Помните, что короткие изображения станут "
+"очень мелкими на мобильных устройствах."
+
+#: admin/settings.php:723
+msgid "Enable or disable the round corners for the main menu items."
+msgstr ""
+"Активация или деактивация закруглённых углов для элементов основного меню"
+
+#: admin/settings.php:731
+msgid "Site Title and Description"
+msgstr "Название и описание сайта"
+
+#: admin/settings.php:731
+msgid "Custom Logo"
+msgstr "Свой логотип"
+
+#: admin/settings.php:731
+msgid "Clickable header image"
+msgstr ""
+"Использовать изображение заголовка в качестве ссылки на главную страничку"
+
+#: admin/settings.php:731
+msgid "Empty"
+msgstr "Пустой"
+
+#: admin/settings.php:739
+msgid "Choose what to display inside your header area."
+msgstr "Выберите, что следует отображать внутри области заголовка"
+
+#: admin/settings.php:749
+msgid ""
+"Custom Logo upload. The logo will appear over the heder image if you have "
+"used one."
+msgstr ""
+"Загрузка своего логотипа. Логотип будет отображаться над изображением "
+"заголовка"
+
+#: admin/settings.php:758
+msgid "top"
+msgstr "Сверху"
+
+#: admin/settings.php:759
+msgid "left"
+msgstr "Слева"
+
+#: admin/settings.php:762
+msgid ""
+"Select the top spacing for the header. Use it to better position your site "
+"title and description or custom logo inside the header. "
+msgstr ""
+"Укажите отступ сверху для заголовка. Используйте эту функцию для определения "
+"наилучшего местоположения названия сайта и его описания или своего логотипа "
+"внутри заголовка"
+
+#: admin/settings.php:772
+msgid ""
+"Limitations: It has to be an image. It should be max 64x64 pixels in "
+"dimensions. Recommended file extensions .ico and .png. <br/><b>Note that "
+"some browsers do not display the changed favicon instantly.</b>"
+msgstr ""
+"Ограничение: необходимо использовать изображение, имеющее максимальный "
+"размер 64x64 в пикселях. Рекомендуемые расширения .ico и .png. <br/><b> "
+"Некоторые браузеры не отображают изменённую фав-иконку, помните об этом. </b>"
+
+#: admin/settings.php:795
+msgid ""
+"Select the font size you'll use in your blog. Pages, posts and comments will "
+"be affected. Buttons, Headers and Side menus will remain the same."
+msgstr ""
+"Выберите размер шрифта, используемый Вами в блоге. Отразится на страничках, "
+"записях и комментариях. Кнопки, заголовки и боковые меню останутся без "
+"изменений."
+
+#: admin/settings.php:839
+msgid ""
+"Select the font family you'll use in your blog. All content text will be "
+"affected (including menu buttons). "
+msgstr ""
+"Выберите семейство шрифтов, используемых в блоге. Отразится на всех текстах "
+"сайта (включая кнопки меню)."
+
+#: admin/settings.php:841 admin/settings.php:891 admin/settings.php:942
+#: admin/settings.php:994
+msgid ""
+"Or insert your Google Font below. Please only isert the <strong>name</"
+"strong> of the font.<br /> Ex: Marko One. Go to <a href='http://www.google."
+"com/webfonts' > google fonts </a> for some font inspiration."
+msgstr ""
+"Или вставьте ниже выбранный Вами Google шрифт. Пожалуйста, используйте "
+"только <strong>название</strong> шрифта.<br /> Например: Marko One. "
+"Посмотрите на<a href='http://www.google.com/webfonts' >шрифты Google</a> для "
+"вдохновения."
+
+#: admin/settings.php:888
+msgid ""
+"Select the font family you want for your titles. It will affect post titles "
+"and page titles. Leave 'Default' and the general font you selected will be "
+"used."
+msgstr ""
+"Выберите семейство шрифтов для названий Ваших записей. Отразится на "
+"заголовках записей и названии страниц. Оставьте 'По умолчанию' и будет "
+"использован выбранный Вами основной шрифт."
+
+#: admin/settings.php:940
+msgid ""
+"Select the font family you want your sidebar(s) to have. Text in sidebars "
+"will be affected, including any widgets. Leave 'Default' and the general "
+"font you selected will be used."
+msgstr ""
+"Выберите семейство шрифтов для бокового меню Вашего блога. Отразится на "
+"текстах боковых колонок, включая виджеты. Оставьте 'По умолчанию' и будет "
+"использован выбранный Вами основной шрифт."
+
+#: admin/settings.php:991
+msgid ""
+"Select the font family you want your headings to have (h1 - h6 tags will be "
+"affected). Leave 'Default' and the general font you selected will be used."
+msgstr ""
+"Выберите семейство шрифтов для использования в подзаголовках Ваших записей. "
+"Отразится на заголовках h1 - h6. Оставьте 'По умолчанию' и будет использован "
+"выбранный вами основной шрифт."
+
+#: admin/settings.php:1003 admin/settings.php:1018 admin/settings.php:1033
+#: admin/settings.php:1093 admin/settings.php:1108 admin/settings.php:1123
+msgid "Default"
+msgstr "По умолчанию"
+
+#: admin/settings.php:1011
+msgid ""
+"Post Header Font size. Leave 'Default' for normal settings (size value will "
+"be as set in the CSS)."
+msgstr ""
+"Размер шрифта заголовка записи. Оставьте 'По умолчанию' для нормальных "
+"настроек, размер будет определён в таблице стилей CSS."
+
+#: admin/settings.php:1026
+msgid ""
+"Sidebar Font size. Leave 'Default' for normal settings (size value will be "
+"as set in the CSS)."
+msgstr ""
+"Размер шрифта в боковом меню. Оставьте 'По умолчанию' для нормальных "
+"настроек, размер будет определён в таблице стилей CSS."
+
+#: admin/settings.php:1033 admin/settings.php:1854
+msgid "Left"
+msgstr "По левому краю"
+
+#: admin/settings.php:1033 admin/settings.php:1854
+msgid "Right"
+msgstr "По правому краю"
+
+#: admin/settings.php:1033
+msgid "Justify"
+msgstr "Заполнить"
+
+#: admin/settings.php:1033 admin/settings.php:1854
+msgid "Center"
+msgstr "По центру"
+
+#: admin/settings.php:1041
+msgid ""
+"This overwrites the text alignment in posts and pages. Leave 'Default' for "
+"normal settings (alignment will remain as declared in posts, comments etc.)."
+msgstr ""
+"Эта опция изменяет выравнивание текста в записях и на страничках. Оставьте "
+"'По умолчанию' для нормальных настроек, выравнивание будет использовано в "
+"соответствии с настройкам записей, комментариев и пр."
+
+#: admin/settings.php:1055
+msgid "Choose the spacing between paragraphs."
+msgstr "Выберите межстрочный интервал между параграфами."
+
+#: admin/settings.php:1070
+msgid "Choose the indent for your paragraphs."
+msgstr "Выберите отступ параграфа."
+
+#: admin/settings.php:1086
+msgid "Disable the default header and title indent (left margin)."
+msgstr "Отключить стандартный отступ в заголовке и названиях (left margin)."
+
+#: admin/settings.php:1101
+msgid ""
+"Text line height. The height between 2 rows of text. Leave 'Default' for "
+"normal settings (size value will be as set in the CSS)."
+msgstr ""
+"Межстрочный интервал. Оставьте 'По умолчанию' для нормальных настроек, "
+"значение будет определено в таблице стилей CSS."
+
+#: admin/settings.php:1116
+msgid ""
+"The space between <i>words</i>. Leave 'Default' for normal settings (size "
+"value will be as set in the CSS)."
+msgstr ""
+"Расстояние между двумя <i>словами</i>. Оставьте 'По умолчанию' для "
+"нормальных настроек, значение будет определено в таблице стилей CSS."
+
+#: admin/settings.php:1131
+msgid ""
+"The space between <i>letters</i>. Leave 'Default' for normal settings (size "
+"value will be as set in the CSS)."
+msgstr ""
+"Расстояние между двумя <i>буквами</i>. Оставьте 'По умолчанию' для "
+"нормальных настроек, значение будет определено в таблице стилей CSS."
+
+#: admin/settings.php:1148
+msgid "Disable the default text shadow on headers and titles."
+msgstr "Отключение стандартных теней в заголовке и названиях страниц."
+
+#: admin/settings.php:1156
+msgid "Define background image"
+msgstr "Определите фоновое изображение"
+
+#: admin/settings.php:1165
+msgid "Background color (Default value is 444444)."
+msgstr "Цвет фона (По умолчанию \"444444\")."
+
+#: admin/settings.php:1173
+msgid ""
+"Header background color (Default value is 333333). You can delete all inside "
+"text for no background color."
+msgstr ""
+"Цвет фона заголовка (По умолчанию \"333333\"). Вы можете удалить содержимое "
+"поля и цвет фона не будет задействован."
+
+#: admin/settings.php:1180
+msgid ""
+"Content background color (Default value is FFFFFF). Works best with really "
+"light colors."
+msgstr ""
+"Цвет фона основного содержимого (По умолчанию \"FFFFFF\"). Будет лучше с "
+"светлыми цветами."
+
+#: admin/settings.php:1187
+msgid ""
+"Main menu background color (Default value is FAFAFA). Should be the same "
+"color as the content bg or something just as light."
+msgstr ""
+"Цвет фона основного меню (По умолчанию \"FAFAFA\"). Желательно использовать "
+"цвет фона основного содержимого или что-то светлое."
+
+#: admin/settings.php:1194
+msgid ""
+"First sidebar background color (Default is no color for a transparent "
+"sidebar)."
+msgstr ""
+"Цвет фона первого бокового меню (По умолчанию цвет не указан для прозрачного "
+"бокового меню)."
+
+#: admin/settings.php:1201
+msgid ""
+"Second sidebar background color (Default is no color for a transparent "
+"sidebar)."
+msgstr ""
+"Цвет фона второго бокового меню (По умолчанию цвет не задан для прозрачного "
+"бокового меню)"
+
+#: admin/settings.php:1209
+msgid "Footer widget-area background color. (Default value is 171717)."
+msgstr ""
+"Цвет фона области виджетов нижнего колонтитула (footer). (По умолчанию "
+"\"171717\")."
+
+#: admin/settings.php:1217
+msgid "Footer background color (Default value is 222222)."
+msgstr "Цвет фона нижнего колонтитула (По умолчанию \"222222\")."
+
+#: admin/settings.php:1225
+msgid "Your blog's title color (Default value is 0D85CC)."
+msgstr "Цвет названия Вашего блога (По умолчанию \"0D85CC\")."
+
+#: admin/settings.php:1233
+msgid "Your blog's description color(Default value is 222222)."
+msgstr "Цвет описания Вашего блога (По умолчанию \"222222\")."
+
+#: admin/settings.php:1241
+msgid "Content Text Color (Default value is 333333)."
+msgstr "Цвет текста основного содержимого (По умолчанию \"333333\")."
+
+#: admin/settings.php:1249
+msgid "Links color (Default value is 0D85CC)."
+msgstr "Цвет ссылок (По умолчанию \"0D85CC\")."
+
+#: admin/settings.php:1257
+msgid "Links color on mouse over (Default value is 333333)."
+msgstr "Цвет ссылок при наведении курсора (По умолчанию \"333333\")."
+
+#: admin/settings.php:1265
+msgid "Post Header Text Color (Default value is 333333)."
+msgstr "Цвет заголовка записи (По умолчанию \"333333\")."
+
+#: admin/settings.php:1273
+msgid "Post Header Text Color on Mouse over (Default value is 000000)."
+msgstr "Цвет заголовка записи при наведении курсора (По умолчанию \"000000\")."
+
+#: admin/settings.php:1281
+msgid "Sidebar Header Background color (Default value is 444444)."
+msgstr "Цвет фона заголовка бокового меню (По умолчанию \"444444\")."
+
+#: admin/settings.php:1290
+msgid "Sidebar Header Text Color(Default value is 2EA5FD)."
+msgstr "Цвет заголовка бокового меню (По умолчанию \"2EA5FD\")."
+
+#: admin/settings.php:1298
+msgid "Footer Widget Text Color (Default value is 0D85CC)."
+msgstr "Цвет текста виджетов нижнего колонтитула (По умолчанию \"0D85CC\")."
+
+#: admin/settings.php:1306
+msgid "Footer Widget Link Color (Default value is 666666)."
+msgstr "Цвет ссылок виджетов нижнего колонтитула (По умолчанию \"666666\")."
+
+#: admin/settings.php:1314
+msgid "Footer Widget Link Color on Mouse Over (Default value is 888888)."
+msgstr ""
+"Цвет ссылок виджетов нижнего колонтитула при наведении курсора (По умолчанию "
+"\"888888\")."
+
+#: admin/settings.php:1336
+msgid ""
+"Show breadcrumbs at the top of the content area. Breadcrumbs are a form of "
+"navigation that keeps track of your location withtin the site."
+msgstr ""
+"Показывать строку пути вверху области контента. Строка пути - форма "
+"навигации, отображающая положение читателя в иерархии Вашего сайта."
+
+#: admin/settings.php:1351
+msgid ""
+"Show numbered pagination. Where there is more than one page, instead of the "
+"bottom <b>Older Posts</b> and <b>Newer posts</b> links you have a numbered "
+"pagination. "
+msgstr ""
+"Отображать номера страниц. Если Ваш блог содержит больше одной страницы в её "
+"низу появятся ссылки на <b>Ранние записи</b> и <b>Новые записи</b>."
+
+#: admin/settings.php:1358 admin/settings.php:1421
+msgid "White"
+msgstr "Белый"
+
+#: admin/settings.php:1358
+msgid "Light"
+msgstr "Светлый"
+
+#: admin/settings.php:1358
+msgid "Light Gray"
+msgstr "Светло-серый"
+
+#: admin/settings.php:1358 admin/settings.php:1421
+msgid "Gray"
+msgstr "Серый"
+
+#: admin/settings.php:1358
+msgid "Dark Gray"
+msgstr "Тёмно-серый"
+
+#: admin/settings.php:1358
+msgid "Black"
+msgstr "Чёрный"
+
+#: admin/settings.php:1366
+msgid ""
+"This setting changes the look of your captions. Images that are not inserted "
+"through captions will not be affected."
+msgstr ""
+"Эти настройки меняют внешний вид вставленных с рамкой изображений "
+"(стандартно при вставке картинок в публикации ВордПресс). "
+
+#: admin/settings.php:1382
+msgid "The border around your inserted images. "
+msgstr "Рамка вокруг вставленных изображений."
+
+#: admin/settings.php:1397
+msgid "The image on top of your captions. "
+msgstr "Изображений сверху Ваших вставленных картинок."
+
+#: admin/settings.php:1412
+msgid "The sidebar list bullets. "
+msgstr "Маркеры бокового меню."
+
+#: admin/settings.php:1429
+msgid ""
+"The background for your post-metas area (under your post tiltes). Gray by "
+"default."
+msgstr ""
+"Фон для мета-данных к вашим записям (под заголовком публикации: Автор, Дата "
+"и пр.). По умолчанию серый."
+
+#: admin/settings.php:1437 admin/settings.php:1453 admin/settings.php:1470
+#: admin/settings.php:1485 admin/settings.php:1515 admin/settings.php:1530
+#: admin/settings.php:1546 admin/settings.php:1582 admin/settings.php:1597
+#: admin/settings.php:1612 admin/settings.php:1627 admin/settings.php:1642
+#: admin/settings.php:1657 admin/settings.php:1672 admin/settings.php:1687
+msgid "Show"
+msgstr "Показать"
+
+#: admin/settings.php:1437 admin/settings.php:1453 admin/settings.php:1470
+#: admin/settings.php:1485 admin/settings.php:1515 admin/settings.php:1546
+#: admin/settings.php:1582 admin/settings.php:1597 admin/settings.php:1612
+#: admin/settings.php:1627 admin/settings.php:1642 admin/settings.php:1657
+#: admin/settings.php:1672 admin/settings.php:1687
+msgid "Hide"
+msgstr "Скрыть"
+
+#: admin/settings.php:1445
+msgid "Hide or show a horizontal rule to separate posts."
+msgstr "Показать или скрыть горизонтальную линию, разделяющую записи."
+
+#: admin/settings.php:1461
+msgid ""
+"Hide or show  bullets next to lists that are in your content area (posts, "
+"pages etc.)."
+msgstr ""
+"Показать или скрыть маркеры следующих в списке публикаций в области "
+"основного содержимого (записи, странички и пр.)."
+
+#: admin/settings.php:1478
+msgid "Hide or show Page titles on any <i>created</i> pages. "
+msgstr ""
+"Показать или скрыть название страниц на любой <i>созданной</i> страничке."
+
+#: admin/settings.php:1493
+msgid "Hide or show Page titles on <i>Category</i> Pages. "
+msgstr "Показать или скрыть название страниц на страничках <i>рубрик</i>."
+
+#: admin/settings.php:1508
+msgid "Hide table borders and background color."
+msgstr "Скрыть границы таблиц и цвет фона."
+
+#: admin/settings.php:1523
+msgid ""
+"Hide the explanatory text under the comments form. (starts with  <i>You may "
+"use these HTML tags and attributes:...</i>)."
+msgstr ""
+"Скрыть пояснительный текст под полем комментариев (обычно начинается с "
+"<i>You may use these HTML tags and attributes:...</i>)."
+
+#: admin/settings.php:1530
+msgid "Hide in posts"
+msgstr "Скрыть в записях"
+
+#: admin/settings.php:1530
+msgid "Hide in pages"
+msgstr "Скрыть в страницах"
+
+#: admin/settings.php:1530
+msgid "Hide everywhere"
+msgstr "Скрыть везде"
+
+#: admin/settings.php:1538
+msgid ""
+"Hide the  <b>Comments are closed</b> text that by default shows up on pages "
+"or posts with the comments disabled."
+msgstr ""
+"Скрыть текст <b>Comments are closed</b>, отображаемый по умолчанию на "
+"страничках с закрытыми комментариями."
+
+#: admin/settings.php:1554
+msgid ""
+"Hide the <b>Comments off</b> text next to posts that have comments disabled."
+msgstr ""
+"Скрыть текст <b>Comments off</b>, отображаемый по умолчанию на страничках с "
+"отключенными комментариями."
+
+#: admin/settings.php:1570
+msgid ""
+"Enable the Back to Top button. The button appears after scrolling the page "
+"down."
+msgstr ""
+"Активировать кнопку \"Вернуться наверх\". Кнопка появляется в правом нижнем "
+"углу при прокрутке странички вниз."
+
+#: admin/settings.php:1590
+msgid ""
+"Hide or show the <strong>Leave a comment</strong> or <strong>x Comments</"
+"strong> next to posts or post excerpts."
+msgstr ""
+"Скрыть или показать поле <strong>Оставить комментарий</strong> или <strong>x "
+"комментариев</strong> в кратком содержании или форме мета-данных записи."
+
+#: admin/settings.php:1605
+msgid "Hide or show the post date."
+msgstr "Скрыть или показать дату публикации."
+
+#: admin/settings.php:1620
+msgid ""
+"Show the post time with the date. Time will not be visible if the Post Date "
+"is hidden."
+msgstr ""
+"Показать время записи вместе с датой. Время не будет отображаться, если дата "
+"скрыта."
+
+#: admin/settings.php:1635
+msgid "Hide or show the post author."
+msgstr "Скрыть или показать автора записи."
+
+#: admin/settings.php:1650
+msgid "Hide the post category."
+msgstr "Скрыть рубрику записи."
+
+#: admin/settings.php:1665
+msgid "Hide the 'Bookmark permalink'."
+msgstr "Скрыть 'Bookmark permalink'."
+
+#: admin/settings.php:1680
+msgid "Hide the meta bar. All meta info in it will be hidden."
+msgstr "Скрыть все мета-данные записи. Область меток также будет скрыта."
+
+#: admin/settings.php:1695
+msgid "Hide the post tags."
+msgstr "Скрыть метки (теги) записи."
+
+#: admin/settings.php:1708 admin/settings.php:1723 admin/settings.php:1739
+msgid "Excerpt"
+msgstr "Краткое содержание"
+
+#: admin/settings.php:1708 admin/settings.php:1723 admin/settings.php:1739
+msgid "Full Post"
+msgstr "Полная запись"
+
+#: admin/settings.php:1716
+msgid ""
+"Excerpts on the main page. Only standard posts will be affected. All other "
+"post formats (aside, image, chat, quote etc.) have their specific formating."
+msgstr ""
+"Краткое содержание на главной страничке. Подпадают под действие только "
+"<strong>стандартные записи (posts)</strong>, другие форматы (такие как чат, "
+"изображение, заметка) сохранят своё форматирование."
+
+#: admin/settings.php:1731
+msgid ""
+"Choose if you want the sticky posts on your home page to be visible in full "
+"or just the excerpts. "
+msgstr ""
+"Выберите, хотите ли Вы отображения связанных записей на главной странице в "
+"полном виде или в виде краткого содержания."
+
+#: admin/settings.php:1747
+msgid ""
+"Excerpts on archive, categroy and search pages. Same as above, only standard "
+"posts will be affected."
+msgstr ""
+"Краткое содержание архива, рубрик и результатов поиска. Подпадают под "
+"действие только <strong>стандартные записи (posts)</strong>, другие форматы "
+"(такие как чат, изображение, заметка) сохранят своё форматирование."
+
+#: admin/settings.php:1755
+msgid ""
+"The number of words an excerpt will have. When that number is reached the "
+"post will be interrupted by a <i>Continue reading</i> link that\n"
+"\t\t\t\t\t\t\twill take the reader to the full post page."
+msgstr ""
+"Количество слов в кратком содержании. После достижения этого числа запись "
+"будет прервана ссылкой <i>\"Продолжить чтение\"</i>, которая\n"
+"\t\t\t\t\t\t\t отошлёт читателя к полной версии записи."
+
+#: admin/settings.php:1771
+msgid ""
+"Enable the Magazine Layout. This layout applies to pages with posts and "
+"shows 2 posts per row."
+msgstr ""
+"Активация журнальной схемы расположения. Эта схема влияет на странички с "
+"записями (posts) и демонстрирует две записи в строке."
+
+#: admin/settings.php:1778
+msgid ""
+"Replaces the three dots ('[...])' that are appended automatically to "
+"excerpts."
+msgstr ""
+"Заменять многоточие ('[...])', добавляемое к краткому содержанию "
+"автоматически."
+
+#: admin/settings.php:1785
+msgid "Edit the 'Continue Reading' link added to your post excerpts."
+msgstr ""
+"Редактировать ссылку \"Продолжить чтение\", добавляемую к краткому "
+"содержанию Ваших записей."
+
+#: admin/settings.php:1800
+msgid "By default WordPress excerpts remove all HTML tags ("
+msgstr ""
+"По умолчанию в кратком содержании в WordPress  удаляются все HTML-теги ("
+
+#: admin/settings.php:1831
+msgid ""
+"Show featured images as thumbnails on posts. The images must be selected for "
+"each post in the Featured Image section."
+msgstr ""
+"Показать миниатюры в качестве иконки к записи. Картинка должна быть отмечена "
+"в каждой записи в соответствующем поле  (Featured Image/Миниатюра)."
+
+#: admin/settings.php:1846
+msgid ""
+"Show the first image that you inserted in a post as a thumbnail. If you "
+"enable this option, the first image in your post will be used even if you "
+"selected a Featured Image in you post."
+msgstr ""
+"Показать первое изображение как иконку. Если включить эту опцию, первая "
+"картинка, <strong>прикреплённая</strong> к записи (необязательно "
+"опубликованная),  будет использована как миниатюра (Featured Image)."
+
+#: admin/settings.php:1862
+msgid "Thumbnail alignment."
+msgstr "Выравнивание иконок."
+
+#: admin/settings.php:1879
+msgid ""
+"The size you want the thumbnails to have (in pixels). By default imges will "
+"be scaled with aspect ratio kept. Choose to crop the images if you want the "
+"exact size."
+msgstr ""
+"Желаемый размер иконок (в пикселях) По умолчанию изображения сжимаются с "
+"сохранением соотношения сторон. Выберите усечение изображения, если хотите "
+"сохранить точный размер."
+
+#: admin/settings.php:1895
+msgid ""
+"Show featured images on headers. The header will be replaced with a featured "
+"image if you selected it as a Featured Image in the post and\n"
+"\t\t\t\t\t\t\tand if it is bigger or at least equal to the current header "
+"size."
+msgstr ""
+"Показывать миниатюры (Featured Images) в заголовках. Заголовок будет заменён "
+"характерным изображением, если Вы его укажете в записи и\n"
+"\t\t\t\t\t\t\t если оно больше или эквивалентно размеру заголовка."
+
+#: admin/settings.php:1911
+msgid ""
+"Select your desired Social network from the left dropdown menu and insert "
+"your corresponding address in the right input field. (ex: <i>http://www."
+"facebook.com/yourname</i> )"
+msgstr ""
+"Выберите социальные сети из левого меню и вставьте соотносимый адрес в поле "
+"ввода справа (пример: <i>http://www.facebook.com/yourname</i> )."
+
+#: admin/settings.php:1912
+msgid "You can insert up to 5 different social sites and addresses."
+msgstr "Вы можете вставить до пяти различных социальных сетей и ссылки на них."
+
+#: admin/settings.php:1913
+msgid "There are a total of 27 social networks to choose from. "
+msgstr "Выбрать можно из 27 социальных сетей."
+
+#: admin/settings.php:1914
+msgid "You can leave any number of inputs empty. "
+msgstr "Вы можете оставить незаполненными любое количество полей."
+
+#: admin/settings.php:1915
+msgid "You can choose the same social media any number of times.  "
+msgstr "Вы можете выбрать одну и ту же социальную сеть сколь угодно раз."
+
+#: admin/settings.php:1990
+msgid "Choose the <b>areas</b> where to display the social icons."
+msgstr "Выберите <b>области</b> показа иконок на социальные сети."
+
+#: admin/settings.php:2003
+msgid ""
+"Insert custom text or HTML code that will appear last in you footer. <br /> "
+"You can use HTML to insert links, images and special characters like &copy ."
+msgstr ""
+"Вставка произвольного текста или HTML-кода, отображаемого в конце нижнего "
+"колонтитула. <br /> Вы можете использовать HTML для вставки ссылок, "
+"изображений и специальных символов, например &copy ."
+
+#: admin/settings.php:2011
+msgid ""
+"Insert your custom CSS here. Any CSS declarations made here will overwrite "
+"Mantra's (even the custom options specified right here in the Mantra "
+"Settings page). <br> Your custom CSS will be preserved when updating the "
+"theme.<br> The &ltstyle&gt tags are not needed."
+msgstr ""
+"Вставьте вашу собственную таблицу стилей CSS здесь. Любые ваши изменения "
+"перепишут таковые в CSS Мантры. <br /> Ваша CSS будет сохранена при "
+"обновлении темы.<br> Теги &ltstyle&gt не требуются."
+
+#: admin/settings.php:2018
+msgid ""
+"Insert your custom Javascript code here. (Google Analytics and any other "
+"forms of Analytic software).<br> The &ltscript&gt tags are not needed."
+msgstr ""
+"Вставьте ваш собственный Javascript код здесь (Google Analytics и любые "
+"другие формы аналитики).<br> Теги &ltscript&gt не требуются."
+
+#: admin/settings.php:2031
+msgid ""
+"Enable Mantra's Search Engine Optimization. This is enabled by default and "
+"should only be disabled if you are using a SEO plugin."
+msgstr ""
+"Включение поисковой оптимизации Мантры. Эта опция включена по умолчанию и её "
+"следует отключить, если Вы используете SEO-плагин."
+
+#: admin/settings.php:2043
+msgid "Auto"
+msgstr "Автоматически"
+
+#: admin/settings.php:2043
+msgid "Manual"
+msgstr "Вручную"
+
+#: includes/theme-comments.php:28
+msgid "says:"
+msgstr "говорит:"
+
+#: includes/theme-comments.php:34
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: includes/theme-comments.php:41
+msgid "at"
+msgstr "в"
+
+#: includes/theme-comments.php:41 includes/theme-comments.php:58
+msgid "(Edit)"
+msgstr "Редактировать"
+
+#: includes/theme-comments.php:58
+msgid "Pingback: "
+msgstr "Пинг блога:"
+
+#: includes/theme-comments.php:85
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: includes/theme-comments.php:85
+msgid "<b>1</b> Comment"
+msgstr "<b>Один</b> комментарий"
+
+#: includes/theme-comments.php:85
+msgid "<b>%</b> Comments"
+msgstr "<b>%</b> комментариев"
+
+#: includes/theme-comments.php:107
+msgid "Older Comments"
+msgstr "Ранние комментарии"
+
+#: includes/theme-comments.php:108
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: includes/theme-functions.php:58
+msgid "Menu"
+msgstr "Меню"
+
+#: includes/theme-functions.php:271
+msgid "Home Page"
+msgstr "Домашняя страничка"
+
+#: includes/theme-functions.php:335
+msgid "Powered by"
+msgstr "При поддержке"
+
+#: includes/theme-loop.php:166
+msgid "By "
+msgstr "Автор"
+
+#: includes/theme-loop.php:206
+msgid " Bookmark the "
+msgstr " Закладка"
+
+#: includes/theme-loop.php:206 includes/theme-loop.php:208
+#: includes/theme-loop.php:210
+msgid "Permalink to"
+msgstr "Постоянная ссылка на"
+
+#: includes/theme-loop.php:206 includes/theme-loop.php:208
+#: includes/theme-loop.php:210
+msgid "permalink"
+msgstr "постоянная ссылка"
+
+#: includes/theme-loop.php:208 includes/theme-loop.php:210
+msgid "Bookmark the "
+msgstr "Закладка"
+
+#: includes/theme-loop.php:232
+msgid "<span class=\"meta-nav\">&laquo;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&laquo;</span> Ранние записи"
+
+#: includes/theme-loop.php:233
+msgid "Newer posts <span class=\"meta-nav\">&raquo;</span>"
+msgstr "Новые записи <span class=\"meta-nav\">&raquo;</span>"
+
+#: includes/theme-seo.php:26
+#, php-format
+msgid "Page %s"
+msgstr "Страничка %s"
+
+#: includes/theme-setup.php:90
+msgid "Primary Navigation"
+msgstr "Основная навигация"
+
+#: includes/theme-setup.php:91
+msgid "Top Navigation"
+msgstr "Верхняя навигация"
+
+#: includes/theme-setup.php:92
+msgid "Footer Navigation"
+msgstr "Нижняя навигация"
+
+#: includes/theme-setup.php:128
+msgid "mantra"
+msgstr "Мантра"
+
+#: includes/theme-setup.php:187
+msgid "Skip to content"
+msgstr "Перейти к"
+
+#: includes/theme-setup.php:214
+msgid "Primary Widget Area - Sidebar 1"
+msgstr "Область основных виджетов - Первое боковое меню"
+
+#: includes/theme-setup.php:216
+msgid "Primary widget area - Sidebar 1"
+msgstr "Область основных виджетов - Первое боковое меню"
+
+#: includes/theme-setup.php:225
+msgid "Secondary Widget Area - Sidebar 1"
+msgstr "Вторая область виджетов - Первое боковое меню"
+
+#: includes/theme-setup.php:227
+msgid "Secondary widget area - Sidebar 1"
+msgstr "Вторая область виджетов - Первое боковое меню"
+
+#: includes/theme-setup.php:236
+msgid "Third Widget Area - Sidebar 2"
+msgstr "Третья область виджетов - Второе боковое меню"
+
+#: includes/theme-setup.php:238
+msgid "Third widget area - Sidebar 2"
+msgstr "Третья область виджетов - Второе боковое меню"
+
+#: includes/theme-setup.php:247
+msgid "Fourth Widget Area - Sidebar 2"
+msgstr "Четвёртая область виджетов - Второе боковое меню"
+
+#: includes/theme-setup.php:249
+msgid "Fourth widget area  - Sidebar 2"
+msgstr "Четвёртая область виджетов - Второе боковое меню"
+
+#: includes/theme-setup.php:258
+msgid "First Footer Widget Area"
+msgstr "Область виджетов первого нижнего колонтитула"
+
+#: includes/theme-setup.php:260
+msgid "First footer widget area"
+msgstr "Область виджетов первого нижнего колонтитула"
+
+#: includes/theme-setup.php:269
+msgid "Second Footer Widget Area"
+msgstr "Область виджетов второго нижнего колонтитула"
+
+#: includes/theme-setup.php:271
+msgid "Second footer widget area"
+msgstr "Область виджетов второго нижнего колонтитула"
+
+#: includes/theme-setup.php:280
+msgid "Third Footer Widget Area"
+msgstr "Область виджетов третьего нижнего колонтитула"
+
+#: includes/theme-setup.php:282
+msgid "The third footer widget area"
+msgstr "Область виджетов третьего нижнего колонтитула"
+
+#: includes/theme-setup.php:291
+msgid "Fourth Footer Widget Area"
+msgstr "Область виджетов четвёртого нижнего колонтитула"
+
+#: includes/theme-setup.php:293
+msgid "The fourth footer widget area"
+msgstr "Область виджетов четвёртого нижнего колонтитула"
+
+#: includes/theme-setup.php:302 includes/theme-setup.php:304
+msgid "Above content Widget Area"
+msgstr "Сверху области виджетов"
+
+#: includes/theme-setup.php:313 includes/theme-setup.php:315
+msgid "Below Content Widget Area"
+msgstr "Снизу области виджетов"
+
+#~ msgid "All Post Metas"
+#~ msgstr "Мета-данные всех записей"
+
+#~ msgid "Mobile view"
+#~ msgstr "Версия для мобильных устройств"
+
+#~ msgid ""
+#~ "<p>Here at Cryout Creations (the developers of yours truly Mantra Theme), "
+#~ "we spend night after night improving the Mantra Theme. We fix a lot of "
+#~ "bugs (that we previously created); we add more and more customization "
+#~ "options while also trying to keep things as simple as possible; then... "
+#~ "we might play a game or two but rest assured that we return to read and "
+#~ "(in most cases) reply to your late night emails and comments, take notes "
+#~ "and draw dashboards of things to implement in future versions.</p>\n"
+#~ "\t\t\t<p>So you might ask yourselves: <i>How do they do it? How can they "
+#~ "keep so fresh after all that hard labor for that darned theme? </i> Well "
+#~ "folks, it's simple. We drink coffee. Industrial quantities of hot boiling "
+#~ "coffee. We love it! So if you want to help with the further development "
+#~ "of the Mantra Theme...</p> "
+#~ msgstr ""
+#~ "<p>Здесь, в Cryout Creations мы не спим ночами, неустанно улучшая Мантру. "
+#~ "Мы устраняем множество недоработок (предварительно нами созданных), "
+#~ "добавляем всё больше и больше возможностей тонкой настройки темы, "
+#~ "стараясь оставить всё так же просто... А потом мы читаем ваши письма, "
+#~ "комментарии, просьбы изменить или улучшить те или иные функции в будущем. "
+#~ "</p>\n"
+#~ "\t\t\t<p>Можете спросить себя: <i>Как они всё это делают? Как им удаётся "
+#~ "сохранить светлую голову после такой кропотливой работы? </i> Что ж, это "
+#~ "просто. Мы пьём кофе. Мы пьём горячий вкусный свежий кофе в промышленных "
+#~ "масштабах. Мы любим его! Так что если Вы хотите помочь нам с разработкой "
+#~ "будущих Мантр...</p> "
+
+#~ msgid "Mantra Help"
+#~ msgstr "Помощь в Мантре"
+
+#~ msgid ""
+#~ "\n"
+#~ "\t\t\t<ul>\n"
+#~ "\t\t\t\t<li>- Need any Mantra or WordPress help?</li>\n"
+#~ "\t\t\t\t<li>- Want to know what changes are made to the theme with each "
+#~ "new version?</li>\n"
+#~ "\t\t\t\t<li>- Found a bug or maybe something doesn't work exactly as "
+#~ "expected?</li>\n"
+#~ "\t\t\t\t<li>- Got an idea on how to improve the Mantra Theme to better "
+#~ "suit your needs?</li>\n"
+#~ "\t\t\t\t<li>- Want a setting implemented?</li>\n"
+#~ "\t\t\t\t<li>- Do you have or would you like to make a translation of the "
+#~ "Mantra Theme?</li>\n"
+#~ "\t\t\t</ul>\n"
+#~ "\t\t\t<p>Then come visit us at Mantra's support page.</p>\n"
+#~ "\t"
+#~ msgstr ""
+#~ "\n"
+#~ "\t\t\t<ul>\n"
+#~ "\t\t\t\t<li>- Нужна какая-либо помощь с Мантрой или WordPress?</li>\n"
+#~ "\t\t\t\t<li>- Хотели бы узнать о всех изменениях в теме с выпуском новой "
+#~ "версии?</li>\n"
+#~ "\t\t\t\t<li>- Нашли баг или что-то работает не так, как Вы ожидаете?</"
+#~ "li>\n"
+#~ "\t\t\t\t<li>- Есть идеи как улучшить Мантру для Ваших задач?</li>\n"
+#~ "\t\t\t\t<li>- Хотели бы доработать настройки?</li>\n"
+#~ "\t\t\t\t<li>- У Вас есть перевод Мантры или Вы хотели бы его сделать?</"
+#~ "li>\n"
+#~ "\t\t\t</ul>\n"
+#~ "\t\t\t<p>Что ж, на все вопросы Вы найдёте ответ на страничке поддержки "
+#~ "Мантры.</p>\n"
+#~ "\t"
+
+#~ msgid "Mantra Support Page"
+#~ msgstr "Страничка поддержки Мантры"
+
+#~ msgid "Choose your layout "
+#~ msgstr "Выберите схему расположения элементов"
+
+#~ msgid "Relative"
+#~ msgstr "Относительная"
+
+#~ msgid "milliseconds (1000ms = 1 second) "
+#~ msgstr "миллисекунды (1000мс = 1 секунда)"
+
+#~ msgid "Upload or select image from gallery"
+#~ msgstr "Загрузите изображение или выберите из галереи"
+
+#~ msgid "The titles' color (Default value is 333333)."
+#~ msgstr "Цвет заголовка (по умолчанию \"333333\")"
+
+#~ msgid ""
+#~ "Hide or show your blog's Title and Description in the header (recommended "
+#~ "if you have a custom header image with text)."
+#~ msgstr ""
+#~ "Показать или скрыть заголовок и описание Вашего блога в шапке сайта "
+#~ "(рекомендуется иметь своё изображение заголовка с своим текстом)."
+
+#~ msgid ""
+#~ "Make the site header into a clickable link that links to your index page."
+#~ msgstr ""
+#~ "Превратить заголовок Вашего сайта в кликабельную ссылку, отсылающую на "
+#~ "главную страничку."
+
+#~ msgid "Upload or select favicon from gallery"
+#~ msgstr ""
+#~ "Загрузить или выбрать загруженное раннее изображение в качестве иконки "
+#~ "(фавиконки) сайта."
+
+#~ msgid "Archives"
+#~ msgstr "Архив"
+
+#~ msgid "Insert footer copyright"
+#~ msgstr "Вставка копирайта в нижний колонтитул (footer)"
+
+#~ msgid ""
+#~ "Enable the presentation front-page. This will become your new home page "
+#~ "and it will replace whatever page you have selected as homepage. It has a "
+#~ "slider and columns for presentation\n"
+#~ "\t\ttext and images."
+#~ msgstr ""
+#~ "Активация начальной странички презентаций. У Вас появится новая домашняя "
+#~ "страничка и любая используемая до этого будет заменена указанной. "
+#~ "Страничка презентаций содержит слайдер и колонки для эффектной "
+#~ "демонстрации\n"
+#~ "\t\tтекста и изображений."

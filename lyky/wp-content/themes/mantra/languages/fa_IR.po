@@ -1,0 +1,1920 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mantra Wordpress Themes - Fa-IR\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-31 16:33+0330\n"
+"PO-Revision-Date: 2012-09-02 20:22+0330\n"
+"Last-Translator: Sajjad <sajjad.designing@gmail.com>\n"
+"Language-Team: Wp-Parsi <sajjad.designing@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;e_\n"
+"X-Poedit-Basepath: E:\\Localhost\\Blog\\wp-content\\themes\\mantra\n"
+"Plural-Forms: http://forum.wp-parsi.com/ , http://helical-graph.ir/\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: E:\\Localhost\\Blog\\wp-content\\themes\\mantra\n"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/404.php:17
+msgid "Not Found"
+msgstr "یافت نشد"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/404.php:19
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "خیلی متاسفیم ولی صفحه مورد نظر شما یافت نشد ! شاید با جستجو بتوانید به نتیجه برسید."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/archive.php:25
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "آرشیو روزانه %s"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/archive.php:27
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "آرشیو ماهانه %s"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/archive.php:29
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "آرشیو ماهانه %s"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/archive.php:31
+msgid "Blog Archives"
+msgstr "آرشیو سایت"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/archive.php:57
+#: E:\Localhost\Blog\wp-content\themes\mantra/author.php:74
+#: E:\Localhost\Blog\wp-content\themes\mantra/category.php:50
+msgid "Nothing Found"
+msgstr "بدون نتیجه"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/archive.php:61
+#: E:\Localhost\Blog\wp-content\themes\mantra/author.php:78
+#: E:\Localhost\Blog\wp-content\themes\mantra/category.php:54
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "خیلی متاسفیم ولی هیچ نتیجه ای برای آرشیو در خواست شده توسط شما یافت نشد. لطفا از طریق جستجو اقدام کنید تا بتوانید به نتیجه های مشابه دست پیدا کنید."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/attachment.php:18
+#, php-format
+msgid "Return to %s"
+msgstr "بازگشت به %s"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/attachment.php:29
+msgid "By"
+msgstr "توسط"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/attachment.php:40
+msgid "Published"
+msgstr "انتشار"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/attachment.php:50
+#, php-format
+msgid "Full size is %s pixels"
+msgstr "تمام صفحه در سایز %s  پیکسل"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/attachment.php:53
+msgid "Link to full-size image"
+msgstr "لینک به عکس تمام صفحه"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/attachment.php:60
+#: E:\Localhost\Blog\wp-content\themes\mantra/attachment.php:107
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-aside.php:48
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-chat.php:48
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-gallery.php:64
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-image.php:41
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-link.php:48
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-page.php:22
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-quote.php:46
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-status.php:49
+#: E:\Localhost\Blog\wp-content\themes\mantra/content.php:85
+msgid "Edit"
+msgstr "ویرایش"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/attachment.php:100
+msgid "Continue reading"
+msgstr "ادامه مطلب"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/attachment.php:101
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-aside.php:39
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-chat.php:37
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-gallery.php:54
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-image.php:32
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-link.php:37
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-page.php:21
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-quote.php:36
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-status.php:40
+#: E:\Localhost\Blog\wp-content\themes\mantra/content.php:57
+#: E:\Localhost\Blog\wp-content\themes\mantra/content.php:74
+msgid "Pages:"
+msgstr "صفحه : "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/author.php:28
+#, php-format
+msgid "Author Archives: %s"
+msgstr "آرشیو نویسنده %s "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/author.php:49
+#, php-format
+msgid "About %s"
+msgstr "درباره ی %s "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/category.php:19
+#, php-format
+msgid "Category Archives: %s"
+msgstr "آرشیو دسته بندی ها %s "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/comments.php:18
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "این پست محافظت شده است برای دیدن آن و ارسال نظر پسورد خود را وارد کنید."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/comments.php:41
+#: E:\Localhost\Blog\wp-content\themes\mantra/comments.php:60
+msgid "Older Comments"
+msgstr "نظرات قدیمی تر"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/comments.php:42
+#: E:\Localhost\Blog\wp-content\themes\mantra/comments.php:61
+msgid "Newer Comments"
+msgstr "نظرات جدیدتر"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/comments.php:72
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-page.php:27
+msgid "Comments are closed."
+msgstr "نظرات بسته شده است."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-aside.php:21
+msgid "Aside"
+msgstr "کنار"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-aside.php:38
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-chat.php:36
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-gallery.php:32
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-image.php:31
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-link.php:36
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-quote.php:35
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-status.php:39
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "ادامه مطلب <span class=\"meta-nav\">&rarr;</span>"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-aside.php:46
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-chat.php:44
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-gallery.php:61
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-image.php:38
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-link.php:44
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-quote.php:43
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-status.php:47
+#: E:\Localhost\Blog\wp-content\themes\mantra/content.php:83
+msgid "Tagged"
+msgstr "برچسب خورده :"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-chat.php:20
+msgid "Chat"
+msgstr "گفتگو"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-gallery.php:20
+msgid "Gallery"
+msgstr "گالری"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-image.php:19
+msgid "Image"
+msgstr "عکس ها "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-link.php:20
+msgid "Link"
+msgstr "لینک"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-quote.php:19
+msgid "Quote"
+msgstr "پاسخ"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/content-status.php:31
+msgid "Status"
+msgstr "وضعیت"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/header.php:101
+msgid "Skip to content"
+msgstr "دسترسی به محتوا"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتیجه جستجو برای کلمه %s"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/search.php:38
+#, php-format
+msgid "No search results for: %s"
+msgstr "هیچ نتیجه ای برای کلمه مقابل یافت نشد : %s"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/sidebar.php:35
+#: E:\Localhost\Blog\wp-content\themes\mantra/sidebar.php:92
+msgid "Archives"
+msgstr "آرشیو"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/sidebar.php:42
+#: E:\Localhost\Blog\wp-content\themes\mantra/sidebar.php:99
+msgid "Meta"
+msgstr "متاتگ"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/single.php:44
+msgid "View all posts by "
+msgstr "دیدن تمام پست های ارسال شده توسط"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/tag.php:20
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "برچسب های آرشیو %s"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/admin-functions.php:62
+msgid "Before you can upload your import file, you will need to fix the following error:"
+msgstr "قبل از این که شما بتوانید فایل های مهم خود را آپلود کنید باید ارورهای ذکر شده را رفع کنید."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/admin-functions.php:70
+msgid "Import Mantra Theme Options"
+msgstr "تنظیمات مهم قالب Mantra"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/admin-functions.php:72
+msgid "Hi! This is where you import the  Mantra settings.<i> Please remember that this is still an experimental feature.</i>"
+msgstr "سلام این جا مکانی است که شما تنظیمات مهم قالب Mantra را انجام میدهید. لطفا توجه داشته باشید که تغییرات در گزینه های کاملا تجربی است."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/admin-functions.php:74
+msgid "Just choose a file from your computer:"
+msgstr "فایلی را از رایانه خود انتخاب کنید"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/admin-functions.php:76
+#, php-format
+msgid "Maximum size: %s"
+msgstr "حداکثر سایز فایل %s"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/admin-functions.php:82
+msgid "And import!"
+msgstr "وارد کردن ! "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/admin-functions.php:148
+msgid "Import Mantra Theme Options "
+msgstr "تنظیمات قالب را درون ریزی کنید."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/admin-functions.php:151
+msgid "Great! The options have been imported!"
+msgstr "تبریک ! تمام تنظیمات با موفقیت ذخیره شد."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/admin-functions.php:152
+msgid "Go back to the Mantra options page and check them out!"
+msgstr "به تنظیمات قالب برگردید و تمام آن ها را چک کنید."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/admin-functions.php:155
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/admin-functions.php:161
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/admin-functions.php:167
+msgid "Oops, there's a small problem."
+msgstr "اوه ! مشکل کوچکی وجود دارد."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/admin-functions.php:156
+msgid "The uploaded file does not contain valid Mantra options. Make sure the file is exported from the Mantra Options page."
+msgstr "فایل درون ریزی شده توسط شما معتبر نیست ! لطفا اطمینان حاصل کنید که تنظیمات حتما از قالب Mantra برون ریزی شده باشد."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/admin-functions.php:162
+msgid "The uploaded file could not be read."
+msgstr "فایل آپلود شده قالب خواندن نیست."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/admin-functions.php:168
+msgid "The uploaded file is not supported. Make sure the file was exported from the Mantra page and that it is a text file."
+msgstr "فایل آپلود شده پشتبانی نمیشود. اطمینان حاصل کنید فایل از قالب Mantra برون ریزی شده باشد و همچنین فایل به صورت پرونده نوشتاری باشد."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/admin-functions.php:177
+msgid "Oops! The file is empty or there was no file. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini."
+msgstr "اوه ! این فایل خالی است یا این که فایلی نیست . این خطا اغلب  به این دلیل است که در تنظیمات فایل php.ini آپلود غیر فعال شده باشد یا این که حجم آپلود در تنظیمات php.ini تعریف شده باشد. "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/admin-functions.php:183
+msgid "ERROR: You are not authorised to perform that operation"
+msgstr "خطا : شما مجاز به انجام این عملیات نیستید."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:93
+msgid "Layout Settings"
+msgstr "تنظیمات چیدمان"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:94
+msgid "Presentation Page"
+msgstr "صفحه مطالب"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:95
+msgid "Text Settings"
+msgstr "تنظیمات متن"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:96
+msgid "Color Settings"
+msgstr "تنظیمات رنگ "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:97
+msgid "Graphics Settings"
+msgstr "تنظیمات گرافیکی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:98
+msgid "Post Information Settings"
+msgstr "تنظیمات مربوط به اطلاعات نوشته ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:99
+msgid "Post Excerpt Settings"
+msgstr "تنظیمات مربوط به خلاصه نوشته ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:100
+msgid "Featured Image Settings"
+msgstr "تنظیمات عکس های ویژه"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:101
+msgid "Social Media Settings"
+msgstr "تنظیمات مربوط به رسانه های اجتماعی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:102
+msgid "Miscellaneous Settings"
+msgstr "تنظیمات متفرقه"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:104
+msgid "Main Layout"
+msgstr "چیدمان اصلی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:105
+msgid "Content / Sidebar Width"
+msgstr "عرض نوار کناری و محتوا"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:106
+msgid "Header Image Height"
+msgstr "طول عکس سربرگ"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:108
+msgid "Enable Presentation Page"
+msgstr "فعال کردن صفحه معرفی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:109
+msgid "Slider Settings"
+msgstr "تنظیمات اسلایدر"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:110
+msgid "Slides"
+msgstr "اسلایدر"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:111
+msgid "Presentation Page Columns"
+msgstr "ستون های صفحه نوشته ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:112
+msgid "Extras"
+msgstr "موارد بیشتر"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:114
+msgid "General Font"
+msgstr "قلم  عمومی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:115
+msgid "General Font Size"
+msgstr "سایز قلم عمومی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:116
+msgid "Post Title Font "
+msgstr "قلم عنوان پست ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:117
+msgid "Post Title Font Size"
+msgstr "سایز قلم عنوان پست ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:118
+msgid "Sidebar Font"
+msgstr "قلم سایدبار"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:119
+msgid "SideBar Font Size"
+msgstr "سایز قلم سایدبار"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:120
+msgid "Sub-Headers Font"
+msgstr "قلم زیرصفحه"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:121
+msgid "Force Text Align"
+msgstr "جهت نوشته ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:122
+msgid "Paragraph indent"
+msgstr "تورفتگی پاراگراف"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:123
+msgid "Header indent"
+msgstr "نسبت تو رفتگی سربرگ (هیدر) "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:124
+msgid "Line Height"
+msgstr "ارتفاع خط"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:125
+msgid "Word spacing"
+msgstr "فاصله کلمات"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:126
+msgid "Letter spacing"
+msgstr "فاصله حروف"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:127
+msgid "Text shadow"
+msgstr "سایه متن"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:129
+msgid "Background Color"
+msgstr "رنگ پس زمینه"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:130
+msgid "Header (Banner and Menu) Background Color"
+msgstr "رنگ پس زمینه سربرگ ( بنر و منو ها )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:131
+msgid "Content Background Color"
+msgstr "رنگ پس زمینه ی محتوا"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:132
+msgid "Menu background color"
+msgstr "رنگ پس زمینه منوها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:134
+msgid "Site Title Color"
+msgstr "رنگ عنوان سایت"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:135
+msgid "Site Description Color"
+msgstr "رنگ توضیحات اصلی سایت"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:137
+msgid "Content Text Color"
+msgstr "رنگ نوشته های محتوا"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:138
+msgid "Links Color"
+msgstr "رنگ لینک ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:139
+msgid "Links Hover Color"
+msgstr "رنگ لینک ها وقتی ماوس روی آن ها قرار میگیرید"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:140
+msgid "Post Title Color"
+msgstr "رنگ عناوین پست ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:141
+msgid "Post Title Hover Color"
+msgstr "رنگ عناوین پست ها زمین قرار گیری ماوس روی آن ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:142
+msgid "Sidebar Header Background Color"
+msgstr "رنگ پس زمینه ی سربرگ سایدبار"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:143
+msgid "Sidebar Header Text Color"
+msgstr "رنگ نوشته های سربرگ سایدبار"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:144
+msgid "Footer Widget Background Color"
+msgstr "رنگ پس زمینه ی پاصفحه ابزارک ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:145
+msgid "Footer Background Color"
+msgstr "رنگ زمینه ی پاصفحه"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:146
+msgid "Footer Widget Header Text Color"
+msgstr "رنگ نوشته های پاصفحه ابزارک ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:147
+msgid "Footer Widget Link Color"
+msgstr "رنگ لینک های پا صفحه ابزارک ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:148
+msgid "Footer Widget Hover Color"
+msgstr "رنگ ابزار پا صفحه زمان قرار گیری ماوس روی آن ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:150
+msgid "Caption Border"
+msgstr "کادر عناوین"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:151
+msgid "Post Images Border"
+msgstr "قاب عکس های قرار گرفته در پست ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:152
+msgid "Caption Pin"
+msgstr "نوع سنجاق"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:153
+msgid "Sidebar Menu Bullets"
+msgstr "گلوله های توپی منوی سایدر"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:154
+msgid "Meta Area Background"
+msgstr "متای محیط پس زمینه"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:155
+msgid "Post Separator"
+msgstr "جدا کننده ی پست "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:156
+msgid "Content List Bullets"
+msgstr "گلوله های توپی لیست در محتوای پست"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:157
+msgid "Title and Description"
+msgstr "عنوان و توضیحات"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:158
+msgid "Page Titles"
+msgstr "عنوان صفحات"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:159
+msgid "Category Page Titles"
+msgstr "عنوان صفحات دسته بندی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:160
+msgid "Hide Tables"
+msgstr "پنهان کردن جدول ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:161
+msgid "Back to Top button"
+msgstr "دکمه بازگشت به بالا"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:162
+msgid "Text Under Comments"
+msgstr "نوشته زیر نظرات"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:163
+msgid "Comments are closed text"
+msgstr "متن نظرات بسته شده"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:164
+msgid "Comments off"
+msgstr "نظرات : خاموش"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:165
+msgid "Insert footer copyright"
+msgstr "قرار دادن متن کپی رایت در پاصفحه"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:167
+msgid "Post Comments Link"
+msgstr "لینک نظرات پست ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:168
+msgid "Post Date"
+msgstr "تاریخ پست"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:169
+msgid "Post Time"
+msgstr "زمان پست"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:170
+msgid "Post Author"
+msgstr "نویسنده پست"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:171
+msgid "Post Category"
+msgstr "دسته بندی پست"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:172
+msgid "Post Tags"
+msgstr "برچسب های پست"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:173
+msgid "Post Permalink"
+msgstr "پیوند یکتای پست"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:174
+msgid "All Post Metas"
+msgstr "تمام متاهای پست"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:176
+msgid "Post Excerpts on Home Page"
+msgstr "پست های برگزیده در صفحه اصلی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:177
+msgid "Affect Sticky Posts"
+msgstr "پست های مهم"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:178
+msgid "Post Excerpts on Archive and Category Pages"
+msgstr "پست های برگزیده در صفحه دسته بندی و آرشیو"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:179
+msgid "Number of Words for Post Excerpts "
+msgstr "تعداد کلمات برای پست های برگزیده"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:180
+msgid "Magazine Layout"
+msgstr "طرح بندی به صورت مجله ای"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:181
+msgid "Excerpt suffix"
+msgstr "پسوند برگزیده ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:182
+msgid "Continue reading link text "
+msgstr "متن لینک ادامه مطلب"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:183
+msgid "HTML tags in Excerpts"
+msgstr "تگ های اچ تی ام ال در برگزیده ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:185
+msgid "Featured Images as POST Thumbnails "
+msgstr "تصاویر اول  در تصاویر بند انگشتی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:186
+msgid "Auto Select Images From Posts "
+msgstr "انتخاب خودکار عکس از پست ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:187
+msgid "Thumbnails Alignment "
+msgstr "ترازبندی تصاویر بند انگشتی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:188
+msgid "Thumbnails Size "
+msgstr "اندازه تصاویر بند انگشتی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:189
+msgid "Featured Images as HEADER Images "
+msgstr "عکس اول در عکس سربرگ"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:191
+msgid "Link nr. 1"
+msgstr "لینک شماره 1"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:192
+msgid "Link nr. 2"
+msgstr "لینک شماره 2"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:193
+msgid "Link nr. 3"
+msgstr "لینک شماره 3"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:194
+msgid "Link nr. 4"
+msgstr "لینک شماره 4"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:195
+msgid "Link nr. 5"
+msgstr "لینک شماره 5"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:196
+msgid "Socials display"
+msgstr "نمایش اجتماعی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:198
+msgid "Make Site Header a Link"
+msgstr "سربرگ سایت را لینک دار کن"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:199
+msgid "Breadcrumbs"
+msgstr "موارد جزئی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:200
+msgid "Pagination"
+msgstr "صفحه بندی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:201
+msgid "Mobile view"
+msgstr "نمایش در تلفن همراه"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:202
+msgid "FavIcon"
+msgstr "فاوآیکن"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:203
+msgid "Custom CSS"
+msgstr "CSS سفارشی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:204
+msgid "Custom JavaScript"
+msgstr "JavaScript سفارشی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:205
+msgid "SEO Settings"
+msgstr "تنظیمات سئو"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:222
+msgid "Sorry, but you do not have sufficient permissions to access this page."
+msgstr "با عرض پوزش ، ولی شما دسترسی کافی برای دسترسی به این صفحه را ندارید."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:232
+msgid "Mantra settings updated successfully."
+msgstr "به روز رسانی تنظیمات قالب با موفقیت اتمام یافت."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:243
+msgid "Reset to Defaults"
+msgstr "بازنشاندن تنظیمات پیش فرض"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:244
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:258
+#, fuzzy
+msgid ""
+"<p>Here at Cryout Creations (the developers of yours truly Mantra Theme), we spend night after night improving the Mantra Theme. We fix a lot of bugs (that we previously created); we add more and more customization options while also trying to keep things as simple as possible; then... we might play a game or two but rest assured that we return to read and (in most cases) reply to your late night emails and comments, take notes and draw dashboards of things to implement in future versions.</p>\n"
+"\t\t\t<p>So you might ask yourselves: <i>How do they do it? How can they keep so fresh after all that hard labor for that darned theme? </i> Well folks, it's simple. We drink coffee. Industrial quantities of hot boiling coffee. We love it! So if you want to help with the further development of the Mantra Theme...</p> "
+msgstr ""
+"<p>Here at Cryout Creations (the developers of yours truly Mantra Theme), we spend night after night improving the Mantra Theme. We fix a lot of bugs (that we previously created); we add more and more customization options while also trying to keep things as simple as possible; then... we might play a game or two but rest assured that we return to read and (in most cases) reply to your late night emails and comments, take notes and draw dashboards of things to implement in future versions.</p>\n"
+"\t\t\t<p>So you might ask yourselves: <i>How do they do it? How can they keep so fresh after all that hard labor for that darned theme? </i> Well folks, it's simple. We drink coffee. Industrial quantities of hot boiling coffee. We love it! So if you want to help with the further development of the Mantra Theme...</p> "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:273
+msgid "Import/Export Settings"
+msgstr "تنظیمات برون ریزی / درون ریزی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:279
+msgid "Export Theme options"
+msgstr "برون ریزی تنظیمات قالب"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:280
+msgid "It's that easy: a mouse click away - the ability to export your Mantra settings and save them on your computer. Feeling safer? You should!"
+msgstr "این کار بسیان آسان است . با یک کلیک ماوس میتوانید تمام تنظیمات قالب را برون ریزی کنید و در کامپیوتر خود ان را ذخیره کنید! احساس امنیت نمیکنید ؟ پس این کار را حتما انجام دهید."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:285
+msgid "Import Theme options"
+msgstr "درون ریزی تنظیمات قالب"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:286
+msgid " Without the import, the export would just be a fool's exercise. Make sure you have the exported file ready and see you after the mouse click."
+msgstr "شما میتوانید به آسانی تنظیمات اصلی قالب را از یک سایت دیگر درون ریزی کنید. با این کار دیگر مجبور نیستید در هر دفعه تمام تنظیمات را انجام دهید."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:293
+msgid "Mantra Latest News"
+msgstr "آخرین اخبار قالب Mantra"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:304
+msgid "No news items."
+msgstr "هنور خبری ارسال نشده است ."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:318
+msgid "Mantra Help"
+msgstr "راهنمای قالب"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:321
+msgid ""
+"\n"
+"\t\t\t<ul>\n"
+"\t\t\t\t<li>- Need any Mantra or WordPress help?</li>\n"
+"\t\t\t\t<li>- Want to know what changes are made to the theme with each new version?</li>\n"
+"\t\t\t\t<li>- Found a bug or maybe something doesn't work exactly as expected?</li>\n"
+"\t\t\t\t<li>- Got an idea on how to improve the Mantra Theme to better suit your needs?</li>\n"
+"\t\t\t\t<li>- Want a setting implemented?</li>\n"
+"\t\t\t\t<li>- Do you have or would you like to make a translation of the Mantra Theme?</li>\n"
+"\t\t\t</ul>\n"
+"\t\t\t<p>Then come visit us at Mantra's support page.</p>\n"
+"\t"
+msgstr ""
+"\n"
+"\t\t\t<ul>\n"
+"\t\t\t\t<li>- نیاز به راهنمایی بیشتر در مورد قالب و وردپرس دارید ؟</li>\n"
+"\t\t\t\t<li>- آیا میخواهید تغییراتی که انجام دادید  در ورژن جدید هم اعمال شود ؟</li>\n"
+"\t\t\t\t<li>- مشکلی وجود دارد یا چیزی مطابق آنچه انتظار میرود کار نمیکند ؟</li>\n"
+"\t\t\t\t<li>- آیا ایده ای برای بهتر شدن قالب منترا دارید ؟</li>\n"
+"\t\t\t\t<li>- آیا میخواهید تنظیمات اجرا شود؟</li>\n"
+"\t\t\t\t<li>- آیا شما دوست دارید ترجمه ای بهتر برای قالب مانترا بسازید؟</li>\n"
+"\t\t\t</ul>\n"
+"\t\t\t<p>صفحه پشتیبانی مانترا را ببینید.</p>\n"
+"\t"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/main.php:332
+msgid "Mantra Support Page"
+msgstr "صفحه پشتیبانی قالب مانترا"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:61
+msgid "One column (no sidebars)"
+msgstr "یک ستون ( بدون ساید بار )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:62
+msgid "Two columns,  sidebar on the right"
+msgstr "دو ستون ( سایدبار سمت راست )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:63
+msgid "Two columns,  sidebar on the left"
+msgstr "دو ستون ( سایدبار سمت چپ )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:64
+msgid "Three columns, sidebars on the right"
+msgstr "سه ستون ، ساید بار سمت چپ و ساید بار سمت راست "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:65
+msgid "Three columns, sidebars on the left"
+msgstr "سه ستون ، سایدبار سمت چپ"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:66
+msgid "Three columns, one sidebar on each side"
+msgstr "سه ستون ، ساید بار در هر طرفی باشد."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:81
+msgid "Choose your layout "
+msgstr "طرح خود را انتخاب کنید."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:89
+msgid "Absolute"
+msgstr "Absolute"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:89
+msgid "Relative"
+msgstr "Relative"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:90
+msgid "Dimensions to use: "
+msgstr "استفاده در ابعاد :"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:189
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:209
+msgid "Content ="
+msgstr "محتوا ="
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:190
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:210
+msgid "Sidebar(s) ="
+msgstr "ساید بار (ها) ="
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:191
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:211
+msgid "Total width ="
+msgstr "عرض کل ="
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:200
+msgid ""
+"Select the width of your <b>content</b> and <b>sidebar(s)</b>. \n"
+" \t\tWhile the content cannot be less than 500px wide, the sidebar area is at least 220px and no more than 800px.<br />\n"
+"\tIf you went for a 3 column area ( with 2 sidebars) they will each have half the selected width."
+msgstr ""
+"انتخاب کنید عرض <b>محتوا</b> و <b>سایدبار (s)</b>. \n"
+" \t\tعرض محتوا نمیتواند کمتر از 500 پیکسل باشد. محیط سایدبار باید بیشتر از 220 پیکسل و کمتر از 800 پیکسل باشد..<br />\n"
+"\tاگر شما  طرح سه ستون را انتخاب کردید( همراه 2 سایدبار ) هر یک آز آن ها نیمی از عرض انتخاب شده را تشکیل میدهد."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:220
+msgid ""
+"Select the width of your <b>content</b> and <b>sidebar(s)</b>. \n"
+" \t\tThese are realtive dimmensions - relative to the user's browser. The total width is a percentage of the browser's width.<br />\n"
+"\t While the content cannot be less than 40% wide, the sidebar area is at least 20% and no more than 50%.<br />\n"
+"\tIf you went for a 3 column area ( with 2 sidebars) they will each have half the selected width."
+msgstr ""
+"انتخاب کنید عرض<b>محتوا را</b> و <b>سایدبار(ها)</b>. \n"
+" \t\tاین ابعاد تقریبا نسبی است. نسبت به مرورگر کاربر است. عرض کلی درصدی است که به نسبت مرورگر کاربر نمایش داده میشود..<br />\n"
+"\t در حالی که عرض محتوا نمیوانید کمتر از 40 درصد باشد. عرض سایدبار باید بیشتر از 20 درصد و کمتر از 50 درصد باشد..<br />\n"
+"\tاگر شما طرح بندی را به صورت سه ستونه انتخاب کردید ( همراه 2 سایدبار ) آن دو هر کدام نیمی از عرض انتخاب شده را تشکیل میدهد."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:244
+msgid "Select the header's height. After saving the settings go and upload your new header image. The header's width will be = "
+msgstr "ارتفاع سبرگ  را مشخص کنید. سپس تنظیمات را ذخیره کنید و به قسمت بارگذاری  سربرگ  بروید و سربرگ  جدید را بارگذاری کنید. ارتفاع سربرگ جدید مساوی با عدد مقابل میشود ="
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:257
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:969
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1031
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1353
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1415
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1623
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1652
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1675
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1698
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1747
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1876
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1891
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1906
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1921
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1963
+msgid "Enable"
+msgstr "فعال"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:257
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:969
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1031
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1353
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1415
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1623
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1652
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1675
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1698
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1747
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1876
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1891
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1906
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1921
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1963
+msgid "Disable"
+msgstr "غیرفعال"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:265
+msgid ""
+"Enable the presentation front-page. This will become your new home page and it will replace whatever page you have selected as homepage. It has a slider and columns for presentation\n"
+"\t\ttext and images."
+msgstr "ابزار front-page را فعال کنید.صفحه انتخابی شما به عنوان صفحه خانگی شما و جایگزین تمام صفحه ها میشود.این شامل  اسلایدرها ، ستون ها ، نوشته و عکس ها میشود."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:275
+msgid "Slider Dimensions:"
+msgstr "ابعاد اسلایدر"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:276
+msgid "width"
+msgstr "عرض"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:277
+msgid "height"
+msgstr "طول"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:278
+msgid "The dimensions of your slider. Make sure your images are of the same size."
+msgstr "ابعاد اسلایدر شما . اطمینان حاصل کنید ابعاد عکس های شما هم در همین ابعاد باشد."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:280
+msgid "Animation:"
+msgstr "انیمیشن"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:282
+msgid "Random"
+msgstr "تصادفی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:282
+msgid "Fold"
+msgstr "Fold"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:282
+msgid "Fade"
+msgstr "Fade"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:282
+msgid "SlideInRight"
+msgstr "SlideInRight"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:282
+msgid "SlideInLeft"
+msgstr "SlideInLeft"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:282
+msgid "SliceDown"
+msgstr "SliceDown"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:282
+msgid "SliceDownLeft"
+msgstr "SliceDownLeft"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:282
+msgid "SliceUp"
+msgstr "SliceUp"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:282
+msgid "SliceUpLeft"
+msgstr "SliceUpLeft"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:282
+msgid "SliceUpDown"
+msgstr "SliceUpDown"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:282
+msgid "SliceUpDownLeft"
+msgstr "SliceUpDownLeft"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:282
+msgid "BoxRandom"
+msgstr "BoxRandom"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:282
+msgid "BoxRain"
+msgstr "BoxRain"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:282
+msgid "BoxRainReverse"
+msgstr "BoxRainReverse"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:282
+msgid "BoxRainGrow"
+msgstr "BoxRainGrow"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:282
+msgid "BoxRainGrowReverse"
+msgstr "BoxRainGrowReverse"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:290
+msgid "The transition effect your slider will have."
+msgstr "سایدبار شما دارای این جلوه های اثرگذار است"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:292
+msgid "Border Settings:"
+msgstr "تنظیمات قاب : "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:293
+msgid "Width"
+msgstr "عرض"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:294
+msgid "Color"
+msgstr "رنگ"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:296
+msgid "The width and color of the slider's border."
+msgstr "عرض و رنگ قاب اسلایدر"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:298
+msgid "Animation Time:"
+msgstr "زمان انیمیشن :"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:299
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:303
+msgid "milliseconds (1000ms = 1 second) "
+msgstr "میلی ثانیه (1000ms = 1 ثانیه)"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:300
+msgid "The time in which the transition animation will take place."
+msgstr "در این زمان جابه جایی به صورت انیمیشن صورت میگرید."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:302
+msgid "Pause Time:"
+msgstr "زمان توقف:"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:304
+msgid "The time in which a slide will be still and visible."
+msgstr "در زمان توقف نیز اسلایدر قابل مشاهده و استفاده میباشد."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:307
+msgid "Slider navigation:"
+msgstr "اسلایدر کشویی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:309
+msgid "Numbers"
+msgstr "شماره ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:309
+msgid "Bullets"
+msgstr "گلوله توپی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:309
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1259
+msgid "None"
+msgstr "هیچ"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:317
+msgid "Your slider navigation type. Shown under the slider."
+msgstr "نوع اسلایدر کشویی شما . این اسلایدر در زیر اسلایدر اصلی نمایش داده میشود."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:319
+msgid "Slider arrows:"
+msgstr "پیکان اسلایدر"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:321
+msgid "Always Visible"
+msgstr "همیشه قابل نمایش باشد."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:321
+msgid "Visible on Hover"
+msgstr "قابل مشاهده در زمان قرار گیری ماوس رو آن"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:321
+msgid "Hidden"
+msgstr "پنهان"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:329
+msgid "The Left and Right arrows on your slider"
+msgstr "فلش های پچ و راست در اسلایدر شما"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:370
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:438
+msgid "Select Category"
+msgstr "انتخاب دسته بندی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:397
+msgid "Custom Slides"
+msgstr "اسلاید سفارشی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:397
+msgid "Latest Posts"
+msgstr "آخرین نوشته ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:397
+msgid "Random Posts"
+msgstr "نوشته های تصادفی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:397
+msgid "Sticky Posts"
+msgstr "نوشته های مهم"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:397
+msgid "Latest Posts from Category"
+msgstr "آخرین نوشته ها از دسته بندی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:397
+msgid "Random Posts from Category"
+msgstr "نوشته های تصادفی از دسته بندها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:397
+msgid "Specific Posts"
+msgstr "نوشته های خاص"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:410
+msgid "Latest posts will be loaded into the slider."
+msgstr "آخرین نوشته هایی که در اسلایدر بارگذاری میشوند."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:414
+msgid "Random  posts will be loaded into the slider."
+msgstr "نوشته های تصادفی که در اسلایدر بارگذاری میشوند."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:418
+msgid "Latest posts from the category you choose will be loaded in the slider."
+msgstr "آخرین نوشته ها از دسته بندی انتخابی شما و بارگذاری آن در اسلایدر."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:423
+msgid "Random posts from the category you choose will be loaded into the slider."
+msgstr "نوشته های تصادفی از دسته بندی انتخابی شما و بارگذاری آن در اسلایدر"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:427
+msgid "Only sticky posts will be loaded into the slider."
+msgstr " نوشته های مهم و لود آن در اسلایدر "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:431
+msgid "List the post IDs you want to display (separated by a comma): "
+msgstr "لیست از آیدی پست های شما برای نمایش. ( با کاما جدا کنید )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:436
+msgid "<br> Choose the cateogry: "
+msgstr "<br> انتخاب از دسته بندی ها :"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:453
+msgid "Number of posts to show:"
+msgstr "تعداد پست ها برای نمایش :"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:460
+msgid "Slide 1"
+msgstr "اسلاید 1"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:464
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:479
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:494
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:509
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:524
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:567
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:582
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:597
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:612
+msgid "Upload or select image from gallery"
+msgstr "بارگذاری یا انتخاب عکس از گالری"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:465
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:480
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:495
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:510
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:525
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:568
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:583
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:613
+msgid "Title"
+msgstr "عنوان"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:467
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:482
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:497
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:512
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:527
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:570
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:585
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:600
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:615
+msgid "Text"
+msgstr "نوشته"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:475
+msgid "Slide 2"
+msgstr "اسلاید 2"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:490
+msgid "Slide 3"
+msgstr "اسلاید 3"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:505
+msgid "Slide 4"
+msgstr "اسلاید 4"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:520
+msgid "Slide 5"
+msgstr "اسلاید 5"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:533
+msgid "Your slides' content. Only the image is required, all other fields are optional. Only the slides with an image selected will become acitve and visible in the live slider."
+msgstr "محتوای اسلایدر شما. فقط تصویر مورد نیاز است. فیلد های دیگر به صورت اختیاری است. اسلایدر تنها با عکس انتخاب شده فعال میشود و قابل نمایش بر روی اسلایدر فعال است.."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:543
+msgid "Number of columns:"
+msgstr "تعداد ستون ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:553
+msgid "Image Height:"
+msgstr "ارتفاع تصویر:"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:556
+msgid "Read more text:"
+msgstr "خواندن ادامه مطلب:"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:559
+msgid "The linked text that appears at the bottom of all the columns. You can delete all text inside if you don't want it."
+msgstr "متن لینک داری که در پایین ستون ها نمایش داده میشود. شما میتوانید تمام نوشته ها را در صورتی که تمایلی به این کار ندارید حذف کنید."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:563
+msgid "1st Column"
+msgstr "ستون اول"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:578
+msgid "2nd Column"
+msgstr "ستون دوم"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:593
+msgid "3rd Column"
+msgstr "ستون سوم"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:608
+msgid "4th Column"
+msgstr "ستون چهارم"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:630
+msgid "Extra Text"
+msgstr "متن های اضافه"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:630
+msgid "Top Title"
+msgstr "عنوان بالا"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:632
+msgid "Second Title"
+msgstr "عنوان دوم"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:635
+msgid "Title color"
+msgstr "رنگ عنوان"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:638
+msgid "The titles' color (Default value is 333333)."
+msgstr "رنگ عنوان (مقدار پیش فرض 333،333 است)."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:640
+msgid "Bottom Text 1"
+msgstr "نوشته دکمه 1"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:642
+msgid "Bottom Text 2"
+msgstr "نوشته دکمه 2"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:645
+msgid ""
+"More text for your front page. The top title is above the slider, the second title between the slider and the columns and 2 more rows of text under the columns.\n"
+"\t\t It's all optional so leave any input field empty if it's not required. "
+msgstr ""
+"نوشته بیشتر برای پایین صفحه شما. بالاترین نوشته بالای اسلایدر قرار دارد، عنوان دوم میان اسلایدر و ستون و دو ستون بیشتر از نوشته زیر ستون ها است. .\n"
+"\t\t تمام این ها اختیاری میباشد. اگر بخواهید میتوانید آن ها را خالی بگذارید. "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:651
+msgid "Hide areas"
+msgstr "پنهان کردن مناطق"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:664
+msgid "Hide the header area (image or background color)."
+msgstr "پنهان کردن محیط سربرگ ( عکس یا رنگ بک گراند )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:668
+msgid "Hide the main menu (the top navigation tabs)."
+msgstr "پنهان کردن منوی اصلی ( منوی کشویی بالا ) "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:672
+msgid "Hide the footer widgets. "
+msgstr "پنهان کردن ابرارک های پاصفحه."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:676
+msgid "Hide the footer (copyright area)."
+msgstr "پنهان کردن پاصفحه ( محیط کپی رایت )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:680
+msgid "Hide the white color. Only the background color remains."
+msgstr "پنهان کردن رنگ سفید. فقط رنگ بکگراند باقی میماند."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:684
+msgid "Choose the areas to hide on the first page."
+msgstr "محیطی  که میخواهید در صفحه اول پنهان شود را انتخاب کنید."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:703
+msgid "Select the font size you'll use in your blog. Pages, posts and comments will be affected. Buttons, Headers and Side menus will remain the same."
+msgstr "قلمی را که میخواهید در وبلاگ خود از آن استفاده کنید انتخاب کنید.این تغییرات در صفحات ، نوشته ها و نظرات اعمال میشود.دکمه ها ، منوی سایدبار و سربرگ تحت تاثیر قرار نمیگیریند. "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:747
+msgid "Select the font family you'll use in your blog. All content text will be affected (including menu buttons). "
+msgstr "قلمی را که میخواهید از آن در وبلاگ خود استفاده کنید انتخاب کنید. تمامی محتواهای متنی تحت تاثیر این تغییرات قرار میگیریند. ( از جمله دکمه های منو )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:748
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:797
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:848
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:899
+msgid "Or insert your Google Font below. Please only isert the <strong>name</strong> of the font.<br /> Ex: Marko One. Go to <a href='http://www.google.com/webfonts' > google fonts </a> for some font inspiration."
+msgstr "یا قلمی از گوگل انتخاب کنید و در زیر قرار دهید. لطف فقط وارد کنید <strong>نام</strong>فوت را.<br /> مثال: برای انتخاب یک فونت بروید به <a href='http://www.google.com/webfonts' > گوگل فونت </a> برای انتخاب فونت های استاندارد."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:795
+msgid "Select the font family you want for your titles. It will affect post titles and page titles. Leave 'Default' and the general font you selected will be used."
+msgstr "قلمی که میخواهید به عنوان قلم \"عنوان\" قرار بگیرد را انتخاب کنید. این تغییر به عنوان صفحات و نوشته ها اعمال میشود. با زدن دکمه پیش فرض قلمی که به صورت عمومی انتخاب کردید در اینجا نیز مورد استفاده قرار میگیرد ."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:846
+msgid "Select the font family you want your sidebar(s) to have. Text in sidebars will be affected, including any widgets. Leave 'Default' and the general font you selected will be used."
+msgstr "قلمی را که میخواهید در سایدبار(ها) از آن استفاده کنید انتخاب کنید.تغییرات در تمام سایدبارها از جمله ابزارک ها اعمال میشود.با زدن دکمه پیش فرض قلمی که به صورت عمومی انتخاب کردید در اینجا نیز مورد استفاده قرار میگیرد."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:897
+msgid "Select the font family you want your subheaders to have (h2 - h6 tags will be affected). Leave 'Default' and the general font you selected will be used."
+msgstr "فونتی که میخواهید در ساب هیدر مورد استفاده قرار بگیرد را انتخاب کنید. ( درتگ های اچ 2 و اچ 6 اعمال میشود. )با زدن دکمه پیش فرض قلمی که به صورت عمومی انتخاب کردید در اینجا نیز مورد استفاده قرار میگیرد "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:909
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:924
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:939
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:984
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:999
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1014
+msgid "Default"
+msgstr "پیش فرض"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:917
+msgid "Post Header Font size. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr "سایز قلم سربرگ نوشته ها . با زدن دکمه پیش فرض تنظیمات عادی اعمال میشوند. ( سایز در فایل سی اس اس تنظیم شده است. )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:932
+msgid "Sidebar Font size. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr "سایز قلم سایدبار.  ( سایز در فایل سی اس اس تنظیم شده است. )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:939
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1714
+msgid "Left"
+msgstr "چپ"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:939
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1714
+msgid "Right"
+msgstr "راست"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:939
+msgid "Justify"
+msgstr "تراز کردن"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:939
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1714
+msgid "Center"
+msgstr "وسط"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:947
+msgid "This overwrites the text alignment in posts and pages. Leave 'Default' for normal settings (alignment will remain as declared in posts, comments etc.)."
+msgstr "این تراز بندی دلخواه برای متون را تنظیم میکند. با زدن دکمه پیش فرض تنظیمات اولیه اعمال میشوند. ( این تراز بندی همانطور گفته که گفته شد در نوشته ها ، نظرات و غیره اعمال میشود. ) "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:961
+msgid "Choose the indent for your paragraphs."
+msgstr "مقدار تو رفتگی را برای پاراگراف های خود انتخاب کنید."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:977
+msgid "Disable the default header and title indent (left margin)."
+msgstr "غیرفعال کردن تو رفتگی پیش فرض برای سربرگ عنوان ها ( مارجین سمت چپ )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:992
+msgid "Text line height. The height between 2 rows of text. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr "ارتفاع خط متن. ارتفاع آن بین 2 ستون از نوشته هاست. برای اعمال تنظیمات دلخواه پیش فرض را کلیک کنید."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1007
+msgid "The space between <i>words</i>. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr "فاصله میان <i>کلمات</i>.برای بازگشت به تنظیمات اولیه پیش فرض را کلیک کنید. ( از سی اس اس قابل تغییر است )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1022
+msgid "The space between <i>letters</i>. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr "فاصله میان <i>حروف</i>. برای بازگشت به تنظیمات اولیه پیش فرض را کلیک کنید. ( از سی اس اس قابل تغییر است )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1039
+msgid "Disable the default text shadow on headers and titles."
+msgstr "غیرفعال کردن سایه پیش فرض در سربرگ و عناوین"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1051
+msgid "Background color (Default value is 444444)."
+msgstr "رنگ پس زمینه ( به صورت پیش فرض 44444 است )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1059
+msgid "Header background color (Default value is 333333). You can delete all inside text for no background color."
+msgstr "رنگ پس زمینه سربرگ ( به صورت پیش فرض 333333 است ) شما میتوانید تمام متن ها را پاک کنید تا پس زمینه رنگی نداشته باشد."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1066
+msgid "Content background color (Default value is FAFAFA). Works best with really light colors."
+msgstr "رنگ پس زمینه محتوابهترین حالت ترکیب با رنگ روشن است.رنگ پیش فرض : FAFAFA"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1073
+msgid "Main menu background color (Default value is FAFAFA). Should be the same color as the content bg or something just as light."
+msgstr "رنگ پس زمینه منوی اصلی باید برای بک گراند باید از چند رنگ یا از رنگ روشن استفاده کرد.رنگ پیش فرض : FAFAFA "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1081
+msgid "Footer widget-area background color. (Default value is 171717)."
+msgstr "رنگ پس زمینه محیط ابزارک پاصفحه.( رنگ پیش فرض : 171717  )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1089
+msgid "Footer background color (Default value is 222222)."
+msgstr "رنگ پس زمینه پاصفحه ( رنگ پیش فرض 222222 است. )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1097
+msgid "Your blog's title color (Default value is 0D85CC)."
+msgstr "رنگ عنوان بلاگ ( ها ) شما رنگ پیش فرض : 0D85CC"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1105
+msgid "Your blog's description color(Default value is 222222)."
+msgstr "رنگ توضیحات وبلاگ شما ( رنگ پیش فرض 222222 است )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1113
+msgid "Content Text Color (Default value is 333333)."
+msgstr "رنگ نوشته محتوا ( رنگ پیش فرض 333333 است )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1121
+msgid "Links color (Default value is 0D85CC)."
+msgstr "رنگ لینک ها ( رنگ پیش فرض 0D85CC است )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1129
+msgid "Links color on mouse over (Default value is 333333)."
+msgstr "رنگ لینک زمان قرار گیری ماوس روی آن ها ( پیش فرض 333333 است )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1137
+msgid "Post Header Text Color (Default value is 333333)."
+msgstr "رنگ نوشته سربرگ نوشته ها (رنگ پیش فرض 333333 است )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1145
+msgid "Post Header Text Color on Mouse over (Default value is 000000)."
+msgstr "رنگ نوشته سربرگ نوشته ها زمان قرار گیری ماوس روی آن ها ( پیش فرض 000000 است )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1153
+msgid "Sidebar Header Background color (Default value is 444444)."
+msgstr "رنگ پس زمینه سربرگ سایدبار ( رنگ پیش فرض 444444 است )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1162
+msgid "Sidebar Header Text Color(Default value is 2EA5FD)."
+msgstr "رنگ نوشته سربرگ سایدبار ( رنگ پیش فرض 444444 است )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1170
+msgid "Footer Widget Text Color (Default value is 0D85CC)."
+msgstr "رنگ نوشته های ابزارک پا صفحه ( رنگ پیش فرض 0D85CC است )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1178
+msgid "Footer Widget Link Color (Default value is 666666)."
+msgstr "رنگ لینک های ابزارک پاصفحه ( رنگ پیش فرض 666666 است )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1186
+msgid "Footer Widget Link Color on Mouse Over (Default value is 888888)."
+msgstr "رنگ لینک های ابزارک پاصفحه زمان قرار گیری ماوس رو یان ها ( پیش فرض 888888 است )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1198
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1259
+msgid "White"
+msgstr "سفید"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1198
+msgid "Light"
+msgstr "روشن"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1198
+msgid "Light Gray"
+msgstr "خاکستری روشن"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1198
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1259
+msgid "Gray"
+msgstr "خاکستری"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1198
+msgid "Dark Gray"
+msgstr "خاکستری تیره"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1198
+msgid "Black"
+msgstr "مشکی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1206
+msgid "This setting changes the look of your captions. Images that are not inserted through captions will not be affected."
+msgstr "این تنظیمات نوع نمایش توضیحات عکس را تغییر میدهد.عکس هایی که دارای توضیحات نیستند اعمال نمیشوند."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1222
+msgid "The border around your inserted images. "
+msgstr "قاب برای اطرف عکس هایی که قرار دادید."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1237
+msgid "The image on top of your captions. "
+msgstr "یک عکس برای بالای توضیحات شما"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1252
+msgid "The sidebar list bullets. "
+msgstr "گلوله توپی سایدبار"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1267
+msgid "The background for your post-metas area (under your post tiltes). Gray by default.<"
+msgstr "پس زمینه برای محیط متای پست ها ( زیر عنوان پست ها ) . به طور پیش فرض رنگ خاکستری در نظر گرفته شده.<"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1275
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1291
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1308
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1323
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1338
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1368
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1383
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1399
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1442
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1457
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1472
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1487
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1502
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1517
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1532
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1547
+msgid "Show"
+msgstr "نمایش"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1275
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1291
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1308
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1323
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1338
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1368
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1399
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1442
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1457
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1472
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1487
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1502
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1517
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1532
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1547
+msgid "Hide"
+msgstr "پنهان کردن"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1283
+msgid "Hide or show a horizontal rule to separate posts."
+msgstr "نمایش یا عدم نمایش خط افقی برای جدا کردن پست ها از هم."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1299
+msgid "Hide or show  bullets next to lists that are in your content area (posts, pages etc.)."
+msgstr "نمایش یا عدم نمایش گلوله های توپی به صورت لیست در ناحیه محتوا ( نوشته ها ، صفحات و غیره . . .)"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1316
+msgid "Hide or show your blog's Title and Description in the header (recommended if you have a custom header image with text)."
+msgstr "نمایش یا عدم نمایش عنوان و توضیحات در سربرگ اصلی ( اگر شما سربرگ سفارشی شده دارید که دارای نوشته  و عکس است این گزینه پیشنهاد میشود. )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1331
+msgid "Hide or show Page titles on any <i>created</i> pages. "
+msgstr "نمایش یا عدم نمایش عنوان ها در هر  <i>صفحه</i> ساخته شده. "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1346
+msgid "Hide or show Page titles on <i>Category</i> Pages. "
+msgstr "نمایش یا عدم نمایش عنوان ها <i>در صفحات</i> دسته بندی. "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1361
+msgid "Hide table borders and background color."
+msgstr "مخفی کردن قاب جدول ها در رنگ پس زمینه"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1376
+msgid "Hide the explanatory text under the comments form. (starts with  <i>You may use these HTML tags and attributes:...</i>)."
+msgstr "مخفی کردن متن توضیحات در زیر فرم ارسال نظرات (starts with  <i>شما میتوانید از کدهای اچ تی ام ال هم استفاده کنید:...</i>)."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1383
+msgid "Hide in posts"
+msgstr "مخفی کردن در پست ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1383
+msgid "Hide in pages"
+msgstr "مخفی کردن در صفحات"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1383
+msgid "Hide everywhere"
+msgstr "پنهان کردن در همه جا"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1391
+msgid "Hide the  <b>Comments are closed</b> text that by default shows up on pages or posts with the comments disabled."
+msgstr "مخفی کردن متن  <b>نظرات بسته شده</b> این متن به صورت پیش فرض در زمانی که نظرات در نوشته ها یا صفحات بسته شده باشد نمایش داده میشود"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1407
+msgid "Hide the <b>Comments off</b> text next to posts that have comments disabled."
+msgstr "مخفی کردن متن <b>نظرات خاموش</b> این متن مواقعی نمایش داده میشود که نظرات غیرفعال باشند."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1423
+msgid "Enable the Back to Top button. The button appears after scrolling the page down."
+msgstr "فعال کردن بازگشت به بالا. این دکمه بعد از اسکرول در پایین صفحه نمایش داده میشود"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1430
+msgid "Insert custom text or HTML code that will appear last in you footer. <br /> You can use HTML to insert links, images and special characters like &copy ."
+msgstr "قرار دادن نوشته یا کد اچ تی ام ال سفارشی که در آخر پاصفحه نمایش داده شود.. <br /> شما میتوانید با استفاده از اچ تی ام ال لینک های ، عکس ها یا کارکتر های سفارشی خود را در پاصفحه قرار دهید. مثل : &copy ."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1450
+msgid "Hide or show the <strong>Leave a comment</strong> or <strong>x Comments</strong> next to posts or post excerpts."
+msgstr "نمایش یا عدم نمایش <strong>دیدگاهتان را بنویسید</strong> یا <strong>x نظر</strong>در نوشته های برگزیده و عادی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1465
+msgid "Hide or show the post date."
+msgstr "نمایش یا عدم نمایش تاریخ نوشته ها"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1480
+msgid "Show the post time with the date. Time will not be visible if the Post Date is hidden."
+msgstr "نمایش ساعت ارسال پست همرا با تاریخ. اگر تاریخ نوشته را غیرفعال کرده باشید این گزینه کاربردی ندارد!"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1495
+msgid "Hide or show the post author."
+msgstr "نمایش یا پنهان کردن نویسنده پست."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1510
+msgid "Hide the post category."
+msgstr "پنهان کردن دسته بندی پست."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1525
+msgid "Hide the post tags."
+msgstr "پنهان کردن برچسب های نوشته"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1540
+msgid "Hide the 'Bookmark permalink'."
+msgstr "پنهان کردن پیوند بوک مارک"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1555
+msgid "Hide all the post metas. All meta info and meta areas will be hidden."
+msgstr "پنهان کردن تمام متاهای نوشته.تمام اطلاعات متا و ناحیه متا پنهان میشود."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1568
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1583
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1599
+msgid "Excerpt"
+msgstr "گلچین کردن"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1568
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1583
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1599
+msgid "Full Post"
+msgstr "نوشته کامل"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1576
+msgid "Excerpts on the main page. Only standard posts will be affected. All other post formats (aside, image, chat, quote etc.) have their specific formating."
+msgstr "گزیده ها در صفحه اصلی. فقط نوشته های استاندارد تحت تاثیر قرار میگیرند. تمام نوشته های دیگر که قالب خود را دارند مثل ( نوار کنار ، تصاویر ، گفتگو ، نقل قول و ...) تحت تاثیر این تغییر قرار نخواهند گرفت."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1591
+msgid "Choose if you want the sticky posts on your home page to be visible in full or just the excerpts. "
+msgstr "اگر شما دوست دارید نوشته های سنجاق شده و مهم صفحه اصلی را کاملا یا فقط گزیده های آن ها در بر بگیرد و قابل نمایش باشد این گزینه را انتخاب کنید. "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1607
+msgid "Excerpts on archive, categroy and search pages. Same as above, only standard posts will be affected."
+msgstr "گزیده ها در ارشیو ، دسته بندی ، صفحه جستجو بالاتر از همه قرار بگیرند. فقط پست های استاندارد تحت تاثیر قرار میگیرند."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1615
+msgid ""
+"The number of words an excerpt will have. When that number is reached the post will be interrupted by a <i>Continue reading</i> link that\n"
+"\t\t\t\t\t\t\twill take the reader to the full post page."
+msgstr ""
+"The number of words an excerpt will have. When that number is reached the post will be interrupted by a <i>Continue reading</i> link that\n"
+"\t\t\t\t\t\t\twill take the reader to the full post page."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1631
+msgid "Enable the Magazine Layout. This layout applies to pages with posts and shows 2 posts per row."
+msgstr "فعال کردن طرح بندی مجله ای. در این طرح بندی پست ها و صفحات با هم نمایش داده میشوند و در هر سطر دو پست نمایش داده میشود."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1638
+msgid "Replaces the three dots ('[...])' that are appended automatically to excerpts."
+msgstr "جایگزین کردن 3 نقطه ('[...])'که به طور خودکار به گزیده ها اضفه میشوند."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1645
+msgid "Edit the 'Continue Reading' link added to your post excerpts."
+msgstr "ویرایش ' ادامه مطلب'  لینک ها به گزیده ی پست ها اضفه میشوند."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1660
+msgid "By default WordPress excerpts remove all HTML tags ("
+msgstr "توسط گزیده های پیش فرض وردپرس تمام تگ های HTML پاک میشوند."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1691
+msgid "Show featured images as thumbnails on posts. The images must be selected for each post in the Featured Image section."
+msgstr "نمایش عکس های ویژه در پست ها به صورت عکس های بند انگشتی. عکس باید در هنگام ارسال به عنوان تصویر بند انگشتی انتخاب شده باشد."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1706
+msgid "Show the first image that you inserted in a post as a thumbnail. If you enable this option, the first image in your post will be used even if you selected a Featured Image in you post."
+msgstr "نمایش اولین عکس قرار داده شده در پست به عنوان تصویر بندانگشتی. اگر شما این گزینه را فعال کنید تصویر بند انشگتی از اولین تصویری که در پست خود استفاده کردید انتخاب میشود."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1722
+msgid "Thumbnail alignment."
+msgstr "تراز بندی دلخواه برای تصاویر بندانگشتی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1739
+msgid "The size you want the thumbnails to have (in pixels). By default imges will be scaled with aspect ratio kept. Choose to crop the images if you want the exact size."
+msgstr "سایز تصویر بند انگشتی ( در پیکسل )به طور پیشفرض عکس ها با اندازه کوچک قرار میگیریند.اگر شما سایزی مد نظر دارید به سیسم بدهید تا به صورت خودکار عکس شما بریده و به سایز دلخواه شما تبدیل شود."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1755
+msgid ""
+"Show featured images on headers. The header will be replaced with a featured image if you selected it as a Featured Image in the post and\n"
+"\t\t\t\t\t\t\tand if it is bigger or at least equal to the current header size."
+msgstr ""
+"نمایش عکس های برتر در سربرگ. سربرگ فعلی با عکس برتر انتخاب شده جایگزین میشود اگه در نوشته هایتان عکس را مشخص کرده باشید.\n"
+"\t\t\t\t\t\t\tand if it is bigger or at least equal to the current header size."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1776
+msgid "Select your desired Social network from the left dropdown menu and insert your corresponding address in the right input field. (ex: <i>http://www.facebook.com/yourname</i> )"
+msgstr "شبکه اجتماعی مورد نظر خود را از منوی کشویی سمت پچ انتخاب کنید و آدرس مربوط به پروفایل خود را در فیلد ورودی سمت راست وارد کنید.(مثال: <i>http://www.facebook.com/yourname</i> )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1790
+msgid "You can insert up to 5 different social sites and addresses."
+msgstr "شما میتوانید 5 سایت از شبکه های اجتماعی را با آدرس های مختلف وارد کنید."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1804
+msgid "There are a total of 27 social networks to choose from. "
+msgstr "این ها تمام 27 شبکه اجتماعی موجود برای انتخاب کردن شماست."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1818
+msgid "You can leave any number of inputs empty. "
+msgstr "شما میتوانید تعدادی از فیلدهای ورودی را خالی بگذارید."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1832
+msgid "You can choose the same social media any number of times.  "
+msgstr "شما میتوانید هر تعدادی که میخواهید رسانه ای اجتماعی را انتخاب کنید."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1863
+msgid "Choose the <b>areas</b> where to display the social icons."
+msgstr "انتخاب کنید <b>ناحیه ای</b> که دوست دارید آیکن  های اجتماعی در آن جا نمایش داده شوند."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1884
+msgid "Make the site header into a clickable link that links to your index page."
+msgstr "میتوانید سربرگ سایت را لینک دار کنید. آدرس لینک ، صفحه اصلی سایت شما خواهد بود."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1899
+msgid "Show breadcrumbs at the top of the content area. Breadcrumbs are a form of navigation that keeps track of your location withtin the site."
+msgstr "نمایش نوار پیمایش در بالای محیط محتوا. نوار راهنمای ابزاری است که مکان فعلی شخص در سایت را به او نمایش میدهد."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1914
+msgid "Show numbered pagination. Where there is more than one page, instead of the bottom <b>Older Posts</b> and <b>Newer posts</b> links you have a numbered pagination. "
+msgstr "نمایش شماره بندی صفحات. در مکان های که بیشتر از یک صفحه وجود داشته باشد, امکان دسترسی به در پایین صفحه قرار میگیرد و <b>پست های قدیمی تر</b> و <b>پست های جدیدتر </b> را آسان میکند."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1929
+msgid "Enable the mobile view and make Mantra responsive. The layout and look of your blog will change depending on what device and what resolution it is viewed in. "
+msgstr "فعال کردن نمایش به صورت تلفن همراه . در این نمایش خود قالب پاسخگو خواهد بود. ابعاد و سایر قالب به گونه ای تغییر میکند که به راحتی در دستگاه تلفن همراه قابل نمایش باشد."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1939
+msgid "Upload or select favicon from gallery"
+msgstr "بارگذاری یا انتخاب فاوآیکن از گالری"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1943
+msgid "Limitations: It has to be an image. It should be max 64x64 pixels in dimensions. Recommended file extensions .ico and .png . "
+msgstr "محدودیت ها : فایل باید حتما به صورت عکس باشد. باید حداکثر در سایز 64 پیکسل در 64 پیکسل باشد. بهترین فرمت عکس : .png , .ico"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1951
+msgid "Insert your custom CSS here. Any CSS declarations made here will overwrite Mantra's (even the custom options specified right here in the Mantra Settings page). <br /> Your custom CSS will be preserved when updating the theme."
+msgstr "CSS سفارشی خود را در اینجا قرار بدید.هر اعلان استایلی بر روی استایل Mantra رو نویسی میشود.( تمام تنظیمات سفارشی پیشرفته در تنظیمات قالب آماده است. )CSS سفارشی شما حتما پس از به روز رسانه قالب هم حفظ خواهد شد."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1958
+msgid "Insert your custom Javascript code here. (Google Analytics and any other forms of Analytic software)."
+msgstr "کدهای جاوا اسکریپت سفارشی خود را در اینجا قرار دهید. ( گوگل آنالیز و هر شکل دیگر از نرم افزارهای آنالیزگر سایت )"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1971
+msgid "Enable Mantra's Search Engine Optimization. This is enabled by default and should only be disabled if you are using a SEO plugin."
+msgstr "فعال کردن قابلیت بهینه سازی سایت برای موتور های جستجو. این مورد به صورت پیش فرض فعال است و شما فقط میتوانید آن را غیرفعال کنید. البته اگر از پلاگین های سئو استفاده میکنید پیشنهاد میکنیم این گزینه را غیرفعال کنید."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1983
+msgid "Auto"
+msgstr "خودکار"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/admin/settings.php:1983
+msgid "Manual"
+msgstr "دستی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-functions.php:56
+msgid "Home Page"
+msgstr "صفحه خانگی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-loop.php:146
+msgid "says:"
+msgstr "میگوید :"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-loop.php:152
+msgid "Your comment is awaiting moderation."
+msgstr "نظر شما در انتظار تایید توسط مدیریت سایت است."
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-loop.php:159
+msgid "at"
+msgstr "در"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-loop.php:159
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-loop.php:176
+msgid "(Edit)"
+msgstr "(ویرایش)"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-loop.php:176
+msgid "Pingback: "
+msgstr "پینگ بک :"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-loop.php:213
+msgid "By "
+msgstr "توسط"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-loop.php:224
+msgid "Leave a comment"
+msgstr "دیدگاهتان را بنویسید"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-loop.php:224
+msgid "<b>1</b> Comment"
+msgstr "<b>1</b> نظر"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-loop.php:224
+msgid "<b>%</b> Comments"
+msgstr "<b>%</b> نظرات"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-loop.php:247
+msgid " Bookmark the "
+msgstr " Bookmark the "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-loop.php:247
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-loop.php:249
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-loop.php:251
+msgid "Permalink to"
+msgstr "پیوند یکتا به"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-loop.php:247
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-loop.php:249
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-loop.php:251
+msgid "permalink"
+msgstr "پیوند یکتا"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-loop.php:249
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-loop.php:251
+msgid "Bookmark the "
+msgstr "Bookmark the "
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-loop.php:273
+msgid "<span class=\"meta-nav\">&laquo;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&laquo;</span> نوشته های قدیمی تر"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-loop.php:274
+msgid "Newer posts <span class=\"meta-nav\">&raquo;</span>"
+msgstr "پست های جدیدتر <span class=\"meta-nav\">&raquo;</span>"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-seo.php:26
+#, php-format
+msgid "Page %s"
+msgstr "صفحه %s"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-setup.php:91
+msgid "Primary Navigation"
+msgstr "منوی اولی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-setup.php:92
+msgid "Top Navigation"
+msgstr "منوی بالایی"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-setup.php:93
+msgid "Footer Navigation"
+msgstr "منوی پاصفحه"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-setup.php:137
+msgid "mantra"
+msgstr "مانترا"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-setup.php:196
+msgid "Primary Widget Area - Sidebar 1"
+msgstr "محیط ابزارک اول - سایدبار 1"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-setup.php:198
+msgid "Primary widget area - Sidebar 1"
+msgstr "محیط ابزارک اول - سایدبار 1"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-setup.php:207
+msgid "Secondary Widget Area - Sidebar 1"
+msgstr "محیط ابزارک دوم - سایدبار 1"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-setup.php:209
+msgid "Secondary widget area - Sidebar 1"
+msgstr "محیط ابزارک دوم - سایدبار 1"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-setup.php:218
+msgid "Third Widget Area - Sidebar 2"
+msgstr "محیط ابزارک سوم - سایدبار 2"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-setup.php:220
+msgid "Third widget area - Sidebar 2"
+msgstr "محیط ابزارک سوم - سایدبار 2"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-setup.php:229
+msgid "Fourth Widget Area - Sidebar 2"
+msgstr "محیط ابزارک چهارم - سایدبار 2"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-setup.php:231
+msgid "Fourth widget area  - Sidebar 2"
+msgstr "محیط ابزارک چهارم - سایدبار 2"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-setup.php:240
+msgid "First Footer Widget Area"
+msgstr "محیط ابزارک اول محیط پایین صفحه"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-setup.php:242
+msgid "First footer widget area"
+msgstr "محیط ابزارک اول محیط پایین صفحه"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-setup.php:251
+msgid "Second Footer Widget Area"
+msgstr "محیط ابزارک دوم محیط پایین صفحه"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-setup.php:253
+msgid "Second footer widget area"
+msgstr "محیط ابزارک دوم محیط پایین صفحه"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-setup.php:262
+msgid "Third Footer Widget Area"
+msgstr "محیط ابزارک سوم  محیط پایین صفحه"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-setup.php:264
+msgid "The third footer widget area"
+msgstr "محیط ابزارک سوم  محیط پایین صفحه"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-setup.php:273
+msgid "Fourth Footer Widget Area"
+msgstr "محیط ابزارک چهارم محیط پایین صفحه"
+
+#: E:\Localhost\Blog\wp-content\themes\mantra/includes/theme-setup.php:275
+msgid "The fourth footer widget area"
+msgstr "محیط ابزارک چهارم محیط پایین صفحه"
+

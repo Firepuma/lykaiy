@@ -1,0 +1,2298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mantra 197\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-15 19:23+0100\n"
+"PO-Revision-Date: 2013-01-16 15:46+0100\n"
+"Last-Translator: GeriSoft <gerisoft.studio@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/"
+"themes/mantra/\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-"
+"content/themes/mantra\n"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/404.php:33
+msgid "Not Found"
+msgstr "Nincs találat"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/404.php:37
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr "Sajnos a keresett oldal nem található. Próbálj meg másképp keresni…"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/archive.php:49
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Napi archívum: %s"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/archive.php:53
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Havi archívum: %s"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/archive.php:57
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Éves archívum: %s"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/archive.php:61
+msgid "Blog Archives"
+msgstr "Blog archívum"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/archive.php:113
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/author.php:147
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/category.php:99
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/index.php:81
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/search.php:79
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/tag.php:101
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/template-blog.php:71
+msgid "Nothing Found"
+msgstr "Nincs találat"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/archive.php:121
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/author.php:155
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/category.php:107
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/index.php:89
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/tag.php:109
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/template-blog.php:79
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+"Sajnos a keresett bejegyzés nem található. Próbáld meg megkeresni másképp..."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/attachment.php:35
+#, php-format
+msgid "Return to %s"
+msgstr "Visszalépés: %s"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/attachment.php:57
+msgid "By"
+msgstr "Írta: "
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/attachment.php:79
+msgid "Published"
+msgstr "Publikálta: "
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/attachment.php:99
+#, php-format
+msgid "Full size is %s pixels"
+msgstr "A teljes méret %s pixel"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/attachment.php:105
+msgid "Link to full-size image"
+msgstr "Link a teljes méretű képhez"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/attachment.php:119
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/attachment.php:213
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-aside.php:95
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-chat.php:97
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-gallery.php:129
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-image.php:83
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-link.php:97
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-page.php:43
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-quote.php:91
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-status.php:95
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content.php:153
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/single.php:105
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/template-onecolumn.php:53
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/attachment.php:199
+msgid "Continue reading"
+msgstr "Tovább olvasom"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/attachment.php:201
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-aside.php:77
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-chat.php:75
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-gallery.php:109
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-image.php:65
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-link.php:75
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-page.php:41
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-quote.php:71
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-status.php:77
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content.php:97
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content.php:131
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/single.php:61
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/template-onecolumn.php:51
+msgid "Pages:"
+msgstr "Oldalak: "
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/author.php:55
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Szerző archívum: %s"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/author.php:97
+#, php-format
+msgid "About %s"
+msgstr "%s adatai"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/category.php:37
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Kategória archívum: %s"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/comments.php:35
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "Ez a bejegyzés jelszóval védett. Lépj be az elolvasásához!"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-aside.php:39
+msgid "Aside"
+msgstr "Félre"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-aside.php:75
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-chat.php:73
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-gallery.php:65
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-image.php:63
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-link.php:73
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-quote.php:69
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-status.php:75
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tovább olvasom <span class=\"meta-nav\">&rarr;</span>"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-aside.php:91
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-chat.php:89
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-gallery.php:123
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-image.php:77
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-link.php:89
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-quote.php:85
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-status.php:91
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content.php:149
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-loop.php:369
+msgid "Tagged"
+msgstr "Megjelölve"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-chat.php:39
+msgid "Chat"
+msgstr "Chat"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-gallery.php:39
+msgid "Gallery"
+msgstr "Galéria"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-image.php:37
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:923
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:953
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:983
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1013
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1043
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1129
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1159
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1189
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1219
+msgid "Image"
+msgstr "Kép"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-link.php:39
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:937
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:967
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:997
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1027
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1057
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1143
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1173
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1203
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1233
+msgid "Link"
+msgstr "Link"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-page.php:53
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-comments.php:271
+msgid "Comments are closed."
+msgstr "Hozzászólás nem lehetséges."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-quote.php:35
+msgid "Quote"
+msgstr "Idézet"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/content-status.php:59
+msgid "Status"
+msgstr "Státusz"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/search.php:37
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Keresési eredmények: %s"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/search.php:75
+#, php-format
+msgid "No search results for: %s"
+msgstr "Nincs találat a keresett kifejezésre: %s"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/searchform.php:1
+msgid "Search"
+msgstr "Keresés"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/single.php:87
+msgid "View all posts by "
+msgstr "Minden bejegyzés megtekintése tőle: "
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/tag.php:39
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Cimke archívum: %s"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/admin-functions.php:123
+msgid ""
+"Before you can upload your import file, you will need to fix the following "
+"error:"
+msgstr ""
+"Mielőtt feltöltöd az import file, a következő hibákat kell kijavítani: "
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/admin-functions.php:139
+msgid "Import Mantra Theme Options"
+msgstr "Mantra sablon opciók importálása"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/admin-functions.php:143
+msgid ""
+"Hi! This is where you import the  Mantra settings.<i> Please remember that "
+"this is still an experimental feature.</i>"
+msgstr ""
+"Üdv! Itt tudod importálni a Mantra beállításokat.<i>Vigyázz, ez egy "
+"kísérleti funkció.</i>"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/admin-functions.php:147
+msgid "Just choose a file from your computer:"
+msgstr "Válassz egy filet a számítógépről:"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/admin-functions.php:151
+#, php-format
+msgid "Maximum size: %s"
+msgstr "Maximális méret: %s"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/admin-functions.php:163
+msgid "And import!"
+msgstr "Hajrá!"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/admin-functions.php:295
+msgid "Import Mantra Theme Options "
+msgstr "Mantra sablon opciók importálása"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/admin-functions.php:301
+msgid "Great! The options have been imported!"
+msgstr "Szuper! Az opciók importálva!"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/admin-functions.php:303
+msgid "Go back to the Mantra options page and check them out!"
+msgstr "Vissza a Mantra opciók oldalra és ellenőrizd!"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/admin-functions.php:309
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/admin-functions.php:321
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/admin-functions.php:333
+msgid "Oops, there's a small problem."
+msgstr "Hoppá, egy kis hiba történt."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/admin-functions.php:311
+msgid ""
+"The uploaded file does not contain valid Mantra options. Make sure the file "
+"is exported from the Mantra Options page."
+msgstr ""
+"A feltöltött file nem tartalmaz Mantra opciókat. Ellenőrizd, hogy a file "
+"tényleg a Mantra exportálóval készült!"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/admin-functions.php:323
+msgid "The uploaded file could not be read."
+msgstr "A feltöltött file nem olvasható."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/admin-functions.php:335
+msgid ""
+"The uploaded file is not supported. Make sure the file was exported from the "
+"Mantra page and that it is a text file."
+msgstr ""
+"A feltöltött file nem támogatott. Ellenőrizd, hogy a file tényleg a Mantra "
+"exportálóval készült!"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/admin-functions.php:353
+msgid ""
+"Oops! The file is empty or there was no file. This error could also be "
+"caused by uploads being disabled in your php.ini or by post_max_size being "
+"defined as smaller than upload_max_filesize in php.ini."
+msgstr ""
+"Hoppá! A file üres vagy nem létezik. Ez a hiba akkor fordulhat elő, ha a "
+"feltöltés tiltott a php.ini fileban, vagy nagyobb, mint a maximális méret "
+"beállítás az upload_max_filesize opciónál."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/admin-functions.php:365
+msgid "ERROR: You are not authorised to perform that operation"
+msgstr "HIBA: nincs jogod a kért feladatra"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:185
+msgid "Layout Settings"
+msgstr "Elrendezés beállításai"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:187
+msgid "Presentation Page"
+msgstr "Bemutató oldal"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:189
+msgid "Text Settings"
+msgstr "Szöveg beállítások"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:191
+msgid "Color Settings"
+msgstr "Szín beállítások"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:193
+msgid "Graphics Settings"
+msgstr "Grafikai beállítások"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:195
+msgid "Post Information Settings"
+msgstr "Bejegyzés információs beállítások"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:197
+msgid "Post Excerpt Settings"
+msgstr "Szemelvény beállítások"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:199
+msgid "Featured Image Settings"
+msgstr "Kiemelt kép beállítások"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:201
+msgid "Social Media Settings"
+msgstr "Közösségi média beállítások"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:203
+msgid "Miscellaneous Settings"
+msgstr "Egyéb beállítások"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:207
+msgid "Main Layout"
+msgstr "Fő elrendezés"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:209
+msgid "Content / Sidebar Width"
+msgstr "Tartalom / Oldalsáv szélesség"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:211
+msgid "Header Image Height"
+msgstr "Fejléc kép magasság"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:215
+msgid "Enable Presentation Page"
+msgstr "Bemutató oldal engedélyezése"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:217
+msgid "Slider Settings"
+msgstr "Diavetítés beállítása"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:219
+msgid "Slides"
+msgstr "Diák"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:221
+msgid "Presentation Page Columns"
+msgstr "Prezentációs oldal oszlopok"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:223
+msgid "Extras"
+msgstr "Extrák"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:227
+msgid "General Font"
+msgstr "Általános betűtípus"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:229
+msgid "General Font Size"
+msgstr "Általános betűtípus mérete"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:231
+msgid "Post Title Font "
+msgstr "Bejegyzés címe betűtípus"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:233
+msgid "Post Title Font Size"
+msgstr "Bejegyzés betűtípus mérete"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:235
+msgid "Sidebar Font"
+msgstr "Oldalsáv betűtípus"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:237
+msgid "SideBar Font Size"
+msgstr "Oldalsáv betűtípus mérete"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:239
+msgid "Sub-Headers Font"
+msgstr "Al-címsor betűtípus"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:241
+msgid "Force Text Align"
+msgstr "Elrendezés kényszerítése"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:243
+msgid "Paragraph indent"
+msgstr "Bekezdés behúzása"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:245
+msgid "Header indent"
+msgstr "Fejléc behúzása"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:247
+msgid "Line Height"
+msgstr "Sor magasság"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:249
+msgid "Word spacing"
+msgstr "Szó-köz"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:251
+msgid "Letter spacing"
+msgstr "Betű-köz"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:253
+msgid "Text shadow"
+msgstr "Szöveg árnyékolás"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:257
+msgid "Background Color"
+msgstr "Háttér szín"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:259
+msgid "Header (Banner and Menu) Background Color"
+msgstr "Fejléc (banner és menü) háttér szín"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:261
+msgid "Content Background Color"
+msgstr "Tartalom háttér szín"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:263
+msgid "Menu Background Color"
+msgstr "Menü háttér szín"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:265
+msgid "First Sidebar Background Color"
+msgstr "Első oldalsáv háttér szín"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:267
+msgid "Second Sidebar Background Color"
+msgstr "Második oldalsáv háttér szín"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:271
+msgid "Site Title Color"
+msgstr "Oldal cím szín"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:273
+msgid "Site Description Color"
+msgstr "Oldal leírás szín"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:277
+msgid "Content Text Color"
+msgstr "Tartalom szöveg szín"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:279
+msgid "Links Color"
+msgstr "Link szín"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:281
+msgid "Links Hover Color"
+msgstr "Link hover szín"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:283
+msgid "Post Title Color"
+msgstr "Bejegyzés címe szín"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:285
+msgid "Post Title Hover Color"
+msgstr "Bejegyzés címe hover szín"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:287
+msgid "Sidebar Header Background Color"
+msgstr "Oldalsáv fejléc háttér szín"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:289
+msgid "Sidebar Header Text Color"
+msgstr "Oldalsáv fejléc szöveg szín"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:291
+msgid "Footer Widget Background Color"
+msgstr "Lábléc widget háttér szín"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:293
+msgid "Footer Background Color"
+msgstr "Lábléc háttér szín"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:295
+msgid "Footer Widget Header Text Color"
+msgstr "Lábléc widget fejléc szöveg szín"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:297
+msgid "Footer Widget Link Color"
+msgstr "Lábléc widget link szín"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:299
+msgid "Footer Widget Hover Color"
+msgstr "Lábléc widget hover szín"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:303
+msgid "Caption Border"
+msgstr "Képaláírás kerete"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:305
+msgid "Post Images Border"
+msgstr "Bejegyzés képek kerete"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:307
+msgid "Caption Pin"
+msgstr "Képaláírás jelölő"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:309
+msgid "Sidebar Menu Bullets"
+msgstr "Oldalsáv menü jelek"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:311
+msgid "Meta Area Background"
+msgstr "Meta terület háttér"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:313
+msgid "Post Separator"
+msgstr "Bejegyzés elválasztó"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:315
+msgid "Content List Bullets"
+msgstr "Tartalom lista jelölő"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:317
+msgid "Title and Description"
+msgstr "Cím és leírás"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:319
+msgid "Page Titles"
+msgstr "Oldal címek"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:321
+msgid "Category Page Titles"
+msgstr "Kategória oldal címek"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:323
+msgid "Hide Tables"
+msgstr "Táblák elrejtése"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:325
+msgid "Back to Top button"
+msgstr "Vissza a tetejére gomb"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:327
+msgid "Text Under Comments"
+msgstr "Szöveg a hozzászólások alatt"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:329
+msgid "Comments are closed text"
+msgstr "Hozzászólások lezárva szöveg"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:331
+msgid "Comments off"
+msgstr "Hozzászólások kikapcsolása"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:333
+msgid "Custom Footer Text"
+msgstr "Egyedi lábléc szöveg"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:337
+msgid "Post Comments Link"
+msgstr "Bejegyzés hozzászólások link"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:339
+msgid "Post Date"
+msgstr "Bejegyzés dátuma"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:341
+msgid "Post Time"
+msgstr "Bejegyzés ideje"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:343
+msgid "Post Author"
+msgstr "Bejegyzés szerzője"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:345
+msgid "Post Category"
+msgstr "Bejegyzés kategória"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:347
+msgid "Post Tags"
+msgstr "Bejegyzés cimke"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:349
+msgid "Post Permalink"
+msgstr "Bejegyzés permalink"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:351
+msgid "All Post Metas"
+msgstr "Minden bejegyzés meta adat"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:355
+msgid "Post Excerpts on Home Page"
+msgstr "Bejegyzés szemelvények a kezdőlapon"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:357
+msgid "Affect Sticky Posts"
+msgstr "Befolyásolja a ragadós bejegyzést"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:359
+msgid "Post Excerpts on Archive and Category Pages"
+msgstr "Bejegyzés szemelvények a kategória archívum oldalakon"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:361
+msgid "Number of Words for Post Excerpts "
+msgstr "Szavak száma a bejegyzés szemelvényekhez"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:363
+msgid "Magazine Layout"
+msgstr "Oldal elrendezés"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:365
+msgid "Excerpt suffix"
+msgstr "Szemelvény kivonat"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:367
+msgid "Continue reading link text "
+msgstr "Tovább olvasom link szöveg"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:369
+msgid "HTML tags in Excerpts"
+msgstr "HTML tag-ek a szemelvényekben"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:373
+msgid "Featured Images as POST Thumbnails "
+msgstr "Kiemelt képek a bejegyzések bélyegképeiben"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:375
+msgid "Auto Select Images From Posts "
+msgstr "Képek automatikus kiválasztása a bejegyzésekhez"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:377
+msgid "Thumbnails Alignment "
+msgstr "Bélyegkép igazítása"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:379
+msgid "Thumbnails Size "
+msgstr "Bélyegkép mérete"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:381
+msgid "Featured Images as HEADER Images "
+msgstr "Kiemelt kép FEJLÉC képként"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:385
+msgid "Link nr. 1"
+msgstr "1. Link"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:387
+msgid "Link nr. 2"
+msgstr "2. Link"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:389
+msgid "Link nr. 3"
+msgstr "3. Link"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:391
+msgid "Link nr. 4"
+msgstr "4. Link"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:393
+msgid "Link nr. 5"
+msgstr "5. Link"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:395
+msgid "Socials display"
+msgstr "Közösségi hálózat megjelenítése"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:399
+msgid "Make Site Header a Link"
+msgstr "Legyen a fejléc link"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:401
+msgid "Breadcrumbs"
+msgstr "Breadcrumb"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:403
+msgid "Pagination"
+msgstr "Lapozó"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:405
+msgid "Mobile view"
+msgstr "Mobil nézet"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:407
+msgid "FavIcon"
+msgstr "FavIcon"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:409
+msgid "Custom CSS"
+msgstr "egyéni CSS"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:411
+msgid "Custom JavaScript"
+msgstr "Egyéni JavaScript"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:413
+msgid "SEO Settings"
+msgstr "SEO beállítások"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:447
+msgid "Sorry, but you do not have sufficient permissions to access this page."
+msgstr "Sajnálom, nincs elegendő jogosultságod megnyitni ezt az oldalt."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:467
+msgid "Mantra settings updated successfully."
+msgstr "Mantra beállítások frissítve!"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:489
+msgid "Reset to Defaults"
+msgstr "Vissza az alapokhoz"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:491
+msgid "Save Changes"
+msgstr "Változások mentése"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:519
+msgid ""
+"<p>Here at Cryout Creations (the developers of yours truly Mantra Theme), we "
+"spend night after night improving the Mantra Theme. We fix a lot of bugs "
+"(that we previously created); we add more and more customization options "
+"while also trying to keep things as simple as possible; then... we might "
+"play a game or two but rest assured that we return to read and (in most "
+"cases) reply to your late night emails and comments, take notes and draw "
+"dashboards of things to implement in future versions.</p>\n"
+"\n"
+"\t\t\t<p>So you might ask yourselves: <i>How do they do it? How can they "
+"keep so fresh after all that hard labor for that darned theme? </i> Well "
+"folks, it's simple. We drink coffee. Industrial quantities of hot boiling "
+"coffee. We love it! So if you want to help with the further development of "
+"the Mantra Theme...</p> "
+msgstr ""
+"<p>Mi itt a Cryout Creations-nél (a Mantra sablon készítő csapatánál) éjjel-"
+"nappal fejlesztjük a kedvenc Mantra sablonod. Rengeteg hibát javítunk (amit "
+"korábban tettünk bele :) ), több és jobb funkciókat adunk hozzá, melyekkel "
+"mind jobban testreszabható az oldalad. Majd játszunk egy kicsit… Aztán "
+"visszatérünk, elolvassuk a rengeteg visszajelzést, emailt és hozzászólást, "
+"majd (legtöbbször) meg is válaszoljuk aznap őket. És sokszor ki is "
+"fejlesztjük a kért funkciót.</p>\n"
+"\n"
+"\t\t\t<p>Szóval kérdezd meg magadtól: <i>Hogyan csinálják? Hogyan tudják "
+"naprakészen tartani az oldalt? </i> Nos, mi sem egyszerűbb, barátaim… Kávét "
+"iszunk. Ipari mennyiségű kávét iszunk :) És mi szeretjük ezt! Szóval, ha "
+"szeretnéd támogatni a mi csapatunkat...</p> "
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:549
+msgid "Import/Export Settings"
+msgstr "Import/Export beállítások"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:561
+msgid "Export Theme options"
+msgstr "Theme export opciók"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:563
+msgid ""
+"It's that easy: a mouse click away - the ability to export your Mantra "
+"settings and save them on your computer. Feeling safer? You should!"
+msgstr ""
+"Ez ilyen egyszerű: csak egy kattintás, és az összes Mantra beállítást "
+"lementheted a számítógépedre. Nagyobb biztonságban érzed magad? Lehet is :)"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:573
+msgid "Import Theme options"
+msgstr "Theme opciók importálása"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:575
+msgid ""
+" Without the import, the export would just be a fool's exercise. Make sure "
+"you have the exported file ready and see you after the mouse click."
+msgstr ""
+"Az importálás nélkül az exportálás csak butaság. Ellenőrizd a file meglétét "
+"a gépeden!"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:589
+msgid "Mantra Latest News"
+msgstr "Legfrissebb Mantra hírek"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:611
+msgid "No news items."
+msgstr "Nincs új hír"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:639
+msgid "Mantra Help"
+msgstr "Mantra súgó"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:645
+msgid ""
+"\n"
+"\n"
+"\t\t\t<ul>\n"
+"\n"
+"\t\t\t\t<li>- Need any Mantra or WordPress help?</li>\n"
+"\n"
+"\t\t\t\t<li>- Want to know what changes are made to the theme with each new "
+"version?</li>\n"
+"\n"
+"\t\t\t\t<li>- Found a bug or maybe something doesn't work exactly as "
+"expected?</li>\n"
+"\n"
+"\t\t\t\t<li>- Got an idea on how to improve the Mantra Theme to better suit "
+"your needs?</li>\n"
+"\n"
+"\t\t\t\t<li>- Want a setting implemented?</li>\n"
+"\n"
+"\t\t\t\t<li>- Do you have or would you like to make a translation of the "
+"Mantra Theme?</li>\n"
+"\n"
+"\t\t\t</ul>\n"
+"\n"
+"\t\t\t<p>Then come visit us at Mantra's support page.</p>\n"
+"\n"
+"\t"
+msgstr ""
+"\n"
+"\n"
+"\t\t\t<ul>\n"
+"\n"
+"\t\t\t\t<li>- Szükséged lenne Mantra segítségre a WP oldaladhoz?</li>\n"
+"\n"
+"\t\t\t\t<li>- Szeretnéd tudni, milyen változások érhetők el a frissítésben?</"
+"li>\n"
+"\n"
+"\t\t\t\t<li>- Hibát találtál, vagy valami nem úgy működik, mint elképzelted?"
+"</li>\n"
+"\n"
+"\t\t\t\t<li>- Van egy ötleted, amivel jobbá tehetnéd a Mantra sablont?</li>\n"
+"\n"
+"\t\t\t\t<li>- Szükséged van egyedi beállításra?</li>\n"
+"\n"
+"\t\t\t\t<li>- Van kész fordításod, vagy szeretnél fordítani?</li>\n"
+"\n"
+"\t\t\t</ul>\n"
+"\n"
+"\t\t\t<p>Akkor látogasd meg a Mantra support oldalát.</p>\n"
+"\n"
+"\t"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/main.php:667
+msgid "Mantra Support Page"
+msgstr "Mantra terméktámogatás"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:121
+msgid "One column (no sidebars)"
+msgstr "Egy oszlop (nincs oldalsáv)"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:123
+msgid "Two columns,  sidebar on the right"
+msgstr "Két oszlop, oldalsáv jobb oldalt"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:125
+msgid "Two columns,  sidebar on the left"
+msgstr "Két oszlop, oldalsáv bal oldalt"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:127
+msgid "Three columns, sidebars on the right"
+msgstr "Három oszlop, oldalsáv jobb oldalt"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:129
+msgid "Three columns, sidebars on the left"
+msgstr "Három oszlop, oldalsáv bal oldalt"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:131
+msgid "Three columns, one sidebar on each side"
+msgstr "Három oszlop, oldalsáv mindkét oldalon"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:161
+msgid "Choose your layout "
+msgstr "Válassz elrendezést"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:177
+msgid "Absolute"
+msgstr "Abszolút"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:177
+msgid "Relative"
+msgstr "Relatív"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:179
+msgid "Dimensions to use: "
+msgstr "Méretek használata: "
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:377
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:417
+msgid "Content ="
+msgstr "Tartalom ="
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:379
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:419
+msgid "Sidebar(s) ="
+msgstr "Oldalsáv(ok) ="
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:381
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:421
+msgid "Total width ="
+msgstr "Teljes szélesség ="
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:399
+msgid ""
+"Select the width of your <b>content</b> and <b>sidebar(s)</b>. \n"
+"\n"
+" \t\tWhile the content cannot be less than 500px wide, the sidebar area is "
+"at least 220px and no more than 800px.<br />\n"
+"\n"
+"\tIf you went for a 3 column area ( with 2 sidebars) they will each have "
+"half the selected width."
+msgstr ""
+"Válaszd ki a <b>tartalom</b> és az <b>oldalsáv(ok)</b> szélességét. \n"
+"\n"
+" \t\tA tartalom nem lehet kisebb mint 500px széles, az oldalsáv minimum "
+"220px és maximum 800px.<br />\n"
+"\n"
+"\tHa 3 hasábos kinézetet állítasz be (2 oldalsávval) akkor a szélességek "
+"egyenként értendők."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:439
+msgid ""
+"Select the width of your <b>content</b> and <b>sidebar(s)</b>. \n"
+"\n"
+" \t\tThese are realtive dimmensions - relative to the user's browser. The "
+"total width is a percentage of the browser's width.<br />\n"
+"\n"
+"\t While the content cannot be less than 40% wide, the sidebar area is at "
+"least 20% and no more than 50%.<br />\n"
+"\n"
+"\tIf you went for a 3 column area ( with 2 sidebars) they will each have "
+"half the selected width."
+msgstr ""
+"Válaszd ki a <b>tartalom</b> és az <b>oldalsáv(ok)</b> szélességét. \n"
+"\n"
+" \t\tEzek relatív méretek a böngésző szélességéhez képest. A teljes méret "
+"adott százaléka a szélesség.<br />\n"
+"\n"
+"\t A tartalom nem lehet kisebb mint 40% szélesség, az oldalsáv minimum 20% "
+"és maximum 50%.<br />\n"
+"\n"
+"\tHa 3 hasábos kinézetet választasz 2 oldalsávval, akkor a két oldalsáv a "
+"választott szélesség fele-fele lesz."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:487
+msgid ""
+"Select the header's height. After saving the settings go and upload your new "
+"header image. The header's width will be = "
+msgstr ""
+"Válaszd ki a fejléc magasságát. Miután elmentetted töltsd fel az új fejléc "
+"képet. A fejléc kép szélessége legyen ="
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:513
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1937
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2061
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2733
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2857
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3273
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3331
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3377
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3423
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3521
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3779
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3809
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3839
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3869
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3953
+msgid "Enable"
+msgstr "Engedélyezés"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:513
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1937
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2061
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2733
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2857
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3273
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3331
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3377
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3423
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3521
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3779
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3809
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3839
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3869
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3953
+msgid "Disable"
+msgstr "Letiltás"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:529
+msgid ""
+"Enable the presentation front-page. This will become your new home page. It "
+"has a slider and columns for presentation\n"
+"\n"
+"\t\ttext and images.<br>If you have this enabled but don't see a "
+"Presentation page then go to <a href='options-reading.php'> Settings &raquo; "
+"Reading </a> and make sure you have selected <strong>Front Page Displays</"
+"strong> as <Strong>Your Latest Posts</strong>."
+msgstr ""
+"A prezentációs kezdő oldal engedélyezése. Ezután új kezdőlapod lesz, melyen "
+"egy diavetítés fut majd\n"
+"\n"
+"\t\t szöveggel és képpel.<br>Ha engedélyezed, de nem látod a prezentációs "
+"oldalt, menj a <a href='options-reading.php'> Beállítások &raquo; Olvasás </"
+"a> menübe és ellenőrizd, hogy a megfelelő oldal van kiválasztva "
+"<strong>kezdőlapnak</strong> mint <strong>utolsó bejegyzések</strong>."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:549
+msgid "Slider Dimensions:"
+msgstr "Diavetítés méretei:"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:551
+msgid "width"
+msgstr "szélesség"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:553
+msgid "height"
+msgstr "magasság"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:555
+msgid ""
+"The dimensions of your slider. Make sure your images are of the same size."
+msgstr "A diavetítés mérete. Ellenőrizd, hogy minden kép azonos méretű legyen!"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:559
+msgid "Animation:"
+msgstr "Animáció:"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:563
+msgid "Random"
+msgstr "Véletlenszerű"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:563
+msgid "Fold"
+msgstr "Hajtogatás"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:563
+msgid "Fade"
+msgstr "Áttűnés"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:563
+msgid "SlideInRight"
+msgstr "Becsúszás jobbra"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:563
+msgid "SlideInLeft"
+msgstr "Becsúszás balra"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:563
+msgid "SliceDown"
+msgstr "Szeletelve le"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:563
+msgid "SliceDownLeft"
+msgstr "Szeletelve balra"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:563
+msgid "SliceUp"
+msgstr "Szeletelve fel"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:563
+msgid "SliceUpLeft"
+msgstr "Szeletelve le"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:563
+msgid "SliceUpDown"
+msgstr "Szeletelve fel/le"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:563
+msgid "SliceUpDownLeft"
+msgstr "Szeletelve le/balra"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:563
+msgid "BoxRandom"
+msgstr "Doboz véletlenszerű"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:563
+msgid "BoxRain"
+msgstr "Doboz eső"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:563
+msgid "BoxRainReverse"
+msgstr "Doboz eső vissza"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:563
+msgid "BoxRainGrow"
+msgstr "Doboz eső növekvő"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:563
+msgid "BoxRainGrowReverse"
+msgstr "Doboz eső növekvő visszafelé"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:579
+msgid "The transition effect your slider will have."
+msgstr "A diavetítés effektje lesz."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:583
+msgid "Border Settings:"
+msgstr "Keret beállítások:"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:585
+msgid "Width"
+msgstr "Szélesség"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:587
+msgid "Color"
+msgstr "Szín"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:591
+msgid "The width and color of the slider's border."
+msgstr "A diavetítés keretének szélessége és színe"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:595
+msgid "Animation Time:"
+msgstr "Animáció ideje:"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:597
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:605
+msgid "milliseconds (1000ms = 1 second) "
+msgstr "ezredmásodperc (1000ms = 1mp)"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:599
+msgid "The time in which the transition animation will take place."
+msgstr "Ez alatt az idő alatt fut le az animáció"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:603
+msgid "Pause Time:"
+msgstr "Szünet ideje:"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:607
+msgid "The time in which a slide will be still and visible."
+msgstr "Ennyi ideig marad a kép mozdulatlan."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:613
+msgid "Slider navigation:"
+msgstr "Diavetítés navigáció:"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:617
+msgid "Numbers"
+msgstr "Számok"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:617
+msgid "Bullets"
+msgstr "Jelölők"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:617
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2545
+msgid "None"
+msgstr "Semmi"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:633
+msgid "Your slider navigation type. Shown under the slider."
+msgstr "A diavetítés navigáció típusa. Megjelenik a diavetítés alatt."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:637
+msgid "Slider arrows:"
+msgstr "Diavetítés nyilak:"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:641
+msgid "Always Visible"
+msgstr "Mindig látható"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:641
+msgid "Visible on Hover"
+msgstr "Föléhúzáskor látható"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:641
+msgid "Hidden"
+msgstr "Rejtett"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:657
+msgid "The Left and Right arrows on your slider"
+msgstr "A bal és jobb nyilak mindig a diákon"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:739
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:875
+msgid "Select Category"
+msgstr "Válassz kategóriát"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:793
+msgid "Custom Slides"
+msgstr "Egyedi diák"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:793
+msgid "Latest Posts"
+msgstr "Utolsó bejegyzések"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:793
+msgid "Random Posts"
+msgstr "Véletlenszerű bejegyzések"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:793
+msgid "Sticky Posts"
+msgstr "Ragadós bejegyzések"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:793
+msgid "Latest Posts from Category"
+msgstr "Utolsó bejegyzések adott kategóriából"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:793
+msgid "Random Posts from Category"
+msgstr "Véletlenszerű bejegyzések adott kategóriából"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:793
+msgid "Specific Posts"
+msgstr "Adott bejegyzések"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:819
+msgid "Latest posts will be loaded into the slider."
+msgstr "Legutóbbi bejegyzések lesznek betöltve a diavetítésbe."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:827
+msgid "Random  posts will be loaded into the slider."
+msgstr "A diavetítésbe véletlenszerű bejegyzések kerülnek."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:835
+msgid "Latest posts from the category you choose will be loaded in the slider."
+msgstr ""
+"A diavetítésbe a legutóbbi bejegyzések fognak bekerülni a választott "
+"kategóriából."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:845
+msgid ""
+"Random posts from the category you choose will be loaded into the slider."
+msgstr ""
+"A diavetítésbe a legutóbbi bejegyzések fognak bekerülni a választott "
+"kategóriából."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:853
+msgid "Only sticky posts will be loaded into the slider."
+msgstr "Csak a ragadós bejegyzések kerülnek be a diavetítésbe."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:861
+msgid "List the post IDs you want to display (separated by a comma): "
+msgstr ""
+"Válaszd ki a bejegyzések ID-it amik a diavetítésbe kerülnek, vesszővel "
+"elválasztva:"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:871
+msgid "<br> Choose the cateogry: "
+msgstr "<br> Válassz kategóriát:"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:905
+msgid "Number of posts to show:"
+msgstr "Bejegyzések száma a megjelenítéshez:"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:919
+msgid "Slide 1"
+msgstr "1. Dia"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:927
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:957
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:987
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1017
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1047
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1133
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1163
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1193
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1223
+msgid "Upload or select image from gallery"
+msgstr "Tölts fel képet vagy válassz a médiatárból"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:929
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:959
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:989
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1019
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1049
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1135
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1165
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1225
+msgid "Title"
+msgstr "Cím"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:933
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:963
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:993
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1023
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1053
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1139
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1169
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1199
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1229
+msgid "Text"
+msgstr "Szöveg"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:949
+msgid "Slide 2"
+msgstr "2. Dia"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:979
+msgid "Slide 3"
+msgstr "3. Dia"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1009
+msgid "Slide 4"
+msgstr "4. Dia"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1039
+msgid "Slide 5"
+msgstr "5. Dia"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1065
+msgid ""
+"Your slides' content. Only the image is required, all other fields are "
+"optional. Only the slides with an image selected will become acitve and "
+"visible in the live slider."
+msgstr ""
+"A diák tartalma. Csak a képek kötelezők, minden más mező opcionális. Csak "
+"olyan dia jelenik meg, amihez van kép beállítva, és aktív."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1085
+msgid "Number of columns:"
+msgstr "Oszlopok száma:"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1105
+msgid "Image Height:"
+msgstr "Kép magassága:"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1111
+msgid "Read more text:"
+msgstr "Több szöveg olvasása:"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1117
+msgid ""
+"The linked text that appears at the bottom of all the columns. You can "
+"delete all text inside if you don't want it."
+msgstr ""
+"A linkelt szöveg megjelenik minden oszlop alatt. A szöveget törölheted, ha "
+"nincs rá szükséged."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1125
+msgid "1st Column"
+msgstr "1. Oszlop"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1155
+msgid "2nd Column"
+msgstr "2. Oszlop"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1185
+msgid "3rd Column"
+msgstr "3. Oszlop"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1215
+msgid "4th Column"
+msgstr "4. Oszlop"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1259
+msgid "Extra Text"
+msgstr "Extra szöveg"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1259
+msgid "Top Title"
+msgstr "Felső cím"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1263
+msgid "Second Title"
+msgstr "Második cím"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1269
+msgid "Title color"
+msgstr "Cím színe"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1275
+msgid "The titles' color (Default value is 333333)."
+msgstr "A cím alapértelmezett színe 333333"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1279
+msgid "Bottom Text 1"
+msgstr "Alszöveg 1"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1283
+msgid "Bottom Text 2"
+msgstr "Alszöveg 2"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1289
+msgid ""
+"More text for your front page. The top title is above the slider, the second "
+"title between the slider and the columns and 2 more rows of text under the "
+"columns.\n"
+"\n"
+"\t\t It's all optional so leave any input field empty if it's not required. "
+msgstr ""
+"Több szöveg a kezdőlapra. A felső cím a diavetítés felett jelenik meg, a "
+"második cím a diák és az oszlopok közt, és 2-nél több sor az oszlopok alatt "
+"jelenik meg.\n"
+"\n"
+"\t\tEz mind opcionális, hagyd üresen ha nem kell."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1301
+msgid "Hide areas"
+msgstr "Területek elrejtése"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1327
+msgid "Hide the header area (image or background color)."
+msgstr "Fejléc terület elrejtése (képek és háttér szín)"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1335
+msgid "Hide the main menu (the top navigation tabs)."
+msgstr "Főmenü elrejtése (felső navigációs sor)"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1343
+msgid "Hide the footer widgets. "
+msgstr "Lábléc widgetek elrejtése."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1351
+msgid "Hide the footer (copyright area)."
+msgstr "Lábléc (copyright) elrejtése."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1359
+msgid "Hide the white color. Only the background color remains."
+msgstr "Fehér szín elrejtése. Csak a hátérszín marad."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1367
+msgid "Choose the areas to hide on the first page."
+msgstr "Válaszd ki a kezdőlapon elrejtendő területeket."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1405
+msgid ""
+"Select the font size you'll use in your blog. Pages, posts and comments will "
+"be affected. Buttons, Headers and Side menus will remain the same."
+msgstr ""
+"Válaszd ki a BLOG betűméretét. Az oldalak és bejegyzések betűméretei "
+"érintettek. Fejléc és oldalsáv menük nem változnak."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1493
+msgid ""
+"Select the font family you'll use in your blog. All content text will be "
+"affected (including menu buttons). "
+msgstr ""
+"Válaszd ki a betűtípust a BLOG-od részére. Minden szöveg érintett (a menü "
+"gombok is)."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1495
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1593
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1695
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1797
+msgid ""
+"Or insert your Google Font below. Please only isert the <strong>name</"
+"strong> of the font.<br /> Ex: Marko One. Go to <a href='http://www.google."
+"com/webfonts' > google fonts </a> for some font inspiration."
+msgstr ""
+"Vagy válassz egy Google Fontot lent. Csak pontos <strong>nevet</strong> írj "
+"be. <br /> Pl.: Marko one. Menj a <a href='http://www.google.com/webfonts' > "
+"google fonts </a> oldalra további ötletekért."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1589
+msgid ""
+"Select the font family you want for your titles. It will affect post titles "
+"and page titles. Leave 'Default' and the general font you selected will be "
+"used."
+msgstr ""
+"Válaszd ki a betűtípust a címhez. Ez befolyásolja a bejegyzések és oldalak "
+"címét. Hagyd 'alapértelmezett' állásban az általános betűtípus használatához."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1691
+msgid ""
+"Select the font family you want your sidebar(s) to have. Text in sidebars "
+"will be affected, including any widgets. Leave 'Default' and the general "
+"font you selected will be used."
+msgstr ""
+"Válaszd ki a betűtípust az oldalsávhoz. Az oldalsáv szövegek és a widgetek "
+"érintettek. Hagyd 'alapértelmezett' állásban az általános betűtípus "
+"használatához."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1793
+msgid ""
+"Select the font family you want your subheaders to have (h2 - h6 tags will "
+"be affected). Leave 'Default' and the general font you selected will be used."
+msgstr ""
+"Válaszd ki a betűtípust az alcímekhez (h2-h6 elemek is érintettek). Hagyd "
+"'alapértelmezett' állásban az általános betűtípus használatához."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1817
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1847
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1877
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1967
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1997
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2027
+msgid "Default"
+msgstr "Alapértelmezett"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1833
+msgid ""
+"Post Header Font size. Leave 'Default' for normal settings (size value will "
+"be as set in the CSS)."
+msgstr ""
+"Bejegyzés fejléc betűméret. Hagyd 'alapértelmezett' állásban az általános "
+"méret (CSS-ben állítva) használatához."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1863
+msgid ""
+"Sidebar Font size. Leave 'Default' for normal settings (size value will be "
+"as set in the CSS)."
+msgstr ""
+"Oldalsáv betűméret. Hagyd 'alapértelmezett' állásban az általános méret (CSS-"
+"ben állítva) használatához."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1877
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3455
+msgid "Left"
+msgstr "Bal"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1877
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3455
+msgid "Right"
+msgstr "Jobb"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1877
+msgid "Justify"
+msgstr "Sorkizárt"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1877
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3455
+msgid "Center"
+msgstr "Középre zárt"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1893
+msgid ""
+"This overwrites the text alignment in posts and pages. Leave 'Default' for "
+"normal settings (alignment will remain as declared in posts, comments etc.)."
+msgstr ""
+"Ez felülírja a szöveg igazítást a bejegyzéseknél és oldalaknál. Hagyd "
+"'alapértelmezett' állásban az általános elrendezés érdekében (ha a "
+"bejegyzésben vagy oldalnál mást állítasz be, az felülírja)."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1921
+msgid "Choose the indent for your paragraphs."
+msgstr "Bekezdés behúzásának beállítása."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1953
+msgid "Disable the default header and title indent (left margin)."
+msgstr "Az alapértelmezett fejléc és cím behúzás kikapcsolása (bal margó)."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:1983
+msgid ""
+"Text line height. The height between 2 rows of text. Leave 'Default' for "
+"normal settings (size value will be as set in the CSS)."
+msgstr ""
+"Sormagasság. A távolság két sor közt. Hagyd 'alapértelmezett' állásban az "
+"általános méret (CSS-ben állítva) használatához."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2013
+msgid ""
+"The space between <i>words</i>. Leave 'Default' for normal settings (size "
+"value will be as set in the CSS)."
+msgstr ""
+"A távolság a <i>szavak</i> közt. Hagyd 'alapértelmezett' állásban az "
+"általános méret (CSS-ben állítva) használatához."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2043
+msgid ""
+"The space between <i>letters</i>. Leave 'Default' for normal settings (size "
+"value will be as set in the CSS)."
+msgstr ""
+"A távolság a <i>betűk</i> közt. Hagyd 'alapértelmezett' állásban az "
+"általános méret (CSS-ben állítva) használatához."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2077
+msgid "Disable the default text shadow on headers and titles."
+msgstr "Szöveg árnyékolás kikapcsolása a fejlécben és a címeknél."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2101
+msgid "Background color (Default value is 444444)."
+msgstr "Háttér szín (alapértelmezett 444444)."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2117
+msgid ""
+"Header background color (Default value is 333333). You can delete all inside "
+"text for no background color."
+msgstr ""
+"Fejléc háttér szín  (alapértelmezett 333333). Ha kitörölsz minden szöveget "
+"innen, nem lesz háttérszín."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2131
+msgid ""
+"Content background color (Default value is FFFFFF). Works best with really "
+"light colors."
+msgstr ""
+"Tartalom háttérszín  (alapértelmezett FFFFFF). Világos színekkel mutat "
+"igazán jól."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2145
+msgid ""
+"Main menu background color (Default value is FAFAFA). Should be the same "
+"color as the content bg or something just as light."
+msgstr ""
+"Főmenü háttér szín  (alapértelmezett FAFAFA). Javasolt azonos színnel mint a "
+"tartalom "
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2159
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2173
+msgid "First sidebar background color (Default value is FFFFFF)."
+msgstr "Első oldalsáv háttér színe (alapértelmezett FFFFFF)."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2189
+msgid "Footer widget-area background color. (Default value is 171717)."
+msgstr "Lábléc widget-terület háttér színe (alapértelmezett 171717)."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2205
+msgid "Footer background color (Default value is 222222)."
+msgstr "Lábléc háttér színe (alapértelmezett 222222)."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2221
+msgid "Your blog's title color (Default value is 0D85CC)."
+msgstr "A blogod címének színe (alapértelmezett 0D85CC)."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2237
+msgid "Your blog's description color(Default value is 222222)."
+msgstr "A blogod leírásának színe (alapértelmezett 222222)."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2253
+msgid "Content Text Color (Default value is 333333)."
+msgstr "Tartalom szöveg színe (alapértelmezett 333333)."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2269
+msgid "Links color (Default value is 0D85CC)."
+msgstr "Linkek színe (alapértelmezett 0D85CC)."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2285
+msgid "Links color on mouse over (Default value is 333333)."
+msgstr "Egérrel mutatott link színe (alapértelmezett 333333)."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2301
+msgid "Post Header Text Color (Default value is 333333)."
+msgstr "Bejegyzés fejléc szövegének színe (alapértelmezett 333333)."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2317
+msgid "Post Header Text Color on Mouse over (Default value is 000000)."
+msgstr ""
+"Bejegyzés fejléc szövegének színe egérrel mutatva (alapértelmezett 000000)."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2333
+msgid "Sidebar Header Background color (Default value is 444444)."
+msgstr "Oldalsáv fejléc hátterének színe (alapértelmezett 444444)."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2351
+msgid "Sidebar Header Text Color(Default value is 2EA5FD)."
+msgstr "Oldalsáv fejléc szövegének színe (alapértelmezett 2EA5FD)."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2367
+msgid "Footer Widget Text Color (Default value is 0D85CC)."
+msgstr "Lábléc widget szöveg színe (alapértelmezett 0D85CC)."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2383
+msgid "Footer Widget Link Color (Default value is 666666)."
+msgstr "Lábléc widget link színe (alapértelmezett 666666)."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2399
+msgid "Footer Widget Link Color on Mouse Over (Default value is 888888)."
+msgstr "Lábléc widget link színe egérrel mutatva (alapértelmezett 888888)."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2423
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2545
+msgid "White"
+msgstr "Fehér"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2423
+msgid "Light"
+msgstr "Világos"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2423
+msgid "Light Gray"
+msgstr "Világos szürke"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2423
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2545
+msgid "Gray"
+msgstr "Szürke"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2423
+msgid "Dark Gray"
+msgstr "Sötét szürke"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2423
+msgid "Black"
+msgstr "Fekete"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2439
+msgid ""
+"This setting changes the look of your captions. Images that are not inserted "
+"through captions will not be affected."
+msgstr ""
+"Ez a beállítás megváltoztatja a címmezők kinézetét. Azok a képek, amelyekhez "
+"nincs címmező, nem érintettek."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2471
+msgid "The border around your inserted images. "
+msgstr "Keret a beillesztett kép körül."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2501
+msgid "The image on top of your captions. "
+msgstr "A kép a megadott címmező felett."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2531
+msgid "The sidebar list bullets. "
+msgstr "Oldalsáv lista jelölők."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2561
+msgid ""
+"The background for your post-metas area (under your post tiltes). Gray by "
+"default.<"
+msgstr "A bejegyzések meta adatainak háttere. Alapesetben szürke.<"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2577
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2609
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2643
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2673
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2703
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2763
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2793
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2825
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2911
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2941
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2971
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3001
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3031
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3061
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3091
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3121
+msgid "Show"
+msgstr "Mutatás"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2577
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2609
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2643
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2673
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2703
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2763
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2825
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2911
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2941
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2971
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3001
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3031
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3061
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3091
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3121
+msgid "Hide"
+msgstr "Elrejtés"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2593
+msgid "Hide or show a horizontal rule to separate posts."
+msgstr "A bejegyzéseket elválasztó vonal mutatása vagy elrejtése."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2625
+msgid ""
+"Hide or show  bullets next to lists that are in your content area (posts, "
+"pages etc.)."
+msgstr ""
+"A lista elemek előtti jelölők mutatása vagy elrejtése a tartalom részben. "
+"(bejegyzések, oldalak, stb)."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2659
+msgid ""
+"Hide or show your blog's Title and Description in the header (recommended if "
+"you have a custom header image with text)."
+msgstr ""
+"A blog címének és leírásának mutatása vagy elrejtése (fontos, ha olyan "
+"fejléc képed van, amin kép és szöveg is van)."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2689
+msgid "Hide or show Page titles on any <i>created</i> pages. "
+msgstr "A <i>készítette</i> elem elrejtése az oldalakon."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2719
+msgid "Hide or show Page titles on <i>Category</i> Pages. "
+msgstr "Az oldalak címének elrejtése a <i>Kategóriák</i> oldalon."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2749
+msgid "Hide table borders and background color."
+msgstr "Táblázat szegélyek és háttérszínek elrejtése."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2779
+msgid ""
+"Hide the explanatory text under the comments form. (starts with  <i>You may "
+"use these HTML tags and attributes:...</i>)."
+msgstr ""
+"A magyarázó szöveg elrejtése a kommentek mező alatt. (így kezdődik: "
+"<i>Használhatod a következő html elemeket…</i>)."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2793
+msgid "Hide in posts"
+msgstr "Elrejteni a bejegyzésekben"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2793
+msgid "Hide in pages"
+msgstr "Elrejteni az oldalakon"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2793
+msgid "Hide everywhere"
+msgstr "Mindenhol elrejteni"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2809
+msgid ""
+"Hide the  <b>Comments are closed</b> text that by default shows up on pages "
+"or posts with the comments disabled."
+msgstr ""
+"A <b>hozzászólások letiltva</b> üzenet elrejtése, ami automatikusan "
+"megjelenik minden oldalon, ahol tiltott."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2841
+msgid ""
+"Hide the <b>Comments off</b> text next to posts that have comments disabled."
+msgstr ""
+"A <b>Hozzászóások kikapcsolva</b> szöveg elrejtése ha globálisan le vannak "
+"tiltva."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2873
+msgid ""
+"Enable the Back to Top button. The button appears after scrolling the page "
+"down."
+msgstr ""
+"A vissza a tetejére gomb engedélyezése. A gomb megjelenik ha lefelé "
+"scrollozunk."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2887
+msgid ""
+"Insert custom text or HTML code that will appear last in you footer. <br /> "
+"You can use HTML to insert links, images and special characters like &copy ."
+msgstr ""
+"Szúrj be egyedi szöveget vagy HTML kódot ami megjelenik a láblécben. <br /"
+">Használhatsz HTML tageket is, képeket, és speciális karaktereket is like "
+"&copy ."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2927
+msgid ""
+"Hide or show the <strong>Leave a comment</strong> or <strong>x Comments</"
+"strong> next to posts or post excerpts."
+msgstr ""
+"A <strong>szólj hozzá</strong> elem vagy <strong>x hozzászólás</strong> elem "
+"mutatása vagy elrejtése a bejegyzések szemelvényeinél."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2957
+msgid "Hide or show the post date."
+msgstr "A bejegyzés dátumának elrejtése."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:2987
+msgid ""
+"Show the post time with the date. Time will not be visible if the Post Date "
+"is hidden."
+msgstr ""
+"Mutassa a bejegyzés idejét is a dátum mellett. Az idő nem lesz látható, ha a "
+"dátum el van rejtve."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3017
+msgid "Hide or show the post author."
+msgstr "A szerző mutatása vagy elrejtése."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3047
+msgid "Hide the post category."
+msgstr "A bejegyzés kategória elrejtése."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3077
+msgid "Hide the post tags."
+msgstr "A bejegyzés cimke elrejtése"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3107
+msgid "Hide the 'Bookmark permalink'."
+msgstr "A 'permalink könyvjelzőbe' elrejtése."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3137
+msgid "Hide all the post metas. All meta info and meta areas will be hidden."
+msgstr "Minden bejegyzés meta adat elrejtése."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3163
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3193
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3225
+msgid "Excerpt"
+msgstr "Szemelvény"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3163
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3193
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3225
+msgid "Full Post"
+msgstr "Teljes bejegyzés"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3179
+msgid ""
+"Excerpts on the main page. Only standard posts will be affected. All other "
+"post formats (aside, image, chat, quote etc.) have their specific formating."
+msgstr ""
+"Szemelvények a főoldalon. Csak a normál bejegyzések érintettek. Minden más "
+"bejegyzés forma (mellék, kép, chat, idézet stb) saját formázással "
+"rendelkezik."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3209
+msgid ""
+"Choose if you want the sticky posts on your home page to be visible in full "
+"or just the excerpts. "
+msgstr ""
+"Válaszd ki ha szeretnél ragadós bejegyzést a kezdő oldalon megjeleníteni, "
+"teljes méretben vagy szemelvényben."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3241
+msgid ""
+"Excerpts on archive, categroy and search pages. Same as above, only standard "
+"posts will be affected."
+msgstr ""
+"Szemelvények az archívumban, kategóriákban és a keresés oldalon. Csak az "
+"általános bejegyzések érintettek."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3257
+msgid ""
+"The number of words an excerpt will have. When that number is reached the "
+"post will be interrupted by a <i>Continue reading</i> link that\n"
+"\n"
+"\t\t\t\t\t\t\twill take the reader to the full post page."
+msgstr ""
+"A szavak száma a szemelvényekben. Ha a számot elérték, a szemelvény meg lesz "
+"szakítva a <i>tovább olvasom</i> linkkel együtt.\n"
+"\n"
+"\t\t\t\t\t\t\t az olvasót a cikk teljes tartalmára irányítja."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3289
+msgid ""
+"Enable the Magazine Layout. This layout applies to pages with posts and "
+"shows 2 posts per row."
+msgstr ""
+"A magazin kinézet engedélyezése. Ez a kinézet két oszlopban mutatja a "
+"bejegyzéseket soronként."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3303
+msgid ""
+"Replaces the three dots ('[...])' that are appended automatically to "
+"excerpts."
+msgstr ""
+"Kicseréli a három pontot ('[…])' amit automatikusan a szemelvény végéhez "
+"tesz."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3317
+msgid "Edit the 'Continue Reading' link added to your post excerpts."
+msgstr "A 'tovább olvasom' link szerkesztése, amit a szemelvényekhez adunk."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3347
+msgid "By default WordPress excerpts remove all HTML tags ("
+msgstr ""
+"Alapértelmezésben a WordPress eltávolít minden HTML taget a szemelvényekből ("
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3409
+msgid ""
+"Show featured images as thumbnails on posts. The images must be selected for "
+"each post in the Featured Image section."
+msgstr ""
+"Mutassa a kiemelt képeket bélyegképként a bejegyzéseknél. A képeket ki kell "
+"jelölni minden bejegyzés elején kiemelt képként."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3439
+msgid ""
+"Show the first image that you inserted in a post as a thumbnail. If you "
+"enable this option, the first image in your post will be used even if you "
+"selected a Featured Image in you post."
+msgstr ""
+"Mutassa az első képet bélyegképként amit beillesztettél a bejegyzéshez. Ha "
+"engedélyezed ezt az opciót, a bejegyzésnél az első kép bekerül a kiemelt "
+"képek közé a bejegyzésnél."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3471
+msgid "Thumbnail alignment."
+msgstr "Bélyegkép rendezése."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3505
+msgid ""
+"The size you want the thumbnails to have (in pixels). By default imges will "
+"be scaled with aspect ratio kept. Choose to crop the images if you want the "
+"exact size."
+msgstr ""
+"A bélyegkép mérete (képpontokban). Alapesetben a képek rögzített "
+"oldalaránnyal lesznek átméretezve. Válaszd a vágás opciót ha pontos méretet "
+"szeretnél."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3537
+msgid ""
+"Show featured images on headers. The header will be replaced with a featured "
+"image if you selected it as a Featured Image in the post and\n"
+"\n"
+"\t\t\t\t\t\t\tand if it is bigger or at least equal to the current header "
+"size."
+msgstr ""
+"Mutassa a kiemelt képet a fejlécben. A fejléc le lesz cserélve a kiemelt "
+"képpel ha kiválasztod a kiemelt képet a bejegyzésnél\n"
+"\n"
+"\t\t\t\t\t\t\t és a feltöltött kép akkora vagy nagyobb mint a fejléc kép "
+"mérete."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3579
+msgid ""
+"Select your desired Social network from the left dropdown menu and insert "
+"your corresponding address in the right input field. (ex: <i>http://www."
+"facebook.com/yourname</i> )"
+msgstr ""
+"Válaszd ki a közösségi hálózatot a legördülő listából, és illeszd be a "
+"pontos URL-t a beviteli mezőbe. (pl <i>http://www.facebook.com/teneved</i> )"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3607
+msgid "You can insert up to 5 different social sites and addresses."
+msgstr "Akár 5 különböző közösségi oldalt is beállíthatsz."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3635
+msgid "There are a total of 27 social networks to choose from. "
+msgstr "Összesen 27 közösségi oldal közül választhatsz."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3663
+msgid "You can leave any number of inputs empty. "
+msgstr "Akármelyik mezőt üresen hagyhatod."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3691
+msgid "You can choose the same social media any number of times.  "
+msgstr "Ugyanazt a közösségi oldalt többször is használhatod."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3753
+msgid "Choose the <b>areas</b> where to display the social icons."
+msgstr "Válaszd ki a <b>területet</b> ahol megjelennek az ikonok."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3795
+msgid ""
+"Make the site header into a clickable link that links to your index page."
+msgstr "Legyen a fejléc kattintható, amely link a kezdőlapodra mutat."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3825
+msgid ""
+"Show breadcrumbs at the top of the content area. Breadcrumbs are a form of "
+"navigation that keeps track of your location withtin the site."
+msgstr ""
+"Mutassa a breadcrumb (webmorzsa) elemeket a tartalom felett. A webmorzsák "
+"egyfajta navigációs segédletként használhatók."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3855
+msgid ""
+"Show numbered pagination. Where there is more than one page, instead of the "
+"bottom <b>Older Posts</b> and <b>Newer posts</b> links you have a numbered "
+"pagination. "
+msgstr ""
+"Mutass számozott lapozót. Ahol több, mint egy oldal jelenne meg, ott látható "
+"a <b>régebbi bejegyzések</b> és az <b>újabb bejegyzések</b> link számozással "
+"együtt."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3885
+msgid ""
+"Enable the mobile view and make Mantra responsive. The layout and look of "
+"your blog will change depending on what device and what resolution it is "
+"viewed in. "
+msgstr ""
+"Engedélyezi a mobil nézetet a Mantra reszponzív kinézet érdekében. A "
+"kinézete a blogodnak megváltozik attól függően, hogy milyen eszközön "
+"tekintik meg azt."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3905
+msgid "Upload or select favicon from gallery"
+msgstr "Favicon feltöltése vagy választása a galériából."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3913
+msgid ""
+"Limitations: It has to be an image. It should be max 64x64 pixels in "
+"dimensions. Recommended file extensions .ico and .png . "
+msgstr ""
+"Korlátozások: képnek kell lennie, és maximum 64x64képpont méretű lehet. "
+"Javasolt kiterjesztések: ico, png."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3929
+msgid ""
+"Insert your custom CSS here. Any CSS declarations made here will overwrite "
+"Mantra's (even the custom options specified right here in the Mantra "
+"Settings page). <br /> Your custom CSS will be preserved when updating the "
+"theme."
+msgstr ""
+"Illeszd be a saját CSS tartalmad. Bármilyen CSS deklarálás amit itt teszel, "
+"felülírja a Mantra beállításokat (akár az egyedi beállításokét is). <br /> "
+"Az egyedi CSS tartalom megőrzésre kerül frissítés után is."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3943
+msgid ""
+"Insert your custom Javascript code here. (Google Analytics and any other "
+"forms of Analytic software)."
+msgstr "Illeszd be az egyedi JavaScriptedet. (GoogleAnalytics vagy egyéb kód)"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3969
+msgid ""
+"Enable Mantra's Search Engine Optimization. This is enabled by default and "
+"should only be disabled if you are using a SEO plugin."
+msgstr ""
+"Engedélyezed a Mantra SEO modult. Alapesetben bekapcsolva, akkor kell "
+"kikapcsold, ha saját SEO plugint használsz."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3993
+msgid "Auto"
+msgstr "Automatikus"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/admin/settings.php:3993
+msgid "Manual"
+msgstr "Kézi"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-comments.php:55
+msgid "says:"
+msgstr "mondta:"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-comments.php:67
+msgid "Your comment is awaiting moderation."
+msgstr "A hozzászólás moderációra vár."
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-comments.php:81
+msgid "at"
+msgstr "ekkor"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-comments.php:81
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-comments.php:115
+msgid "(Edit)"
+msgstr "(Szerkesztés)"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-comments.php:115
+msgid "Pingback: "
+msgstr "Pingback:"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-comments.php:169
+msgid "Leave a comment"
+msgstr "Szólj hozzá"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-comments.php:169
+msgid "<b>1</b> Comment"
+msgstr "<b>1</b> Hozzászólás"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-comments.php:169
+msgid "<b>%</b> Comments"
+msgstr "<b>%</b> Hozzászólás"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-comments.php:213
+msgid "Older Comments"
+msgstr "Régebbi hozzászólások"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-comments.php:215
+msgid "Newer Comments"
+msgstr "Újabb hozzászólások"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-functions.php:465
+msgid "Home Page"
+msgstr "Kezdőlap"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-loop.php:289
+msgid "By "
+msgstr "Írta"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-loop.php:369
+msgid " Bookmark the "
+msgstr "Könyvjelzőkhöz"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-loop.php:369
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-loop.php:373
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-loop.php:377
+msgid "Permalink to"
+msgstr "Permalink ehhez"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-loop.php:369
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-loop.php:373
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-loop.php:377
+msgid "permalink"
+msgstr "permalink"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-loop.php:373
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-loop.php:377
+msgid "Bookmark the "
+msgstr "Könyvjelzőkhöz"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-loop.php:421
+msgid "<span class=\"meta-nav\">&laquo;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&laquo;</span> Régebbi bejegyzések"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-loop.php:423
+msgid "Newer posts <span class=\"meta-nav\">&raquo;</span>"
+msgstr "Újabb bejegyzések"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-seo.php:51
+#, php-format
+msgid "Page %s"
+msgstr "Oldal %s"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-setup.php:179
+msgid "Primary Navigation"
+msgstr "Elsődleges navigáció"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-setup.php:181
+msgid "Top Navigation"
+msgstr "Felső navigáció"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-setup.php:183
+msgid "Footer Navigation"
+msgstr "Lábléc navigáció"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-setup.php:271
+msgid "mantra"
+msgstr "mantra"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-setup.php:393
+msgid "Skip to content"
+msgstr "Ugrás a tartalomhoz"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-setup.php:447
+msgid "Primary Widget Area - Sidebar 1"
+msgstr "Első widget terület - 1. oldalsáv"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-setup.php:451
+msgid "Primary widget area - Sidebar 1"
+msgstr "Második widget terület - 1. oldalsáv"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-setup.php:469
+msgid "Secondary Widget Area - Sidebar 1"
+msgstr "Második widget terület - 1. oldalsáv"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-setup.php:473
+msgid "Secondary widget area - Sidebar 1"
+msgstr "Második widget terület - 1. oldalsáv"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-setup.php:491
+msgid "Third Widget Area - Sidebar 2"
+msgstr "Harmadik widget terület - 2. oldalsáv"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-setup.php:495
+msgid "Third widget area - Sidebar 2"
+msgstr "Harmadik widget terület - 2. oldalsáv"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-setup.php:513
+msgid "Fourth Widget Area - Sidebar 2"
+msgstr "Negyedik widget terület - 2. oldalsáv"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-setup.php:517
+msgid "Fourth widget area  - Sidebar 2"
+msgstr "Negyedik widget terület - 2. oldalsáv"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-setup.php:535
+msgid "First Footer Widget Area"
+msgstr "Első lábléc widget terület"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-setup.php:539
+msgid "First footer widget area"
+msgstr "Első lábléc widget terület"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-setup.php:557
+msgid "Second Footer Widget Area"
+msgstr "Második lábléc widget terület"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-setup.php:561
+msgid "Second footer widget area"
+msgstr "Második lábléc widget terület"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-setup.php:579
+msgid "Third Footer Widget Area"
+msgstr "Harmadik lábléc widget terület"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-setup.php:583
+msgid "The third footer widget area"
+msgstr "Harmadik lábléc widget terület"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-setup.php:601
+msgid "Fourth Footer Widget Area"
+msgstr "Negyedik lábléc widget terület"
+
+#: /Users/Peter/weblapjaim/gerisoft.hu/wp_site/wp-content/themes/mantra/includes/theme-setup.php:605
+msgid "The fourth footer widget area"
+msgstr "Negyedik lábléc widget terület"
+
+#~ msgid "Archives"
+#~ msgstr "Archívum"
+
+#~ msgid "Meta"
+#~ msgstr "Meta"
+
+#~ msgid "Insert footer copyright"
+#~ msgstr "Lábléc jogi információk beszúrása"

@@ -1,0 +1,2097 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mantra 197\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-08 18:32+0200\n"
+"PO-Revision-Date: 2013-01-10 02:25+0200\n"
+"Last-Translator: Emre <mredalkilic@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\Users\\medicated\\Desktop\\mantra\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Not Found"
+msgstr "Bulunamadı"
+
+#: 404.php:19
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+"Üzgünüz, aradığınız sayfa bulunamadı. Arama yapmanız yardımcı olabilir."
+
+#: archive.php:25
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Günlük Arşivler %s"
+
+#: archive.php:27
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Aylık Arşivler %s"
+
+#: archive.php:29
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Yıllık Arşivler %s"
+
+#: archive.php:31
+msgid "Blog Archives"
+msgstr "Blog Arşivleri"
+
+#: archive.php:57 author.php:74 category.php:50
+msgid "Nothing Found"
+msgstr "Hiçbir Şey Bulunamadı"
+
+#: archive.php:61 author.php:78 category.php:54
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+"Üzgünüz, aradığınız arşiv için sonuç bulunamadı. Arama yapmanız ilgili "
+"arşivi bulmanıza yardımcı olabilir."
+
+#: attachment.php:18
+#, php-format
+msgid "Return to %s"
+msgstr "Geri dön %s"
+
+#: attachment.php:29
+msgid "By"
+msgstr "tarafından"
+
+#: attachment.php:40
+msgid "Published"
+msgstr "Yayımlandı"
+
+#: attachment.php:50
+#, php-format
+msgid "Full size is %s pixels"
+msgstr "Tam boyutu %s piksel"
+
+#: attachment.php:53
+msgid "Link to full-size image"
+msgstr "Tam boyut görsel için bağlantı"
+
+#: attachment.php:60 attachment.php:107 content-aside.php:48
+#: content-chat.php:48 content-gallery.php:64 content-image.php:41
+#: content-link.php:48 content-page.php:22 content-quote.php:46
+#: content-status.php:49 content.php:80
+msgid "Edit"
+msgstr "Düzenle"
+
+#: attachment.php:100
+msgid "Continue reading"
+msgstr "Okumaya devam et"
+
+#: attachment.php:101 content-aside.php:39 content-chat.php:37
+#: content-gallery.php:54 content-image.php:32 content-link.php:37
+#: content-page.php:21 content-quote.php:36 content-status.php:40
+#: content.php:52 content.php:69
+msgid "Pages:"
+msgstr "Sayfalar"
+
+#: author.php:28
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Yazar Arşivleri: %s"
+
+#: author.php:49
+#, php-format
+msgid "About %s"
+msgstr "Hakkında %s"
+
+#: category.php:19
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Kategori Arşivleri: %s"
+
+#: comments.php:18
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "Bu yazı şifre korumalı. Yorumları görebilmek için şifrenizi girin."
+
+#: comments.php:41 comments.php:60
+msgid "Older Comments"
+msgstr "Daha Eski Yorumlar"
+
+#: comments.php:42 comments.php:61
+msgid "Newer Comments"
+msgstr "Daha Yeni Yorumlar"
+
+#: comments.php:72 content-page.php:27
+msgid "Comments are closed."
+msgstr "Yoruma kapalı."
+
+#: content-aside.php:21
+msgid "Aside"
+msgstr "Ayrı"
+
+#: content-aside.php:38 content-chat.php:36 content-gallery.php:32
+#: content-image.php:31 content-link.php:36 content-quote.php:35
+#: content-status.php:39
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Okumaya devam et <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:46 content-chat.php:44 content-gallery.php:61
+#: content-image.php:38 content-link.php:44 content-quote.php:43
+#: content-status.php:47 content.php:78
+msgid "Tagged"
+msgstr "Etiketlenmiş"
+
+#: content-chat.php:20
+msgid "Chat"
+msgstr "Sohbet"
+
+#: content-gallery.php:20
+msgid "Gallery"
+msgstr "Galeri"
+
+#: content-image.php:19
+msgid "Image"
+msgstr "Görüntü"
+
+#: content-link.php:20
+msgid "Link"
+msgstr "Bağlantı"
+
+#: content-quote.php:19
+msgid "Quote"
+msgstr "Alıntı"
+
+#: content-status.php:31
+msgid "Status"
+msgstr "Durum"
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Arama Sonuçlar: %s"
+
+#: search.php:38
+#, php-format
+msgid "No search results for: %s"
+msgstr "%s için Arama Sonucu Bulunamadı"
+
+#: sidebar.php:35 sidebar.php:92
+msgid "Archives"
+msgstr "Arşivler"
+
+#: sidebar.php:42 sidebar.php:99
+msgid "Meta"
+msgstr "Meta"
+
+#: single.php:44
+msgid "View all posts by "
+msgstr "&s tarafından tüm gönderileri görüntüle"
+
+#: tag.php:20
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Etiket Arşivleri: %s"
+
+#: admin/admin-functions.php:62
+msgid ""
+"Before you can upload your import file, you will need to fix the following "
+"error:"
+msgstr "İçe aktarma dosyanızı yüklemeden önce şu hatayı düzeltmelisiniz:"
+
+#: admin/admin-functions.php:70
+msgid "Import Mantra Theme Options"
+msgstr "Mantra Teması Ayarlarını İçe Aktar"
+
+#: admin/admin-functions.php:72
+msgid ""
+"Hi! This is where you import the  Mantra settings.<i> Please remember that "
+"this is still an experimental feature.</i>"
+msgstr ""
+"Selam! Mantra Ayarlarını içe aktaracağınız yer burasu. <i> Bu özelliğin hala "
+"deneysel olduğunu lütfen aklınızdan çıkarmayın. <i>"
+
+#: admin/admin-functions.php:74
+msgid "Just choose a file from your computer:"
+msgstr "Bilgisayarınızdan bir dosya seçin:"
+
+#: admin/admin-functions.php:76
+#, php-format
+msgid "Maximum size: %s"
+msgstr "Maksimum boyut: %s"
+
+#: admin/admin-functions.php:82
+msgid "And import!"
+msgstr "Ve içe aktar!"
+
+#: admin/admin-functions.php:148
+msgid "Import Mantra Theme Options "
+msgstr "Mantra Teması Seçeneklerini İçe Aktar"
+
+#: admin/admin-functions.php:151
+msgid "Great! The options have been imported!"
+msgstr "Harika! Seçenekler içe aktarıldı!"
+
+#: admin/admin-functions.php:152
+msgid "Go back to the Mantra options page and check them out!"
+msgstr "Mantra Seçenekleri sayfasına geri dön ve göz at!"
+
+#: admin/admin-functions.php:155 admin/admin-functions.php:161
+#: admin/admin-functions.php:167
+msgid "Oops, there's a small problem."
+msgstr "Ah! Ufak bir hata var."
+
+#: admin/admin-functions.php:156
+msgid ""
+"The uploaded file does not contain valid Mantra options. Make sure the file "
+"is exported from the Mantra Options page."
+msgstr ""
+"Yüklenmiş dosya geçerli Mantra seçeneklerine sahip değil. Dosyanın Mantra "
+"Seçenekleri sayfasından dışa aktarıldığından emin olun."
+
+#: admin/admin-functions.php:162
+msgid "The uploaded file could not be read."
+msgstr "Yüklenen dosya okunamıyor."
+
+#: admin/admin-functions.php:168
+msgid ""
+"The uploaded file is not supported. Make sure the file was exported from the "
+"Mantra page and that it is a text file."
+msgstr ""
+"Yüklenen dosya desteklenmiyor. Dosyanın Mantra sayfasından dışa "
+"aktarıldığından ve text dosyası olduğundan emin olun."
+
+#: admin/admin-functions.php:177
+msgid ""
+"Oops! The file is empty or there was no file. This error could also be "
+"caused by uploads being disabled in your php.ini or by post_max_size being "
+"defined as smaller than upload_max_filesize in php.ini."
+msgstr ""
+"Ah! Dosya boş ya da yok. Bu hata php.ini dosyasında yüklemelerin engellenmiş "
+"olmasından ya da php.ini dosyasındaki post_max_size seçeneğinin "
+"upload_max_filesize seçeneğinden küçük olarak tanımlanmış olmasından "
+"kaynaklanıyor olabilir."
+
+#: admin/admin-functions.php:183
+msgid "ERROR: You are not authorised to perform that operation"
+msgstr "HATA: Bu işlemi gerçekleştirmeye yetkili değilsiniz."
+
+#: admin/main.php:93
+msgid "Layout Settings"
+msgstr "Düzen Ayarları"
+
+#: admin/main.php:94
+msgid "Presentation Page"
+msgstr "Sunum Sayfası"
+
+#: admin/main.php:95
+msgid "Text Settings"
+msgstr "Metin Ayarları"
+
+#: admin/main.php:96
+msgid "Color Settings"
+msgstr "Renk Ayarları"
+
+#: admin/main.php:97
+msgid "Graphics Settings"
+msgstr "Grafik Ayarları"
+
+#: admin/main.php:98
+msgid "Post Information Settings"
+msgstr "Yazı Bilgi Ayarları"
+
+#: admin/main.php:99
+msgid "Post Excerpt Settings"
+msgstr "Yazı Özet Seçenekleri"
+
+#: admin/main.php:100
+msgid "Featured Image Settings"
+msgstr "Öne Çıkan Görüntü Ayarları"
+
+#: admin/main.php:101
+msgid "Social Media Settings"
+msgstr "Sosyal Medya Ayarları"
+
+#: admin/main.php:102
+msgid "Miscellaneous Settings"
+msgstr "Diğer Ayarlar"
+
+#: admin/main.php:104
+msgid "Main Layout"
+msgstr "Ana Düzen"
+
+#: admin/main.php:105
+msgid "Content / Sidebar Width"
+msgstr "İçerik / Kenar Çubuğu Yüksekliği"
+
+#: admin/main.php:106
+msgid "Header Image Height"
+msgstr "Üstlük Görüntüsü Yüksekliği"
+
+#: admin/main.php:108
+msgid "Enable Presentation Page"
+msgstr "Sunum Sayfasını Etkinleştir"
+
+#: admin/main.php:109
+msgid "Slider Settings"
+msgstr "Sunu Seçenekleri"
+
+#: admin/main.php:110
+msgid "Slides"
+msgstr "Sunular"
+
+#: admin/main.php:111
+msgid "Presentation Page Columns"
+msgstr "Sunum Sayfası Sütunları"
+
+#: admin/main.php:112
+msgid "Extras"
+msgstr "Ekstralar"
+
+#: admin/main.php:114
+msgid "General Font"
+msgstr "Genel Yazı Tipi"
+
+#: admin/main.php:115
+msgid "General Font Size"
+msgstr "Genel Yazı Boyutu"
+
+#: admin/main.php:116
+msgid "Post Title Font "
+msgstr "Yazı Başlığı Yazı Tipi"
+
+#: admin/main.php:117
+msgid "Post Title Font Size"
+msgstr "Yazı Başlığı Yazı Tipi Boyutu"
+
+#: admin/main.php:118
+msgid "Sidebar Font"
+msgstr "Kenarçubuğu Yazı Tipi"
+
+#: admin/main.php:119
+msgid "SideBar Font Size"
+msgstr "Kenarçubuğu Yazı Tipi Boyutu"
+
+#: admin/main.php:120
+msgid "Sub-Headers Font"
+msgstr "Alt Başlık Yazı Tipi"
+
+#: admin/main.php:121
+msgid "Force Text Align"
+msgstr "Metni Hızalamaya Zorla"
+
+#: admin/main.php:122
+msgid "Paragraph indent"
+msgstr "Paragraf Satırbaşı"
+
+#: admin/main.php:123
+msgid "Header indent"
+msgstr "Üstlük Satırbaşı"
+
+#: admin/main.php:124
+msgid "Line Height"
+msgstr "Satır Yüksekliği"
+
+#: admin/main.php:125
+msgid "Word spacing"
+msgstr "Kelime Aralığı"
+
+#: admin/main.php:126
+msgid "Letter spacing"
+msgstr "Harf Aralığı"
+
+#: admin/main.php:127
+msgid "Text shadow"
+msgstr "Metin Gölgesi"
+
+#: admin/main.php:129
+msgid "Background Color"
+msgstr "Arkaplan Rengi"
+
+#: admin/main.php:130
+msgid "Header (Banner and Menu) Background Color"
+msgstr "Başlık (Banner ve Menü) Arkaplan Rengi"
+
+#: admin/main.php:131
+msgid "Content Background Color"
+msgstr "İçerik Arkaplan Rengi"
+
+#: admin/main.php:132
+msgid "Menu background color"
+msgstr "Menü Arkaplan Rengi"
+
+#: admin/main.php:134
+msgid "Site Title Color"
+msgstr "Site Başlığı Rengi"
+
+#: admin/main.php:135
+msgid "Site Description Color"
+msgstr "Site Açıklaması Rengi"
+
+#: admin/main.php:137
+msgid "Content Text Color"
+msgstr "İçerik Metni Rengi"
+
+#: admin/main.php:138
+msgid "Links Color"
+msgstr "Bağlantılar Rengi"
+
+#: admin/main.php:139
+msgid "Links Hover Color"
+msgstr "Bağlantı Vurgusu Rengi"
+
+#: admin/main.php:140
+msgid "Post Title Color"
+msgstr "Yazı Başlığı Rengi"
+
+#: admin/main.php:141
+msgid "Post Title Hover Color"
+msgstr "Yazı Başlığı Vurgu Rengi"
+
+#: admin/main.php:142
+msgid "Sidebar Header Background Color"
+msgstr "Kenar Çubuğu Başlık Arkaplan Rengi"
+
+#: admin/main.php:143
+msgid "Sidebar Header Text Color"
+msgstr "Kenar Çubuğu Başlık Metni Rengi"
+
+#: admin/main.php:144
+msgid "Footer Widget Background Color"
+msgstr "Altlık Bileşenleri Arkaplan Rengi"
+
+#: admin/main.php:145
+msgid "Footer Background Color"
+msgstr "Altlık Arkaplan Rengi"
+
+#: admin/main.php:146
+msgid "Footer Widget Header Text Color"
+msgstr "Altlık Bileşenleri Başlık Rengi"
+
+#: admin/main.php:147
+msgid "Footer Widget Link Color"
+msgstr "Altık Bileşenleri Bağlantı Rengi"
+
+#: admin/main.php:148
+msgid "Footer Widget Hover Color"
+msgstr "Altlık Bileşenleri Bağlantı Vurgusu Rengi"
+
+#: admin/main.php:150
+msgid "Caption Border"
+msgstr "Manşet Sınırı"
+
+#: admin/main.php:151
+msgid "Post Images Border"
+msgstr "Yazı Görüntüleri Sınırı"
+
+#: admin/main.php:152
+msgid "Caption Pin"
+msgstr "Manşet Pimi"
+
+#: admin/main.php:153
+msgid "Sidebar Menu Bullets"
+msgstr "Kenar Çubuğu Menü İmleri"
+
+#: admin/main.php:154
+msgid "Meta Area Background"
+msgstr "Meta Alanı Arkaplanı"
+
+#: admin/main.php:155
+msgid "Post Separator"
+msgstr "Yazı Ayracı"
+
+#: admin/main.php:156
+msgid "Content List Bullets"
+msgstr "İçerik Listesi İmleri"
+
+#: admin/main.php:157
+msgid "Title and Description"
+msgstr "Başlık ve Tanım"
+
+#: admin/main.php:158
+msgid "Page Titles"
+msgstr "Sayfa Başlıkları"
+
+#: admin/main.php:159
+msgid "Category Page Titles"
+msgstr "Kategori Sayfası Başlıkları"
+
+#: admin/main.php:160
+msgid "Hide Tables"
+msgstr "Tabloları Gizle"
+
+#: admin/main.php:161
+msgid "Back to Top button"
+msgstr "Üste Dön Tuşu"
+
+#: admin/main.php:162
+msgid "Text Under Comments"
+msgstr "Yorumlar Altındaki Yazı"
+
+#: admin/main.php:163
+msgid "Comments are closed text"
+msgstr "Yorumlar Kapalı metni"
+
+#: admin/main.php:164
+msgid "Comments off"
+msgstr "Yorumlar Kapalı"
+
+#: admin/main.php:165
+msgid "Insert footer copyright"
+msgstr "Altlık telif hakkı ekle"
+
+#: admin/main.php:167
+msgid "Post Comments Link"
+msgstr "Yazı Yorumları Bağlantısı"
+
+#: admin/main.php:168
+msgid "Post Date"
+msgstr "Yazı Tarihi"
+
+#: admin/main.php:169
+msgid "Post Time"
+msgstr "Yazı Zamanı"
+
+#: admin/main.php:170
+msgid "Post Author"
+msgstr "Yazı Yazarı"
+
+#: admin/main.php:171
+msgid "Post Category"
+msgstr "Yazı Kategorisi"
+
+#: admin/main.php:172
+msgid "Post Tags"
+msgstr "Yazı Etiketleri"
+
+#: admin/main.php:173
+msgid "Post Permalink"
+msgstr "Yazı Permalinki"
+
+#: admin/main.php:174
+msgid "All Post Metas"
+msgstr "Tüm Yazı Metaları"
+
+#: admin/main.php:176
+msgid "Post Excerpts on Home Page"
+msgstr "Ana Sayfadaki Yazı Özetleri"
+
+#: admin/main.php:177
+msgid "Affect Sticky Posts"
+msgstr "Yapışkan Yazıları Etkile"
+
+#: admin/main.php:178
+msgid "Post Excerpts on Archive and Category Pages"
+msgstr "Arşiv ve Kategori Sayfalarındaki Yazı Özetleri"
+
+#: admin/main.php:179
+msgid "Number of Words for Post Excerpts "
+msgstr "Yazı Özetleri için Kelime Sayısı"
+
+#: admin/main.php:180
+msgid "Magazine Layout"
+msgstr "Dergi Düzeni"
+
+#: admin/main.php:181
+msgid "Excerpt suffix"
+msgstr "Özet Soneki"
+
+#: admin/main.php:182
+msgid "Continue reading link text "
+msgstr "Okumaya Devam Et bağlantı metni"
+
+#: admin/main.php:183
+msgid "HTML tags in Excerpts"
+msgstr "Özetlerdeki HTML Etiketleri"
+
+#: admin/main.php:185
+msgid "Featured Images as POST Thumbnails "
+msgstr "YAZI Küçük Resimleri olarak Öne Çıkan Görüntüler"
+
+#: admin/main.php:186
+msgid "Auto Select Images From Posts "
+msgstr "Yazılardeki Görüntüleri Otomatik Seç"
+
+#: admin/main.php:187
+msgid "Thumbnails Alignment "
+msgstr "Küçük Resim Hizası"
+
+#: admin/main.php:188
+msgid "Thumbnails Size "
+msgstr "Küçük Resim Boyutu"
+
+#: admin/main.php:189
+msgid "Featured Images as HEADER Images "
+msgstr "BAŞLIK Görüntleri olarak Küçük Resimleri"
+
+#: admin/main.php:191
+msgid "Link nr. 1"
+msgstr "Bağlantı no. 1"
+
+#: admin/main.php:192
+msgid "Link nr. 2"
+msgstr "Bağlantı no. 2"
+
+#: admin/main.php:193
+msgid "Link nr. 3"
+msgstr "Bağlantı no. 3"
+
+#: admin/main.php:194
+msgid "Link nr. 4"
+msgstr "Bağlantı no. 4"
+
+#: admin/main.php:195
+msgid "Link nr. 5"
+msgstr "Bağlantı no. 5"
+
+#: admin/main.php:196
+msgid "Socials display"
+msgstr "Sosyal Bağlantılar Görüntüsü"
+
+#: admin/main.php:198
+msgid "Make Site Header a Link"
+msgstr "Site Başlığını Bağlantı Yap"
+
+#: admin/main.php:199
+msgid "Breadcrumbs"
+msgstr "Ekmek Kırıntısı"
+
+#: admin/main.php:200
+msgid "Pagination"
+msgstr "Sayfaları Numaralandırma"
+
+#: admin/main.php:201
+msgid "Mobile view"
+msgstr "Mobil Görüntü"
+
+#: admin/main.php:202
+msgid "FavIcon"
+msgstr "FavIcon"
+
+#: admin/main.php:203
+msgid "Custom CSS"
+msgstr "Özel CSS"
+
+#: admin/main.php:204
+msgid "Custom JavaScript"
+msgstr "Özel JavaScript"
+
+#: admin/main.php:205
+msgid "SEO Settings"
+msgstr "SEO Ayarları"
+
+#: admin/main.php:222
+msgid "Sorry, but you do not have sufficient permissions to access this page."
+msgstr "Üzgünüz, ama bu sayfaya erişebilmek için yeterli izniniz yok."
+
+#: admin/main.php:232
+msgid "Mantra settings updated successfully."
+msgstr "Mantra ayarları başarıyla yenilendi"
+
+#: admin/main.php:243
+msgid "Reset to Defaults"
+msgstr "Varsayılana Geri Dön"
+
+#: admin/main.php:244
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+#: admin/main.php:258
+msgid ""
+"<p>Here at Cryout Creations (the developers of yours truly Mantra Theme), we "
+"spend night after night improving the Mantra Theme. We fix a lot of bugs "
+"(that we previously created); we add more and more customization options "
+"while also trying to keep things as simple as possible; then... we might "
+"play a game or two but rest assured that we return to read and (in most "
+"cases) reply to your late night emails and comments, take notes and draw "
+"dashboards of things to implement in future versions.</p>\n"
+"\t\t\t<p>So you might ask yourselves: <i>How do they do it? How can they "
+"keep so fresh after all that hard labor for that darned theme? </i> Well "
+"folks, it's simple. We drink coffee. Industrial quantities of hot boiling "
+"coffee. We love it! So if you want to help with the further development of "
+"the Mantra Theme...</p> "
+msgstr ""
+"<p>Cryout Creations'da(Mantra Teması geliştiricileri), gecelerimizi Mantra "
+"Teması'nı geliştirmek için harcıyoruz. Birçok bug'ı düzeltiyoruz(daha "
+"önceden bizim yarattığımız); işleri basit tutmaya çalışarak birçok "
+"özelleştirme seçeneği ekliyoruz; sonra... bir iki oyun oynayabiliriz ama "
+"emin olunki gece geç vakitte gönderdiğiniz e-mailleri ve yorumları okumaya "
+"geri dönüyoruz ve (çoğu zaman) cevaplıyoruz, notlar alıyoruz ve ileriki "
+"versiyonlarda ekleme yapacaklarımız için plan yapıyoruz. </p>\n"
+"\t\t\t<p>Kendinize sorabilirsiniz: <i> Bütün bunları nasıl yapıyorlar? Bu "
+"lanet tema için bu kadar çalışıp nasıl bu kadar canlı kalabiliyorlar?</i> "
+"Aslında millet, bu çok basit. Kahve içiyoruz. Endüstriyel ölçeklerde, sıcak, "
+"kaynamış kahve. Buna bayılıyoruz. Eğer Mantra Teması'nın geleceğine yardım "
+"etmek isterseniz...</p>"
+
+#: admin/main.php:273
+msgid "Import/Export Settings"
+msgstr "İçe/Dışa Aktarma Seçenekleri"
+
+#: admin/main.php:279
+msgid "Export Theme options"
+msgstr "Teme Seçeneklerini Dışa Aktar"
+
+#: admin/main.php:280
+msgid ""
+"It's that easy: a mouse click away - the ability to export your Mantra "
+"settings and save them on your computer. Feeling safer? You should!"
+msgstr ""
+"Bu kadar basit: Mantra ayarlarını dışa aktarmak ve bilgisayarınıza kaydetmek "
+"sadece bir tık uzağınızda. Daha güvende hissediyor musunuz? Hissetmelisiniz."
+
+#: admin/main.php:285
+msgid "Import Theme options"
+msgstr "Tema Seçeneklerini İçe Aktar"
+
+#: admin/main.php:286
+msgid ""
+" Without the import, the export would just be a fool's exercise. Make sure "
+"you have the exported file ready and see you after the mouse click."
+msgstr ""
+"İçe aktarmadan dışa aktarmak ancak bir ahmağın işi olabilir. Dışa aktarılmış "
+"dosyanın hazır olduğundan emin olun ve tıktan sonra görüşürüz."
+
+#: admin/main.php:293
+msgid "Mantra Latest News"
+msgstr "Mantra Son Haberler"
+
+#: admin/main.php:304
+msgid "No news items."
+msgstr "Yeni haber yok."
+
+#: admin/main.php:318
+msgid "Mantra Help"
+msgstr "Mantra Yardım"
+
+#: admin/main.php:321
+msgid ""
+"\n"
+"\t\t\t<ul>\n"
+"\t\t\t\t<li>- Need any Mantra or WordPress help?</li>\n"
+"\t\t\t\t<li>- Want to know what changes are made to the theme with each new "
+"version?</li>\n"
+"\t\t\t\t<li>- Found a bug or maybe something doesn't work exactly as "
+"expected?</li>\n"
+"\t\t\t\t<li>- Got an idea on how to improve the Mantra Theme to better suit "
+"your needs?</li>\n"
+"\t\t\t\t<li>- Want a setting implemented?</li>\n"
+"\t\t\t\t<li>- Do you have or would you like to make a translation of the "
+"Mantra Theme?</li>\n"
+"\t\t\t</ul>\n"
+"\t\t\t<p>Then come visit us at Mantra's support page.</p>\n"
+"\t"
+msgstr ""
+"\n"
+"\t\t\t<ul>\n"
+"\t\t\t\t<li>- Mantra ya da WordPress için yardıma mı ihtiyacınız var?</li>\n"
+"\t\t\t\t<li>- Her yeni versiyonla gelen özellikleri öğrenmek ister misiniz?</"
+"li>\n"
+"\t\t\t\t<li>- Bug mı bulduğunuz ya da her şey çalışması gerektiği gibi "
+"çalışmıyor mu?</li>\n"
+"\t\t\t\t<li>- Mantra Teması'nın ihtiyaclarını daha iyi karşılaması için bir "
+"fikrin mi var?</li>\n"
+"\t\t\t\t<li>- Bir ayarın uygulanmasını mı istiyorsun?</li>\n"
+"\t\t\t\t<li>- Mantra Teması'nın bir çevirisine mi sahipsin ya da çevirisini "
+"mi yapmak istiyorsun?</li>\n"
+"\t\t\t</ul>\n"
+"\t\t\t<p>O zaman bizi Mantra destek sayfasında ziyaret edin.</p>\n"
+"\t"
+
+#: admin/main.php:332
+msgid "Mantra Support Page"
+msgstr "Manta Destek Sayfası"
+
+#: admin/settings.php:61
+msgid "One column (no sidebars)"
+msgstr "Tek sütun (kenar çubuğu yok)"
+
+#: admin/settings.php:62
+msgid "Two columns,  sidebar on the right"
+msgstr "İki sütun, kenar çubuğu sağda"
+
+#: admin/settings.php:63
+msgid "Two columns,  sidebar on the left"
+msgstr "İki sütun, kenar çubuğu solda"
+
+#: admin/settings.php:64
+msgid "Three columns, sidebars on the right"
+msgstr "Üç sütun, kenar çubukları sağda"
+
+#: admin/settings.php:65
+msgid "Three columns, sidebars on the left"
+msgstr "Üç sütun, kenar çubukları solda"
+
+#: admin/settings.php:66
+msgid "Three columns, one sidebar on each side"
+msgstr "Üç sütun, her yanda bir kenar çubuğu"
+
+#: admin/settings.php:81
+msgid "Choose your layout "
+msgstr "Düzeninizi seçin"
+
+#: admin/settings.php:89
+msgid "Absolute"
+msgstr "Kesin"
+
+#: admin/settings.php:89
+msgid "Relative"
+msgstr "Göreceli"
+
+#: admin/settings.php:90
+msgid "Dimensions to use: "
+msgstr "Kullanılacak ölçüler"
+
+#: admin/settings.php:189 admin/settings.php:209
+msgid "Content ="
+msgstr "İçerik ="
+
+#: admin/settings.php:190 admin/settings.php:210
+msgid "Sidebar(s) ="
+msgstr "Kenar Çubuk(ları) ="
+
+#: admin/settings.php:191 admin/settings.php:211
+msgid "Total width ="
+msgstr "Toplan Genişlik"
+
+#: admin/settings.php:200
+msgid ""
+"Select the width of your <b>content</b> and <b>sidebar(s)</b>. \n"
+" \t\tWhile the content cannot be less than 500px wide, the sidebar area is "
+"at least 220px and no more than 800px.<br />\n"
+"\tIf you went for a 3 column area ( with 2 sidebars) they will each have "
+"half the selected width."
+msgstr ""
+"<b>İçerik</b> ve <b>kenarçubuk(ları)</b> için genişlik seçin. \n"
+" \t\tİçerik 500 pikselden dar olamazken, kenarçubuğu alanı en az 220 piksel "
+"ve en fazla 800 piksel olmalı.<br />\n"
+"\tEğer üç sütun seçmişseniz ( 2 kenarçubuklu) herbiri seçilmiş genişliğin "
+"yarısı olacaktır."
+
+#: admin/settings.php:220
+msgid ""
+"Select the width of your <b>content</b> and <b>sidebar(s)</b>. \n"
+" \t\tThese are realtive dimmensions - relative to the user's browser. The "
+"total width is a percentage of the browser's width.<br />\n"
+"\t While the content cannot be less than 40% wide, the sidebar area is at "
+"least 20% and no more than 50%.<br />\n"
+"\tIf you went for a 3 column area ( with 2 sidebars) they will each have "
+"half the selected width."
+msgstr ""
+"<b>İçerik</b> ve <b>kenarçubuk(ları)</b> için genişlik seçin.\n"
+" \t\tBunlar kullanıcının tarayıcısına göre göreceli ölçülerdir.Toplam "
+"genişlik tarayıcının belli bir yüzdesidir.<br />\n"
+"\t İçerik %40'tan dar olamazken, kenarçubuğu alanı en az %20 en fazla %50 "
+"olmalıdır.<br />\n"
+"\tEğer üç sütun seçmişseniz ( 2 kenarçubuklu) herbiri seçilmiş genişliğin "
+"yarısı olacaktır."
+
+#: admin/settings.php:244
+msgid ""
+"Select the header's height. After saving the settings go and upload your new "
+"header image. The header's width will be = "
+msgstr ""
+"Üstlüğün yüksekliğini seçin. Kaydettikten sonra yeni üstlük görüntüsünü "
+"yükleyin. Üstlüğün genişliği ="
+
+#: admin/settings.php:257 admin/settings.php:969 admin/settings.php:1031
+#: admin/settings.php:1353 admin/settings.php:1415 admin/settings.php:1623
+#: admin/settings.php:1652 admin/settings.php:1675 admin/settings.php:1698
+#: admin/settings.php:1747 admin/settings.php:1876 admin/settings.php:1891
+#: admin/settings.php:1906 admin/settings.php:1921 admin/settings.php:1963
+msgid "Enable"
+msgstr "Etkinleştir"
+
+#: admin/settings.php:257 admin/settings.php:969 admin/settings.php:1031
+#: admin/settings.php:1353 admin/settings.php:1415 admin/settings.php:1623
+#: admin/settings.php:1652 admin/settings.php:1675 admin/settings.php:1698
+#: admin/settings.php:1747 admin/settings.php:1876 admin/settings.php:1891
+#: admin/settings.php:1906 admin/settings.php:1921 admin/settings.php:1963
+msgid "Disable"
+msgstr "Etkisiz Kıl"
+
+#: admin/settings.php:265
+msgid ""
+"Enable the presentation front-page. This will become your new home page and "
+"it will replace whatever page you have selected as homepage. It has a slider "
+"and columns for presentation\n"
+"\t\ttext and images."
+msgstr ""
+"Ön sayfada sunuyu etkinleştir. Bu sizin yeni ana sayfanız olacak ve ana "
+"sayfa olarak seçtiğiniz sayfanın yerine geçecek. Bir sunusu ve sunumlar "
+"için \n"
+"\t\tmetin ve görüntü sütünları var."
+
+#: admin/settings.php:275
+msgid "Slider Dimensions:"
+msgstr "Sunu Ölçüleri"
+
+#: admin/settings.php:276
+msgid "width"
+msgstr "Genişlik"
+
+#: admin/settings.php:277
+msgid "height"
+msgstr "Yükseklik"
+
+#: admin/settings.php:278
+msgid ""
+"The dimensions of your slider. Make sure your images are of the same size."
+msgstr "Sununuzun ölçüsü. Görüntülerinizin aynı boyutta olduğundan emin olun."
+
+#: admin/settings.php:280
+msgid "Animation:"
+msgstr "Animasyon:"
+
+#: admin/settings.php:282
+msgid "Random"
+msgstr "Rasgele"
+
+#: admin/settings.php:282
+msgid "Fold"
+msgstr "Katla"
+
+#: admin/settings.php:282
+msgid "Fade"
+msgstr "Solma"
+
+#: admin/settings.php:282
+msgid "SlideInRight"
+msgstr "SağaKay"
+
+#: admin/settings.php:282
+msgid "SlideInLeft"
+msgstr "SolaKay"
+
+#: admin/settings.php:282
+msgid "SliceDown"
+msgstr "AşağıKes"
+
+#: admin/settings.php:282
+msgid "SliceDownLeft"
+msgstr "SolAşağıKes"
+
+#: admin/settings.php:282
+msgid "SliceUp"
+msgstr "YukarıKes"
+
+#: admin/settings.php:282
+msgid "SliceUpLeft"
+msgstr "SolYukarıKes"
+
+#: admin/settings.php:282
+msgid "SliceUpDown"
+msgstr "YukarıAşağıKes"
+
+#: admin/settings.php:282
+msgid "SliceUpDownLeft"
+msgstr "SolYukarıAşağıKes"
+
+#: admin/settings.php:282
+msgid "BoxRandom"
+msgstr "RasgeleKutu"
+
+#: admin/settings.php:282
+msgid "BoxRain"
+msgstr "YağmurKutu"
+
+#: admin/settings.php:282
+msgid "BoxRainReverse"
+msgstr "TersYağmurKutu"
+
+#: admin/settings.php:282
+msgid "BoxRainGrow"
+msgstr "BüyüyenYağmurKutu"
+
+#: admin/settings.php:282
+msgid "BoxRainGrowReverse"
+msgstr "TersBüyüyenYağmurKutu"
+
+#: admin/settings.php:290
+msgid "The transition effect your slider will have."
+msgstr "Sununuzun Geçiş Efekti."
+
+#: admin/settings.php:292
+msgid "Border Settings:"
+msgstr "Sınır Ayarları"
+
+#: admin/settings.php:293
+msgid "Width"
+msgstr "Yükseklik"
+
+#: admin/settings.php:294
+msgid "Color"
+msgstr "Renk"
+
+#: admin/settings.php:296
+msgid "The width and color of the slider's border."
+msgstr "Sununuzun sınır yükseliği ve rengi."
+
+#: admin/settings.php:298
+msgid "Animation Time:"
+msgstr "Animasyon Süresi:"
+
+#: admin/settings.php:299 admin/settings.php:303
+msgid "milliseconds (1000ms = 1 second) "
+msgstr "milisaniye (1000 ms = 1 saniye)"
+
+#: admin/settings.php:300
+msgid "The time in which the transition animation will take place."
+msgstr "Geçiş animasyonunun gerçekleşeceği süre."
+
+#: admin/settings.php:302
+msgid "Pause Time:"
+msgstr "Duraklama Süresi:"
+
+#: admin/settings.php:304
+msgid "The time in which a slide will be still and visible."
+msgstr "Slaytın durduğu ve görünür olduğu süre."
+
+#: admin/settings.php:307
+msgid "Slider navigation:"
+msgstr "Sunu navigasyonu:"
+
+#: admin/settings.php:309
+msgid "Numbers"
+msgstr "Sayılar"
+
+#: admin/settings.php:309
+msgid "Bullets"
+msgstr "İmler"
+
+#: admin/settings.php:309 admin/settings.php:1259
+msgid "None"
+msgstr "Hiçbiri"
+
+#: admin/settings.php:317
+msgid "Your slider navigation type. Shown under the slider."
+msgstr "Sunu navigasyon tipi. Sunu altında görünür."
+
+#: admin/settings.php:319
+msgid "Slider arrows:"
+msgstr "Sunu okları:"
+
+#: admin/settings.php:321
+msgid "Always Visible"
+msgstr "Her Zaman Gözükür"
+
+#: admin/settings.php:321
+msgid "Visible on Hover"
+msgstr "Vurguda Gözükür"
+
+#: admin/settings.php:321
+msgid "Hidden"
+msgstr "Gizli"
+
+#: admin/settings.php:329
+msgid "The Left and Right arrows on your slider"
+msgstr "Sununuzdaki Sağ ve Sol oklar"
+
+#: admin/settings.php:370 admin/settings.php:438
+msgid "Select Category"
+msgstr "Kategori Seçin"
+
+#: admin/settings.php:397
+msgid "Custom Slides"
+msgstr "Özel Slaytlar"
+
+#: admin/settings.php:397
+msgid "Latest Posts"
+msgstr "Son Yazılar"
+
+#: admin/settings.php:397
+msgid "Random Posts"
+msgstr "Rasgele Yazılar"
+
+#: admin/settings.php:397
+msgid "Sticky Posts"
+msgstr "Yapışkan Yazılar"
+
+#: admin/settings.php:397
+msgid "Latest Posts from Category"
+msgstr "Kategoriden Son Yazılar"
+
+#: admin/settings.php:397
+msgid "Random Posts from Category"
+msgstr "Kategoriden Rasgele Yazılar"
+
+#: admin/settings.php:397
+msgid "Specific Posts"
+msgstr "Belirli Yazılar"
+
+#: admin/settings.php:410
+msgid "Latest posts will be loaded into the slider."
+msgstr "Son yazılar sunuya yüklenecek."
+
+#: admin/settings.php:414
+msgid "Random  posts will be loaded into the slider."
+msgstr "Rasgele yazılar sunuya yüklenecek."
+
+#: admin/settings.php:418
+msgid "Latest posts from the category you choose will be loaded in the slider."
+msgstr "Seçtiğiniz kategoriden son yazılar sunuya yüklenecek."
+
+#: admin/settings.php:423
+msgid ""
+"Random posts from the category you choose will be loaded into the slider."
+msgstr "Seçtiğiniz kategoriden rasgele yazılar sunuya yüklenecek."
+
+#: admin/settings.php:427
+msgid "Only sticky posts will be loaded into the slider."
+msgstr "Sadece yapışkan yazılar sunuya yüklenecek."
+
+#: admin/settings.php:431
+msgid "List the post IDs you want to display (separated by a comma): "
+msgstr ""
+"Göstermek istediğiniz yazıların ID'lerini listeleyin (virgülle ayrılmış "
+"şekilde):"
+
+#: admin/settings.php:436
+msgid "<br> Choose the cateogry: "
+msgstr "<br> Kategori seçin:"
+
+#: admin/settings.php:453
+msgid "Number of posts to show:"
+msgstr "Gösterilecek yazı sayısı:"
+
+#: admin/settings.php:460
+msgid "Slide 1"
+msgstr "Slayt 1"
+
+#: admin/settings.php:464 admin/settings.php:479 admin/settings.php:494
+#: admin/settings.php:509 admin/settings.php:524 admin/settings.php:567
+#: admin/settings.php:582 admin/settings.php:597 admin/settings.php:612
+msgid "Upload or select image from gallery"
+msgstr "Görüntü yükle ya da galeriden seç"
+
+#: admin/settings.php:465 admin/settings.php:480 admin/settings.php:495
+#: admin/settings.php:510 admin/settings.php:525 admin/settings.php:568
+#: admin/settings.php:583 admin/settings.php:613
+msgid "Title"
+msgstr "Başlık"
+
+#: admin/settings.php:467 admin/settings.php:482 admin/settings.php:497
+#: admin/settings.php:512 admin/settings.php:527 admin/settings.php:570
+#: admin/settings.php:585 admin/settings.php:600 admin/settings.php:615
+msgid "Text"
+msgstr "Metin"
+
+#: admin/settings.php:475
+msgid "Slide 2"
+msgstr "Slayt 2"
+
+#: admin/settings.php:490
+msgid "Slide 3"
+msgstr "Slayt 3"
+
+#: admin/settings.php:505
+msgid "Slide 4"
+msgstr "Slayt 4"
+
+#: admin/settings.php:520
+msgid "Slide 5"
+msgstr "Slayt 5"
+
+#: admin/settings.php:533
+msgid ""
+"Your slides' content. Only the image is required, all other fields are "
+"optional. Only the slides with an image selected will become acitve and "
+"visible in the live slider."
+msgstr ""
+"Slaylarınızın içeriği. Sadece görüntü zorunluduri diğer tüm alanlar isteğe "
+"bağlıdır. Canlı sunuda sadece görüntülü slaytlar aktif olacaktır."
+
+#: admin/settings.php:543
+msgid "Number of columns:"
+msgstr "Sütun Sayısı"
+
+#: admin/settings.php:553
+msgid "Image Height:"
+msgstr "Görüntü Yüksekliği"
+
+#: admin/settings.php:556
+msgid "Read more text:"
+msgstr "Daha fazla metin oku"
+
+#: admin/settings.php:559
+msgid ""
+"The linked text that appears at the bottom of all the columns. You can "
+"delete all text inside if you don't want it."
+msgstr ""
+"Bağlantı metni bütün sütünların sonunda gözükür. İstemezseniz bütün metni "
+"silebilirsiniz"
+
+#: admin/settings.php:563
+msgid "1st Column"
+msgstr "1'inci Sütun"
+
+#: admin/settings.php:578
+msgid "2nd Column"
+msgstr "2'inci Sütun"
+
+#: admin/settings.php:593
+msgid "3rd Column"
+msgstr "3'üncü Sütun"
+
+#: admin/settings.php:608
+msgid "4th Column"
+msgstr "4'üncü Sütun"
+
+#: admin/settings.php:630
+msgid "Extra Text"
+msgstr "Ekstra Metin"
+
+#: admin/settings.php:630
+msgid "Top Title"
+msgstr "Üst Başlık"
+
+#: admin/settings.php:632
+msgid "Second Title"
+msgstr "İkinci Başlık"
+
+#: admin/settings.php:635
+msgid "Title color"
+msgstr "Başlık Rengi"
+
+#: admin/settings.php:638
+msgid "The titles' color (Default value is 333333)."
+msgstr "Başlığın rengi (Varsayılan değer 333333)."
+
+#: admin/settings.php:640
+msgid "Bottom Text 1"
+msgstr "Alt Metin 1"
+
+#: admin/settings.php:642
+msgid "Bottom Text 2"
+msgstr "Alt Metin 2"
+
+#: admin/settings.php:645
+msgid ""
+"More text for your front page. The top title is above the slider, the second "
+"title between the slider and the columns and 2 more rows of text under the "
+"columns.\n"
+"\t\t It's all optional so leave any input field empty if it's not required. "
+msgstr ""
+"Ön sayfanızda daha çok metin. Üst başlık sununun altında, ikinci başlık ise "
+"sunu ile sütunlar arasında ve 2 sıra da sütunların altındadır.\n"
+"\t\t Bunların hepsi isteğe bağlı, eğer gerekli değilse doldurmayabilirsiniz. "
+
+#: admin/settings.php:651
+msgid "Hide areas"
+msgstr "Alanları Gizle"
+
+#: admin/settings.php:664
+msgid "Hide the header area (image or background color)."
+msgstr "Üstlük alanını gizle (görüntü ya da arkaplan rengi)."
+
+#: admin/settings.php:668
+msgid "Hide the main menu (the top navigation tabs)."
+msgstr "Ana menüyü gizle (üst navigasyon sekmeleri)."
+
+#: admin/settings.php:672
+msgid "Hide the footer widgets. "
+msgstr "Altlık bileşenlerini gizle."
+
+#: admin/settings.php:676
+msgid "Hide the footer (copyright area)."
+msgstr "Altlığı gizle (telif hakkı alanı)."
+
+#: admin/settings.php:680
+msgid "Hide the white color. Only the background color remains."
+msgstr "Beyaz rengi gizle. Sadece arka plan rengi kalır."
+
+#: admin/settings.php:684
+msgid "Choose the areas to hide on the first page."
+msgstr "İlk sayfada gizlenecek alanları belirleyin."
+
+#: admin/settings.php:703
+msgid ""
+"Select the font size you'll use in your blog. Pages, posts and comments will "
+"be affected. Buttons, Headers and Side menus will remain the same."
+msgstr ""
+"Blogunuzda kullanacağınız yazı tipi boyutunu seçin. Sayfalar, yazılar ve "
+"yorumlar etkilenecek. Tuşlar, Başlıklar ve Yan menüler etkilenmeyecek."
+
+#: admin/settings.php:747
+msgid ""
+"Select the font family you'll use in your blog. All content text will be "
+"affected (including menu buttons). "
+msgstr ""
+"Blogunuzda kullanacağınız yazı tipi ailesini seçin. Tüm içerik metni "
+"etkilenecek (menü tuşları dahil)."
+
+#: admin/settings.php:748 admin/settings.php:797 admin/settings.php:848
+#: admin/settings.php:899
+msgid ""
+"Or insert your Google Font below. Please only isert the <strong>name</"
+"strong> of the font.<br /> Ex: Marko One. Go to <a href='http://www.google."
+"com/webfonts' > google fonts </a> for some font inspiration."
+msgstr ""
+"Ya da Google Yazı Tipinizi girin. Lütfen yazı tipi <strong>name</strong> "
+"girin. <br /> Örnek: Marko One.  <a href='http://www.google.com/webfonts' > "
+"google fonts </a> ilham için ziyaret edin."
+
+#: admin/settings.php:795
+msgid ""
+"Select the font family you want for your titles. It will affect post titles "
+"and page titles. Leave 'Default' and the general font you selected will be "
+"used."
+msgstr ""
+"Başlıklarınızda kullanacağız yazı tipi ailesini seçin. Yazı başlıkları ve "
+"safya başlıkları etkilenecek. Genel yazı tipiyle aynı olmasını istiyorsanız "
+"\"Varsayılan\" olarak bırakın."
+
+#: admin/settings.php:846
+msgid ""
+"Select the font family you want your sidebar(s) to have. Text in sidebars "
+"will be affected, including any widgets. Leave 'Default' and the general "
+"font you selected will be used."
+msgstr ""
+"Kenarçubuk(ları)nda kullanmak istediğiniz yazı tipi ailesini seçin. Kenar "
+"çubuklarındaki metin ve bütün bileşenler etkilenecektir. Genel yazı tipiyle "
+"aynı olmasını istiyorsanız \"Varsayılan\" olarak bırakın."
+
+#: admin/settings.php:897
+msgid ""
+"Select the font family you want your subheaders to have (h2 - h6 tags will "
+"be affected). Leave 'Default' and the general font you selected will be used."
+msgstr ""
+"Alt başlıklarda (h2 - h6 etiketleri etkilenecek) kullanılmasını istediğiniz "
+"yazı tipi ailesini seçin. Genel yazı tipiyle aynı olmasını istiyorsanız "
+"\"Varsayılan\" olarak bırakın."
+
+#: admin/settings.php:909 admin/settings.php:924 admin/settings.php:939
+#: admin/settings.php:984 admin/settings.php:999 admin/settings.php:1014
+msgid "Default"
+msgstr "Varsayılan"
+
+#: admin/settings.php:917
+msgid ""
+"Post Header Font size. Leave 'Default' for normal settings (size value will "
+"be as set in the CSS)."
+msgstr ""
+"Yazı Başlığı Yazı Tipi boyutu. Normal ayarlar için \"Varsayılan\" olarak "
+"bırakın (boyut değeri CSS'deki gibi olacak)"
+
+#: admin/settings.php:932
+msgid ""
+"Sidebar Font size. Leave 'Default' for normal settings (size value will be "
+"as set in the CSS)."
+msgstr ""
+"Kenarçubuğu Yazı Tiği boyutu.  Normal ayarlar için \"Varsayılan\" olarak "
+"bırakın (boyut değeri CSS'deki gibi olacak)"
+
+#: admin/settings.php:939 admin/settings.php:1714
+msgid "Left"
+msgstr "Sol"
+
+#: admin/settings.php:939 admin/settings.php:1714
+msgid "Right"
+msgstr "Sağ"
+
+#: admin/settings.php:939
+msgid "Justify"
+msgstr "İki yana yasla"
+
+#: admin/settings.php:939 admin/settings.php:1714
+msgid "Center"
+msgstr "Ortala"
+
+#: admin/settings.php:947
+msgid ""
+"This overwrites the text alignment in posts and pages. Leave 'Default' for "
+"normal settings (alignment will remain as declared in posts, comments etc.)."
+msgstr ""
+"Bu yazılar ve sayfalardaki metin hizasının üstüne yazar. Normal ayarlar için "
+"\"Varsayılan\" olarak bırakın (hizalama yazılar, yorumlardaki, vb. gibi "
+"kalacak)"
+
+#: admin/settings.php:961
+msgid "Choose the indent for your paragraphs."
+msgstr "Paragrafınız için satırbaşı seçin."
+
+#: admin/settings.php:977
+msgid "Disable the default header and title indent (left margin)."
+msgstr "Varsayılan üstlük ve başlık satırbaşını etkisiz kılın (sol kenar)."
+
+#: admin/settings.php:992
+msgid ""
+"Text line height. The height between 2 rows of text. Leave 'Default' for "
+"normal settings (size value will be as set in the CSS)."
+msgstr ""
+"Metni satır boyutu. 2 satır arasındaki boyut.  Normal ayarlar için "
+"\"Varsayılan\" olarak bırakın (boyut değeri CSS'deki gibi olacak)"
+
+#: admin/settings.php:1007
+msgid ""
+"The space between <i>words</i>. Leave 'Default' for normal settings (size "
+"value will be as set in the CSS)."
+msgstr ""
+"<i>Kelimeler</i> arasındaki boşluk.  Normal ayarlar için \"Varsayılan\" "
+"olarak bırakın (boyut değeri CSS'deki gibi olacak)"
+
+#: admin/settings.php:1022
+msgid ""
+"The space between <i>letters</i>. Leave 'Default' for normal settings (size "
+"value will be as set in the CSS)."
+msgstr ""
+"<i>Harfler</i> arasındaki boşluk.  Normal ayarlar için \"Varsayılan\" olarak "
+"bırakın (boyut değeri CSS'deki gibi olacak)"
+
+#: admin/settings.php:1039
+msgid "Disable the default text shadow on headers and titles."
+msgstr "Üstlükler ve başlıklardaki varsayılan metin gölgesini etkisiz kıl."
+
+#: admin/settings.php:1051
+msgid "Background color (Default value is 444444)."
+msgstr "Arka plan rengi (Varsayılan değer 444444)."
+
+#: admin/settings.php:1059
+msgid ""
+"Header background color (Default value is 333333). You can delete all inside "
+"text for no background color."
+msgstr ""
+"Üstlük arka plan rengi (Varsayılan değer 333333). Arka plan rengini iptal "
+"etmek için kutudaki metni silin."
+
+#: admin/settings.php:1066
+msgid ""
+"Content background color (Default value is FAFAFA). Works best with really "
+"light colors."
+msgstr ""
+"İçerik arka plan rengi (Varsayılan değer FAFAFA). En iyi açık renklerle "
+"çalışır."
+
+#: admin/settings.php:1073
+msgid ""
+"Main menu background color (Default value is FAFAFA). Should be the same "
+"color as the content bg or something just as light."
+msgstr ""
+"Ana menü arka plan rengi (Varsayılan değer FAFAFA). İçerik arka plan "
+"rengiyle aynı olmalı ya da aynı derecede açık renkli."
+
+#: admin/settings.php:1081
+msgid "Footer widget-area background color. (Default value is 171717)."
+msgstr "Altlık bileşen alanı arka plan rengi. (Varsayılan değer 171717)."
+
+#: admin/settings.php:1089
+msgid "Footer background color (Default value is 222222)."
+msgstr "Altlık arka plan rengi (Varsayılan değer 222222)."
+
+#: admin/settings.php:1097
+msgid "Your blog's title color (Default value is 0D85CC)."
+msgstr "Blogunuzun başlık rengi (Varsayılan değer 0D85CC)."
+
+#: admin/settings.php:1105
+msgid "Your blog's description color(Default value is 222222)."
+msgstr "Blog açıklamanızın rengi(Varsayılan değer 222222)."
+
+#: admin/settings.php:1113
+msgid "Content Text Color (Default value is 333333)."
+msgstr "İçerik Metni Rengi (Varsayılan değer 333333)."
+
+#: admin/settings.php:1121
+msgid "Links color (Default value is 0D85CC)."
+msgstr "Bağlantıların rengi (Varsayılan değer 0D85CC)."
+
+#: admin/settings.php:1129
+msgid "Links color on mouse over (Default value is 333333)."
+msgstr "Fare üstüne geldiğinde bağlantıların rengi (Varsayılan değer 333333)."
+
+#: admin/settings.php:1137
+msgid "Post Header Text Color (Default value is 333333)."
+msgstr "Yazı Başlığı Metni Rengi (Varsayılan değer 333333)."
+
+#: admin/settings.php:1145
+msgid "Post Header Text Color on Mouse over (Default value is 000000)."
+msgstr ""
+"Fare üstüne geldiğinde Yazı Başlığı Metni Rengi (Varsayılan değer 000000)."
+
+#: admin/settings.php:1153
+msgid "Sidebar Header Background color (Default value is 444444)."
+msgstr "Kenarçubuğu Üstlük Arkaplan Rengi (Varsayılan değer 444444)."
+
+#: admin/settings.php:1162
+msgid "Sidebar Header Text Color(Default value is 2EA5FD)."
+msgstr "Kenarçubuğu Üstlük Metin Rengi (Varsayılan değer 2EA5FD)."
+
+#: admin/settings.php:1170
+msgid "Footer Widget Text Color (Default value is 0D85CC)."
+msgstr "Altlık Bileşen Metin Rengi (Varsayılan değer 0D85CC)."
+
+#: admin/settings.php:1178
+msgid "Footer Widget Link Color (Default value is 666666)."
+msgstr "Altlık Bileşen Bağlantısı Rengi (Varsayılan değer 666666)."
+
+#: admin/settings.php:1186
+msgid "Footer Widget Link Color on Mouse Over (Default value is 888888)."
+msgstr ""
+"Fare üstüne geldiğinde Altlık Bileşen Bağlantısı Rengi (Varsayılan değer "
+"888888)."
+
+#: admin/settings.php:1198 admin/settings.php:1259
+msgid "White"
+msgstr "Beyaz"
+
+#: admin/settings.php:1198
+msgid "Light"
+msgstr "Açık"
+
+#: admin/settings.php:1198
+msgid "Light Gray"
+msgstr "Açık Gri"
+
+#: admin/settings.php:1198 admin/settings.php:1259
+msgid "Gray"
+msgstr "Gri"
+
+#: admin/settings.php:1198
+msgid "Dark Gray"
+msgstr "Koyu Gri"
+
+#: admin/settings.php:1198
+msgid "Black"
+msgstr "Siyah"
+
+#: admin/settings.php:1206
+msgid ""
+"This setting changes the look of your captions. Images that are not inserted "
+"through captions will not be affected."
+msgstr ""
+"Bu ayar altyazılarınızın görüntüsünü değiştirir. Altyazı eklenmeyen "
+"görüntüler etkilenmez."
+
+#: admin/settings.php:1222
+msgid "The border around your inserted images. "
+msgstr "Eklenmiş görüntülerin etrafındaki sınır."
+
+#: admin/settings.php:1237
+msgid "The image on top of your captions. "
+msgstr "Altyazılarınızın üstündeki görüntü."
+
+#: admin/settings.php:1252
+msgid "The sidebar list bullets. "
+msgstr "Kenarçubuğu imler listesi."
+
+#: admin/settings.php:1267
+msgid ""
+"The background for your post-metas area (under your post tiltes). Gray by "
+"default.<"
+msgstr ""
+"Yazı-metaları(Yazı başlıkları altında) arka planı. Varsayılan olarak gri.<"
+
+#: admin/settings.php:1275 admin/settings.php:1291 admin/settings.php:1308
+#: admin/settings.php:1323 admin/settings.php:1338 admin/settings.php:1368
+#: admin/settings.php:1383 admin/settings.php:1399 admin/settings.php:1442
+#: admin/settings.php:1457 admin/settings.php:1472 admin/settings.php:1487
+#: admin/settings.php:1502 admin/settings.php:1517 admin/settings.php:1532
+#: admin/settings.php:1547
+msgid "Show"
+msgstr "Göster"
+
+#: admin/settings.php:1275 admin/settings.php:1291 admin/settings.php:1308
+#: admin/settings.php:1323 admin/settings.php:1338 admin/settings.php:1368
+#: admin/settings.php:1399 admin/settings.php:1442 admin/settings.php:1457
+#: admin/settings.php:1472 admin/settings.php:1487 admin/settings.php:1502
+#: admin/settings.php:1517 admin/settings.php:1532 admin/settings.php:1547
+msgid "Hide"
+msgstr "Gizle"
+
+#: admin/settings.php:1283
+msgid "Hide or show a horizontal rule to separate posts."
+msgstr "Yazıları ayırmak için yatay kuralı göster ya da gizle."
+
+#: admin/settings.php:1299
+msgid ""
+"Hide or show  bullets next to lists that are in your content area (posts, "
+"pages etc.)."
+msgstr ""
+"İçerik alanındaki(yazılar, sayfalar, vb.) listeler yanındaki imleri göster "
+"ya da gizle."
+
+#: admin/settings.php:1316
+msgid ""
+"Hide or show your blog's Title and Description in the header (recommended if "
+"you have a custom header image with text)."
+msgstr ""
+"Blogunuzun üstlükteki Başlık ve Tanımını göster ya da gizle (eğer metinle "
+"birlikte özel bir başlık görüntüsü kullanıyorsanız önerilir)."
+
+#: admin/settings.php:1331
+msgid "Hide or show Page titles on any <i>created</i> pages. "
+msgstr "<i>Oluşturulan</i> sayfalarda Sayfa başlıklarını göster ya da gizle."
+
+#: admin/settings.php:1346
+msgid "Hide or show Page titles on <i>Category</i> Pages. "
+msgstr "<i>Kategori</i> sayfalarında Sayfa başlıklarını göster ya da gizle."
+
+#: admin/settings.php:1361
+msgid "Hide table borders and background color."
+msgstr "Tablo sınırlarını ve arka plan rengini gizle."
+
+#: admin/settings.php:1376
+msgid ""
+"Hide the explanatory text under the comments form. (starts with  <i>You may "
+"use these HTML tags and attributes:...</i>)."
+msgstr ""
+"Yorum formunun altındaki açıklama metnini gizle. (şu şekilde başlayan  "
+"<i>You may use these HTML tags and attributes:...</i>)."
+
+#: admin/settings.php:1383
+msgid "Hide in posts"
+msgstr "Yazılar içinde gizle"
+
+#: admin/settings.php:1383
+msgid "Hide in pages"
+msgstr "Sayfalar içinde gizle"
+
+#: admin/settings.php:1383
+msgid "Hide everywhere"
+msgstr "Her yerde gizle"
+
+#: admin/settings.php:1391
+msgid ""
+"Hide the  <b>Comments are closed</b> text that by default shows up on pages "
+"or posts with the comments disabled."
+msgstr ""
+"Varsayılan olarak yoruma kapalı sayfa ya da yazılarda bulunan <b>Yoruma "
+"kapalı</b> metnini gizle."
+
+#: admin/settings.php:1407
+msgid ""
+"Hide the <b>Comments off</b> text next to posts that have comments disabled."
+msgstr ""
+"Yoruma kapalı metinlerin yanında bulunan <b>Yoruma kapalı</b>metnini gizle."
+
+#: admin/settings.php:1423
+msgid ""
+"Enable the Back to Top button. The button appears after scrolling the page "
+"down."
+msgstr ""
+"Yukarı Ger Dön tuşunu etkinleştir. Tuş sayfada aşağı inildiğinde gözükür."
+
+#: admin/settings.php:1430
+msgid ""
+"Insert custom text or HTML code that will appear last in you footer. <br /> "
+"You can use HTML to insert links, images and special characters like &copy ."
+msgstr ""
+"Altlığa özel metin ya da HTML kodu yerleştirin. <br /> HTML kodunu görüntü, "
+"bağlantı ve &copy gibi özel karakterler eklemek için kullanabilirsiniz."
+
+#: admin/settings.php:1450
+msgid ""
+"Hide or show the <strong>Leave a comment</strong> or <strong>x Comments</"
+"strong> next to posts or post excerpts."
+msgstr ""
+"<strong>Yorum ekle</strong> ya da <strong>Yorumlar</strong> seçeneğini "
+"yazıların ya da özetlerin yanında göster ya da gizle."
+
+#: admin/settings.php:1465
+msgid "Hide or show the post date."
+msgstr "Yazı tarihini göster ya da gizle."
+
+#: admin/settings.php:1480
+msgid ""
+"Show the post time with the date. Time will not be visible if the Post Date "
+"is hidden."
+msgstr ""
+"Yazı zamanını yazı tarihiyle birlikte göster. Yazır tarihi gizlenmiş ise "
+"yazı zamanı gözükmez."
+
+#: admin/settings.php:1495
+msgid "Hide or show the post author."
+msgstr "Yazı yazarını göster ya da gizle."
+
+#: admin/settings.php:1510
+msgid "Hide the post category."
+msgstr "Yazı kategorisini gizle."
+
+#: admin/settings.php:1525
+msgid "Hide the post tags."
+msgstr "Yazı etiketlerini gizle."
+
+#: admin/settings.php:1540
+msgid "Hide the 'Bookmark permalink'."
+msgstr "\"Permalinke yer işareti koy\" seçeneğini gizle."
+
+#: admin/settings.php:1555
+msgid "Hide all the post metas. All meta info and meta areas will be hidden."
+msgstr ""
+"Bütün yazı metalarını gizle. Bütün meta bilgileri ve meta alanları "
+"gizlenecektir."
+
+#: admin/settings.php:1568 admin/settings.php:1583 admin/settings.php:1599
+msgid "Excerpt"
+msgstr "Özet"
+
+#: admin/settings.php:1568 admin/settings.php:1583 admin/settings.php:1599
+msgid "Full Post"
+msgstr "Tüm Yazı"
+
+#: admin/settings.php:1576
+msgid ""
+"Excerpts on the main page. Only standard posts will be affected. All other "
+"post formats (aside, image, chat, quote etc.) have their specific formating."
+msgstr ""
+"Ana sayfada özetler. Sadece standart yazılar etkilenecektir. Tüm diğer girdi "
+"formatları (görüntü, sohbet, alıntı, vb.) kendi formatlarına sahip olmaya "
+"devam edecektir."
+
+#: admin/settings.php:1591
+msgid ""
+"Choose if you want the sticky posts on your home page to be visible in full "
+"or just the excerpts. "
+msgstr ""
+"Ana sayfanızdaki yapışkan yazıların tümünün mü yoksa özetinin mi gözükmesini "
+"istediğinize karar verin."
+
+#: admin/settings.php:1607
+msgid ""
+"Excerpts on archive, categroy and search pages. Same as above, only standard "
+"posts will be affected."
+msgstr ""
+"Arşiv, kategori ve arama sayfalarında özetler. Yukarıda olduğu gibi sadece "
+"standart girdiler etkilenecektir."
+
+#: admin/settings.php:1615
+msgid ""
+"The number of words an excerpt will have. When that number is reached the "
+"post will be interrupted by a <i>Continue reading</i> link that\n"
+"\t\t\t\t\t\t\twill take the reader to the full post page."
+msgstr ""
+"Özetin sahip olabileceği kelime sayısı. Bu sayıya ulaşıldığında yazı "
+"otomatik olarak <i>Okumaya devam et</i> bağlantısıyla\n"
+"\t\t\t\t\t\t\tkesilecek ve okuyucu tam yazı sayfasına yönlendirilecek."
+
+#: admin/settings.php:1631
+msgid ""
+"Enable the Magazine Layout. This layout applies to pages with posts and "
+"shows 2 posts per row."
+msgstr ""
+"Dergi düzenini etkinleştir. Bu düzen yazı olan sayfalara etki eder ve sıra "
+"başına 2 yazı ekler."
+
+#: admin/settings.php:1638
+msgid ""
+"Replaces the three dots ('[...])' that are appended automatically to "
+"excerpts."
+msgstr "Otomatik olarak özetlere eklenen ('[...]) üç noktanın yerine geçer."
+
+#: admin/settings.php:1645
+msgid "Edit the 'Continue Reading' link added to your post excerpts."
+msgstr "Özetlerdeki 'Okumaya Devam Et' bağlantısını düzenle."
+
+#: admin/settings.php:1660
+msgid "By default WordPress excerpts remove all HTML tags ("
+msgstr "Varsayılan olarak WordPress özetleri tüm HTML etiketlerini kaldırır."
+
+#: admin/settings.php:1691
+msgid ""
+"Show featured images as thumbnails on posts. The images must be selected for "
+"each post in the Featured Image section."
+msgstr ""
+"Öne çıkan görüntüleri yazılarda küçük resim olarak göster. Görüntüler Öne "
+"Çıkan Görüntüler kısmından her yazı için ayrıca seçilmelidir."
+
+#: admin/settings.php:1706
+msgid ""
+"Show the first image that you inserted in a post as a thumbnail. If you "
+"enable this option, the first image in your post will be used even if you "
+"selected a Featured Image in you post."
+msgstr ""
+"Yazıya eklediğiniz ilk görüntüyü küçük resim olarak gösterin. Eğer bu "
+"seçeneği etkinleştirirseniz, Öne Çıkan Görüntüleri kullansanız bile ilk "
+"eklediğiniz görüntü küçük resim olarak gözükecektir."
+
+#: admin/settings.php:1722
+msgid "Thumbnail alignment."
+msgstr "Küçük resim hizalaması."
+
+#: admin/settings.php:1739
+msgid ""
+"The size you want the thumbnails to have (in pixels). By default imges will "
+"be scaled with aspect ratio kept. Choose to crop the images if you want the "
+"exact size."
+msgstr ""
+"Küçük resimleriniz için istediğiniz boyut(piksel olarak). Varsayılan olarak "
+"görünüm oranı tutularak oranlacaktır. Tam boyut istiyorsanız, görüntüleri "
+"kesin."
+
+#: admin/settings.php:1755
+msgid ""
+"Show featured images on headers. The header will be replaced with a featured "
+"image if you selected it as a Featured Image in the post and\n"
+"\t\t\t\t\t\t\tand if it is bigger or at least equal to the current header "
+"size."
+msgstr ""
+"Öne Çıkan Görüntüleri başlıklarda göster. Eğer seçtiğiniz Öne Çıkan Görüntü "
+"başlık boyutundan büyük ya da başlık boyutuyla aynı ise yazıda bu başlıkla "
+"yer değiştirecek."
+
+#: admin/settings.php:1776
+msgid ""
+"Select your desired Social network from the left dropdown menu and insert "
+"your corresponding address in the right input field. (ex: <i>http://www."
+"facebook.com/yourname</i> )"
+msgstr ""
+"Açılan menüden istediğiniz sosyal ağı seçin ve ilgili adresi gerekli alana "
+"girin (Örnek: <i>http://www.facebook.com/yourname</i> )"
+
+#: admin/settings.php:1790
+msgid "You can insert up to 5 different social sites and addresses."
+msgstr "5 farklı sosyal site ve adrese kadar ekleyebilirsiniz."
+
+#: admin/settings.php:1804
+msgid "There are a total of 27 social networks to choose from. "
+msgstr "Toplamda seçebileceğin 27 sosyal ağ bulunmakta."
+
+#: admin/settings.php:1818
+msgid "You can leave any number of inputs empty. "
+msgstr "İstediğiniz kadar girdiyi boş bırakabilirsiniz."
+
+#: admin/settings.php:1832
+msgid "You can choose the same social media any number of times.  "
+msgstr "Aynı sosyal medyayı istediğiniz kadar seçebilirsiniz."
+
+#: admin/settings.php:1863
+msgid "Choose the <b>areas</b> where to display the social icons."
+msgstr "Sosyal ağ imlerini göstermek istediğiniz <b>alanı</b> seçiniz."
+
+#: admin/settings.php:1884
+msgid ""
+"Make the site header into a clickable link that links to your index page."
+msgstr ""
+"Site başlığını içerik sayfanıza yönlendirecek şekilde tıklanabilir bağlantı "
+"olarak ayarlayın."
+
+#: admin/settings.php:1899
+msgid ""
+"Show breadcrumbs at the top of the content area. Breadcrumbs are a form of "
+"navigation that keeps track of your location withtin the site."
+msgstr ""
+"İçerik alanının üzerinde ekmek kırıntılarını göster. Ekmek kırıntıları site "
+"içerisinde bulunduğunuz yeri gösteren bir navigasyon çeşitidir."
+
+#: admin/settings.php:1914
+msgid ""
+"Show numbered pagination. Where there is more than one page, instead of the "
+"bottom <b>Older Posts</b> and <b>Newer posts</b> links you have a numbered "
+"pagination. "
+msgstr ""
+"Numaralandırılmış sayfaları göster. Birden fazla sayfa olduğunda, <b>Daha "
+"Eski Yazılar</b> ve <b>Daha Yeni Yazılar</b> yerine numaralandırılmış "
+"sayfaları gösterir."
+
+#: admin/settings.php:1929
+msgid ""
+"Enable the mobile view and make Mantra responsive. The layout and look of "
+"your blog will change depending on what device and what resolution it is "
+"viewed in. "
+msgstr ""
+"Mobil görüntüyü etkinleştirin ve Mantra'yı duyarlı hale getirin. Blogunuzun "
+"görünümü ve düzeni hangi cihazda görüntülendiğini ve cihazın çözünürlüğüne "
+"göre değişir."
+
+#: admin/settings.php:1939
+msgid "Upload or select favicon from gallery"
+msgstr "Favicon yükleyin ya da galeriden seçin"
+
+#: admin/settings.php:1943
+msgid ""
+"Limitations: It has to be an image. It should be max 64x64 pixels in "
+"dimensions. Recommended file extensions .ico and .png . "
+msgstr ""
+"Sınırlandırma: Görüntü olmak zorunda. En fazla 64x64 piksel olmalı. Tavsiye "
+"edilen dosya uzantıları, .ico ve .png."
+
+#: admin/settings.php:1951
+msgid ""
+"Insert your custom CSS here. Any CSS declarations made here will overwrite "
+"Mantra's (even the custom options specified right here in the Mantra "
+"Settings page). <br /> Your custom CSS will be preserved when updating the "
+"theme."
+msgstr ""
+"Özel CSS'i buraya ekleyin. Her türlü CSS deklerasyonu Mantra CSS'i üzerine "
+"yazılacaktır(Mantra Ayarları sayfasında düzenlediğiniz seçenekleriniz bile). "
+"<br /> Özel CSS'iniz tema güncellemesi yaptığınızda korunacaktır."
+
+#: admin/settings.php:1958
+msgid ""
+"Insert your custom Javascript code here. (Google Analytics and any other "
+"forms of Analytic software)."
+msgstr ""
+"Özel JavaScript kodunuzu buraya yerleştirin. (Google Analytics ya da başka "
+"herhangi bir Analytics yazılımı)."
+
+#: admin/settings.php:1971
+msgid ""
+"Enable Mantra's Search Engine Optimization. This is enabled by default and "
+"should only be disabled if you are using a SEO plugin."
+msgstr ""
+"Mantra SEO'sunu etkinleştir. Varsayılan olarak etkinleştirilmiştir ve sadece "
+"bir SEO plugin'i kullanıyorsanız etkisiz kılın."
+
+#: admin/settings.php:1983
+msgid "Auto"
+msgstr "Oto"
+
+#: admin/settings.php:1983
+msgid "Manual"
+msgstr "Manuel"
+
+#: includes/theme-functions.php:213
+msgid "Home Page"
+msgstr "Ana Sayfa"
+
+#: includes/theme-loop.php:146
+msgid "says:"
+msgstr "diyorki:"
+
+#: includes/theme-loop.php:152
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz onay bekliyor."
+
+#: includes/theme-loop.php:159
+msgid "at"
+msgstr "halinde"
+
+#: includes/theme-loop.php:159 includes/theme-loop.php:176
+msgid "(Edit)"
+msgstr "(Düzenle)"
+
+#: includes/theme-loop.php:176
+msgid "Pingback: "
+msgstr "Pingback:"
+
+#: includes/theme-loop.php:213
+msgid "By "
+msgstr "Tarafından"
+
+#: includes/theme-loop.php:224
+msgid "Leave a comment"
+msgstr "Yorum bırakın"
+
+#: includes/theme-loop.php:224
+msgid "<b>1</b> Comment"
+msgstr "<b>1</b> Yorum Yap"
+
+#: includes/theme-loop.php:224
+msgid "<b>%</b> Comments"
+msgstr "<b>%</b> Yorumlar"
+
+#: includes/theme-loop.php:247
+msgid " Bookmark the "
+msgstr "Yer işareti koy"
+
+#: includes/theme-loop.php:247 includes/theme-loop.php:249
+#: includes/theme-loop.php:251
+msgid "Permalink to"
+msgstr "Buraya permalink"
+
+#: includes/theme-loop.php:247 includes/theme-loop.php:249
+#: includes/theme-loop.php:251
+msgid "permalink"
+msgstr "permalink"
+
+#: includes/theme-loop.php:249 includes/theme-loop.php:251
+msgid "Bookmark the "
+msgstr "Yer işareti koy"
+
+#: includes/theme-loop.php:273
+msgid "<span class=\"meta-nav\">&laquo;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&laquo;</span> Daha eski yazılar"
+
+#: includes/theme-loop.php:274
+msgid "Newer posts <span class=\"meta-nav\">&raquo;</span>"
+msgstr "Daha yeni yazılar <span class=\"meta-nav\">&raquo;</span>"
+
+#: includes/theme-seo.php:26
+#, php-format
+msgid "Page %s"
+msgstr "Sayfalar %s"
+
+#: includes/theme-setup.php:91
+msgid "Primary Navigation"
+msgstr "Birincil Navigasyon"
+
+#: includes/theme-setup.php:92
+msgid "Top Navigation"
+msgstr "Üst Navigasyon"
+
+#: includes/theme-setup.php:93
+msgid "Footer Navigation"
+msgstr "Alt Navigasyon"
+
+#: includes/theme-setup.php:137
+msgid "mantra"
+msgstr "mantra"
+
+#: includes/theme-setup.php:198
+msgid "Skip to content"
+msgstr "İçeriğe atla"
+
+#: includes/theme-setup.php:224
+msgid "Primary Widget Area - Sidebar 1"
+msgstr "Birincil Bileşen Alanı - Kenarçubuğu 1"
+
+#: includes/theme-setup.php:226
+msgid "Primary widget area - Sidebar 1"
+msgstr "Birincil Bileşen Alanı - Kenarçubuğu 2"
+
+#: includes/theme-setup.php:235
+msgid "Secondary Widget Area - Sidebar 1"
+msgstr "İkincil Bileşen Alanı - Kenarçubuğu 1"
+
+#: includes/theme-setup.php:237
+msgid "Secondary widget area - Sidebar 1"
+msgstr "İkincil Bileşen Alanı - Kenarçubuğu 2"
+
+#: includes/theme-setup.php:246
+msgid "Third Widget Area - Sidebar 2"
+msgstr "Üçüncü Bileşen Alanı - Kenarçubuğu 1"
+
+#: includes/theme-setup.php:248
+msgid "Third widget area - Sidebar 2"
+msgstr "Üçüncü Bileşen Alanı - Kenarçubuğu 2"
+
+#: includes/theme-setup.php:257
+msgid "Fourth Widget Area - Sidebar 2"
+msgstr "Dördüncü Bileşen Alanı - Kenarçubuğu 2"
+
+#: includes/theme-setup.php:259
+msgid "Fourth widget area  - Sidebar 2"
+msgstr "Dördüncü bileşen alanı - Kenarçubuğu 2"
+
+#: includes/theme-setup.php:268
+msgid "First Footer Widget Area"
+msgstr "Birinci Altlık Bileşen Alanı"
+
+#: includes/theme-setup.php:270
+msgid "First footer widget area"
+msgstr "Birinci altlık bileşen alanı"
+
+#: includes/theme-setup.php:279
+msgid "Second Footer Widget Area"
+msgstr "İkinci Altlık Bileşen Alanı"
+
+#: includes/theme-setup.php:281
+msgid "Second footer widget area"
+msgstr "İkinci atlık bileşen alanı"
+
+#: includes/theme-setup.php:290
+msgid "Third Footer Widget Area"
+msgstr "Üçüncü Altlık Bileşen Alanı"
+
+#: includes/theme-setup.php:292
+msgid "The third footer widget area"
+msgstr "Üçüncü altlık bileşen alanı"
+
+#: includes/theme-setup.php:301
+msgid "Fourth Footer Widget Area"
+msgstr "Dördüncü Altlık Bileşen Alanı"
+
+#: includes/theme-setup.php:303
+msgid "The fourth footer widget area"
+msgstr "Dördüncü altlık bileşen alanı"

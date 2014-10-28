@@ -1,0 +1,2611 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mantra v2.3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-10 13:45+0200\n"
+"PO-Revision-Date: 2013-12-25 18:03:56+0000\n"
+"Last-Translator: Libor Schejbal <libor.schejbal@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:17
+#@ mantra
+msgid "Not Found"
+msgstr "Nenalezeno"
+
+#: 404.php:19
+#@ mantra
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "Omlouváme se, ale požadovaná stránka nebyla nalezena. Snad vám pomůže další hledání."
+
+#: archive.php:27
+#, php-format
+#@ mantra
+msgid "Daily Archives: %s"
+msgstr "Denní archivy: %s"
+
+#: archive.php:29
+#, php-format
+#@ mantra
+msgid "Monthly Archives: %s"
+msgstr "Měsíční archivy: %s"
+
+#: archive.php:31
+#, php-format
+#@ mantra
+msgid "Yearly Archives: %s"
+msgstr "Roční archivy: %s"
+
+#: archive.php:33
+#@ mantra
+msgid "Blog Archives"
+msgstr "Archiv blogů"
+
+#: archive.php:59
+#: author.php:75
+#: category.php:51
+#: content-frontpage.php:26
+#: index.php:41
+#: search.php:41
+#: tag.php:52
+#: template-blog.php:36
+#@ mantra
+msgid "Nothing Found"
+msgstr "Nic nenalezeno"
+
+#: archive.php:63
+#: author.php:79
+#: category.php:55
+#: content-frontpage.php:30
+#: index.php:45
+#: tag.php:56
+#: template-blog.php:40
+#@ mantra
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Omlouváme se, ale v daném archivu nebyly nalezeny žádné výsledky. Zkuste hledat jinde, možná najdete související příspěvek."
+
+#: attachment.php:18
+#, php-format
+#@ mantra
+msgid "Return to %s"
+msgstr "Návrat do %s"
+
+#. translators: %s - title of parent post
+#: attachment.php:29
+#@ mantra
+msgid "By"
+msgstr "Autor"
+
+#: attachment.php:40
+#@ mantra
+msgid "Published"
+msgstr "Publikováno"
+
+#: attachment.php:50
+#, php-format
+#@ mantra
+msgid "Full size is %s pixels"
+msgstr "Plná velikost je %s pixelů"
+
+#: attachment.php:53
+#@ mantra
+msgid "Link to full-size image"
+msgstr "Odkaz na plnou velikost obrázku"
+
+#: attachment.php:60
+#: attachment.php:107
+#: content-aside.php:48
+#: content-chat.php:49
+#: content-gallery.php:75
+#: content-image.php:42
+#: content-link.php:49
+#: content-page.php:22
+#: content-quote.php:46
+#: content-status.php:48
+#: content.php:76
+#: single.php:55
+#: template-onecolumn.php:27
+#: template-page-with-intro.php:17
+#@ mantra
+msgid "Edit"
+msgstr "Editovat"
+
+#: attachment.php:100
+#@ mantra
+msgid "Continue reading"
+msgstr "Číst dále"
+
+#: attachment.php:101
+#: content-aside.php:39
+#: content-chat.php:38
+#: content-gallery.php:65
+#: content-image.php:33
+#: content-link.php:38
+#: content-page.php:21
+#: content-quote.php:36
+#: content-status.php:39
+#: content.php:49
+#: content.php:65
+#: single.php:33
+#: template-onecolumn.php:26
+#: template-page-with-intro.php:16
+#@ mantra
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: author.php:29
+#, php-format
+#@ mantra
+msgid "Author Archives: %s"
+msgstr "Archiv autora: %s"
+
+#: author.php:50
+#: single.php:42
+#, php-format
+#@ mantra
+msgid "About %s"
+msgstr "O %s"
+
+#: category.php:20
+#, php-format
+#@ mantra
+msgid "Category Archives: %s"
+msgstr "Archiv rubriky: %s"
+
+#: comments.php:18
+#@ mantra
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Tento příspěvek je chráněn heslem. Zadejte heslo pro jeho zobrazení."
+
+#: content-aside.php:20
+#@ mantra
+msgid "Aside"
+msgstr "Kromě"
+
+#: content-aside.php:38
+#: content-chat.php:37
+#: content-image.php:32
+#: content-link.php:37
+#: content-quote.php:35
+#: content-status.php:38
+#@ mantra
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Číst dále <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:46
+#: content-chat.php:45
+#: content-gallery.php:72
+#: content-image.php:39
+#: content-link.php:45
+#: content-quote.php:43
+#: content-status.php:46
+#: content.php:74
+#: includes/theme-loop.php:206
+#@ mantra
+msgid "Tagged"
+msgstr "Štítky"
+
+#: content-chat.php:20
+#@ mantra
+msgid "Chat"
+msgstr "Chat"
+
+#: content-gallery.php:23
+#@ mantra
+msgid "Gallery"
+msgstr "Galerie"
+
+#: admin/settings.php:468
+#: admin/settings.php:483
+#: admin/settings.php:498
+#: admin/settings.php:513
+#: admin/settings.php:528
+#: admin/settings.php:570
+#: admin/settings.php:585
+#: admin/settings.php:600
+#: admin/settings.php:615
+#: content-image.php:19
+#@ mantra
+msgid "Image"
+msgstr "Obrázek"
+
+#: admin/settings.php:475
+#: admin/settings.php:490
+#: admin/settings.php:505
+#: admin/settings.php:520
+#: admin/settings.php:535
+#: admin/settings.php:577
+#: admin/settings.php:592
+#: admin/settings.php:607
+#: admin/settings.php:622
+#: content-link.php:20
+#@ mantra
+msgid "Link"
+msgstr "Odkaz"
+
+#: content-page.php:27
+#: includes/theme-comments.php:136
+#@ mantra
+msgid "Comments are closed."
+msgstr "Komentáře jsou uzavřeny"
+
+#: content-quote.php:18
+#@ mantra
+msgid "Quote"
+msgstr "Citát"
+
+#: content-status.php:30
+#@ mantra
+msgid "Status"
+msgstr "Stav"
+
+#: search.php:20
+#, php-format
+#@ mantra
+msgid "Search Results for: %s"
+msgstr "Výsledek hledání: %s"
+
+#: search.php:39
+#, php-format
+#@ mantra
+msgid "No search results for: %s"
+msgstr "Žádný výsledek vyhledávání pro: %s"
+
+#: searchform.php:1
+#@ mantra
+msgid "Search"
+msgstr "Hledat"
+
+#: sidebar.php:26
+#: sidebar.php:92
+#@ mantra
+msgid "Sidebar 1"
+msgstr "Sidebar 1"
+
+#: sidebar.php:28
+#: sidebar.php:94
+#, php-format
+#@ mantra
+msgid "You currently have no widgets set in the primary sidebar. You can add widgets via the <a href=\"%s\">Dashboard</a>."
+msgstr "Momentálně nemáte žádné widgety v primárním sidebaru. Widgety si můžete nainstalovat ppomocí <a href=\"%s\"> Nástěnky </ a>."
+
+#: sidebar.php:29
+#: sidebar.php:61
+#: sidebar.php:95
+#: sidebar.php:128
+#, php-format
+#@ mantra
+msgid "To hide this sidebar, switch to a different Layout via the <a href=\"%s\">Theme Settings</a>."
+msgstr "Chcete-li skrýt sidebar, přepněte do jiného rozložení ppomocí <a href=\"%s\"> Nastavení šablony </ a>."
+
+#: sidebar.php:58
+#: sidebar.php:125
+#@ mantra
+msgid "Sidebar 2"
+msgstr "Sidebar 2"
+
+#: sidebar.php:60
+#: sidebar.php:127
+#, php-format
+#@ mantra
+msgid "You currently have no widgets set in the secondary sidebar. You can add widgets via the <a href=\"%s\">Dashboard</a>."
+msgstr "Momentálně nemáte žádné widgety v sekundárním sidebaru. Widgety si můžete přidat widgety pomocí <a href=\"%s\"> Nástěnky </ a>."
+
+#: single.php:46
+#@ mantra
+msgid "View all posts by "
+msgstr "Zobrazit všechny příspěvky od"
+
+#: tag.php:21
+#, php-format
+#@ mantra
+msgid "Tag Archives: %s"
+msgstr "Archiv štítků: %s"
+
+#: admin/admin-functions.php:62
+#@ mantra
+msgid "Before you can upload your import file, you will need to fix the following error:"
+msgstr "Než budete moci nahrát importovaný soubor, musíte opravit následující chyby:"
+
+#: admin/admin-functions.php:70
+#@ mantra
+msgid "Import Mantra Theme Options"
+msgstr "Import nastavení šablony Mantra"
+
+#: admin/admin-functions.php:72
+#@ mantra
+msgid "Hi! This is where you import the  Mantra settings.<i> Please remember that this is still an experimental feature.</i>"
+msgstr "Vítejte! Toto je místo, kde můžete importovat nastavení Mantra. <i> Mějte prosím na paměti, že je to stále experimentální funkce.</i>"
+
+#: admin/admin-functions.php:74
+#@ mantra
+msgid "Just choose a file from your computer:"
+msgstr "Vyberte soubor z počítače:"
+
+#: admin/admin-functions.php:76
+#, php-format
+#@ mantra
+msgid "Maximum size: %s"
+msgstr "Maximální velikost: %s"
+
+#: admin/admin-functions.php:82
+#@ mantra
+msgid "And import!"
+msgstr "Importovat!"
+
+#: admin/admin-functions.php:148
+#@ mantra
+msgid "Import Mantra Theme Options "
+msgstr "Import nastavení šablony Mantra"
+
+#: admin/admin-functions.php:151
+#@ mantra
+msgid "Great! The options have been imported!"
+msgstr "Skvělé! Nastavení bylo importováno!"
+
+#: admin/admin-functions.php:152
+#@ mantra
+msgid "Go back to the Mantra options page and check them out!"
+msgstr "Vraťte se na stránku nastavení šablony Mantra a zkontrolujte jej!"
+
+#: admin/admin-functions.php:155
+#: admin/admin-functions.php:161
+#: admin/admin-functions.php:167
+#@ mantra
+msgid "Oops, there's a small problem."
+msgstr "Jejda, vyskytl se malý problém."
+
+#: admin/admin-functions.php:156
+#@ mantra
+msgid "The uploaded file does not contain valid Mantra options. Make sure the file is exported from the Mantra Options page."
+msgstr "Importovaný soubor neobsahuje platné nastavení šablony Mantra. Ujistěte se, že soubor byl exportován ze stránky Nastavení Mantra."
+
+#: admin/admin-functions.php:162
+#@ mantra
+msgid "The uploaded file could not be read."
+msgstr "Nahraný soubor nelze přečíst."
+
+#: admin/admin-functions.php:168
+#@ mantra
+msgid "The uploaded file is not supported. Make sure the file was exported from the Mantra page and that it is a text file."
+msgstr "Nahraný soubor není podporován. Ujistěte se, že soubor byl exportován ze stránky Mantra, a že se jedná o textový soubor."
+
+#: admin/admin-functions.php:177
+#@ mantra
+msgid "Oops! The file is empty or there was no file. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini."
+msgstr "Jejda! Soubor je prázdný nebo se nejedná o soubor. Tato chyba může být také způsobena tím,, že obrázky jsou zakázány v php.ini nebo post_max_size je definována jako menší než upload_max_filesize v php.ini."
+
+#: admin/admin-functions.php:183
+#@ mantra
+msgid "ERROR: You are not authorised to perform that operation"
+msgstr "CHYBA: Nemáte oprávnění k provedení této operace"
+
+#: admin/main.php:105
+#@ mantra
+msgid "Layout Settings"
+msgstr "Nastavení vzhledu"
+
+#: admin/main.php:106
+#@ mantra
+msgid "Header Settings"
+msgstr "Nastavení záhlaví"
+
+#: admin/main.php:107
+#@ mantra
+msgid "Presentation Page"
+msgstr "Stránka prezentace"
+
+#: admin/main.php:108
+#@ mantra
+msgid "Text Settings"
+msgstr "Nastavení textu"
+
+#: admin/main.php:109
+#@ mantra
+msgid "Color Settings"
+msgstr "Nastavení barev"
+
+#: admin/main.php:110
+#@ mantra
+msgid "Graphics Settings"
+msgstr "Nastavení grafiky"
+
+#: admin/main.php:111
+#@ mantra
+msgid "Post Information Settings"
+msgstr "Nastavení informací o článku"
+
+#: admin/main.php:112
+#@ mantra
+msgid "Post Excerpt Settings"
+msgstr "Nastavení úryvku článku"
+
+#: admin/main.php:113
+#@ mantra
+msgid "Featured Image Settings"
+msgstr "Nastavení obrázků"
+
+#: admin/main.php:114
+#@ mantra
+msgid "Social Media Settings"
+msgstr "Nastavení sociálních sítí"
+
+#: admin/main.php:115
+#@ mantra
+msgid "Miscellaneous Settings"
+msgstr "Obecná nastavení"
+
+#: admin/main.php:118
+#@ mantra
+msgid "Main Layout"
+msgstr "Hlavní nastavení"
+
+#: admin/main.php:119
+#@ mantra
+msgid "Content / Sidebar Width"
+msgstr "Šířka obsahu/nastavení"
+
+#: admin/main.php:120
+#@ mantra
+msgid "Responsiveness"
+msgstr "Schopnost reakce"
+
+#: admin/main.php:123
+#@ mantra
+msgid "Enable Presentation Page"
+msgstr "Zapnout stránku prezentace"
+
+#: admin/main.php:124
+#@ mantra
+msgid "Show Posts on Presentation Page"
+msgstr "Zobrazit příspěvky na stránce prezentace"
+
+#: admin/main.php:125
+#@ mantra
+msgid "Slider Settings"
+msgstr "Nastavení posuvníku"
+
+#: admin/main.php:126
+#@ mantra
+msgid "Slides"
+msgstr "Posuvník"
+
+#: admin/main.php:127
+#@ mantra
+msgid "Presentation Page Columns"
+msgstr "Sloupce stránky prezentace"
+
+#: admin/main.php:128
+#@ mantra
+msgid "Extras"
+msgstr "Doplňky"
+
+#: admin/main.php:131
+#@ mantra
+msgid "Header Height"
+msgstr "Výška záhlaví"
+
+#: admin/main.php:132
+#@ mantra
+msgid "Header Image"
+msgstr "Obrázek hlavičky"
+
+#: admin/main.php:133
+#@ mantra
+msgid "Site Header"
+msgstr "Záhlaví stránky"
+
+#: admin/main.php:134
+#@ mantra
+msgid "Custom Logo Upload"
+msgstr "Nahrát vlastní logo"
+
+#: admin/main.php:135
+#@ mantra
+msgid "Header Spacing"
+msgstr "Mezera v záhlaví"
+
+#: admin/main.php:136
+#@ mantra
+msgid "Rounded Menu Corners"
+msgstr "Zaoblení rohů menu"
+
+#: admin/main.php:137
+#@ mantra
+msgid "FavIcon Upload"
+msgstr "Nahrát faviconu"
+
+#: admin/main.php:139
+#@ mantra
+msgid "General Font"
+msgstr "Obecné písmo"
+
+#: admin/main.php:140
+#@ mantra
+msgid "General Font Size"
+msgstr "Velikost obecného písma"
+
+#: admin/main.php:141
+#@ mantra
+msgid "Post Title Font "
+msgstr "Písmo titulku příspěvku"
+
+#: admin/main.php:142
+#@ mantra
+msgid "Post Title Font Size"
+msgstr "Velikost písma titulku"
+
+#: admin/main.php:143
+#@ mantra
+msgid "Sidebar Font"
+msgstr "Písmo sidebaru"
+
+#: admin/main.php:144
+#@ mantra
+msgid "SideBar Font Size"
+msgstr "Velikost písma sidebaru"
+
+#: admin/main.php:145
+#@ mantra
+msgid "Headings Font"
+msgstr "Písmo záhlaví"
+
+#: admin/main.php:146
+#@ mantra
+msgid "Force Text Align"
+msgstr "Zarovnání textu"
+
+#: admin/main.php:147
+#@ mantra
+msgid "Paragraph spacing"
+msgstr "Mezera mezi odstavci"
+
+#: admin/main.php:148
+#@ mantra
+msgid "Paragraph indent"
+msgstr "Odrážka v odstravci"
+
+#: admin/main.php:149
+#@ mantra
+msgid "Header indent"
+msgstr "Odrážka v záhlaví"
+
+#: admin/main.php:150
+#@ mantra
+msgid "Line Height"
+msgstr "Výška řádku"
+
+#: admin/main.php:151
+#@ mantra
+msgid "Word spacing"
+msgstr "Mezera mezi slovy"
+
+#: admin/main.php:152
+#@ mantra
+msgid "Letter spacing"
+msgstr "Mezera mezi písmeny"
+
+#: admin/main.php:153
+#@ mantra
+msgid "Text shadow"
+msgstr "Stín textu"
+
+#: admin/main.php:155
+#@ mantra
+msgid "Background Image"
+msgstr "Obrázek pozadí"
+
+#: admin/main.php:156
+#@ mantra
+msgid "Background Color"
+msgstr "Barva pozadí"
+
+#: admin/main.php:157
+#@ mantra
+msgid "Header (Banner and Menu) Background Color"
+msgstr "Barva pozadí záhlaví (banneru a menu)"
+
+#: admin/main.php:158
+#@ mantra
+msgid "Content Background Color"
+msgstr "Barva pozadí obsahu"
+
+#: admin/main.php:159
+#@ mantra
+msgid "Menu Items Background Color"
+msgstr "Barva pozadí položek menu"
+
+#: admin/main.php:160
+#@ mantra
+msgid "First Sidebar Background Color"
+msgstr "Barva pozadí prvního sidebaru"
+
+#: admin/main.php:161
+#@ mantra
+msgid "Second Sidebar Background Color"
+msgstr "Barva pozadí druhého sidebaru"
+
+#: admin/main.php:163
+#@ mantra
+msgid "Site Title Color"
+msgstr "Barva textu názvu stránky"
+
+#: admin/main.php:164
+#@ mantra
+msgid "Site Description Color"
+msgstr "Barva textu popisu stránky"
+
+#: admin/main.php:166
+#@ mantra
+msgid "Content Text Color"
+msgstr "Barva textu obsahu"
+
+#: admin/main.php:167
+#@ mantra
+msgid "Links Color"
+msgstr "Barva odkazu"
+
+#: admin/main.php:168
+#@ mantra
+msgid "Links Hover Color"
+msgstr "Barva zaměřeného odkazu"
+
+#: admin/main.php:169
+#@ mantra
+msgid "Post Title Color"
+msgstr "Barva titulku příspěvku"
+
+#: admin/main.php:170
+#@ mantra
+msgid "Post Title Hover Color"
+msgstr "Barva zaměřeného titulku příspěvku"
+
+#: admin/main.php:171
+#@ mantra
+msgid "Sidebar Header Background Color"
+msgstr "Barva pozadí záhlaví sidebaru"
+
+#: admin/main.php:172
+#@ mantra
+msgid "Sidebar Header Text Color"
+msgstr "Barva textu v záhlaví sidebaru"
+
+#: admin/main.php:173
+#@ mantra
+msgid "Footer Widget Background Color"
+msgstr "Barva pozadí widgetu v zápatí"
+
+#: admin/main.php:174
+#@ mantra
+msgid "Footer Background Color"
+msgstr "Barva pozadí zápatí"
+
+#: admin/main.php:175
+#@ mantra
+msgid "Footer Widget Header Text Color"
+msgstr "Barva textu widgetu v záhlaví"
+
+#: admin/main.php:176
+#@ mantra
+msgid "Footer Widget Link Color"
+msgstr "Barva odkazu ve widgetu v záhlaví"
+
+#: admin/main.php:177
+#@ mantra
+msgid "Footer Widget Hover Color"
+msgstr "Barva zaměřeného widgetu v záhlaví"
+
+#: admin/main.php:179
+#@ mantra
+msgid "Breadcrumbs"
+msgstr "Drobečková navigace"
+
+#: admin/main.php:180
+#@ mantra
+msgid "Pagination"
+msgstr "Stránkování"
+
+#: admin/main.php:181
+#@ mantra
+msgid "Main Menu Alignment"
+msgstr "Zarovnání hlavního menu"
+
+#: admin/main.php:182
+#@ mantra
+msgid "Post Images Border"
+msgstr "Ohraničení obrázku v příspěvku"
+
+#: admin/main.php:183
+#@ mantra
+msgid "Caption Border"
+msgstr "Ohraničení popisku"
+
+#: admin/main.php:184
+#@ mantra
+msgid "Caption Pin"
+msgstr "Pin popisku"
+
+#: admin/main.php:185
+#@ mantra
+msgid "Sidebar Menu Bullets"
+msgstr "Odrážky menu v sidebaru"
+
+#: admin/main.php:186
+#@ mantra
+msgid "Meta Area Background"
+msgstr "Pozadí Meta"
+
+#: admin/main.php:187
+#@ mantra
+msgid "Post Separator"
+msgstr "Oddělovač příspěvků"
+
+#: admin/main.php:188
+#@ mantra
+msgid "Content List Bullets"
+msgstr "Odrážky seznamu"
+
+#: admin/main.php:189
+#@ mantra
+msgid "Page Titles"
+msgstr "Titulek stránky"
+
+#: admin/main.php:190
+#@ mantra
+msgid "Category Page Titles"
+msgstr "Titulek stránky Rubrika"
+
+#: admin/main.php:191
+#@ mantra
+msgid "Hide Tables"
+msgstr "Skrýt tabulky"
+
+#: admin/main.php:192
+#@ mantra
+msgid "Back to Top button"
+msgstr "Tlačítko Zpět na začátek"
+
+#: admin/main.php:193
+#@ mantra
+msgid "Text Under Comments"
+msgstr "Text komentáře"
+
+#: admin/main.php:194
+#@ mantra
+msgid "Comments are closed text"
+msgstr "Text uzavřených komentářů"
+
+#: admin/main.php:195
+#@ mantra
+msgid "Comments off"
+msgstr "Vypnutí komentářů"
+
+#: admin/main.php:197
+#@ mantra
+msgid "Post Comments Link"
+msgstr "Odkaz v komentáři u příspěvku"
+
+#: admin/main.php:198
+#@ mantra
+msgid "Post Date"
+msgstr "Datum příspěvku"
+
+#: admin/main.php:199
+#@ mantra
+msgid "Post Time"
+msgstr "Čas příspěvku"
+
+#: admin/main.php:200
+#: admin/settings.php:2087
+#@ mantra
+msgid "Post Author"
+msgstr "Autor příspěvku"
+
+#: admin/main.php:201
+#@ mantra
+msgid "Post Category"
+msgstr "Rubrika příspěvku"
+
+#: admin/main.php:202
+#@ mantra
+msgid "Meta Bar"
+msgstr "Panel Meta"
+
+#: admin/main.php:203
+#@ mantra
+msgid "Post Tags"
+msgstr "Štítek příspěvku"
+
+#: admin/main.php:204
+#@ mantra
+msgid "Post Permalink"
+msgstr "Trvalý odkaz na příspěvek"
+
+#: admin/main.php:206
+#@ mantra
+msgid "Post Excerpts on Home Page"
+msgstr "Úryvek příspěvku na domovské stránce"
+
+#: admin/main.php:207
+#@ mantra
+msgid "Affect Sticky Posts"
+msgstr "Ovlivnění důležitých příspěvků"
+
+#: admin/main.php:208
+#@ mantra
+msgid "Post Excerpts on Archive and Category Pages"
+msgstr "Úryvky na stránce archivu a rubrik"
+
+#: admin/main.php:209
+#@ mantra
+msgid "Number of Words for Post Excerpts "
+msgstr "Počet slov v úryvku příspěvku"
+
+#: admin/main.php:210
+#@ mantra
+msgid "Magazine Layout"
+msgstr "Rozvržení zásobníku"
+
+#: admin/main.php:211
+#@ mantra
+msgid "Excerpt suffix"
+msgstr "Přípona úryvku"
+
+#: admin/main.php:212
+#@ mantra
+msgid "Continue reading link text "
+msgstr "Text odkazu Číst dále"
+
+#: admin/main.php:213
+#@ mantra
+msgid "HTML tags in Excerpts"
+msgstr "HTML tagy v úryvku"
+
+#: admin/main.php:215
+#@ mantra
+msgid "Featured Images as POST Thumbnails "
+msgstr "Vybrané obrázky jako miniatury v příspěvku"
+
+#: admin/main.php:216
+#@ mantra
+msgid "Auto Select Images From Posts "
+msgstr "Automatický výběr obrázků do příspěvku"
+
+#: admin/main.php:217
+#@ mantra
+msgid "Thumbnails Alignment "
+msgstr "Zarovnání miniatury"
+
+#: admin/main.php:218
+#@ mantra
+msgid "Thumbnails Size "
+msgstr "Velikost miniatury"
+
+#: admin/main.php:219
+#@ mantra
+msgid "Featured Images as HEADER Images "
+msgstr "Vybrané obrázky v záhlaví"
+
+#: admin/main.php:221
+#@ mantra
+msgid "Link nr. 1"
+msgstr "Odkaz č.1"
+
+#: admin/main.php:222
+#@ mantra
+msgid "Link nr. 2"
+msgstr "Odkaz č.2"
+
+#: admin/main.php:223
+#@ mantra
+msgid "Link nr. 3"
+msgstr "Odkaz č.3"
+
+#: admin/main.php:224
+#@ mantra
+msgid "Link nr. 4"
+msgstr "Odkaz č.4"
+
+#: admin/main.php:225
+#@ mantra
+msgid "Link nr. 5"
+msgstr "Odkaz č.5"
+
+#: admin/main.php:226
+#@ mantra
+msgid "Socials display"
+msgstr "Zobrazit soc. sítě"
+
+#: admin/main.php:228
+#@ mantra
+msgid "SEO Settings"
+msgstr "Nastavení SEO"
+
+#: admin/main.php:229
+#@ mantra
+msgid "Custom Footer Text"
+msgstr "Vlastní text zápatí"
+
+#: admin/main.php:230
+#@ mantra
+msgid "Custom CSS"
+msgstr "Vlastní CSS"
+
+#: admin/main.php:231
+#@ mantra
+msgid "Custom JavaScript"
+msgstr "Vlastní JavaScript"
+
+#: admin/main.php:248
+#@ mantra
+msgid "Sorry, but you do not have sufficient permissions to access this page."
+msgstr "Je nám líto, ale nemáte dostatečná oprávnění pro přístup k této stránce."
+
+#: admin/main.php:268
+#@ mantra
+msgid "Mantra settings updated successfully."
+msgstr "Aktualizace nastavení šablony Mantra byla dokončena"
+
+#: admin/main.php:283
+#@ mantra
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#: admin/main.php:284
+#@ mantra
+msgid "Reset to Defaults"
+msgstr "Obnovit výchozí nastavení"
+
+#: admin/main.php:316
+#@ mantra
+msgid "Import/Export Settings"
+msgstr "Import/Export nastavení"
+
+#: admin/main.php:322
+#@ mantra
+msgid "Export Theme options"
+msgstr "Export nastavení motivu"
+
+#: admin/main.php:323
+#@ mantra
+msgid "It's that easy: a mouse click away - the ability to export your Mantra settings and save them on your computer. Feeling safer? You should!"
+msgstr "Je to tak jednoduché: kliknutím myší máte možnost exportovat vaše nastavení šablony Mantra a uložit jej ve vašem počítači. Bezpečné, že? Jděte na to!"
+
+#: admin/main.php:328
+#@ mantra
+msgid "Import Theme options"
+msgstr "Import nastavení šablony Mantra"
+
+#: admin/main.php:329
+#@ mantra
+msgid " Without the import, the export would just be a fool's exercise. Make sure you have the exported file ready and see you after the mouse click."
+msgstr "Bez importu je export jen cvičením pro blázny. Ujistěte se, že máte exportovaný soubor připravený a klikněte myši."
+
+#: admin/main.php:337
+#@ mantra
+msgid "Mantra Latest News"
+msgstr "Poslední novinky v šabloně Mantra"
+
+#: admin/main.php:348
+#@ mantra
+msgid "No news items."
+msgstr "Žádné novinky"
+
+#: admin/main.php:352
+#@ mantra
+msgid "Posted on"
+msgstr "Publikováno dne"
+
+#: admin/settings.php:66
+#@ mantra
+msgid "One column (no sidebars)"
+msgstr "Jeden sloupec (žádné sidebary)"
+
+#: admin/settings.php:67
+#@ mantra
+msgid "Two columns,  sidebar on the right"
+msgstr "Dva sloupce, sidebar vpravo"
+
+#: admin/settings.php:68
+#@ mantra
+msgid "Two columns,  sidebar on the left"
+msgstr "Dva sloupce, sidebar vlevo"
+
+#: admin/settings.php:69
+#@ mantra
+msgid "Three columns, sidebars on the right"
+msgstr "Tři sloupce, sidebary vpravo"
+
+#: admin/settings.php:70
+#@ mantra
+msgid "Three columns, sidebars on the left"
+msgstr "Tři sloupce, sidebary vlevo"
+
+#: admin/settings.php:71
+#@ mantra
+msgid "Three columns, one sidebar on each side"
+msgstr "Tři sloupce, sidebary po stranách"
+
+#: admin/settings.php:86
+#@ mantra
+msgid ""
+"Choose your layout. Possible options are: <br> No sidebar, a single sidebar on either left of right, two sidebars on either left or\n"
+"\t\tright and two sidebars on each side."
+msgstr ""
+"Vyberte rozložení. Možnosti jsou: <br> Žádný sidebar, jeden sidebar vlevo či vpravo, dva sidebary vlevo nebo\n"
+"\t\tv vpravo a dva sidebary po stranách."
+
+#: admin/settings.php:95
+#@ mantra
+msgid "Absolute"
+msgstr "Absolutní"
+
+#: admin/settings.php:95
+#@ mantra
+msgid "Relative *DEPRECATED"
+msgstr "Relativně *ZASTARALÉ"
+
+#: admin/settings.php:96
+#@ mantra
+msgid "Dimensions to use: "
+msgstr "Použité rozměry:"
+
+#: admin/settings.php:178
+#: admin/settings.php:198
+#@ mantra
+msgid "Content ="
+msgstr "Obsah ="
+
+#: admin/settings.php:179
+#: admin/settings.php:199
+#@ mantra
+msgid "Sidebar(s) ="
+msgstr "Sidebar(y) ="
+
+#: admin/settings.php:180
+#: admin/settings.php:200
+#@ mantra
+msgid "Total width ="
+msgstr "Celková šířka ="
+
+#: admin/settings.php:189
+#@ mantra
+msgid ""
+"Select the width of your <b>content</b> and <b>sidebar(s)</b>.\n"
+" \t\tWhile the content cannot be less than 500px wide, the sidebar area is at least 220px and no more than 800px.<br />\n"
+"\tIf you went for a 3 column area ( with 2 sidebars) they will each have half the selected width."
+msgstr ""
+"Vyberte šířku pro <b>obsah</b> a <b>sidebar(y)</b>.\n"
+" \t\tšířka obsahu nesmí být menší než 500px, sidebaru ne méně než 220px a ne více než 800px..<br />\n"
+"\tPokud používáte 3 sloupce (s 2 sidebary), každý z nich má pak poloviční šířku."
+
+#: admin/settings.php:209
+#@ mantra
+msgid ""
+"Select the width of your <b>content</b> and <b>sidebar(s)</b>.\n"
+" \t\tThese are realtive dimmensions - relative to the user's browser. The total width is a percentage of the browser's width.<br />\n"
+"\t While the content cannot be less than 40% wide, the sidebar area is at least 20% and no more than 50%.<br />\n"
+"\tIf you went for a 3 column area ( with 2 sidebars) they will each have half the selected width."
+msgstr ""
+"Zvolte šířku <b>obsahu</b> a <b>postranního panelu(ů)</b>.\n"
+" \t\tJedná se o realtivní rozměry - vzhledem k použitému prohlížeči uživatelem. Celková šířka je v procentech šířky prohlížeče.<br />\n"
+"\t Šířka obsahu nemůže být menší než 40% celkové šiířky a sidebaru ne méně než 20% a ne více než 50%. <br />\n"
+"\tPokud jste vybrali 3 sloupce (s 2 postranními panely), každý z nich má poloviční vybranou šířku."
+
+#: admin/settings.php:223
+#: admin/settings.php:246
+#: admin/settings.php:262
+#: admin/settings.php:731
+#: admin/settings.php:1094
+#: admin/settings.php:1156
+#: admin/settings.php:1344
+#: admin/settings.php:1359
+#: admin/settings.php:1530
+#: admin/settings.php:1592
+#: admin/settings.php:1793
+#: admin/settings.php:1822
+#: admin/settings.php:1845
+#: admin/settings.php:1868
+#: admin/settings.php:1917
+#: admin/settings.php:2053
+#@ mantra
+msgid "Enable"
+msgstr "Zapnout"
+
+#: admin/settings.php:223
+#: admin/settings.php:246
+#: admin/settings.php:262
+#: admin/settings.php:731
+#: admin/settings.php:1094
+#: admin/settings.php:1156
+#: admin/settings.php:1344
+#: admin/settings.php:1359
+#: admin/settings.php:1530
+#: admin/settings.php:1592
+#: admin/settings.php:1793
+#: admin/settings.php:1822
+#: admin/settings.php:1845
+#: admin/settings.php:1868
+#: admin/settings.php:1917
+#: admin/settings.php:2053
+#@ mantra
+msgid "Disable"
+msgstr "Vypnout"
+
+#: admin/settings.php:232
+#@ mantra
+msgid "Enable to make Mantra fully responsive. The layout and general sizes of your blog will adjust depending on what device and what resolution it is viewed in.<br> Do not disable unless you have a good reason to."
+msgstr "Povolit, aby Mantra plně reagovala. Uspořádání a obecná velikost vašeho blogu se upraví v závislosti na tom, na jakém zařízení a v jakém rozlišení je blog zobrazen. <br> Nevypínejte, pokud k tomu nemáte dobrý důvod."
+
+#: admin/settings.php:254
+#@ mantra
+msgid ""
+"Enable the presentation front-page. This will become your new home page. It has a slider and columns for presentation\n"
+"\t\ttext and images.<br>If you have this enabled but don't see a Presentation page then go to <a href='options-reading.php'> Settings &raquo; Reading </a> and make sure you have selected <strong>Front Page Displays</strong> as <Strong>Your Latest Posts</strong>."
+msgstr ""
+"Povolí prezentaci na titulní straně. To bude vaše nová domovská stránka. Obsahuje posuvník a sloupce pro publikování prezentace\n"
+"\t\ttextu a obrázků. <br>Pokud máte povoleno, ale nevidíte tuto stránku, přejděte na <a href='options-reading.php'> Nastavení &raquo; Čtení </a> a ujistěte se, že máte vyvránu <strong>jako první stránku pro zobrazení</ strong> stránku <strong>s posledními příspěvky</strong>."
+
+#: admin/settings.php:271
+#@ mantra
+msgid "posts"
+msgstr "příspěvky"
+
+#: admin/settings.php:272
+#@ mantra
+msgid "Enable to display latest posts on the presentation page, below the columns. Sticky posts are always displayed and not counted."
+msgstr "Povolit zobrazení posledních příspěvků na prezentační stránce, ve sloupcích. Štítky příspěvků jsou vždy zobrazeny."
+
+#: admin/settings.php:280
+#@ mantra
+msgid "Slider Dimensions:"
+msgstr "Rozměry slideru"
+
+#: admin/settings.php:281
+#@ mantra
+msgid "width"
+msgstr "šířka"
+
+#: admin/settings.php:282
+#@ mantra
+msgid "height"
+msgstr "výška"
+
+#: admin/settings.php:283
+#@ mantra
+msgid "The dimensions of your slider. Make sure your images are of the same size."
+msgstr "Rozměry vašeho slideru. Ujistěte se, že vaše obrázkyky jsou ve stejné velikosti."
+
+#: admin/settings.php:285
+#@ mantra
+msgid "Animation:"
+msgstr "Animace"
+
+#: admin/settings.php:287
+#@ mantra
+msgid "Random"
+msgstr "Náhodný"
+
+#: admin/settings.php:287
+#@ mantra
+msgid "Fold"
+msgstr "Složit"
+
+#: admin/settings.php:287
+#@ mantra
+msgid "Fade"
+msgstr "Slábnutí"
+
+#: admin/settings.php:287
+#@ mantra
+msgid "SlideInRight"
+msgstr "Posuv vpravo"
+
+#: admin/settings.php:287
+#@ mantra
+msgid "SlideInLeft"
+msgstr "Posuv vlevo"
+
+#: admin/settings.php:287
+#@ mantra
+msgid "SliceDown"
+msgstr "Rozpad dolů"
+
+#: admin/settings.php:287
+#@ mantra
+msgid "SliceDownLeft"
+msgstr "Rozpad vlevo dolů"
+
+#: admin/settings.php:287
+#@ mantra
+msgid "SliceUp"
+msgstr "Rozpad nahoru"
+
+#: admin/settings.php:287
+#@ mantra
+msgid "SliceUpLeft"
+msgstr "Rozpad nahoru vlevo"
+
+#: admin/settings.php:287
+#@ mantra
+msgid "SliceUpDown"
+msgstr "Rozpad nahoru i dolů"
+
+#: admin/settings.php:287
+#@ mantra
+msgid "SliceUpDownLeft"
+msgstr "Rozpad nahoru i dolů vlevo"
+
+#: admin/settings.php:287
+#@ mantra
+msgid "BoxRandom"
+msgstr "Náhodné políčko"
+
+#: admin/settings.php:287
+#@ mantra
+msgid "BoxRain"
+msgstr "Políčko rain"
+
+#: admin/settings.php:287
+#@ mantra
+msgid "BoxRainReverse"
+msgstr "Políčko obrácený rain"
+
+#: admin/settings.php:287
+#@ mantra
+msgid "BoxRainGrow"
+msgstr "Políčko vzrůstající rain"
+
+#: admin/settings.php:287
+#@ mantra
+msgid "BoxRainGrowReverse"
+msgstr "Políčko obrácený vzrůstající rain"
+
+#: admin/settings.php:295
+#@ mantra
+msgid "The transition effect your slider will have."
+msgstr "Efekt přechodu vašeho slideru"
+
+#: admin/settings.php:297
+#@ mantra
+msgid "Border Settings:"
+msgstr "Nastavení ohraničení"
+
+#: admin/settings.php:298
+#@ mantra
+msgid "Width"
+msgstr "Šířka"
+
+#: admin/settings.php:299
+#@ mantra
+msgid "Color"
+msgstr "Barva"
+
+#: admin/settings.php:301
+#@ mantra
+msgid "The width and color of the slider's border."
+msgstr "Šířka a barva ohraničení slideru."
+
+#: admin/settings.php:303
+#@ mantra
+msgid "Animation Time:"
+msgstr "Čas animace:"
+
+#: admin/settings.php:304
+#: admin/settings.php:308
+#@ mantra
+msgid "milliseconds"
+msgstr "milisekundy"
+
+#: admin/settings.php:305
+#@ mantra
+msgid "The time in which the transition animation will take place."
+msgstr "Čas, za který proběhne přechod animace."
+
+#: admin/settings.php:307
+#@ mantra
+msgid "Pause Time:"
+msgstr "Čas pauzy:"
+
+#: admin/settings.php:309
+#@ mantra
+msgid "The time in which a slide will be still and visible."
+msgstr "Čas, po který bude snímek viditelný."
+
+#: admin/settings.php:312
+#@ mantra
+msgid "Slider navigation:"
+msgstr "Navigace v slideru"
+
+#: admin/settings.php:314
+#@ mantra
+msgid "Numbers"
+msgstr "Počet"
+
+#: admin/settings.php:314
+#@ mantra
+msgid "Bullets"
+msgstr "Odrážky"
+
+#: admin/settings.php:314
+#: admin/settings.php:1451
+#@ mantra
+msgid "None"
+msgstr "Žádný"
+
+#: admin/settings.php:322
+#@ mantra
+msgid "Your slider navigation type. Shown under the slider."
+msgstr "Typ navigace ve slideru. Zobrazobrazí se pod ním"
+
+#: admin/settings.php:324
+#@ mantra
+msgid "Slider arrows:"
+msgstr "Šipky slideru"
+
+#: admin/settings.php:326
+#@ mantra
+msgid "Always Visible"
+msgstr "Vždy viditelné"
+
+#: admin/settings.php:326
+#@ mantra
+msgid "Visible on Hover"
+msgstr "Viditelné při zaměření"
+
+#: admin/settings.php:326
+#@ mantra
+msgid "Hidden"
+msgstr "Skrýt"
+
+#: admin/settings.php:334
+#@ mantra
+msgid "The Left and Right arrows on your slider"
+msgstr "Levá a pravá šipka vašeho slideru"
+
+#: admin/settings.php:375
+#: admin/settings.php:444
+#@ mantra
+msgid "Select Category"
+msgstr "Vyberte rubriku"
+
+#: admin/settings.php:402
+#@ mantra
+msgid "Custom Slides"
+msgstr "Vlastní slider"
+
+#: admin/settings.php:402
+#@ mantra
+msgid "Latest Posts"
+msgstr "Poslední snímky"
+
+#: admin/settings.php:402
+#@ mantra
+msgid "Random Posts"
+msgstr "Náhodné snímky"
+
+#: admin/settings.php:402
+#@ mantra
+msgid "Sticky Posts"
+msgstr "Důležité snímky"
+
+#: admin/settings.php:402
+#@ mantra
+msgid "Latest Posts from Category"
+msgstr "Poslední snímky v rubrice"
+
+#: admin/settings.php:402
+#@ mantra
+msgid "Random Posts from Category"
+msgstr "Náhodné snímky v rubrice"
+
+#: admin/settings.php:402
+#@ mantra
+msgid "Specific Posts"
+msgstr "Vybrané snímky"
+
+#: admin/settings.php:411
+#@ mantra
+msgid "Your slides' content. Only the image is required, all other fields are optional. Only the slides with an image selected will become acitve and visible in the live slider."
+msgstr "Obsah snímků. Je nutné zadat obrázek, všechna ostatní pole jsou volitelná. zadáním zvoleného snímku se stane slider aktivní a viditelný ve slideru."
+
+#: admin/settings.php:416
+#@ mantra
+msgid "Latest posts will be loaded into the slider."
+msgstr "Nejnovější snímky budou načteny do slideru."
+
+#: admin/settings.php:420
+#@ mantra
+msgid "Random  posts will be loaded into the slider."
+msgstr "Náhodné snímky budou načteny do slideru."
+
+#: admin/settings.php:424
+#@ mantra
+msgid "Latest posts from the category you choose will be loaded in the slider."
+msgstr "Poslední snímky z vybrané rubriky budou vloženy do slideru."
+
+#: admin/settings.php:429
+#@ mantra
+msgid "Random posts from the category you choose will be loaded into the slider."
+msgstr "Náhodné snímky z vybrané rubriky budou vloženy do slideru."
+
+#: admin/settings.php:433
+#@ mantra
+msgid "Only sticky posts will be loaded into the slider."
+msgstr "Pouze důležité snímky budou načteny do slideru."
+
+#: admin/settings.php:437
+#@ mantra
+msgid "List the post IDs you want to display (separated by a comma): "
+msgstr "Seznam ID snímků, které chcete zobrazit (oddělené čárkou):"
+
+#: admin/settings.php:442
+#@ mantra
+msgid "<br> Choose the cateogry: "
+msgstr "<br> Zvolte rubriku:"
+
+#: admin/settings.php:459
+#@ mantra
+msgid "Number of posts to show:"
+msgstr "Číslo snímku pro zobrazení:"
+
+#: admin/settings.php:466
+#@ mantra
+msgid "Slide 1"
+msgstr "Snímek 1"
+
+#: admin/settings.php:470
+#: admin/settings.php:485
+#: admin/settings.php:500
+#: admin/settings.php:515
+#: admin/settings.php:530
+#: admin/settings.php:572
+#: admin/settings.php:587
+#: admin/settings.php:602
+#: admin/settings.php:617
+#: admin/settings.php:766
+#: admin/settings.php:789
+#@ mantra
+msgid "Select / Upload Image"
+msgstr "Vybrat/nahrát obrázek"
+
+#: admin/settings.php:471
+#: admin/settings.php:486
+#: admin/settings.php:501
+#: admin/settings.php:516
+#: admin/settings.php:531
+#: admin/settings.php:573
+#: admin/settings.php:588
+#: admin/settings.php:618
+#@ mantra
+msgid "Title"
+msgstr "Název"
+
+#: admin/settings.php:473
+#: admin/settings.php:488
+#: admin/settings.php:503
+#: admin/settings.php:518
+#: admin/settings.php:533
+#: admin/settings.php:575
+#: admin/settings.php:590
+#: admin/settings.php:605
+#: admin/settings.php:620
+#@ mantra
+msgid "Text"
+msgstr "Text"
+
+#: admin/settings.php:481
+#@ mantra
+msgid "Slide 2"
+msgstr "Snímek 2"
+
+#: admin/settings.php:496
+#@ mantra
+msgid "Slide 3"
+msgstr "Snímek 3"
+
+#: admin/settings.php:511
+#@ mantra
+msgid "Slide 4"
+msgstr "Snímek 4"
+
+#: admin/settings.php:526
+#@ mantra
+msgid "Slide 5"
+msgstr "Snímek 5"
+
+#: admin/settings.php:548
+#@ mantra
+msgid "Number of columns:"
+msgstr "Počet sloupců:"
+
+#: admin/settings.php:558
+#@ mantra
+msgid "Image Height:"
+msgstr "Výška obrázku:"
+
+#: admin/settings.php:561
+#@ mantra
+msgid "Read more text:"
+msgstr "Číst dále:"
+
+#: admin/settings.php:564
+#@ mantra
+msgid "The linked text that appears at the bottom of all the columns. You can delete all text inside if you don't want it."
+msgstr "Související text, který se zobrazí v dolní části jednotlivých sloupců. Můžete také veškerý text uvnitř odstranit, pokud jej tam nechcete."
+
+#: admin/settings.php:568
+#@ mantra
+msgid "1st Column"
+msgstr "1. sloupec"
+
+#: admin/settings.php:583
+#@ mantra
+msgid "2nd Column"
+msgstr "2. sloupec"
+
+#: admin/settings.php:598
+#@ mantra
+msgid "3rd Column"
+msgstr "3. sloupec"
+
+#: admin/settings.php:613
+#@ mantra
+msgid "4th Column"
+msgstr "4. sloupec"
+
+#: admin/settings.php:635
+#@ mantra
+msgid "Extra Text"
+msgstr "Vybraný text"
+
+#: admin/settings.php:637
+#@ mantra
+msgid ""
+"More text for your front page. The top title is above the slider, the second title between the slider and the columns and 2 more rows of text under the columns.\n"
+"\t\t It's all optional so leave any input field empty if it's not required. "
+msgstr ""
+"Další text pro titulní stránku. Horní titulek je nad sliderem, druhý mezi sliderem a sloupci, je-li a 2 více řádků textu ve sloupci.\n"
+"\t\t Vše je volitelné, pokud nechcete tato vstupní pole vyplňovat, nemusíte."
+
+#: admin/settings.php:640
+#@ mantra
+msgid "Top Title"
+msgstr "Horní titulek"
+
+#: admin/settings.php:641
+#@ mantra
+msgid "Second Title"
+msgstr "Druhý titulek"
+
+#: admin/settings.php:644
+#@ mantra
+msgid "Title color"
+msgstr "Barva titulku"
+
+#: admin/settings.php:648
+#@ mantra
+msgid "Bottom Text 1"
+msgstr "Spodní text 1"
+
+#: admin/settings.php:650
+#@ mantra
+msgid "Bottom Text 2"
+msgstr "Spodní text 2"
+
+#: admin/settings.php:658
+#@ mantra
+msgid "Hide areas"
+msgstr "Skrýt pole"
+
+#: admin/settings.php:660
+#@ mantra
+msgid "Choose the areas to hide on the first page."
+msgstr "Vyberte pole pro skrytí na první stránce."
+
+#: admin/settings.php:672
+#@ mantra
+msgid "Hide the header area (image or background color)."
+msgstr "Skrýt oblast záhlaví (obrázek nebo barvu pozadí)."
+
+#: admin/settings.php:676
+#@ mantra
+msgid "Hide the main menu (the top navigation tabs)."
+msgstr "Skrytí hlavní menu (horní navigační panel)."
+
+#: admin/settings.php:680
+#@ mantra
+msgid "Hide the footer widgets. "
+msgstr "Skrýt widgety v zápatí."
+
+#: admin/settings.php:684
+#@ mantra
+msgid "Hide the footer (copyright area)."
+msgstr "Skrýt zápatí (oblast copyrightu)."
+
+#: admin/settings.php:688
+#@ mantra
+msgid "Hide the white color. Only the background color remains."
+msgstr "Skrýt bílou barvu. Zůstane pouze barva pozadí."
+
+#: admin/settings.php:708
+#@ mantra
+msgid "Select the header's height. After saving the settings make sure you reupload a new header image (if you're using one). The header's width will be = "
+msgstr "Vyberte výšku záhlaví. Po uložení nastavení se ujistěte, že se nový obrázek v záhlaví zobrazil (pokud jej používáte). Šířka hlavičky je ="
+
+#: admin/settings.php:715
+#@ default
+msgid "Define header image"
+msgstr "Vyberte obrázek záhlaví"
+
+#: admin/settings.php:716
+#@ mantra
+msgid "The header image should not be used to display logos.<br> Enable ratio preservation to force the header image aspect ratio. Keep in mind that short images will become very small on mobile devices."
+msgstr "Obrázek v záhlaví by neměl být používán pro zobrazení loga.<br> Povolte zachování poměru mezi velikostí záhlaví a obrázku. Mějte na paměti, že malé snímky budou velmi malé na mobilních zařízeních."
+
+#: admin/settings.php:739
+#@ mantra
+msgid "Enable or disable the round corners for the main menu items."
+msgstr "Povolte nebo zakažte zaoblené rohy pro hlavní položky menu."
+
+#: admin/settings.php:747
+#@ mantra
+msgid "Site Title and Description"
+msgstr "Název a popis stránky"
+
+#: admin/settings.php:747
+#@ mantra
+msgid "Custom Logo"
+msgstr "Vlastní logo"
+
+#: admin/settings.php:747
+#@ mantra
+msgid "Clickable header image"
+msgstr "Klikatelný obrázek záhlaví"
+
+#: admin/settings.php:747
+#@ mantra
+msgid "Empty"
+msgstr "Prázdný"
+
+#: admin/settings.php:755
+#@ mantra
+msgid "Choose what to display inside your header area."
+msgstr "Vyberte, co se má zobrazit uvnitř oblasti záhlaví."
+
+#: admin/settings.php:765
+#@ mantra
+msgid "Custom Logo upload. The logo will appear over the heder image if you have used one."
+msgstr "Vlastní logo nahráno. Logo se zobrazí v oblasti záhlaví, ale jen pokud jste použili jedno."
+
+#: admin/settings.php:774
+#@ mantra
+msgid "top"
+msgstr "Nahoře"
+
+#: admin/settings.php:775
+#@ mantra
+msgid "left"
+msgstr "vlevo"
+
+#: admin/settings.php:778
+#@ mantra
+msgid "Select the top spacing for the header. Use it to better position your site title and description or custom logo inside the header. "
+msgstr "Vyberte horní mezeru pro záhlaví. Jejím použitím můžete lépe umístit titulek své stránky a její popis nebo vlastní logo v záhlaví."
+
+#: admin/settings.php:788
+#@ mantra
+msgid "Limitations: It has to be an image. It should be max 64x64 pixels in dimensions. Recommended file extensions .ico and .png. <br/><b>Note that some browsers do not display the changed favicon instantly.</b>"
+msgstr "Omezení: Musí to být obrázek. Měl by mít rozměry max. 64x64 pixelů. Doporučené přípony souborů jsou .ico  a .png.. <br/><b>Upozorňujeme, že některé prohlížeče nezobrazují změněné favicony okamžitě.</b>"
+
+#: admin/settings.php:811
+#@ mantra
+msgid "Select the font size you'll use in your blog. Pages, posts and comments will be affected. Buttons, Headers and Side menus will remain the same."
+msgstr "Zvolte velikost písma, které budete používat na svém blogu. Týká se to stránek, příspěvků a komentářů.. Tlačítka, záhlaví a vedlejší menu zůstanou beze změn.."
+
+#: admin/settings.php:855
+#@ mantra
+msgid "Select the font family you'll use in your blog. All content text will be affected (including menu buttons). "
+msgstr "Zvolte typ písma, které budete používat ve svém blogu. Týká se to veškerého textového obsahu (včetně tlačítek v menu)."
+
+#: admin/settings.php:857
+#: admin/settings.php:907
+#: admin/settings.php:958
+#: admin/settings.php:1010
+#@ mantra
+msgid "Or insert your Google Font below. Please only isert the <strong>name</strong> of the font.<br /> Ex: Marko One. Go to <a href='http://www.google.com/webfonts' > google fonts </a> for some font inspiration."
+msgstr "Nebo níže vložte vybraný Google Font. Vložte pouze <strong>název</strong> písma.<br/> Pozn.:. Přejděte na <a href='http://www.google.com/webfonts'> google fonts </ a> pro inspiraci."
+
+#: admin/settings.php:904
+#@ mantra
+msgid "Select the font family you want for your titles. It will affect post titles and page titles. Leave 'Default' and the general font you selected will be used."
+msgstr "Zvolte typ písma, které chcete použít pro titulky. Týká se to názvů příspěvků a názvů stránek. Při volbě 'default' bude použito obecné písmo."
+
+#: admin/settings.php:956
+#@ mantra
+msgid "Select the font family you want your sidebar(s) to have. Text in sidebars will be affected, including any widgets. Leave 'Default' and the general font you selected will be used."
+msgstr "Zvolte typ písma, které chcete použít v sidebaru(ech). Týká se to textu v postranních sloupcích, včetně widgetů. Při volbě 'default' bude použito obecné písmo."
+
+#: admin/settings.php:1007
+#@ mantra
+msgid "Select the font family you want your headings to have (h1 - h6 tags will be affected). Leave 'Default' and the general font you selected will be used."
+msgstr "Zvolte typ písma, které chcete použít pro nadpisy (h1 - h6). Při volbě 'default' bude použito obecné písmo."
+
+#: admin/settings.php:1019
+#: admin/settings.php:1034
+#: admin/settings.php:1049
+#: admin/settings.php:1109
+#: admin/settings.php:1124
+#: admin/settings.php:1139
+#@ mantra
+msgid "Default"
+msgstr "Default"
+
+#: admin/settings.php:1027
+#@ mantra
+msgid "Post Header Font size. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr "Velikost písma v záhlaví příspěvku. Volba 'default' znamená normální nastavení (hodnota velikosti bude taková, jaká je uvedená v CSS)."
+
+#: admin/settings.php:1042
+#@ mantra
+msgid "Sidebar Font size. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr "Velikost písma sidebaru. Volba 'default' znamená normální nastavení (hodnota velikosti bude taková, jaká je uvedená v CSS)."
+
+#: admin/settings.php:1049
+#: admin/settings.php:1373
+#: admin/settings.php:1884
+#@ mantra
+msgid "Left"
+msgstr "Vlevo"
+
+#: admin/settings.php:1049
+#: admin/settings.php:1373
+#: admin/settings.php:1884
+#@ mantra
+msgid "Right"
+msgstr "Vpravo"
+
+#: admin/settings.php:1049
+#@ mantra
+msgid "Justify"
+msgstr "Do bloku"
+
+#: admin/settings.php:1049
+#: admin/settings.php:1373
+#: admin/settings.php:1884
+#@ mantra
+msgid "Center"
+msgstr "Na střed"
+
+#: admin/settings.php:1057
+#@ mantra
+msgid "This overwrites the text alignment in posts and pages. Leave 'Default' for normal settings (alignment will remain as declared in posts, comments etc.)."
+msgstr "Toto přepíše zarovnání textu v příspěvcích a na stránkách. Volba 'default' znamená normální nastavení (zarovnání zůstane takové, jaké je deklarované v příspěvcích, komentářích apod.)."
+
+#: admin/settings.php:1071
+#@ mantra
+msgid "Choose the spacing between paragraphs."
+msgstr "Vyberte mezeru mezi odstavci."
+
+#: admin/settings.php:1086
+#@ mantra
+msgid "Choose the indent for your paragraphs."
+msgstr "Vyberte odsazení odstavců."
+
+#: admin/settings.php:1102
+#@ mantra
+msgid "Disable the default header and title indent (left margin)."
+msgstr "Vypnout defaultní  název v záhlaví a odsazení (vlevo)."
+
+#: admin/settings.php:1117
+#@ mantra
+msgid "Text line height. The height between 2 rows of text. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr "Výška řádků textu (výška mezi 2 řádky textu). Volba 'default' znamená normální nastavení (hodnota velikosti bude taková, jaká je uvedená v CSS)."
+
+#: admin/settings.php:1132
+#@ mantra
+msgid "The space between <i>words</i>. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr "Mezera mezi <i>slovy</i>. Volba 'default' zobrazí normální nastavení (hodnota velikosti bude taková, jaká je uvedená v CSS)."
+
+#: admin/settings.php:1147
+#@ mantra
+msgid "The space between <i>letters</i>. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr "Mezera mezi <i>písmeny</i>. Volba 'default' zobrazí normální nastavení (hodnota velikosti bude taková, jaká je uvedená v CSS)."
+
+#: admin/settings.php:1164
+#@ mantra
+msgid "Disable the default text shadow on headers and titles."
+msgstr "Vypnout výchozí stín u textu v záhlaví a v titulcích."
+
+#: admin/settings.php:1172
+#@ default
+msgid "Define background image"
+msgstr "Definovat obrázek na pozadí"
+
+#: admin/settings.php:1181
+#@ mantra
+msgid "Background color (Default value is 444444)."
+msgstr "Barva pozadí (výchozí hodnota je 444444)."
+
+#: admin/settings.php:1189
+#@ mantra
+msgid "Header background color (Default value is 333333). You can delete all inside text for no background color."
+msgstr "Barva pozadí záhlaví (výchozí hodnota je 333333). Přepíše všechny texty, dosud bez barvy pozadí."
+
+#: admin/settings.php:1196
+#@ mantra
+msgid "Content background color (Default value is FFFFFF). Works best with really light colors."
+msgstr "Barva pozadí obsahu (výchozí hodnota je FFFFFF). Nejlépe vynikne se světlými barvami."
+
+#: admin/settings.php:1203
+#@ mantra
+msgid "Main menu background color (Default value is FAFAFA). Should be the same color as the content bg or something just as light."
+msgstr "Barva pozadí hlavního menu (výchozí hodnota je FAFAFA). Měla by být stejné barvy jako pozadí obsahu nebo podobná, světlejší."
+
+#: admin/settings.php:1210
+#@ mantra
+msgid "First sidebar background color (Default is no color for a transparent sidebar)."
+msgstr "Barva pozadí prvního sidebaru (výchozí hodnota je transparentní sidebar)."
+
+#: admin/settings.php:1217
+#@ mantra
+msgid "Second sidebar background color (Default is no color for a transparent sidebar)."
+msgstr "Barva pozadí druhého sidebaru (výchozí hodnota je transparentní sidebar)."
+
+#: admin/settings.php:1225
+#@ mantra
+msgid "Footer widget-area background color. (Default value is 171717)."
+msgstr "Barva pozadí prostoru pro widgety v zápatí. (výchozí hodnota je 171717)."
+
+#: admin/settings.php:1233
+#@ mantra
+msgid "Footer background color (Default value is 222222)."
+msgstr "Barva pozadí zápatí (výchozí hodnota je 222222)."
+
+#: admin/settings.php:1241
+#@ mantra
+msgid "Your blog's title color (Default value is 0D85CC)."
+msgstr "Barva titulu vašeho blogu (Výchozí hodnota je 0D85CC)."
+
+#: admin/settings.php:1249
+#@ mantra
+msgid "Your blog's description color(Default value is 222222)."
+msgstr "Barva popisu vašeho blogu (výchozí hodnota je 222222)."
+
+#: admin/settings.php:1257
+#@ mantra
+msgid "Content Text Color (Default value is 333333)."
+msgstr "Barva textu obsahu (výchozí hodnota je 333333)."
+
+#: admin/settings.php:1265
+#@ mantra
+msgid "Links color (Default value is 0D85CC)."
+msgstr "Barvy odkazu (výchozí hodnota je 0D85CC)."
+
+#: admin/settings.php:1273
+#@ mantra
+msgid "Links color on mouse over (Default value is 333333)."
+msgstr "Barva zaměřeného odkazu (výchozí hodnota je 333333)."
+
+#: admin/settings.php:1281
+#@ mantra
+msgid "Post Header Text Color (Default value is 333333)."
+msgstr "Barva textu názvu příspěvku (výchozí hodnota je 333333)."
+
+#: admin/settings.php:1289
+#@ mantra
+msgid "Post Header Text Color on Mouse over (Default value is 000000)."
+msgstr "Barva textu zaměřeného názvu příspěvku (výchozí hodnota je 000000)."
+
+#: admin/settings.php:1297
+#@ mantra
+msgid "Sidebar Header Background color (Default value is 444444)."
+msgstr "Brva pozadí záhlaví sidebaru (výchozí hodnota je 444444)"
+
+#: admin/settings.php:1306
+#@ mantra
+msgid "Sidebar Header Text Color(Default value is 2EA5FD)."
+msgstr "Barva textu v záhlaví sidebaru (výchozí hodnota je 2EA5FD)."
+
+#: admin/settings.php:1314
+#@ mantra
+msgid "Footer Widget Text Color (Default value is 0D85CC)."
+msgstr "Barva textu ve widgetu v zápatí (výchozí hodnota je 0D85CC)."
+
+#: admin/settings.php:1322
+#@ mantra
+msgid "Footer Widget Link Color (Default value is 666666)."
+msgstr "Barva odkazu ve widgetu v zápatí (výchozí hodnota je 666666)."
+
+#: admin/settings.php:1330
+#@ mantra
+msgid "Footer Widget Link Color on Mouse Over (Default value is 888888)."
+msgstr "Barva zaměřeného odkazu ve widgetu v zápatí (výchozí hodnota je 888888)."
+
+#: admin/settings.php:1352
+#@ mantra
+msgid "Show breadcrumbs at the top of the content area. Breadcrumbs are a form of navigation that keeps track of your location withtin the site."
+msgstr "Zobrazit drobečkovou navigaci v horní části obsahu. Drobečková navigace je forma navigaci, která zajišťuje informace o momentální poloze v daném webu."
+
+#: admin/settings.php:1367
+#@ mantra
+msgid "Show numbered pagination. Where there is more than one page, instead of the bottom <b>Older Posts</b> and <b>Newer posts</b> links you have a numbered pagination. "
+msgstr "Zobrazit číslování stránek ve spodní části stránky u webů, které mají více než jednu stránku. Odkazy <b>Starší příspěvky</b> a <b>Novější příspěvky</b> zobrazí čísla stránek."
+
+#: admin/settings.php:1381
+#@ mantra
+msgid "Select the desired main menu items alignment. Center option is only valid for single line menus."
+msgstr "Vyberte zarovnání položek v hlavním menu. Volba Na střed je platná pouze pro jednotlivé odkazy v menu."
+
+#: admin/settings.php:1388
+#: admin/settings.php:1451
+#@ mantra
+msgid "White"
+msgstr "Býlá"
+
+#: admin/settings.php:1388
+#@ mantra
+msgid "Light"
+msgstr "Světlá"
+
+#: admin/settings.php:1388
+#@ mantra
+msgid "Light Gray"
+msgstr "Světle šedá"
+
+#: admin/settings.php:1388
+#: admin/settings.php:1451
+#@ mantra
+msgid "Gray"
+msgstr "Šedá"
+
+#: admin/settings.php:1388
+#@ mantra
+msgid "Dark Gray"
+msgstr "Tmavě šedá"
+
+#: admin/settings.php:1388
+#@ mantra
+msgid "Black"
+msgstr "Černá"
+
+#: admin/settings.php:1396
+#@ mantra
+msgid "This setting changes the look of your captions. Images that are not inserted through captions will not be affected."
+msgstr "Toto nastavení změní vzhled vašich titulků. Na obrázky, které nejsou vloženy do titulků to nemá vliv."
+
+#: admin/settings.php:1412
+#@ mantra
+msgid "The border around your inserted images. "
+msgstr "Ohraničení kolem vložených obrázků."
+
+#: admin/settings.php:1427
+#@ mantra
+msgid "The image on top of your captions. "
+msgstr "Obrázek v horní části popisků."
+
+#: admin/settings.php:1442
+#@ mantra
+msgid "The sidebar list bullets. "
+msgstr "Odrážky v seznamu v sidebaru."
+
+#: admin/settings.php:1459
+#@ mantra
+msgid "The background for your post-metas area (under your post tiltes). Gray by default."
+msgstr "Pozadí oblasti pro Meta u příspěvku. Ve výchozím nastavení je šedé."
+
+#: admin/settings.php:1467
+#: admin/settings.php:1483
+#: admin/settings.php:1500
+#: admin/settings.php:1515
+#: admin/settings.php:1545
+#: admin/settings.php:1560
+#: admin/settings.php:1576
+#: admin/settings.php:1612
+#: admin/settings.php:1627
+#: admin/settings.php:1642
+#: admin/settings.php:1657
+#: admin/settings.php:1672
+#: admin/settings.php:1687
+#: admin/settings.php:1702
+#: admin/settings.php:1717
+#@ mantra
+msgid "Show"
+msgstr "Zobrazit"
+
+#: admin/settings.php:1467
+#: admin/settings.php:1483
+#: admin/settings.php:1500
+#: admin/settings.php:1515
+#: admin/settings.php:1545
+#: admin/settings.php:1576
+#: admin/settings.php:1612
+#: admin/settings.php:1627
+#: admin/settings.php:1642
+#: admin/settings.php:1657
+#: admin/settings.php:1672
+#: admin/settings.php:1687
+#: admin/settings.php:1702
+#: admin/settings.php:1717
+#@ mantra
+msgid "Hide"
+msgstr "Skrýt"
+
+#: admin/settings.php:1475
+#@ mantra
+msgid "Hide or show a horizontal rule to separate posts."
+msgstr "Skrýtnebo zobrazit horizontální zobrazení samostatných příspěvků."
+
+#: admin/settings.php:1491
+#@ mantra
+msgid "Hide or show  bullets next to lists that are in your content area (posts, pages etc.)."
+msgstr "Skrýt nebo zobrazit odrážky u seznamů v obsahu (příspěvky, stránky, atd.)."
+
+#: admin/settings.php:1508
+#@ mantra
+msgid "Hide or show Page titles on any <i>created</i> pages. "
+msgstr "Skrýt nebo zobrazit názvy stránek na každé <i>vytvořené</i> stránce."
+
+#: admin/settings.php:1523
+#@ mantra
+msgid "Hide or show Page titles on <i>Category</i> Pages. "
+msgstr "Skrýt nebo zobrazit názvy stránek na stránce <i>Rubrika</i>."
+
+#: admin/settings.php:1538
+#@ mantra
+msgid "Hide table borders and background color."
+msgstr "Skrýt ohraničení tabulky a barvu pozadí."
+
+#: admin/settings.php:1553
+#@ mantra
+msgid "Hide the explanatory text under the comments form. (starts with  <i>You may use these HTML tags and attributes:...</i>)."
+msgstr "Skrýt vysvětlující text pod formulářem komentáře (začíná <i>Můžete použít tyto HTML tagy a atributy: ... </i>)."
+
+#: admin/settings.php:1560
+#@ mantra
+msgid "Hide in posts"
+msgstr "Skrýt příspěvek"
+
+#: admin/settings.php:1560
+#@ mantra
+msgid "Hide in pages"
+msgstr "Skrýt stránku"
+
+#: admin/settings.php:1560
+#@ mantra
+msgid "Hide everywhere"
+msgstr "Skrýt vše"
+
+#: admin/settings.php:1568
+#@ mantra
+msgid "Hide the  <b>Comments are closed</b> text that by default shows up on pages or posts with the comments disabled."
+msgstr "Skrýt text <b>Komentáře jsou uzavřeny</b>, který se ve výchozím nastavení zobrazuje na stránkách, nebo u komentářů u příspěvků pro zdravotně postižené."
+
+#: admin/settings.php:1584
+#@ mantra
+msgid "Hide the <b>Comments off</b> text next to posts that have comments disabled."
+msgstr "Skrýt text <b>Komentáře jsou uzavřeny</b> u příspěvků s komentáři pro zdravotně postižené."
+
+#: admin/settings.php:1600
+#@ mantra
+msgid "Enable the Back to Top button. The button appears after scrolling the page down."
+msgstr "Zapnout tlačítko Zpět na začátek. Zobrazí se tlačítko po rolování stránky."
+
+#: admin/settings.php:1620
+#@ mantra
+msgid "Hide or show the <strong>Leave a comment</strong> or <strong>x Comments</strong> next to posts or post excerpts."
+msgstr "Skrýt nebo zobrazit <strong>Komentovat</strong> nebo <strong>x Komentářů</ strong> vedle příspěvků nebo u úryvků příspěvků."
+
+#: admin/settings.php:1635
+#@ mantra
+msgid "Hide or show the post date."
+msgstr "Skrýt nebo zobrazit datum u příspěvku."
+
+#: admin/settings.php:1650
+#@ mantra
+msgid "Show the post time with the date. Time will not be visible if the Post Date is hidden."
+msgstr "Zobrazit Čas odeslání s datem příspěvku. Čas nebude zobrazen, pokud je skryto Datum příspěvku."
+
+#: admin/settings.php:1665
+#@ mantra
+msgid "Hide or show the post author."
+msgstr "Skrýt nebo zobrazit autora příspěvku."
+
+#: admin/settings.php:1680
+#@ mantra
+msgid "Hide the post category."
+msgstr "Skrýt nebo zobrazit rubriku příspěvku."
+
+#: admin/settings.php:1695
+#@ mantra
+msgid "Hide the 'Bookmark permalink'."
+msgstr "Skrýt trvalý odkaz 'Záložka'."
+
+#: admin/settings.php:1710
+#@ mantra
+msgid "Hide the meta bar. All meta info in it will be hidden."
+msgstr "Skrýt panel meta. Všechny meta infomace budou skryty."
+
+#: admin/settings.php:1725
+#@ mantra
+msgid "Hide the post tags."
+msgstr "Skrýt štítky u příspěvků"
+
+#: admin/settings.php:1738
+#: admin/settings.php:1753
+#: admin/settings.php:1769
+#@ mantra
+msgid "Excerpt"
+msgstr "Úryvek"
+
+#: admin/settings.php:1738
+#: admin/settings.php:1753
+#: admin/settings.php:1769
+#@ mantra
+msgid "Full Post"
+msgstr "Celý příspěvek"
+
+#: admin/settings.php:1746
+#@ mantra
+msgid "Excerpts on the main page. Only standard posts will be affected. All other post formats (aside, image, chat, quote etc.) have their specific formating."
+msgstr "Úryvky na hlavní straně. Týká se pouze standardních příspěvků. Všechny ostatní formy příspěvků (stránky, obrázky, chat, citace atd.) mají i nadále své specifické formátování."
+
+#: admin/settings.php:1761
+#@ mantra
+msgid "Choose if you want the sticky posts on your home page to be visible in full or just the excerpts. "
+msgstr "Vyberte, zda mají být důležité příspěvky na vaší domovské stránce viditelné celé nebo jen v úryvcích."
+
+#: admin/settings.php:1777
+#@ mantra
+msgid "Excerpts on archive, categroy and search pages. Same as above, only standard posts will be affected."
+msgstr "Úryvky z archivu, rubrik a vyhledávacích stránek. Stejné jako výše, týká se jen standardních příspěvků."
+
+#: admin/settings.php:1785
+#@ mantra
+msgid ""
+"The number of words an excerpt will have. When that number is reached the post will be interrupted by a <i>Continue reading</i> link that\n"
+"\t\t\t\t\t\t\twill take the reader to the full post page."
+msgstr ""
+"Počet slov v úryvku. Je-li ho dosaženo, příspěvek bude přerušen a zobrazí se odkaz <i>Číst dále</i>, Po kliknutí na něj\n"
+"\t\t\t\t\t\t\t,si čtenář může zobrazit celou stránku."
+
+#: admin/settings.php:1801
+#@ mantra
+msgid "Enable the Magazine Layout. This layout applies to pages with posts and shows 2 posts per row."
+msgstr "Zapnout rozvržení časopisu. Toto uspořádání se vztahuje na stránky s příspěvky a zobrazuje 2 příspěvky vedle sebe."
+
+#: admin/settings.php:1808
+#@ mantra
+msgid "Replaces the three dots ('[...])' that are appended automatically to excerpts."
+msgstr "Nahradí tři tečky (\"[...])\", které jsou automaticky zobrazeny v úryvcích."
+
+#: admin/settings.php:1815
+#@ mantra
+msgid "Edit the 'Continue Reading' link added to your post excerpts."
+msgstr "Upravený odkaz na 'Číst dále\" bude přidán k úryvku vašeho příspěvku."
+
+#: admin/settings.php:1861
+#@ mantra
+msgid "Show featured images as thumbnails on posts. The images must be selected for each post in the Featured Image section."
+msgstr "Zobrazit dané obrázky jako miniatury u příspěvků. Snímky musí být vybrány pro každý příspěvek zvlášť."
+
+#: admin/settings.php:1876
+#@ mantra
+msgid "Show the first image that you inserted in a post as a thumbnail. If you enable this option, the first image in your post will be used even if you selected a Featured Image in you post."
+msgstr "Zobrazit první snímek, který jste vložili v příspěvku jako miniaturu. Pokud povolíte tuto možnost, bude použit první obrázek v příspěvku, i když jste pro publikování vybrali jiný obrázek."
+
+#: admin/settings.php:1892
+#@ mantra
+msgid "Thumbnail alignment."
+msgstr "Zarovnání náhledu"
+
+#: admin/settings.php:1909
+#@ mantra
+msgid "The size you want the thumbnails to have (in pixels). By default imges will be scaled with aspect ratio kept. Choose to crop the images if you want the exact size."
+msgstr "Velikost, jakou má mít miniatura (v pixelech). Ve výchozím nastavení bude obrázek zmenšen a zůstane zachován poměr stran. Vyberte, zda chcete obrázek oříznout, pokud chcete přesnou velikost."
+
+#: admin/settings.php:1925
+#@ mantra
+msgid ""
+"Show featured images on headers. The header will be replaced with a featured image if you selected it as a Featured Image in the post and\n"
+"\t\t\t\t\t\t\tand if it is bigger or at least equal to the current header size."
+msgstr ""
+"Zobrazit dané obrázky v záhlaví. V záhlaví bude daný obrazek nahrazen, pokud jste jej vybrali jako obrázek v příspěvku a\n"
+"\t\t\t\t\t\t\t pokud je větší nebo alespoň roven aktuální velikosti záhlaví."
+
+#: admin/settings.php:1941
+#@ mantra
+msgid "Select your desired Social network from the left dropdown menu and insert your corresponding address in the right input field. (ex: <i>http://www.facebook.com/yourname</i> )"
+msgstr "Vyberte požadovanou sociální síť z rozbalovací nabídky vlevo a vložte odpovídající adresu do pravého vstupního pole. (př: <i>http://www.facebook.com/yourname</i>)"
+
+#: admin/settings.php:1942
+#@ mantra
+msgid "You can insert up to 5 different social sites and addresses."
+msgstr "Vložte až 5 různých adres sociálních sítí."
+
+#: admin/settings.php:1943
+#@ mantra
+msgid "There are a total of 27 social networks to choose from. "
+msgstr "Vybrat si můžete celkem z 27 sociálních sítí."
+
+#: admin/settings.php:1944
+#@ mantra
+msgid "You can leave any number of inputs empty. "
+msgstr "Můžete vynechat libovolný počet prázdných vstupních polí."
+
+#: admin/settings.php:1945
+#@ mantra
+msgid "You can choose the same social media any number of times.  "
+msgstr "Můžete si zvolit stejnou sociální síť, kolikrát chcete."
+
+#: admin/settings.php:2020
+#@ mantra
+msgid "Choose the <b>areas</b> where to display the social icons."
+msgstr "Vyberte <b>oblast</b> pro zobrazení ikon sociálních sítí."
+
+#: admin/settings.php:2033
+#@ mantra
+msgid "Insert custom text or HTML code that will appear last in you footer. <br /> You can use HTML to insert links, images and special characters like &copy ."
+msgstr "Vložte vlastní text nebo HTML kód, který se objeví na konci zápatí. <br /> Můžete použít HTML odkazy, obrázky a speciální znaky, jako např. ©."
+
+#: admin/settings.php:2041
+#@ mantra
+msgid "Insert your custom CSS here. Any CSS declarations made here will overwrite Mantra's (even the custom options specified right here in the Mantra Settings page). <br> Your custom CSS will be preserved when updating the theme.<br> The &ltstyle&gt tags are not needed."
+msgstr "Sem vložte své vlastní CSS. Jakýkoliv CSS sem vložený přepíše šablonu Mantra (i vlastní možnosti, uvedené přímo zde na stránce Nastavení šablony Mantra). <br> Vlastní CSS bude zachováno i při aktualizaci šablony. <br> &ltStyly&gt tagů nejsou potřeba."
+
+#: admin/settings.php:2048
+#@ mantra
+msgid "Insert your custom Javascript code here. (Google Analytics and any other forms of Analytic software).<br> The &ltscript&gt tags are not needed."
+msgstr "Zde vložte vlastní kód JavaScriptu. (Google Analytics a jakékoliv jiné formy analytického softwaru).<br> &ltScripty&gt tagů nejsou potřeba."
+
+#: admin/settings.php:2061
+#@ mantra
+msgid "Enable Mantra's Search Engine Optimization. This is enabled by default and should only be disabled if you are using a SEO plugin."
+msgstr "Povolit Mantra Search Engine Optimization. To je ve výchozím nastavení povoleno a mělo by být zakázáno pouze v případě, že používáte SEO plugin."
+
+#: admin/settings.php:2073
+#@ mantra
+msgid "Auto"
+msgstr "Auto"
+
+#: admin/settings.php:2073
+#@ mantra
+msgid "Manual"
+msgstr "Manuální"
+
+#: includes/theme-comments.php:28
+#@ mantra
+msgid "says:"
+msgstr "říká:"
+
+#: includes/theme-comments.php:34
+#@ mantra
+msgid "Your comment is awaiting moderation."
+msgstr "Váš komentář čeká na schválení."
+
+#. translators: 1: date, 2: time
+#: includes/theme-comments.php:41
+#@ mantra
+msgid "at"
+msgstr "na"
+
+#: includes/theme-comments.php:41
+#: includes/theme-comments.php:58
+#@ mantra
+msgid "(Edit)"
+msgstr "(Editovat)"
+
+#: includes/theme-comments.php:58
+#@ mantra
+msgid "Pingback: "
+msgstr "Pingback: "
+
+#: includes/theme-comments.php:85
+#@ mantra
+msgid "Leave a comment"
+msgstr "Komentovat"
+
+#: includes/theme-comments.php:85
+#@ mantra
+msgid "<b>1</b> Comment"
+msgstr "<b>1</b> komentář"
+
+#: includes/theme-comments.php:85
+#@ mantra
+msgid "<b>%</b> Comments"
+msgstr "<b>%</b> komentáře"
+
+#: includes/theme-comments.php:107
+#@ mantra
+msgid "Older Comments"
+msgstr "Starší komentáře"
+
+#: includes/theme-comments.php:108
+#@ mantra
+msgid "Newer Comments"
+msgstr "Novější komentáře"
+
+#: includes/theme-functions.php:58
+#@ mantra
+msgid "Menu"
+msgstr "Menu"
+
+#: includes/theme-functions.php:269
+#@ mantra
+msgid "Home Page"
+msgstr "Domovská stránka"
+
+#: includes/theme-functions.php:342
+#@ mantra
+msgid "Powered by"
+msgstr "Vytvořil"
+
+#: includes/theme-loop.php:166
+#@ mantra
+msgid "By "
+msgstr "Autor"
+
+#: includes/theme-loop.php:206
+#@ mantra
+msgid " Bookmark the "
+msgstr "Záložka pro"
+
+#: includes/theme-loop.php:206
+#: includes/theme-loop.php:208
+#: includes/theme-loop.php:210
+#@ mantra
+msgid "Permalink to"
+msgstr "Trvalý odkaz na"
+
+#: includes/theme-loop.php:206
+#: includes/theme-loop.php:208
+#: includes/theme-loop.php:210
+#@ mantra
+msgid "permalink"
+msgstr "trvalý odkaz"
+
+#: includes/theme-loop.php:208
+#: includes/theme-loop.php:210
+#@ mantra
+msgid "Bookmark the "
+msgstr "Záložka pro"
+
+#: includes/theme-loop.php:232
+#@ mantra
+msgid "<span class=\"meta-nav\">&laquo;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&laquo;</span> Starší příspěvky"
+
+#: includes/theme-loop.php:233
+#@ mantra
+msgid "Newer posts <span class=\"meta-nav\">&raquo;</span>"
+msgstr "Novější příspěvky <span class=\"meta-nav\">&raquo;</span>"
+
+#: includes/theme-seo.php:26
+#, php-format
+#@ mantra
+msgid "Page %s"
+msgstr "Stránka %s"
+
+#: includes/theme-setup.php:91
+#@ mantra
+msgid "Primary Navigation"
+msgstr "Hlavní navigace"
+
+#: includes/theme-setup.php:92
+#@ mantra
+msgid "Top Navigation"
+msgstr "Vrchní navigace"
+
+#: includes/theme-setup.php:93
+#@ mantra
+msgid "Footer Navigation"
+msgstr "Navigace v zápatí"
+
+#: includes/theme-setup.php:129
+#@ mantra
+msgid "mantra"
+msgstr "Mantra"
+
+#: includes/theme-setup.php:188
+#@ mantra
+msgid "Skip to content"
+msgstr "Zpět na obsah"
+
+#: includes/theme-setup.php:215
+#@ mantra
+msgid "Primary Widget Area - Sidebar 1"
+msgstr "První prostor pro widgety - Sidebar 1"
+
+#: includes/theme-setup.php:217
+#@ mantra
+msgid "Primary widget area - Sidebar 1"
+msgstr "První prostor pro widgety - Sidebar 1"
+
+#: includes/theme-setup.php:226
+#@ mantra
+msgid "Secondary Widget Area - Sidebar 1"
+msgstr "Druhý prostor pro widgety - Sidebar 1"
+
+#: includes/theme-setup.php:228
+#@ mantra
+msgid "Secondary widget area - Sidebar 1"
+msgstr "Druhý prostor pro widgety - Sidebar 1"
+
+#: includes/theme-setup.php:237
+#@ mantra
+msgid "Third Widget Area - Sidebar 2"
+msgstr "Třetí prostor pro widgety - Sidebar 2"
+
+#: includes/theme-setup.php:239
+#@ mantra
+msgid "Third widget area - Sidebar 2"
+msgstr "Třetí prostor pro widgety - Sidebar 2"
+
+#: includes/theme-setup.php:248
+#@ mantra
+msgid "Fourth Widget Area - Sidebar 2"
+msgstr "Čtvrtý prostor pro widgety - Sidebar 2"
+
+#: includes/theme-setup.php:250
+#@ mantra
+msgid "Fourth widget area  - Sidebar 2"
+msgstr "Čtvrtý prostor pro widgety - Sidebar 2"
+
+#: includes/theme-setup.php:259
+#@ mantra
+msgid "First Footer Widget Area"
+msgstr "První prostor pro widgety v zápatí"
+
+#: includes/theme-setup.php:261
+#@ mantra
+msgid "First footer widget area"
+msgstr "První prostor pro widgety v zápatí"
+
+#: includes/theme-setup.php:270
+#@ mantra
+msgid "Second Footer Widget Area"
+msgstr "Druhý prostor pro widgety v zápatí"
+
+#: includes/theme-setup.php:272
+#@ mantra
+msgid "Second footer widget area"
+msgstr "Druhý prostor pro widgety v zápatí"
+
+#: includes/theme-setup.php:281
+#@ mantra
+msgid "Third Footer Widget Area"
+msgstr "Třetí prostor pro widgety v zápatí"
+
+#: includes/theme-setup.php:283
+#@ mantra
+msgid "The third footer widget area"
+msgstr "Třetí prostor pro widgety v zápatí"
+
+#: includes/theme-setup.php:292
+#@ mantra
+msgid "Fourth Footer Widget Area"
+msgstr "Čtvrtý prostor pro widgety v zápatí"
+
+#: includes/theme-setup.php:294
+#@ mantra
+msgid "The fourth footer widget area"
+msgstr "Čtvrtý prostor pro widgety v zápatí"
+
+#: includes/theme-setup.php:303
+#: includes/theme-setup.php:305
+#@ mantra
+msgid "Above content Widget Area"
+msgstr "Horní část prostoru pro widgety"
+
+#: includes/theme-setup.php:314
+#: includes/theme-setup.php:316
+#@ mantra
+msgid "Below Content Widget Area"
+msgstr "Spodní část prostoru pro widgety"
+
+#: admin/settings.php:403
+#@ mantra
+msgid "Select the content you want to load in your slides:"
+msgstr ""
+
+#: admin/settings.php:2062
+#@ mantra
+msgid "All title tags are handled automatically by Mantra."
+msgstr ""
+
+#: admin/settings.php:2065
+#@ mantra
+msgid "Homepage Meta Description"
+msgstr ""
+
+#: admin/settings.php:2067
+#@ mantra
+msgid "This is unique and you should fill this in. Describe your site the best you can and try not to go over 160 characters."
+msgstr ""
+
+#: admin/settings.php:2081
+#@ mantra
+msgid ""
+"<u>Auto</u> - Mantra will automatically add post expcerpts to 'page' and 'post'\tmeta descriptions.<br>\n"
+"\t\t\t\t\t   <u>Manual</u> - you will enable a new custom field in your post/page admin section where you can type the exact description you want for every post and page.<br>\n"
+"\t\t\t\t\t   For category pages, the actual category descriptions will be used. Go to Posts > Categories and you can fill in a description for every category you have."
+msgstr ""
+
+#: admin/settings.php:2090
+#@ mantra
+msgid "Do not use"
+msgstr ""
+
+#: admin/settings.php:2100
+#@ mantra
+msgid "If you want to show an author in the meta tags."
+msgstr ""
+
+#: archive.php:29
+#@ mantra
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:31
+#@ mantra
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: attachment.php:33
+#: includes/theme-loop.php:168
+#, php-format
+#@ mantra
+msgid "View all posts by %s"
+msgstr ""
+
+#: content-aside.php:16
+#: content-chat.php:16
+#: content-gallery.php:19
+#: content-gallery.php:56
+#: content-image.php:15
+#: content-link.php:16
+#: content-quote.php:14
+#: content-status.php:15
+#: content.php:20
+#, php-format
+#@ mantra
+msgid "Permalink to %s"
+msgstr ""
+
+#: content-gallery.php:55
+#, php-format
+#@ mantra
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/theme-comments.php:94
+#, php-format
+#@ mantra
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/theme-functions.php:344
+#@ mantra
+msgid "Semantic Personal Publishing Platform"
+msgstr ""
+

@@ -1,0 +1,361 @@
+/*
+Theme Name: Mantra
+*/
+
+
+/*
+RTL Basics
+*/
+
+body {
+	direction:rtl;
+	unicode-bidi:embed;
+}
+
+.socials, #sfooter {
+	float:left;
+}
+
+/*
+LAYOUT: Two-Column (Right)
+DESCRIPTION: Two-column fixed layout with one sidebar right of content
+*/
+
+#container {
+	float: right;	
+}
+
+
+/* =Structure
+-------------------------------------------------------------- */
+
+/* The main theme structure */
+#footer-widget-area .widget-area {
+	float: right;
+}
+#footer-widget-area #fourth {	
+}
+#site-info {
+}
+#site-generator {
+	float: left;
+}
+
+
+/* =Global Elements
+-------------------------------------------------------------- */
+
+/* Text elements */
+ul {
+	margin: 0 1.5em 18px 0;
+}
+
+.widget-area ul ul li {
+background:url("images/bullets/arrow_white.png") no-repeat scroll right 8px transparent;
+padding-right:12px;
+}
+#calendar_wrap {
+    margin-right: 10px;
+}
+
+.widget_search #s, #search #s {
+    border-radius: 0 10px 0 0;
+    display: block;
+    float: right;
+    font-family: Arial !important;
+    font-size: 14px;
+    margin-bottom: 20px;
+    margin-right: 10%;
+    padding-bottom: 4px;
+    padding-right: 10px;
+    padding-top: 6px;
+    width: 60%;
+}
+
+.widget_search #searchsubmit {
+    background: none repeat scroll 0 0 #777777;
+    border: medium none;
+    color: #EEEEEE;
+    cursor: pointer;
+    display: block;
+    float: right;
+    font-family: Arial !important;
+    font-size: 12px;
+    height: 28px;
+    right: -28px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    text-shadow: 0 -1px 0 #000000;
+    top: 0;
+    width: 27px;
+}
+
+blockquote {
+	font-style: normal;
+}
+
+/* Text meant only for screen readers */
+.screen-reader-text {
+	left: 9000px;
+	text-indent:-9000px;
+	overflow:hidden;
+}
+
+
+/* =Header
+-------------------------------------------------------------- */
+
+#site-title {
+	float: right;
+    margin-right: 20px;
+    padding-right: 20px;
+}
+
+#site-description {
+	clear: left;
+	float: right;
+	font-style: normal;
+}
+
+/* =Menu
+-------------------------------------------------------------- */
+
+#access {
+	float:right;
+}
+
+#access .menu-header,
+div.menu {
+    margin-right: 12px;
+    margin-left: 0;
+}
+
+#access .menu-header li,
+div.menu li{
+	float:right;
+}
+
+#access ul ul {
+margin-right:0;
+}
+
+#access ul li {
+	float:right;
+}
+
+
+/* =Content
+-------------------------------------------------------------- */
+
+#content table {
+	text-align: right;
+	margin: 0 0 24px -1px;
+}
+.page-title span {
+	font-style:normal;
+}
+
+#content ul > li {
+background-position:right 10px;
+}
+
+.entry-title,
+.entry-meta{
+	clear: right;
+	float: right;
+}
+
+#content .format-status .entry-meta2 {
+clear:left;
+float:right;
+margin-right:0;
+padding-right:0;
+}
+
+.status_content {
+float:right;
+}
+
+.entry-meta span, .entry-meta2 span{
+	float: right;
+	padding-left:3px;
+}
+
+
+.entry-meta span .bl_sep, .entry-meta2 span .bl_sep  {
+	float: left ;
+padding-right:5px;
+}
+
+.format-status .avatar {
+float:right;
+margin-left:10px;
+margin-right:0;
+}
+
+#content h3.entry-format {
+line-height:1em ;
+margin-top:5px;
+margin-left:10px;
+margin-bottom:0px;
+float:right;
+}
+
+#content .format-status h3.entry-format {
+margin-left:10px;
+}
+
+
+.entry-content input.file,
+.entry-content input.button {
+	margin-left: 24px;
+	margin-right:0;
+}
+.entry-content blockquote.left {
+	float: right;
+	margin-right: 0;
+	margin-left: 24px;
+	text-align: left;
+}
+.entry-content blockquote.right {
+	float: left;
+	margin-right: 24px;
+	margin-left: 0;
+	text-align: right;
+}
+#entry-author-info #author-avatar {
+	float: right;
+	margin: 0 0 0 -104px;
+}
+#entry-author-info #author-description {
+	float: right;
+	margin: 0 104px 0 0;
+}
+
+.sticky hgroup {
+    background: url("images/icon-featured.png") no-repeat scroll right 10px transparent;
+    padding-right: 35px;
+}
+
+.pagination span, .pagination a {
+float:right;
+}
+
+
+#respond label {
+float:right;
+}
+#commentform {
+float:right;
+}
+
+#commentform label {
+width:15%;
+}
+
+#respond .required {
+float:right;
+}
+
+#respond .comment-notes {
+float:right;
+text-align:right;
+}
+/* Gallery listing
+-------------------------------------------------------------- */
+
+.category-gallery .gallery-thumb {
+	float: right;
+ 	margin-left:20px;
+	margin-right:0;
+}
+
+
+/* Images
+-------------------------------------------------------------- */
+
+#content .gallery .gallery-caption {
+	margin-right: 0;
+}
+
+#content .gallery .gallery-item {
+	float: right;
+}
+
+#content .entry-title {
+float:none;
+}
+
+/* =Navigation
+-------------------------------------------------------------- */
+.nav-previous {
+	float: right;
+}
+.nav-next {
+	float: left;
+	text-align:left;
+}
+
+/* =Comments
+-------------------------------------------------------------- */
+
+.commentlist li.comment {
+	padding: 0 66px 0 0;
+}
+.commentlist .avatar {
+	right: 0;
+	left: auto;
+}
+.comment-author .says, #comments .pingback .url  {
+	font-style: normal;
+}
+
+/* Comments form */
+.children #respond {
+	margin: 0 0 0 48px;
+}
+
+/* =Widget Areas
+-------------------------------------------------------------- */
+
+.widget-title {
+text-align:right;
+padding-left:0 !important;
+padding-right:20px !important;
+}
+
+.widget-area ul {
+	margin-right: 0;
+}
+.widget-area ul ul {
+	margin-right: 1.3em;
+	margin-left: 0;
+}
+#wp-calendar caption {
+	text-align: right;
+}
+#wp-calendar tfoot #next {
+	text-align: left;
+}
+
+/* Main sidebars */
+#main .widget-area ul {
+	margin-right: 0;
+	padding: 0 0 0 20px;
+}
+#main .widget-area ul ul {
+	margin-right: 1.3em;
+	margin-left: 0;
+}
+
+/* =Footer
+-------------------------------------------------------------- */
+#site-generator {
+	font-style:normal;
+}
+#site-generator a {
+	background-position: right center;
+	padding-right: 20px;
+	padding-left: 0;
+}

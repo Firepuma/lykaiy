@@ -1,0 +1,2425 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mantra-Pengelinks v\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-09-30 11:35:29+0000\n"
+"Last-Translator: admin <mail@pengelinks.dk>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:17
+#@ mantra
+msgid "Not Found"
+msgstr "Blev ikke fundet"
+
+#: 404.php:19
+#@ mantra
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "Beklager, men siden du forsøger at hente blev ikke fundet. Måske en søgning vil hjælpe."
+
+#: admin/admin-functions.php:62
+#@ mantra
+msgid "Before you can upload your import file, you will need to fix the following error:"
+msgstr ""
+
+#: admin/admin-functions.php:70
+#@ mantra
+msgid "Import Mantra Theme Options"
+msgstr "Importér Mantra tema indstillinger"
+
+#: admin/admin-functions.php:72
+#@ mantra
+msgid "Hi! This is where you import the  Mantra settings.<i> Please remember that this is still an experimental feature.</i>"
+msgstr "Hej! Dette er her du kan importere indstillingerne for Mantra.<i>Husk venligst, at dette stadig er en eksperimentel funktion.</i>"
+
+#: admin/admin-functions.php:74
+#@ mantra
+msgid "Just choose a file from your computer:"
+msgstr "Vælg en fil fra computeren:"
+
+#: admin/admin-functions.php:76
+#, php-format
+#@ mantra
+msgid "Maximum size: %s"
+msgstr "Maksimale størrelse: %s"
+
+#: admin/admin-functions.php:82
+#@ mantra
+msgid "And import!"
+msgstr "Og importér!"
+
+#: admin/admin-functions.php:148
+#@ mantra
+msgid "Import Mantra Theme Options "
+msgstr "Importér Mantra tema indstillinger "
+
+#: admin/admin-functions.php:151
+#@ mantra
+msgid "Great! The options have been imported!"
+msgstr "Fremragende! Indstillingerne er blevet importeret!"
+
+#: admin/admin-functions.php:152
+#@ mantra
+msgid "Go back to the Mantra options page and check them out!"
+msgstr "Gå tilbage til siden for Mantra indstillinger og kontrollér dem!"
+
+#: admin/admin-functions.php:155
+#: admin/admin-functions.php:161
+#: admin/admin-functions.php:167
+#@ mantra
+msgid "Oops, there's a small problem."
+msgstr "Ups, der er et lille problem."
+
+#: admin/admin-functions.php:156
+#@ mantra
+msgid "The uploaded file does not contain valid Mantra options. Make sure the file is exported from the Mantra Options page."
+msgstr "Den uploadede fil indeholder ikke gyldige Mantra indstillinger. Kontrollér venligst, at filen er eksporteret fra siden med Mantra indstillinger"
+
+#: admin/admin-functions.php:162
+#@ mantra
+msgid "The uploaded file could not be read."
+msgstr "Den uploadede fil kunne ikke læses"
+
+#: admin/admin-functions.php:168
+#@ mantra
+msgid "The uploaded file is not supported. Make sure the file was exported from the Mantra page and that it is a text file."
+msgstr "Den uploadede fil understøttes ikke. Kontrollér venligst, at filen var eksporteret fra Mantra siden og at det er en tekst fil."
+
+#: admin/admin-functions.php:177
+#@ mantra
+msgid "Oops! The file is empty or there was no file. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini."
+msgstr "Ups! filen er tom eller manglende. Denne fejl kan også skyldes, at upload er deaktiveret i din php.ini eller post_max_size er angivet til at være mindre end upload_max_filesize i php.ini"
+
+#: admin/admin-functions.php:183
+#@ mantra
+msgid "ERROR: You are not authorised to perform that operation"
+msgstr "FEJL: Du har ikke rettigheder til at udføre denne handling"
+
+#: admin/main.php:93
+#@ mantra
+msgid "Layout Settings"
+msgstr "Layout indstillinger"
+
+#: admin/main.php:94
+#@ mantra
+msgid "Presentation Page"
+msgstr "Præsentations side"
+
+#: admin/main.php:95
+#@ mantra
+msgid "Text Settings"
+msgstr "Tekst indstillinger"
+
+#: admin/main.php:96
+#@ mantra
+msgid "Color Settings"
+msgstr "Farve indstillinger"
+
+#: admin/main.php:97
+#@ mantra
+msgid "Graphics Settings"
+msgstr "Grafik indstillinger"
+
+#: admin/main.php:98
+#@ mantra
+msgid "Post Information Settings"
+msgstr "Indlægs information indstillinger"
+
+#: admin/main.php:99
+#@ mantra
+msgid "Post Excerpt Settings"
+msgstr "Indlægs uddrag indstillinger"
+
+#: admin/main.php:100
+#@ mantra
+msgid "Featured Image Settings"
+msgstr "Fremhævet billede indstillinger"
+
+#: admin/main.php:101
+#@ mantra
+msgid "Social Media Settings"
+msgstr "Sociale medier indstillinger"
+
+#: admin/main.php:102
+#@ mantra
+msgid "Miscellaneous Settings"
+msgstr "Diverse indstillinger"
+
+#: admin/main.php:104
+#@ mantra
+msgid "Main Layout"
+msgstr "Primært layout"
+
+#: admin/main.php:105
+#@ mantra
+msgid "Content / Sidebar Width"
+msgstr "Indhold / Sidebar bredde"
+
+#: admin/main.php:106
+#@ mantra
+msgid "Header Image Height"
+msgstr "Header billede højde"
+
+#: admin/main.php:108
+#@ mantra
+msgid "Enable Presentation Page"
+msgstr "Aktivér præsentations side"
+
+#: admin/main.php:109
+#@ mantra
+msgid "Slider Settings"
+msgstr "Slider indstillinger"
+
+#: admin/main.php:110
+#@ mantra
+msgid "Slides"
+msgstr "Slides"
+
+#: admin/main.php:111
+#@ mantra
+msgid "Presentation Page Columns"
+msgstr "Præsentations side kolonner"
+
+#: admin/main.php:112
+#@ mantra
+msgid "Extras"
+msgstr "Extras"
+
+#: admin/main.php:114
+#@ mantra
+msgid "General Font"
+msgstr "Primær font"
+
+#: admin/main.php:115
+#@ mantra
+msgid "General Font Size"
+msgstr "Primær font størrelse"
+
+#: admin/main.php:116
+#@ mantra
+msgid "Post Title Font "
+msgstr "Indlægs titel font"
+
+#: admin/main.php:117
+#@ mantra
+msgid "Post Title Font Size"
+msgstr "Indlægs titel font størrelse"
+
+#: admin/main.php:118
+#@ mantra
+msgid "Sidebar Font"
+msgstr "Sidebar font"
+
+#: admin/main.php:119
+#@ mantra
+msgid "SideBar Font Size"
+msgstr "Sidebar font størrelse"
+
+#: admin/main.php:120
+#@ mantra
+msgid "Sub-Headers Font"
+msgstr "Under overskrift font"
+
+#: admin/main.php:121
+#@ mantra
+msgid "Force Text Align"
+msgstr "Gennemtving font tilpasning"
+
+#: admin/main.php:122
+#@ mantra
+msgid "Paragraph indent"
+msgstr "Afsnitsindrykning"
+
+#: admin/main.php:123
+#@ mantra
+msgid "Header indent"
+msgstr "Headerindrykning"
+
+#: admin/main.php:124
+#@ mantra
+msgid "Line Height"
+msgstr "Linie højde"
+
+#: admin/main.php:125
+#@ mantra
+msgid "Word spacing"
+msgstr "Ord afstand"
+
+#: admin/main.php:126
+#@ mantra
+msgid "Letter spacing"
+msgstr "Bogstav afstand"
+
+#: admin/main.php:127
+#@ mantra
+msgid "Text shadow"
+msgstr "Tekst skygge"
+
+#: admin/main.php:129
+#@ mantra
+msgid "Background Color"
+msgstr "Baggrundsfarve"
+
+#: admin/main.php:130
+#@ mantra
+msgid "Header (Banner and Menu) Background Color"
+msgstr "Header (Banner og menu) baggrundsfarve"
+
+#: admin/main.php:131
+#@ mantra
+msgid "Content Background Color"
+msgstr "Indholds baggrundsfarve"
+
+#: admin/main.php:132
+#@ mantra
+msgid "Menu Background Color"
+msgstr "Menu baggrundsfarve"
+
+#: admin/main.php:133
+#@ mantra
+msgid "First Sidebar Background Color"
+msgstr "Første sidebar baggrundsfarve"
+
+#: admin/main.php:134
+#@ mantra
+msgid "Second Sidebar Background Color"
+msgstr "Anden sidebar baggrundsfarve"
+
+#: admin/main.php:136
+#@ mantra
+msgid "Site Title Color"
+msgstr "Sidetitel farve"
+
+#: admin/main.php:137
+#@ mantra
+msgid "Site Description Color"
+msgstr "Sidebeskrivelse farve"
+
+#: admin/main.php:139
+#@ mantra
+msgid "Content Text Color"
+msgstr "Indholdstekst farve"
+
+#: admin/main.php:140
+#@ mantra
+msgid "Links Color"
+msgstr "Links farve"
+
+#: admin/main.php:141
+#@ mantra
+msgid "Links Hover Color"
+msgstr "Links hover farve"
+
+#: admin/main.php:142
+#@ mantra
+msgid "Post Title Color"
+msgstr "Indlægs titel farve"
+
+#: admin/main.php:143
+#@ mantra
+msgid "Post Title Hover Color"
+msgstr "Indlægs titel hover farve"
+
+#: admin/main.php:144
+#@ mantra
+msgid "Sidebar Header Background Color"
+msgstr "Sidebar overskrift baggrundsfarve"
+
+#: admin/main.php:145
+#@ mantra
+msgid "Sidebar Header Text Color"
+msgstr "Sidebar overskrift tekstfarve"
+
+#: admin/main.php:146
+#@ mantra
+msgid "Footer Widget Background Color"
+msgstr "Footer widget baggrundsfarve"
+
+#: admin/main.php:147
+#@ mantra
+msgid "Footer Background Color"
+msgstr "Footer baggrundsfarve"
+
+#: admin/main.php:148
+#@ mantra
+msgid "Footer Widget Header Text Color"
+msgstr "Footer widget overskifts tekstfarve"
+
+#: admin/main.php:149
+#@ mantra
+msgid "Footer Widget Link Color"
+msgstr "Footer widget link farve"
+
+#: admin/main.php:150
+#@ mantra
+msgid "Footer Widget Hover Color"
+msgstr "Footer widget hover farve"
+
+#: admin/main.php:152
+#@ mantra
+msgid "Caption Border"
+msgstr "Billedtekst kant"
+
+#: admin/main.php:153
+#@ mantra
+msgid "Post Images Border"
+msgstr "Indlægsbilleder kant"
+
+#: admin/main.php:154
+#@ mantra
+msgid "Caption Pin"
+msgstr "Billedetekst pin"
+
+#: admin/main.php:155
+#@ mantra
+msgid "Sidebar Menu Bullets"
+msgstr "Sidebar menu bullets"
+
+#: admin/main.php:156
+#@ mantra
+msgid "Meta Area Background"
+msgstr "Meta område baggrund"
+
+#: admin/main.php:157
+#@ mantra
+msgid "Post Separator"
+msgstr "Indlægs seperator"
+
+#: admin/main.php:158
+#@ mantra
+msgid "Content List Bullets"
+msgstr "Indholdsliste bullets"
+
+#: admin/main.php:159
+#@ mantra
+msgid "Title and Description"
+msgstr "Titel og beskrivelse"
+
+#: admin/main.php:160
+#@ mantra
+msgid "Page Titles"
+msgstr "Sidetitler"
+
+#: admin/main.php:161
+#@ mantra
+msgid "Category Page Titles"
+msgstr "Kategori sidetitler"
+
+#: admin/main.php:162
+#@ mantra
+msgid "Hide Tables"
+msgstr "Skjul tabeller"
+
+#: admin/main.php:163
+#@ mantra
+msgid "Back to Top button"
+msgstr "Tilbage til top knap"
+
+#: admin/main.php:164
+#@ mantra
+msgid "Text Under Comments"
+msgstr "Tekst under kommentarer"
+
+#: admin/main.php:165
+#@ mantra
+msgid "Comments are closed text"
+msgstr "Lukket for kommentarer tekst"
+
+#: admin/main.php:166
+#@ mantra
+msgid "Comments off"
+msgstr "Lukket for kommentarer"
+
+#: admin/main.php:167
+#@ mantra
+msgid "Insert footer copyright"
+msgstr "Indsæt footer copyright tekst"
+
+#: admin/main.php:169
+#@ mantra
+msgid "Post Comments Link"
+msgstr "Indlægskommentarer link"
+
+#: admin/main.php:170
+#@ mantra
+msgid "Post Date"
+msgstr "Indlægsdato"
+
+#: admin/main.php:171
+#@ mantra
+msgid "Post Time"
+msgstr "Indlægstidspunkt"
+
+#: admin/main.php:172
+#@ mantra
+msgid "Post Author"
+msgstr "Forfatter"
+
+#: admin/main.php:173
+#@ mantra
+msgid "Post Category"
+msgstr "Indlægskategori"
+
+#: admin/main.php:174
+#@ mantra
+msgid "Post Tags"
+msgstr "Indlægs tags"
+
+#: admin/main.php:175
+#@ mantra
+msgid "Post Permalink"
+msgstr "Link til indlæg"
+
+#: admin/main.php:176
+#@ mantra
+msgid "All Post Metas"
+msgstr "Meta for alle indlæg"
+
+#: admin/main.php:178
+#@ mantra
+msgid "Post Excerpts on Home Page"
+msgstr "Indlægsuddrag på forside"
+
+#: admin/main.php:179
+#@ mantra
+msgid "Affect Sticky Posts"
+msgstr "Påvirker sticky indlæg"
+
+#: admin/main.php:180
+#@ mantra
+msgid "Post Excerpts on Archive and Category Pages"
+msgstr "Indlægsuddrag på arkiv- og kategori sider"
+
+#: admin/main.php:181
+#@ mantra
+msgid "Number of Words for Post Excerpts "
+msgstr "Antal ord i indlægsuddrag"
+
+#: admin/main.php:182
+#@ mantra
+msgid "Magazine Layout"
+msgstr "Magasin layout"
+
+#: admin/main.php:183
+#@ mantra
+msgid "Excerpt suffix"
+msgstr "Uddrag suffiks"
+
+#: admin/main.php:184
+#@ mantra
+msgid "Continue reading link text "
+msgstr "Læs mere link tekst"
+
+#: admin/main.php:185
+#@ mantra
+msgid "HTML tags in Excerpts"
+msgstr "HTML tags i uddrag"
+
+#: admin/main.php:187
+#@ mantra
+msgid "Featured Images as POST Thumbnails "
+msgstr "Fremhævede billeder som indlæg Thumbnails"
+
+#: admin/main.php:188
+#@ mantra
+msgid "Auto Select Images From Posts "
+msgstr "Autovælg billeder fra indlæg"
+
+#: admin/main.php:189
+#@ mantra
+msgid "Thumbnails Alignment "
+msgstr "Thumbnail justering"
+
+#: admin/main.php:190
+#@ mantra
+msgid "Thumbnails Size "
+msgstr "Thumbnail størrelse"
+
+#: admin/main.php:191
+#@ mantra
+msgid "Featured Images as HEADER Images "
+msgstr "Fremhævet billede som Header billede"
+
+#: admin/main.php:193
+#@ mantra
+msgid "Link nr. 1"
+msgstr "Link nr. 1"
+
+#: admin/main.php:194
+#@ mantra
+msgid "Link nr. 2"
+msgstr "Link nr. 2"
+
+#: admin/main.php:195
+#@ mantra
+msgid "Link nr. 3"
+msgstr "Link nr. 3"
+
+#: admin/main.php:196
+#@ mantra
+msgid "Link nr. 4"
+msgstr "Link nr. 4"
+
+#: admin/main.php:197
+#@ mantra
+msgid "Link nr. 5"
+msgstr "Link nr. 5"
+
+#: admin/main.php:198
+#@ mantra
+msgid "Socials display"
+msgstr "Sociale medier visning"
+
+#: admin/main.php:200
+#@ mantra
+msgid "Make Site Header a Link"
+msgstr "Lav header til link"
+
+#: admin/main.php:201
+#@ mantra
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#: admin/main.php:202
+#@ mantra
+msgid "Pagination"
+msgstr "Sideinddeling"
+
+#: admin/main.php:203
+#@ mantra
+msgid "Mobile view"
+msgstr "Mobilvisning"
+
+#: admin/main.php:204
+#@ mantra
+msgid "FavIcon"
+msgstr "FavIcon"
+
+#: admin/main.php:205
+#@ mantra
+msgid "Custom CSS"
+msgstr "brugerdefineret CSS"
+
+#: admin/main.php:206
+#@ mantra
+msgid "Custom JavaScript"
+msgstr "Brugerdefineret Javescript"
+
+#: admin/main.php:207
+#@ mantra
+msgid "SEO Settings"
+msgstr "SEO indstillinger"
+
+#: admin/main.php:224
+#@ mantra
+msgid "Sorry, but you do not have sufficient permissions to access this page."
+msgstr "Beklager, men du har ikke rettigheder til at tilg[ denne side"
+
+#: admin/main.php:234
+#@ mantra
+msgid "Mantra settings updated successfully."
+msgstr "Mantra indstillinger opdateret med success"
+
+#: admin/main.php:245
+#@ mantra
+msgid "Reset to Defaults"
+msgstr "Nulstil til standard"
+
+#: admin/main.php:246
+#@ mantra
+msgid "Save Changes"
+msgstr "Gem ændringer"
+
+#: admin/main.php:260
+#@ mantra
+msgid ""
+"<p>Here at Cryout Creations (the developers of yours truly Mantra Theme), we spend night after night improving the Mantra Theme. We fix a lot of bugs (that we previously created); we add more and more customization options while also trying to keep things as simple as possible; then... we might play a game or two but rest assured that we return to read and (in most cases) reply to your late night emails and comments, take notes and draw dashboards of things to implement in future versions.</p>\n"
+"\t\t\t<p>So you might ask yourselves: <i>How do they do it? How can they keep so fresh after all that hard labor for that darned theme? </i> Well folks, it's simple. We drink coffee. Industrial quantities of hot boiling coffee. We love it! So if you want to help with the further development of the Mantra Theme...</p> "
+msgstr ""
+"<p>Here at Cryout Creations (the developers of yours truly Mantra Theme), we spend night after night improving the Mantra Theme. We fix a lot of bugs (that we previously created); we add more and more customization options while also trying to keep things as simple as possible; then... we might play a game or two but rest assured that we return to read and (in most cases) reply to your late night emails and comments, take notes and draw dashboards of things to implement in future versions.</p>\n"
+"\\\t\\\t\\\t<p>So you might ask yourselves: <i>How do they do it? How can they keep so fresh after all that hard labor for that darned theme? </i> Well folks, it's simple. We drink coffee. Industrial quantities of hot boiling coffee. We love it! So if you want to help with the further development of the Mantra Theme...</p> "
+
+#: admin/main.php:275
+#@ mantra
+msgid "Import/Export Settings"
+msgstr "Import&eksport indstillinger"
+
+#: admin/main.php:281
+#@ mantra
+msgid "Export Theme options"
+msgstr "Eksportér tema indstillinger"
+
+#: admin/main.php:282
+#@ mantra
+msgid "It's that easy: a mouse click away - the ability to export your Mantra settings and save them on your computer. Feeling safer? You should!"
+msgstr "Så nemt er det: et museklik væk - Muligheden for at eksportere dine Mantra indstillinger og gemme dem på din computer. Føler du dig sikrere nu.... Det burde du :) "
+
+#: admin/main.php:287
+#@ mantra
+msgid "Import Theme options"
+msgstr "Importér Theme indstillinger"
+
+#: admin/main.php:288
+#@ mantra
+msgid " Without the import, the export would just be a fool's exercise. Make sure you have the exported file ready and see you after the mouse click."
+msgstr "Uden importmuligheden ville eksporten blot være en øvelse. Hav den eksporterede fil klar og så ses vi efter et klik på musen :)"
+
+#: admin/main.php:295
+#@ mantra
+msgid "Mantra Latest News"
+msgstr "Seneste nyheder fra Mantra"
+
+#: admin/main.php:306
+#@ mantra
+msgid "No news items."
+msgstr "Ingen nyheder"
+
+#: admin/main.php:320
+#@ mantra
+msgid "Mantra Help"
+msgstr "Mantra hjælp"
+
+#: admin/main.php:323
+#@ mantra
+msgid ""
+"\n"
+"\t\t\t<ul>\n"
+"\t\t\t\t<li>- Need any Mantra or WordPress help?</li>\n"
+"\t\t\t\t<li>- Want to know what changes are made to the theme with each new version?</li>\n"
+"\t\t\t\t<li>- Found a bug or maybe something doesn't work exactly as expected?</li>\n"
+"\t\t\t\t<li>- Got an idea on how to improve the Mantra Theme to better suit your needs?</li>\n"
+"\t\t\t\t<li>- Want a setting implemented?</li>\n"
+"\t\t\t\t<li>- Do you have or would you like to make a translation of the Mantra Theme?</li>\n"
+"\t\t\t</ul>\n"
+"\t\t\t<p>Then come visit us at Mantra's support page.</p>\n"
+"\t"
+msgstr ""
+"\n"
+"\\\t\\\t\\\t<ul>\n"
+"\\\t\\\t\\\t\\\t<li>- Need any Mantra or WordPress help?</li>\n"
+"\\\t\\\t\\\t\\\t<li>- Want to know what changes are made to the theme with each new version?</li>\n"
+"\\\t\\\t\\\t\\\t<li>- Found a bug or maybe something doesn't work exactly as expected?</li>\n"
+"\\\t\\\t\\\t\\\t<li>- Got an idea on how to improve the Mantra Theme to better suit your needs?</li>\n"
+"\\\t\\\t\\\t\\\t<li>- Want a setting implemented?</li>\n"
+"\\\t\\\t\\\t\\\t<li>- Do you have or would you like to make a translation of the Mantra Theme?</li>\n"
+"\\\t\\\t\\\t</ul>\n"
+"\\\t\\\t\\\t<p>Then come visit us at Mantra's support page.</p>\n"
+"\\\t"
+
+#: admin/main.php:334
+#@ mantra
+msgid "Mantra Support Page"
+msgstr "Mantra support side"
+
+#: admin/settings.php:61
+#@ mantra
+msgid "One column (no sidebars)"
+msgstr "En kolonne (Ingen sidebar)"
+
+#: admin/settings.php:62
+#@ mantra
+msgid "Two columns,  sidebar on the right"
+msgstr "To kolonner, sidebar til højre"
+
+#: admin/settings.php:63
+#@ mantra
+msgid "Two columns,  sidebar on the left"
+msgstr "To kolonner, sidebar til venstre"
+
+#: admin/settings.php:64
+#@ mantra
+msgid "Three columns, sidebars on the right"
+msgstr "Tre kolonner, sidebars til højre"
+
+#: admin/settings.php:65
+#@ mantra
+msgid "Three columns, sidebars on the left"
+msgstr "Tre kolonner, sidebars til venstre"
+
+#: admin/settings.php:66
+#@ mantra
+msgid "Three columns, one sidebar on each side"
+msgstr "Tre kolonner, en sidebar på hver side"
+
+#: admin/settings.php:81
+#@ mantra
+msgid "Choose your layout "
+msgstr "Vælg layout"
+
+#: admin/settings.php:89
+#@ mantra
+msgid "Absolute"
+msgstr "Absolut"
+
+#: admin/settings.php:89
+#@ mantra
+msgid "Relative"
+msgstr "Relativt"
+
+#: admin/settings.php:90
+#@ mantra
+msgid "Dimensions to use: "
+msgstr "Benyt følgende dimensioner"
+
+#: admin/settings.php:189
+#: admin/settings.php:209
+#@ mantra
+msgid "Content ="
+msgstr "Indhold ="
+
+#: admin/settings.php:190
+#: admin/settings.php:210
+#@ mantra
+msgid "Sidebar(s) ="
+msgstr "Sidebar(s) ="
+
+#: admin/settings.php:191
+#: admin/settings.php:211
+#@ mantra
+msgid "Total width ="
+msgstr "Total bredde ="
+
+#: admin/settings.php:200
+#@ mantra
+msgid ""
+"Select the width of your <b>content</b> and <b>sidebar(s)</b>. \n"
+" \t\tWhile the content cannot be less than 500px wide, the sidebar area is at least 220px and no more than 800px.<br />\n"
+"\tIf you went for a 3 column area ( with 2 sidebars) they will each have half the selected width."
+msgstr ""
+"Vælg bredden af dit <b>indhold</b> og <b>sidebar(s)</b>. \n"
+" \\\t\\\tInholdet kan ikke være mindre end 500px bred, sidebar bredden er mindst 220px og ikke mere end 800px.<br />\n"
+"\\\tHvis du har valgt 3 kolonner (2 sidebars) vil hver sidebar have den halve bredde af det valgte."
+
+#: admin/settings.php:220
+#@ mantra
+msgid ""
+"Select the width of your <b>content</b> and <b>sidebar(s)</b>. \n"
+" \t\tThese are realtive dimmensions - relative to the user's browser. The total width is a percentage of the browser's width.<br />\n"
+"\t While the content cannot be less than 40% wide, the sidebar area is at least 20% and no more than 50%.<br />\n"
+"\tIf you went for a 3 column area ( with 2 sidebars) they will each have half the selected width."
+msgstr ""
+"Vælg bredden af dit <b>idnhold</b> og <b>sidebar(s)</b>. \n"
+" \\\t\\\tDette er relative dimensioner - relativt i forhold til brugerens browser. Den totale bredde er en procentdel af browserens bredde.<br />\n"
+"\\\t Indholdet kan ikke være mindre end 40% af den samlede bredde, sidebar området er mindst 20% og ikke mere end 50%.<br />\n"
+"\\\tHvis du har valgt 3 kolonner (med 2 sidebars) vil hver sidebar have den halve bredde af det valgte."
+
+#: admin/settings.php:244
+#@ mantra
+msgid "Select the header's height. After saving the settings go and upload your new header image. The header's width will be = "
+msgstr "Vælg headerens højde. Efter at have gemt indstillingerne, upload dit nye header billede. Headerens bredde vil være = "
+
+#: admin/settings.php:257
+#: admin/settings.php:969
+#: admin/settings.php:1031
+#: admin/settings.php:1367
+#: admin/settings.php:1429
+#: admin/settings.php:1637
+#: admin/settings.php:1666
+#: admin/settings.php:1689
+#: admin/settings.php:1712
+#: admin/settings.php:1761
+#: admin/settings.php:1890
+#: admin/settings.php:1905
+#: admin/settings.php:1920
+#: admin/settings.php:1935
+#: admin/settings.php:1977
+#@ mantra
+msgid "Enable"
+msgstr "Aktiver"
+
+#: admin/settings.php:257
+#: admin/settings.php:969
+#: admin/settings.php:1031
+#: admin/settings.php:1367
+#: admin/settings.php:1429
+#: admin/settings.php:1637
+#: admin/settings.php:1666
+#: admin/settings.php:1689
+#: admin/settings.php:1712
+#: admin/settings.php:1761
+#: admin/settings.php:1890
+#: admin/settings.php:1905
+#: admin/settings.php:1920
+#: admin/settings.php:1935
+#: admin/settings.php:1977
+#@ mantra
+msgid "Disable"
+msgstr "Deaktivér"
+
+#: admin/settings.php:265
+#@ mantra
+msgid ""
+"Enable the presentation front-page. This will become your new home page and it will replace whatever page you have selected as homepage. It has a slider and columns for presentation\n"
+"\t\ttext and images."
+msgstr ""
+"Aktivér præsentations forside. Dette vil blive din nye forside og vil erstatte dit nuværende valg. Præsentations siden har en slider og kolonner for præsentation\n"
+"\\\t\\\ttekst og billeder."
+
+#: admin/settings.php:275
+#@ mantra
+msgid "Slider Dimensions:"
+msgstr "Slider dimensioner:"
+
+#: admin/settings.php:276
+#@ mantra
+msgid "width"
+msgstr "bredde"
+
+#: admin/settings.php:277
+#@ mantra
+msgid "height"
+msgstr "højde"
+
+#: admin/settings.php:278
+#@ mantra
+msgid "The dimensions of your slider. Make sure your images are of the same size."
+msgstr "Dimensionerne af slider. Vær sikker på, at dine billeder har samme dimensioner. "
+
+#: admin/settings.php:280
+#@ mantra
+msgid "Animation:"
+msgstr "Animation:"
+
+#: admin/settings.php:282
+#@ mantra
+msgid "Random"
+msgstr "Tilfældig"
+
+#: admin/settings.php:282
+#@ mantra
+msgid "Fold"
+msgstr "Fold"
+
+#: admin/settings.php:282
+#@ mantra
+msgid "Fade"
+msgstr "Fade"
+
+#: admin/settings.php:282
+#@ mantra
+msgid "SlideInRight"
+msgstr "Slide ind fra højre"
+
+#: admin/settings.php:282
+#@ mantra
+msgid "SlideInLeft"
+msgstr "Slide ind fra venstre"
+
+#: admin/settings.php:282
+#@ mantra
+msgid "SliceDown"
+msgstr "Slice ned"
+
+#: admin/settings.php:282
+#@ mantra
+msgid "SliceDownLeft"
+msgstr "Slice ned fra venstre"
+
+#: admin/settings.php:282
+#@ mantra
+msgid "SliceUp"
+msgstr "Slice op"
+
+#: admin/settings.php:282
+#@ mantra
+msgid "SliceUpLeft"
+msgstr "Slice op fra venstre"
+
+#: admin/settings.php:282
+#@ mantra
+msgid "SliceUpDown"
+msgstr "Slice ned og op"
+
+#: admin/settings.php:282
+#@ mantra
+msgid "SliceUpDownLeft"
+msgstr "Slice ned og op fra venstre"
+
+#: admin/settings.php:282
+#@ mantra
+msgid "BoxRandom"
+msgstr "Tilfældig boks"
+
+#: admin/settings.php:282
+#@ mantra
+msgid "BoxRain"
+msgstr "Regn effekt"
+
+#: admin/settings.php:282
+#@ mantra
+msgid "BoxRainReverse"
+msgstr "Omvendt regn effekt"
+
+#: admin/settings.php:282
+#@ mantra
+msgid "BoxRainGrow"
+msgstr "Voksende regn effekt"
+
+#: admin/settings.php:282
+#@ mantra
+msgid "BoxRainGrowReverse"
+msgstr "Omvendt voksende regn effekt"
+
+#: admin/settings.php:290
+#@ mantra
+msgid "The transition effect your slider will have."
+msgstr "Overgangseffekten på din slider."
+
+#: admin/settings.php:292
+#@ mantra
+msgid "Border Settings:"
+msgstr "Kant indstillinger:"
+
+#: admin/settings.php:293
+#@ mantra
+msgid "Width"
+msgstr "Bredde"
+
+#: admin/settings.php:294
+#@ mantra
+msgid "Color"
+msgstr "Farve"
+
+#: admin/settings.php:296
+#@ mantra
+msgid "The width and color of the slider's border."
+msgstr "Bredde og farve på sliderens kant."
+
+#: admin/settings.php:298
+#@ mantra
+msgid "Animation Time:"
+msgstr "Animationstid:"
+
+#: admin/settings.php:299
+#: admin/settings.php:303
+#@ mantra
+msgid "milliseconds (1000ms = 1 second) "
+msgstr "millisekunder (1000ms = 1 sekund) "
+
+#: admin/settings.php:300
+#@ mantra
+msgid "The time in which the transition animation will take place."
+msgstr "Den tid overgangseffekten vil tage."
+
+#: admin/settings.php:302
+#@ mantra
+msgid "Pause Time:"
+msgstr "Pausetid:"
+
+#: admin/settings.php:304
+#@ mantra
+msgid "The time in which a slide will be still and visible."
+msgstr "Den tid din slide vil være stille og synlig."
+
+#: admin/settings.php:307
+#@ mantra
+msgid "Slider navigation:"
+msgstr "Slider navigation:"
+
+#: admin/settings.php:309
+#@ mantra
+msgid "Numbers"
+msgstr "Tal"
+
+#: admin/settings.php:309
+#@ mantra
+msgid "Bullets"
+msgstr "Bullets"
+
+#: admin/settings.php:309
+#: admin/settings.php:1273
+#@ mantra
+msgid "None"
+msgstr "Ingen"
+
+#: admin/settings.php:317
+#@ mantra
+msgid "Your slider navigation type. Shown under the slider."
+msgstr "Din slider navigationstype. Bliver vist under slideren."
+
+#: admin/settings.php:319
+#@ mantra
+msgid "Slider arrows:"
+msgstr "Slider pile:"
+
+#: admin/settings.php:321
+#@ mantra
+msgid "Always Visible"
+msgstr "Altid synlig"
+
+#: admin/settings.php:321
+#@ mantra
+msgid "Visible on Hover"
+msgstr "Synlig når musen holdes over"
+
+#: admin/settings.php:321
+#@ mantra
+msgid "Hidden"
+msgstr "Gemt"
+
+#: admin/settings.php:329
+#@ mantra
+msgid "The Left and Right arrows on your slider"
+msgstr "Venstre og højre pilene på din slider"
+
+#: admin/settings.php:370
+#: admin/settings.php:438
+#@ mantra
+msgid "Select Category"
+msgstr "Vælg kategori"
+
+#: admin/settings.php:397
+#@ mantra
+msgid "Custom Slides"
+msgstr "Tilpassede slides"
+
+#: admin/settings.php:397
+#@ mantra
+msgid "Latest Posts"
+msgstr "Seneste indlæg"
+
+#: admin/settings.php:397
+#@ mantra
+msgid "Random Posts"
+msgstr "Tilfældige indlæg"
+
+#: admin/settings.php:397
+#@ mantra
+msgid "Sticky Posts"
+msgstr "Sticky indlæg"
+
+#: admin/settings.php:397
+#@ mantra
+msgid "Latest Posts from Category"
+msgstr "Seneste indlæg fra kategori"
+
+#: admin/settings.php:397
+#@ mantra
+msgid "Random Posts from Category"
+msgstr "Tilfældige indlæg fra kategori"
+
+#: admin/settings.php:397
+#@ mantra
+msgid "Specific Posts"
+msgstr "Bestemte indlæg"
+
+#: admin/settings.php:410
+#@ mantra
+msgid "Latest posts will be loaded into the slider."
+msgstr "Seneste indlæg vil blive indlæst i slideren."
+
+#: admin/settings.php:414
+#@ mantra
+msgid "Random  posts will be loaded into the slider."
+msgstr "Tilfældige indlæge vil blive indlæst i slideren."
+
+#: admin/settings.php:418
+#@ mantra
+msgid "Latest posts from the category you choose will be loaded in the slider."
+msgstr "Seneste indlæg fra kategorien vil blive indlæst i slideren."
+
+#: admin/settings.php:423
+#@ mantra
+msgid "Random posts from the category you choose will be loaded into the slider."
+msgstr "Tilfældige indlæg fra den valgte kategori vil blive indlæst i slideren."
+
+#: admin/settings.php:427
+#@ mantra
+msgid "Only sticky posts will be loaded into the slider."
+msgstr "Kun sticky indlæg vil blive indlæst i slideren."
+
+#: admin/settings.php:431
+#@ mantra
+msgid "List the post IDs you want to display (separated by a comma): "
+msgstr "Indtast ID på de indlæg du ønsker at vise (adskil med komma):"
+
+#: admin/settings.php:436
+#@ mantra
+msgid "<br> Choose the cateogry: "
+msgstr "<br> Vælg kategorien: "
+
+#: admin/settings.php:453
+#@ mantra
+msgid "Number of posts to show:"
+msgstr "Antal indlæg der skal vises:"
+
+#: admin/settings.php:460
+#@ mantra
+msgid "Slide 1"
+msgstr "Slide 1"
+
+#: admin/settings.php:462
+#: admin/settings.php:477
+#: admin/settings.php:492
+#: admin/settings.php:507
+#: admin/settings.php:522
+#: admin/settings.php:565
+#: admin/settings.php:580
+#: admin/settings.php:595
+#: admin/settings.php:610
+#: content-image.php:19
+#@ mantra
+msgid "Image"
+msgstr "Billede"
+
+#: admin/settings.php:464
+#: admin/settings.php:479
+#: admin/settings.php:494
+#: admin/settings.php:509
+#: admin/settings.php:524
+#: admin/settings.php:567
+#: admin/settings.php:582
+#: admin/settings.php:597
+#: admin/settings.php:612
+#@ mantra
+msgid "Upload or select image from gallery"
+msgstr "Upload eller vælg billede fra galleriet"
+
+#: admin/settings.php:465
+#: admin/settings.php:480
+#: admin/settings.php:495
+#: admin/settings.php:510
+#: admin/settings.php:525
+#: admin/settings.php:568
+#: admin/settings.php:583
+#: admin/settings.php:613
+#@ mantra
+msgid "Title"
+msgstr "Titel"
+
+#: admin/settings.php:467
+#: admin/settings.php:482
+#: admin/settings.php:497
+#: admin/settings.php:512
+#: admin/settings.php:527
+#: admin/settings.php:570
+#: admin/settings.php:585
+#: admin/settings.php:600
+#: admin/settings.php:615
+#@ mantra
+msgid "Text"
+msgstr "Tekst"
+
+#: admin/settings.php:469
+#: admin/settings.php:484
+#: admin/settings.php:499
+#: admin/settings.php:514
+#: admin/settings.php:529
+#: admin/settings.php:572
+#: admin/settings.php:587
+#: admin/settings.php:602
+#: admin/settings.php:617
+#: content-link.php:20
+#@ mantra
+msgid "Link"
+msgstr "Link"
+
+#: admin/settings.php:475
+#@ mantra
+msgid "Slide 2"
+msgstr "Slide 2"
+
+#: admin/settings.php:490
+#@ mantra
+msgid "Slide 3"
+msgstr "Slide 3"
+
+#: admin/settings.php:505
+#@ mantra
+msgid "Slide 4"
+msgstr "Slide 4"
+
+#: admin/settings.php:520
+#@ mantra
+msgid "Slide 5"
+msgstr "Slide 5"
+
+#: admin/settings.php:533
+#@ mantra
+msgid "Your slides' content. Only the image is required, all other fields are optional. Only the slides with an image selected will become acitve and visible in the live slider."
+msgstr "Dine slides' indhold. Kun billede er påkrævet, alle andre felter er valgfri. Kun slides med billede valgt vil være aktive og synlige i live slideren."
+
+#: admin/settings.php:543
+#@ mantra
+msgid "Number of columns:"
+msgstr "Antal kolonner:"
+
+#: admin/settings.php:553
+#@ mantra
+msgid "Image Height:"
+msgstr "Højde på billede:"
+
+#: admin/settings.php:556
+#@ mantra
+msgid "Read more text:"
+msgstr "Læs mere tekst:"
+
+#: admin/settings.php:559
+#@ mantra
+msgid "The linked text that appears at the bottom of all the columns. You can delete all text inside if you don't want it."
+msgstr "Link teksten som kan ses i bunden af alle kolonner. Du kan slette teksten, hvis du ikke ønsker den."
+
+#: admin/settings.php:563
+#@ mantra
+msgid "1st Column"
+msgstr "1. kolonne"
+
+#: admin/settings.php:578
+#@ mantra
+msgid "2nd Column"
+msgstr "2. kolonne"
+
+#: admin/settings.php:593
+#@ mantra
+msgid "3rd Column"
+msgstr "3. kolonne"
+
+#: admin/settings.php:608
+#@ mantra
+msgid "4th Column"
+msgstr "4. kolonne"
+
+#: admin/settings.php:630
+#@ mantra
+msgid "Extra Text"
+msgstr "Ekstra tekst"
+
+#: admin/settings.php:630
+#@ mantra
+msgid "Top Title"
+msgstr "Top titel"
+
+#: admin/settings.php:632
+#@ mantra
+msgid "Second Title"
+msgstr "Anden titel"
+
+#: admin/settings.php:635
+#@ mantra
+msgid "Title color"
+msgstr "Titelfarve"
+
+#: admin/settings.php:638
+#@ mantra
+msgid "The titles' color (Default value is 333333)."
+msgstr "Farven på titlen (Standard er 333333)."
+
+#: admin/settings.php:640
+#@ mantra
+msgid "Bottom Text 1"
+msgstr "Bundtekst 1"
+
+#: admin/settings.php:642
+#@ mantra
+msgid "Bottom Text 2"
+msgstr "Bundtekst 2"
+
+#: admin/settings.php:645
+#@ mantra
+msgid ""
+"More text for your front page. The top title is above the slider, the second title between the slider and the columns and 2 more rows of text under the columns.\n"
+"\t\t It's all optional so leave any input field empty if it's not required. "
+msgstr ""
+"Mere tekst til din forside. Toptitlen er over slideren. Anden titel vises mellem slideren og kolonnerne og 2 rækker mere under kolonnerne.\n"
+"\\\t\\\t Alle felter er valgfri."
+
+#: admin/settings.php:651
+#@ mantra
+msgid "Hide areas"
+msgstr "Skjul områder"
+
+#: admin/settings.php:664
+#@ mantra
+msgid "Hide the header area (image or background color)."
+msgstr "Skjul header området (Billede eller baggrundsfarve)."
+
+#: admin/settings.php:668
+#@ mantra
+msgid "Hide the main menu (the top navigation tabs)."
+msgstr "Skjul hovedmenuen (top navigationen)."
+
+#: admin/settings.php:672
+#@ mantra
+msgid "Hide the footer widgets. "
+msgstr "Skjul footer widgets."
+
+#: admin/settings.php:676
+#@ mantra
+msgid "Hide the footer (copyright area)."
+msgstr "Skjul footeren (copyright området)."
+
+#: admin/settings.php:680
+#@ mantra
+msgid "Hide the white color. Only the background color remains."
+msgstr "Skjul den hvide farve. Kun baggrundsfarven vises."
+
+#: admin/settings.php:684
+#@ mantra
+msgid "Choose the areas to hide on the first page."
+msgstr "Vælg hvilke områder der skal skjules på forsiden."
+
+#: admin/settings.php:703
+#@ mantra
+msgid "Select the font size you'll use in your blog. Pages, posts and comments will be affected. Buttons, Headers and Side menus will remain the same."
+msgstr "Vælg fontstørrelsen du vil bruge på din hjemmeside. Sider, indlæg og kommentarer vil blive påvirket. Knapper, header og menuer vil bevare udseendet."
+
+#: admin/settings.php:747
+#@ mantra
+msgid "Select the font family you'll use in your blog. All content text will be affected (including menu buttons). "
+msgstr "Vælg hvilken font du vil benytte på din hjemmeside. Alt indholdstekst vil blive påvirket (også menuknapper)."
+
+#: admin/settings.php:748
+#: admin/settings.php:797
+#: admin/settings.php:848
+#: admin/settings.php:899
+#@ mantra
+msgid "Or insert your Google Font below. Please only isert the <strong>name</strong> of the font.<br /> Ex: Marko One. Go to <a href='http://www.google.com/webfonts' > google fonts </a> for some font inspiration."
+msgstr "Eller indsæt din Google font nedenfor. Indsæt kun <strong>navnet</strong> på din font.<br /> Eksempelvis: Marko One. Gå til <a href='http://www.google.com/webfonts' > google fonts </a> for noget inspiration."
+
+#: admin/settings.php:795
+#@ mantra
+msgid "Select the font family you want for your titles. It will affect post titles and page titles. Leave 'Default' and the general font you selected will be used."
+msgstr "Vælg den font du vil bruge til dine titler. Det vil påvirke titler på indlæg og sidetitler. Vælg standard og standard fonten der er valgt vil blive brugt."
+
+#: admin/settings.php:846
+#@ mantra
+msgid "Select the font family you want your sidebar(s) to have. Text in sidebars will be affected, including any widgets. Leave 'Default' and the general font you selected will be used."
+msgstr "V;lg den font du vil benytte i din(e) sidebar(s). Tekst i sidebars vil blive påvirket, inkluderet alle widgets. Efterlad standard og din valgte standard font vil blive brugt."
+
+#: admin/settings.php:897
+#@ mantra
+msgid "Select the font family you want your subheaders to have (h2 - h6 tags will be affected). Leave 'Default' and the general font you selected will be used."
+msgstr "Vælg den font du vil have dine underoverskrifter til at bruge (h2 - h6 tags vil blive påvirket). Efterlad som standard og den valgte standard font vil blive benyttet."
+
+#: admin/settings.php:909
+#: admin/settings.php:924
+#: admin/settings.php:939
+#: admin/settings.php:984
+#: admin/settings.php:999
+#: admin/settings.php:1014
+#@ mantra
+msgid "Default"
+msgstr "Standard"
+
+#: admin/settings.php:917
+#@ mantra
+msgid "Post Header Font size. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr "Fontstørrelse for indlægsoverskrifter. Efterlad standard for normal indstilling (Størrelsen vil være som indstillet i CSS)."
+
+#: admin/settings.php:932
+#@ mantra
+msgid "Sidebar Font size. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr "Fontstørrelse for Sidebar. Efterlad standard for normal indstilling (Størrelsen vil være som indstillet i CSS)."
+
+#: admin/settings.php:939
+#: admin/settings.php:1728
+#@ mantra
+msgid "Left"
+msgstr "Venstre"
+
+#: admin/settings.php:939
+#: admin/settings.php:1728
+#@ mantra
+msgid "Right"
+msgstr "Højre"
+
+#: admin/settings.php:939
+#@ mantra
+msgid "Justify"
+msgstr ""
+
+#: admin/settings.php:939
+#: admin/settings.php:1728
+#@ mantra
+msgid "Center"
+msgstr "Centrér"
+
+#: admin/settings.php:947
+#@ mantra
+msgid "This overwrites the text alignment in posts and pages. Leave 'Default' for normal settings (alignment will remain as declared in posts, comments etc.)."
+msgstr "Denne indstilling overskriver tekstjustering i indlæg og på sider. Efterlad standard for normal indstilling (Justeringen vil benytte indstillingen der er valgt i indlæg, kommentarer osv.)."
+
+#: admin/settings.php:961
+#@ mantra
+msgid "Choose the indent for your paragraphs."
+msgstr "Vælg indrykning for dine afsnit"
+
+#: admin/settings.php:977
+#@ mantra
+msgid "Disable the default header and title indent (left margin)."
+msgstr "Deaktivér standard headeren og titel indrykning (venstre margen)."
+
+#: admin/settings.php:992
+#@ mantra
+msgid "Text line height. The height between 2 rows of text. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr "Tekstlinie højde. Højden mellem 2 rækker tekst. Efterlad standard for normal indstilling (højden vil være som indstillet i CSS)."
+
+#: admin/settings.php:1007
+#@ mantra
+msgid "The space between <i>words</i>. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr "Afstanden mellem <i>ord</i>. Efterlad standard for normal indstilling (afstanden vil være som indstillet i CSS)."
+
+#: admin/settings.php:1022
+#@ mantra
+msgid "The space between <i>letters</i>. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr "Afstanden mellem <i>bogstaver</i>. Efterlad standard for normal indstilling (afstanden vil være som indstillet i CSS)."
+
+#: admin/settings.php:1039
+#@ mantra
+msgid "Disable the default text shadow on headers and titles."
+msgstr "Deaktivér standard tekst skygge på headers og titler."
+
+#: admin/settings.php:1051
+#@ mantra
+msgid "Background color (Default value is 444444)."
+msgstr "Baggrundsfarve (standard 444444)"
+
+#: admin/settings.php:1059
+#@ mantra
+msgid "Header background color (Default value is 333333). You can delete all inside text for no background color."
+msgstr "Header baggrundsfarve (standard 333333). Du kan slette teksten for at vælge \\\"ingen baggrundsfarve\\\""
+
+#: admin/settings.php:1066
+#@ mantra
+msgid "Content background color (Default value is FFFFFF). Works best with really light colors."
+msgstr "Indhold baggrundsfarve (standard FFFFFF). Virker bedst med meget lyse farver."
+
+#: admin/settings.php:1073
+#@ mantra
+msgid "Main menu background color (Default value is FAFAFA). Should be the same color as the content bg or something just as light."
+msgstr "Hovedmenu baggrundsfarve (standard FAFAFA). Bør være samme farve som baggrundsfarven for indhold eller en farve lige så lys."
+
+#: admin/settings.php:1080
+#: admin/settings.php:1087
+#@ mantra
+msgid "First sidebar background color (Default value is FFFFFF)."
+msgstr "1. sidebar baggrundsfarve standard (FFFFFF)."
+
+#: admin/settings.php:1095
+#@ mantra
+msgid "Footer widget-area background color. (Default value is 171717)."
+msgstr "Footer widget område baggrundsfarve (standard 171717)."
+
+#: admin/settings.php:1103
+#@ mantra
+msgid "Footer background color (Default value is 222222)."
+msgstr "Footer baggrundsfarve (standard 222222)."
+
+#: admin/settings.php:1111
+#@ mantra
+msgid "Your blog's title color (Default value is 0D85CC)."
+msgstr "Din hjemmesides titelfarve (standard 0D85CC)"
+
+#: admin/settings.php:1119
+#@ mantra
+msgid "Your blog's description color(Default value is 222222)."
+msgstr "Farve for hjemmesidebeskrivelse (standard 222222)."
+
+#: admin/settings.php:1127
+#@ mantra
+msgid "Content Text Color (Default value is 333333)."
+msgstr "Indholdstekst farve (standard 333333)."
+
+#: admin/settings.php:1135
+#@ mantra
+msgid "Links color (Default value is 0D85CC)."
+msgstr "Linksfarve (standard 0D85CC)"
+
+#: admin/settings.php:1143
+#@ mantra
+msgid "Links color on mouse over (Default value is 333333)."
+msgstr "Linksfarve ved mouse over (standard 333333)"
+
+#: admin/settings.php:1151
+#@ mantra
+msgid "Post Header Text Color (Default value is 333333)."
+msgstr "Indlægsoverskrift tekstfarve (standard 333333)."
+
+#: admin/settings.php:1159
+#@ mantra
+msgid "Post Header Text Color on Mouse over (Default value is 000000)."
+msgstr "Indlægsoverskrift tekstfarve ved mouse over (standard 000000)."
+
+#: admin/settings.php:1167
+#@ mantra
+msgid "Sidebar Header Background color (Default value is 444444)."
+msgstr "Sidebar header baggrundsfarve (standard 444444)."
+
+#: admin/settings.php:1176
+#@ mantra
+msgid "Sidebar Header Text Color(Default value is 2EA5FD)."
+msgstr "Sidebar Overskrift tekstfarve (standard 2EA5FD)"
+
+#: admin/settings.php:1184
+#@ mantra
+msgid "Footer Widget Text Color (Default value is 0D85CC)."
+msgstr "Footer widget tekstfarve (standard 0D85CC)."
+
+#: admin/settings.php:1192
+#@ mantra
+msgid "Footer Widget Link Color (Default value is 666666)."
+msgstr "Footer widget linkfarve (standard 666666)."
+
+#: admin/settings.php:1200
+#@ mantra
+msgid "Footer Widget Link Color on Mouse Over (Default value is 888888)."
+msgstr "Footer widget linkfarve ved mouse over (standard 888888)."
+
+#: admin/settings.php:1212
+#: admin/settings.php:1273
+#@ mantra
+msgid "White"
+msgstr "Hvid"
+
+#: admin/settings.php:1212
+#@ mantra
+msgid "Light"
+msgstr "Lys"
+
+#: admin/settings.php:1212
+#@ mantra
+msgid "Light Gray"
+msgstr "Lys grå"
+
+#: admin/settings.php:1212
+#: admin/settings.php:1273
+#@ mantra
+msgid "Gray"
+msgstr "Grå"
+
+#: admin/settings.php:1212
+#@ mantra
+msgid "Dark Gray"
+msgstr "Mørk grå"
+
+#: admin/settings.php:1212
+#@ mantra
+msgid "Black"
+msgstr "Sort"
+
+#: admin/settings.php:1220
+#@ mantra
+msgid "This setting changes the look of your captions. Images that are not inserted through captions will not be affected."
+msgstr "Denne indstilling ændrer udseendet på dine billedtekster. Billeder der ikke er indsat med billedtekster vil ikke blive påvirket."
+
+#: admin/settings.php:1236
+#@ mantra
+msgid "The border around your inserted images. "
+msgstr "Rammen om dine indsatte billeder."
+
+#: admin/settings.php:1251
+#@ mantra
+msgid "The image on top of your captions. "
+msgstr "Billedet over dine billedtekster."
+
+#: admin/settings.php:1266
+#@ mantra
+msgid "The sidebar list bullets. "
+msgstr "Sidebar liste bullets."
+
+#: admin/settings.php:1281
+#@ mantra
+msgid "The background for your post-metas area (under your post tiltes). Gray by default.<"
+msgstr "Baggrunden ved dine indlæg metas område (under indlægstitlerne). Grå som standard.<"
+
+#: admin/settings.php:1289
+#: admin/settings.php:1305
+#: admin/settings.php:1322
+#: admin/settings.php:1337
+#: admin/settings.php:1352
+#: admin/settings.php:1382
+#: admin/settings.php:1397
+#: admin/settings.php:1413
+#: admin/settings.php:1456
+#: admin/settings.php:1471
+#: admin/settings.php:1486
+#: admin/settings.php:1501
+#: admin/settings.php:1516
+#: admin/settings.php:1531
+#: admin/settings.php:1546
+#: admin/settings.php:1561
+#@ mantra
+msgid "Show"
+msgstr "Vis"
+
+#: admin/settings.php:1289
+#: admin/settings.php:1305
+#: admin/settings.php:1322
+#: admin/settings.php:1337
+#: admin/settings.php:1352
+#: admin/settings.php:1382
+#: admin/settings.php:1413
+#: admin/settings.php:1456
+#: admin/settings.php:1471
+#: admin/settings.php:1486
+#: admin/settings.php:1501
+#: admin/settings.php:1516
+#: admin/settings.php:1531
+#: admin/settings.php:1546
+#: admin/settings.php:1561
+#@ mantra
+msgid "Hide"
+msgstr "Skjul"
+
+#: admin/settings.php:1297
+#@ mantra
+msgid "Hide or show a horizontal rule to separate posts."
+msgstr "Skjul eller vis vandret linie for at adskille indlæg."
+
+#: admin/settings.php:1313
+#@ mantra
+msgid "Hide or show  bullets next to lists that are in your content area (posts, pages etc.)."
+msgstr "Vis eller skjul bullets ved lister der er en del af indholdet (indlæg, sider o.s.v.)."
+
+#: admin/settings.php:1330
+#@ mantra
+msgid "Hide or show your blog's Title and Description in the header (recommended if you have a custom header image with text)."
+msgstr "Skjul eller vis Din hjemmesidetitel og beskrivelse i header."
+
+#: admin/settings.php:1345
+#@ mantra
+msgid "Hide or show Page titles on any <i>created</i> pages. "
+msgstr "Vis eller skjul Sidetitler på alle <i>oprettede</i> sider."
+
+#: admin/settings.php:1360
+#@ mantra
+msgid "Hide or show Page titles on <i>Category</i> Pages. "
+msgstr "Vis eller skjul sidetitler på <i>kategori</i> sider."
+
+#: admin/settings.php:1375
+#@ mantra
+msgid "Hide table borders and background color."
+msgstr "Skjul tabelkanter og baggrundsfarve."
+
+#: admin/settings.php:1390
+#@ mantra
+msgid "Hide the explanatory text under the comments form. (starts with  <i>You may use these HTML tags and attributes:...</i>)."
+msgstr "Skjul forklaringsteksten under kommentarboksen. (Den der starter med <i>Du må benytte disse HTML......</i>."
+
+#: admin/settings.php:1397
+#@ mantra
+msgid "Hide in posts"
+msgstr "Skjul i indlæg"
+
+#: admin/settings.php:1397
+#@ mantra
+msgid "Hide in pages"
+msgstr "Skjul på sider"
+
+#: admin/settings.php:1397
+#@ mantra
+msgid "Hide everywhere"
+msgstr "Skjul overalt"
+
+#: admin/settings.php:1405
+#@ mantra
+msgid "Hide the  <b>Comments are closed</b> text that by default shows up on pages or posts with the comments disabled."
+msgstr "Skjul <b>Lukket for kommentarer</b> teksten der vises på sider eller ved indlæg hvor kommentarer er deaktivéret."
+
+#: admin/settings.php:1421
+#@ mantra
+msgid "Hide the <b>Comments off</b> text next to posts that have comments disabled."
+msgstr "Skjul <b>Lukket for kommentarer</b> teksten ved indlæg hvor kommentarer er deaktivéret."
+
+#: admin/settings.php:1437
+#@ mantra
+msgid "Enable the Back to Top button. The button appears after scrolling the page down."
+msgstr "Aktivér Tilbage til top knappen. Knappen vises efter der er scrollet ned på siden."
+
+#: admin/settings.php:1444
+#@ mantra
+msgid "Insert custom text or HTML code that will appear last in you footer. <br /> You can use HTML to insert links, images and special characters like &copy ."
+msgstr "Indsæt brugerdefineret tekst eller HTML til brug i din footer. <br /> Du kan bruge HTML til at indsætte links, billeder og specialkarakterer som eksempelvis &copy."
+
+#: admin/settings.php:1464
+#@ mantra
+msgid "Hide or show the <strong>Leave a comment</strong> or <strong>x Comments</strong> next to posts or post excerpts."
+msgstr "Skjul eller vis <strong>Kommentér</strong> elle <strong>kommentarer</strong> ved indlæg eller uddrag."
+
+#: admin/settings.php:1479
+#@ mantra
+msgid "Hide or show the post date."
+msgstr "Skjul eller vis dato for indlæg."
+
+#: admin/settings.php:1494
+#@ mantra
+msgid "Show the post time with the date. Time will not be visible if the Post Date is hidden."
+msgstr "Vis tidspunktet sammen med datoen. Tidspunktet vil ikke være synligt, hvis indlægsdatoen er skjult."
+
+#: admin/settings.php:1509
+#@ mantra
+msgid "Hide or show the post author."
+msgstr "Skjul eller vis forfatter til indlæg."
+
+#: admin/settings.php:1524
+#@ mantra
+msgid "Hide the post category."
+msgstr "Skjul indlægskategori."
+
+#: admin/settings.php:1539
+#@ mantra
+msgid "Hide the post tags."
+msgstr "Skjul indlægs tags."
+
+#: admin/settings.php:1554
+#@ mantra
+msgid "Hide the 'Bookmark permalink'."
+msgstr "Skjul 'Føj permalink til favoritter'."
+
+#: admin/settings.php:1569
+#@ mantra
+msgid "Hide all the post metas. All meta info and meta areas will be hidden."
+msgstr "Skjul alle indlæg metas. Alt meta information og meta områder vil være skjult."
+
+#: admin/settings.php:1582
+#: admin/settings.php:1597
+#: admin/settings.php:1613
+#@ mantra
+msgid "Excerpt"
+msgstr "Uddrag"
+
+#: admin/settings.php:1582
+#: admin/settings.php:1597
+#: admin/settings.php:1613
+#@ mantra
+msgid "Full Post"
+msgstr "Komplet indlæg"
+
+#: admin/settings.php:1590
+#@ mantra
+msgid "Excerpts on the main page. Only standard posts will be affected. All other post formats (aside, image, chat, quote etc.) have their specific formating."
+msgstr "Uddrag på forsiden. Kun standard indlægssider vil blive påvirket. Alle andre sideformater (aside, billede, chat o.s.v.) benytter deres egne indstillinger."
+
+#: admin/settings.php:1605
+#@ mantra
+msgid "Choose if you want the sticky posts on your home page to be visible in full or just the excerpts. "
+msgstr "Vælg om du ønsker sticky indlæg på din forside kan ses i fuld længde eller blot uddrag. "
+
+#: admin/settings.php:1621
+#@ mantra
+msgid "Excerpts on archive, categroy and search pages. Same as above, only standard posts will be affected."
+msgstr "Uddrag på arkiv, kategori og søge sider. Samme som ovenfor, kun standard indlæg vil blive berørt."
+
+#: admin/settings.php:1629
+#@ mantra
+msgid ""
+"The number of words an excerpt will have. When that number is reached the post will be interrupted by a <i>Continue reading</i> link that\n"
+"\t\t\t\t\t\t\twill take the reader to the full post page."
+msgstr "Antallet af ord der bruges i uddrag. Når dette antal er nået vil indlægget blive afbrudt med et <i>Læs mere</i> link som \\\t\\\t\\\t\\\t\\\t\\\t\\\tvil tage læseren til det fulde indlæg."
+
+#: admin/settings.php:1645
+#@ mantra
+msgid "Enable the Magazine Layout. This layout applies to pages with posts and shows 2 posts per row."
+msgstr "Aktivér Magazine Layout. Dette layout gælder sider med indlæg og viser 2 indlæg pr. række."
+
+#: admin/settings.php:1652
+#@ mantra
+msgid "Replaces the three dots ('[...])' that are appended automatically to excerpts."
+msgstr "Erstatter de tre prikker ('[...])', der automatisk føjes til uddrag."
+
+#: admin/settings.php:1659
+#@ mantra
+msgid "Edit the 'Continue Reading' link added to your post excerpts."
+msgstr "Redigér hyperlinket 'Læs mere' der tilføjes til dine uddrag."
+
+#: admin/settings.php:1705
+#@ mantra
+msgid "Show featured images as thumbnails on posts. The images must be selected for each post in the Featured Image section."
+msgstr "Vis fremhævede billeder som thumbnails ved indlæg. Billederne skal vælges for hvert indlæg i indstillingerne for fremhævede billeder."
+
+#: admin/settings.php:1720
+#@ mantra
+msgid "Show the first image that you inserted in a post as a thumbnail. If you enable this option, the first image in your post will be used even if you selected a Featured Image in you post."
+msgstr "Vis det første billede du indsætter i dine indlæg som thumbnail. Hvis du vælger denne indstilling vil det 1. billede du indsætter i dit indlæg blive benyttet, selvom du vælger fremhvævet billede i dine indlæg."
+
+#: admin/settings.php:1736
+#@ mantra
+msgid "Thumbnail alignment."
+msgstr "Thumbnail justering."
+
+#: admin/settings.php:1753
+#@ mantra
+msgid "The size you want the thumbnails to have (in pixels). By default imges will be scaled with aspect ratio kept. Choose to crop the images if you want the exact size."
+msgstr "Størrelsen på thumbnails (i pixel). Som standard vil billederne blive skaleret ned med format forhold bevaret. Du kan vælge at beskære billederne, hvis du ønsker den eksakte størrelse."
+
+#: admin/settings.php:1769
+#@ mantra
+msgid ""
+"Show featured images on headers. The header will be replaced with a featured image if you selected it as a Featured Image in the post and\n"
+"\t\t\t\t\t\t\tand if it is bigger or at least equal to the current header size."
+msgstr ""
+"Vis fremhævede billeder som headers. Headeren vil blive erstattet med et fremhævet billede, hvis du har valgt det som fremhævet billede i dit indlæg \n"
+"\\\t\\\t\\\t\\\t\\\t\\\t\\\tog hvis det er større eller mindst samme størrelse, som den eksisterende header."
+
+#: admin/settings.php:1790
+#@ mantra
+msgid "Select your desired Social network from the left dropdown menu and insert your corresponding address in the right input field. (ex: <i>http://www.facebook.com/yourname</i> )"
+msgstr "Vælg dit ønskede sociale netværk fra venstre dropdown menu og indsæt din adresse i feltet til højre. (ex: <i>http://www.facebook.com/ditnavn</i> )"
+
+#: admin/settings.php:1804
+#@ mantra
+msgid "You can insert up to 5 different social sites and addresses."
+msgstr "Du kan indsætte op til 5 forskellige sociale medier og adresser"
+
+#: admin/settings.php:1818
+#@ mantra
+msgid "There are a total of 27 social networks to choose from. "
+msgstr "Der er i alt 27 sociale netværk at vælge fra."
+
+#: admin/settings.php:1832
+#@ mantra
+msgid "You can leave any number of inputs empty. "
+msgstr "Du kan efterlade alle felter tomme."
+
+#: admin/settings.php:1846
+#@ mantra
+msgid "You can choose the same social media any number of times.  "
+msgstr "Du kan vælge det samme sociale medier et valgfrit antal gange."
+
+#: admin/settings.php:1877
+#@ mantra
+msgid "Choose the <b>areas</b> where to display the social icons."
+msgstr "Vælg de <b>områder</b> hvor du vil vise de sociale ikoner."
+
+#: admin/settings.php:1898
+#@ mantra
+msgid "Make the site header into a clickable link that links to your index page."
+msgstr "Lav din header til et link der linker til din forside."
+
+#: admin/settings.php:1913
+#@ mantra
+msgid "Show breadcrumbs at the top of the content area. Breadcrumbs are a form of navigation that keeps track of your location withtin the site."
+msgstr "Vis breadcrumbs i toppen af indholdsområdet. Breadcrumbs er en form for navigation der viser hvor på hjemmesiden du befinder dig."
+
+#: admin/settings.php:1928
+#@ mantra
+msgid "Show numbered pagination. Where there is more than one page, instead of the bottom <b>Older Posts</b> and <b>Newer posts</b> links you have a numbered pagination. "
+msgstr "Vis nummereret sideinddeling. Hvis der er mere end én side vil <b>Ældre indlæg</b> og <b>Nyere indlæg</b> have nummereret inddeling."
+
+#: admin/settings.php:1943
+#@ mantra
+msgid "Enable the mobile view and make Mantra responsive. The layout and look of your blog will change depending on what device and what resolution it is viewed in. "
+msgstr "Aktivér mobile view og  Mantra vil skifte udseende alt efter, hvilken enhed og skærmopløsning der besøger din hjemmeside. "
+
+#: admin/settings.php:1953
+#@ mantra
+msgid "Upload or select favicon from gallery"
+msgstr "Upload eller vælg favikon fra billedegalleriet"
+
+#: admin/settings.php:1957
+#@ mantra
+msgid "Limitations: It has to be an image. It should be max 64x64 pixels in dimensions. Recommended file extensions .ico and .png . "
+msgstr "Begrænsninger: Det skal være et billede. Det må maks være 64x64 pixel. Anbefalede filtyper er .ico og .png."
+
+#: admin/settings.php:1965
+#@ mantra
+msgid "Insert your custom CSS here. Any CSS declarations made here will overwrite Mantra's (even the custom options specified right here in the Mantra Settings page). <br /> Your custom CSS will be preserved when updating the theme."
+msgstr "Indsæt din brugerdefinerede CSS her. Enhver CSS indstilling der indtastes her vil overskrive Mantra (selv de brugerdefinerede indstillinger angivet på siden Indstillinger for Mantra).<br>Din brugerdefinerede CSS bevares, når du opdaterer tema."
+
+#: admin/settings.php:1972
+#@ mantra
+msgid "Insert your custom Javascript code here. (Google Analytics and any other forms of Analytic software)."
+msgstr "Indsæt brugerdefineret javascript kode her. (Google Analytics eller anden form for sporingskode)."
+
+#: admin/settings.php:1985
+#@ mantra
+msgid "Enable Mantra's Search Engine Optimization. This is enabled by default and should only be disabled if you are using a SEO plugin."
+msgstr "Aktivér Mantra's Søgemaskineoptimering (SEO). Dette er som standard aktiveret og bør kun deaktiveres, hvis du bruger et SEO-plugin."
+
+#: admin/settings.php:1997
+#@ mantra
+msgid "Auto"
+msgstr "Auto"
+
+#: admin/settings.php:1997
+#@ mantra
+msgid "Manual"
+msgstr "Manuel"
+
+#: archive.php:25
+#, php-format
+#@ mantra
+msgid "Daily Archives: %s"
+msgstr "Daglige arkiver: %s"
+
+#: archive.php:27
+#, php-format
+#@ mantra
+msgid "Monthly Archives: %s"
+msgstr "Månedlige arkiver: %s"
+
+#: archive.php:27
+#@ mantra
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:29
+#, php-format
+#@ mantra
+msgid "Yearly Archives: %s"
+msgstr "Årlige arkiver: %s"
+
+#: archive.php:29
+#@ mantra
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:31
+#@ mantra
+msgid "Blog Archives"
+msgstr "Blog arkiver"
+
+#: archive.php:57
+#: author.php:74
+#: category.php:50
+#: index.php:40
+#: search.php:40
+#: tag.php:51
+#: template-blog.php:36
+#@ mantra
+msgid "Nothing Found"
+msgstr "Intet fundet"
+
+#: archive.php:61
+#: author.php:78
+#: category.php:54
+#: index.php:44
+#: tag.php:55
+#: template-blog.php:40
+#@ mantra
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Beklager, men der blev ikke fundet noget i arkivet. Måske en søgning vil hjælpe."
+
+#: attachment.php:18
+#, php-format
+#@ mantra
+msgid "Return to %s"
+msgstr "Tilbage til %s"
+
+#. translators: %s - title of parent post
+#: attachment.php:29
+#@ mantra
+msgid "By"
+msgstr "af"
+
+#: attachment.php:33
+#: includes/theme-loop.php:146
+#, php-format
+#@ mantra
+msgid "View all posts by %s"
+msgstr "Se alle indlæg af %s"
+
+#: attachment.php:40
+#@ mantra
+msgid "Published"
+msgstr "Udgivet"
+
+#: attachment.php:50
+#, php-format
+#@ mantra
+msgid "Full size is %s pixels"
+msgstr "Fuld størrelse er %s pixel"
+
+#: attachment.php:53
+#@ mantra
+msgid "Link to full-size image"
+msgstr "Link til billedet i fuld størrelse"
+
+#: attachment.php:60
+#: attachment.php:107
+#: content-aside.php:48
+#: content-chat.php:49
+#: content-gallery.php:65
+#: content-image.php:42
+#: content-link.php:49
+#: content-page.php:22
+#: content.php:77
+#: content-quote.php:46
+#: content-status.php:48
+#: single.php:53
+#: template-onecolumn.php:27
+#@ mantra
+msgid "Edit"
+msgstr "Redigér"
+
+#: attachment.php:100
+#@ mantra
+msgid "Continue reading"
+msgstr "Læs mere"
+
+#: attachment.php:101
+#: content-aside.php:39
+#: content-chat.php:38
+#: content-gallery.php:55
+#: content-image.php:33
+#: content-link.php:38
+#: content-page.php:21
+#: content.php:49
+#: content.php:66
+#: content-quote.php:36
+#: content-status.php:39
+#: single.php:31
+#: template-onecolumn.php:26
+#@ mantra
+msgid "Pages:"
+msgstr "Sider:"
+
+#: author.php:28
+#, php-format
+#@ mantra
+msgid "Author Archives: %s"
+msgstr "Forfatter arkiver: %s"
+
+#: author.php:49
+#: single.php:40
+#, php-format
+#@ mantra
+msgid "About %s"
+msgstr "Om %s"
+
+#: category.php:19
+#, php-format
+#@ mantra
+msgid "Category Archives: %s"
+msgstr "Kategori arkiver: %s"
+
+#: comments.php:18
+#@ mantra
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Dette indlæg er beskyttet af kodeord. Indtast kodeordet for at se kommentarer."
+
+#: content-aside.php:16
+#: content-chat.php:16
+#: content-gallery.php:16
+#: content-gallery.php:49
+#: content-image.php:15
+#: content-link.php:16
+#: content.php:20
+#: content-quote.php:14
+#: content-status.php:15
+#, php-format
+#@ mantra
+msgid "Permalink to %s"
+msgstr "Permalink til %s"
+
+#: content-aside.php:20
+#@ mantra
+msgid "Aside"
+msgstr "Aside"
+
+#: content-aside.php:38
+#: content-chat.php:37
+#: content-gallery.php:33
+#: content-image.php:32
+#: content-link.php:37
+#: content-quote.php:35
+#: content-status.php:38
+#@ mantra
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Læs mere <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:46
+#: content-chat.php:45
+#: content-gallery.php:62
+#: content-image.php:39
+#: content-link.php:45
+#: content.php:75
+#: content-quote.php:43
+#: content-status.php:46
+#: includes/theme-loop.php:172
+#@ mantra
+msgid "Tagged"
+msgstr "Tagget"
+
+#: content-chat.php:20
+#@ mantra
+msgid "Chat"
+msgstr "Chat"
+
+#: content-gallery.php:20
+#@ mantra
+msgid "Gallery"
+msgstr "Galleri"
+
+#: content-gallery.php:48
+#, php-format
+#@ mantra
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "Dette galleri indeholder <a %1$s>%2$s billede</a>."
+msgstr[1] "Dette galleri indeholder <a %1$s>%2$s billeder</a>."
+
+#: content-page.php:27
+#: includes/theme-comments.php:136
+#@ mantra
+msgid "Comments are closed."
+msgstr "Lukket for kommentarer."
+
+#: content-quote.php:18
+#@ mantra
+msgid "Quote"
+msgstr "Citér"
+
+#: content-status.php:30
+#@ mantra
+msgid "Status"
+msgstr "Status"
+
+#: includes/theme-comments.php:28
+#@ mantra
+msgid "says:"
+msgstr "siger:"
+
+#: includes/theme-comments.php:34
+#@ mantra
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar afventer godkendelse."
+
+#. translators: 1: date, 2: time
+#: includes/theme-comments.php:41
+#@ mantra
+msgid "at"
+msgstr "d."
+
+#: includes/theme-comments.php:41
+#: includes/theme-comments.php:58
+#@ mantra
+msgid "(Edit)"
+msgstr "(Redigér)"
+
+#: includes/theme-comments.php:58
+#@ mantra
+msgid "Pingback: "
+msgstr "Pingback:"
+
+#: includes/theme-comments.php:85
+#@ mantra
+msgid "Leave a comment"
+msgstr "Kommentér"
+
+#: includes/theme-comments.php:85
+#@ mantra
+msgid "<b>1</b> Comment"
+msgstr "<b>1</b> Kommentar"
+
+#: includes/theme-comments.php:85
+#@ mantra
+msgid "<b>%</b> Comments"
+msgstr "<b>%</b> Kommentarer"
+
+#: includes/theme-comments.php:94
+#, php-format
+#@ mantra
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] "En kommentar til %2$ s"
+msgstr[1] "%1$s Kommentarer til %2$s"
+
+#: includes/theme-comments.php:107
+#@ mantra
+msgid "Older Comments"
+msgstr "Ældre kommentarer"
+
+#: includes/theme-comments.php:108
+#@ mantra
+msgid "Newer Comments"
+msgstr "Nyere kommentarer"
+
+#: includes/theme-functions.php:233
+#@ mantra
+msgid "Home Page"
+msgstr "Forside"
+
+#: includes/theme-functions.php:301
+#@ mantra
+msgid "Semantic Personal Publishing Platform"
+msgstr "Semantic Personal Publishing Platform"
+
+#: includes/theme-loop.php:144
+#@ mantra
+msgid "By "
+msgstr "af"
+
+#: includes/theme-loop.php:172
+#@ mantra
+msgid " Bookmark the "
+msgstr "Bogmærk"
+
+#: includes/theme-loop.php:172
+#: includes/theme-loop.php:174
+#: includes/theme-loop.php:176
+#@ mantra
+msgid "Permalink to"
+msgstr "Permalink til"
+
+#: includes/theme-loop.php:172
+#: includes/theme-loop.php:174
+#: includes/theme-loop.php:176
+#@ mantra
+msgid "permalink"
+msgstr "permalink"
+
+#: includes/theme-loop.php:174
+#: includes/theme-loop.php:176
+#@ mantra
+msgid "Bookmark the "
+msgstr "Bogmærk"
+
+#: includes/theme-loop.php:198
+#@ mantra
+msgid "<span class=\"meta-nav\">&laquo;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&laquo;</span> Ældre indlæg"
+
+#: includes/theme-loop.php:199
+#@ mantra
+msgid "Newer posts <span class=\"meta-nav\">&raquo;</span>"
+msgstr "Nyere indlæg <span class=\"meta-nav\">&raquo;</span>"
+
+#: includes/theme-seo.php:26
+#, php-format
+#@ mantra
+msgid "Page %s"
+msgstr "Side %s"
+
+#: includes/theme-setup.php:90
+#@ mantra
+msgid "Primary Navigation"
+msgstr "Hovedmenu"
+
+#: includes/theme-setup.php:91
+#@ mantra
+msgid "Top Navigation"
+msgstr "Top menu"
+
+#: includes/theme-setup.php:92
+#@ mantra
+msgid "Footer Navigation"
+msgstr "Footer menu"
+
+#: includes/theme-setup.php:136
+#@ mantra
+msgid "mantra"
+msgstr "mantra"
+
+#: includes/theme-setup.php:197
+#@ mantra
+msgid "Skip to content"
+msgstr "Hop til indhold"
+
+#: includes/theme-setup.php:224
+#@ mantra
+msgid "Primary Widget Area - Sidebar 1"
+msgstr "Primary Widget Area - Sidebar 1"
+
+#: includes/theme-setup.php:226
+#@ mantra
+msgid "Primary widget area - Sidebar 1"
+msgstr "Primary widget area - Sidebar 1"
+
+#: includes/theme-setup.php:235
+#@ mantra
+msgid "Secondary Widget Area - Sidebar 1"
+msgstr "Secondary Widget Area - Sidebar 1"
+
+#: includes/theme-setup.php:237
+#@ mantra
+msgid "Secondary widget area - Sidebar 1"
+msgstr "Secondary widget area - Sidebar 1"
+
+#: includes/theme-setup.php:246
+#@ mantra
+msgid "Third Widget Area - Sidebar 2"
+msgstr "Third Widget Area - Sidebar 2"
+
+#: includes/theme-setup.php:248
+#@ mantra
+msgid "Third widget area - Sidebar 2"
+msgstr "Third widget area - Sidebar 2"
+
+#: includes/theme-setup.php:257
+#@ mantra
+msgid "Fourth Widget Area - Sidebar 2"
+msgstr "Fourth Widget Area - Sidebar 2"
+
+#: includes/theme-setup.php:259
+#@ mantra
+msgid "Fourth widget area  - Sidebar 2"
+msgstr "Fourth widget area  - Sidebar 2"
+
+#: includes/theme-setup.php:268
+#@ mantra
+msgid "First Footer Widget Area"
+msgstr "First Footer Widget Area"
+
+#: includes/theme-setup.php:270
+#@ mantra
+msgid "First footer widget area"
+msgstr "First footer widget area"
+
+#: includes/theme-setup.php:279
+#@ mantra
+msgid "Second Footer Widget Area"
+msgstr "Second Footer Widget Area"
+
+#: includes/theme-setup.php:281
+#@ mantra
+msgid "Second footer widget area"
+msgstr "Second footer widget area"
+
+#: includes/theme-setup.php:290
+#@ mantra
+msgid "Third Footer Widget Area"
+msgstr "Third Footer Widget Area"
+
+#: includes/theme-setup.php:292
+#@ mantra
+msgid "The third footer widget area"
+msgstr "The third footer widget area"
+
+#: includes/theme-setup.php:301
+#@ mantra
+msgid "Fourth Footer Widget Area"
+msgstr "Fourth Footer Widget Area"
+
+#: includes/theme-setup.php:303
+#@ mantra
+msgid "The fourth footer widget area"
+msgstr "The fourth footer widget area"
+
+#: search.php:19
+#, php-format
+#@ mantra
+msgid "Search Results for: %s"
+msgstr "Søgeresultater for: %s"
+
+#: search.php:38
+#, php-format
+#@ mantra
+msgid "No search results for: %s"
+msgstr "Ingen søgeresultater for: %s"
+
+#: single.php:44
+#@ mantra
+msgid "View all posts by "
+msgstr "Se alle indlæg af "
+
+#: tag.php:20
+#, php-format
+#@ mantra
+msgid "Tag Archives: %s"
+msgstr "Tag arkiver: %s"
+

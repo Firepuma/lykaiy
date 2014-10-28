@@ -1,0 +1,2088 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mantra 197\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-30 17:12+0200\n"
+"PO-Revision-Date: 2013-06-14 15:07+0900\n"
+"Last-Translator: Yoshiki Osako <yosako.brainpro@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\Users\\medicated\\Desktop\\mantra\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Not Found"
+msgstr "見つかりません"
+
+#: 404.php:19
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr "お探しのページは見つかりませんでした。"
+
+#: archive.php:25
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "日別アーカイブ： %s"
+
+#: archive.php:27
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "月別アーカイブ： %s"
+
+#: archive.php:29
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "年別アーカイブ： %s"
+
+#: archive.php:31
+msgid "Blog Archives"
+msgstr "ブログアーカイブ"
+
+#: archive.php:57 author.php:74 category.php:50
+msgid "Nothing Found"
+msgstr "何も見つかりません"
+
+#: archive.php:61 author.php:78 category.php:54
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr "お探しのページは見つかりませんでした。"
+
+#: attachment.php:18
+#, php-format
+msgid "Return to %s"
+msgstr "%s へ戻る"
+
+#: attachment.php:29
+msgid "By"
+msgstr "By"
+
+#: attachment.php:40
+msgid "Published"
+msgstr "発行"
+
+#: attachment.php:50
+#, php-format
+msgid "Full size is %s pixels"
+msgstr "フルサイズ %s ピクセル"
+
+#: attachment.php:53
+msgid "Link to full-size image"
+msgstr "フルサイズイメージへリンク"
+
+#: attachment.php:60 attachment.php:107 content-aside.php:48
+#: content-chat.php:49 content-gallery.php:65 content-image.php:42
+#: content-link.php:49 content-page.php:22 content-quote.php:46
+#: content-status.php:48 content.php:77
+msgid "Edit"
+msgstr "編集"
+
+#: attachment.php:100
+msgid "Continue reading"
+msgstr "続きを読む"
+
+#: attachment.php:101 content-aside.php:39 content-chat.php:38
+#: content-gallery.php:55 content-image.php:33 content-link.php:38
+#: content-page.php:21 content-quote.php:36 content-status.php:39
+#: content.php:49 content.php:66
+msgid "Pages:"
+msgstr "ページ:"
+
+#: author.php:28
+#, php-format
+msgid "Author Archives: %s"
+msgstr "著者アーカイブ: %s"
+
+#: author.php:49
+#, php-format
+msgid "About %s"
+msgstr "%s について"
+
+#: category.php:19
+#, php-format
+msgid "Category Archives: %s"
+msgstr "カテゴリアーカイブ: %s"
+
+#: comments.php:18
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"この投稿はパスワードで保護されています。コメントを表示するにはパスワードを入"
+"力してください。"
+
+#: content-aside.php:20
+msgid "Aside"
+msgstr "わき"
+
+#: content-aside.php:38 content-chat.php:37 content-gallery.php:33
+#: content-image.php:32 content-link.php:37 content-quote.php:35
+#: content-status.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:46 content-chat.php:45 content-gallery.php:62
+#: content-image.php:39 content-link.php:45 content-quote.php:43
+#: content-status.php:46 content.php:75
+msgid "Tagged"
+msgstr "タグ付けされた"
+
+#: content-chat.php:20
+msgid "Chat"
+msgstr "チャット"
+
+#: content-gallery.php:20
+msgid "Gallery"
+msgstr "ギャラリー"
+
+#: content-image.php:19
+msgid "Image"
+msgstr "画像"
+
+#: content-link.php:20
+msgid "Link"
+msgstr "リンク"
+
+#: content-page.php:27
+msgid "Comments are closed."
+msgstr "コメントは停止中です。"
+
+#: content-quote.php:18
+msgid "Quote"
+msgstr "引用"
+
+#: content-status.php:30
+msgid "Status"
+msgstr "ステータス"
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr "%s の検索結果"
+
+#: search.php:38
+#, php-format
+msgid "No search results for: %s"
+msgstr "%s の検索結果がありません"
+
+#: searchform.php:1
+msgid "Search"
+msgstr "検索"
+
+#: single.php:44
+msgid "View all posts by "
+msgstr "すべての投稿を見る"
+
+#: tag.php:20
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "タグアーカイブ: %s"
+
+#: admin/admin-functions.php:62
+msgid ""
+"Before you can upload your import file, you will need to fix the following "
+"error:"
+msgstr ""
+"インポートファイルをアップロードする前に、以下のエラーを修正してください。"
+
+#: admin/admin-functions.php:70
+msgid "Import Mantra Theme Options"
+msgstr "Mantra テーマオプションをインポート"
+
+#: admin/admin-functions.php:72
+msgid ""
+"Hi! This is where you import the  Mantra settings.<i> Please remember that "
+"this is still an experimental feature.</i>"
+msgstr ""
+"Mantra設定をインポートする場所です。<i> これはまだ試験中の機能です。</i>"
+
+#: admin/admin-functions.php:74
+msgid "Just choose a file from your computer:"
+msgstr "コンピュータからファイルを選択してください。"
+
+#: admin/admin-functions.php:76
+#, php-format
+msgid "Maximum size: %s"
+msgstr "最大サイズ: %s"
+
+#: admin/admin-functions.php:82
+msgid "And import!"
+msgstr "そしてインポート！"
+
+#: admin/admin-functions.php:148
+msgid "Import Mantra Theme Options "
+msgstr "Mantra テーマオプションをインポート"
+
+#: admin/admin-functions.php:151
+msgid "Great! The options have been imported!"
+msgstr "オプションはインポートされました!"
+
+#: admin/admin-functions.php:152
+msgid "Go back to the Mantra options page and check them out!"
+msgstr "Mantra オプションページへ戻り、それらをチェックしてください!"
+
+#: admin/admin-functions.php:155 admin/admin-functions.php:161
+#: admin/admin-functions.php:167
+msgid "Oops, there's a small problem."
+msgstr "小さな問題が見つかりました。"
+
+#: admin/admin-functions.php:156
+msgid ""
+"The uploaded file does not contain valid Mantra options. Make sure the file "
+"is exported from the Mantra Options page."
+msgstr ""
+"アップロードされたファイルは、正当な Mantra オプションを含んでいません。"
+"Mantra オプションページからファイルがエクスポートされたことを確認してくださ"
+"い。"
+
+#: admin/admin-functions.php:162
+msgid "The uploaded file could not be read."
+msgstr "アップロードされたファイルは読み込めません。"
+
+#: admin/admin-functions.php:168
+msgid ""
+"The uploaded file is not supported. Make sure the file was exported from the "
+"Mantra page and that it is a text file."
+msgstr ""
+"アップロードされたファイルはサポートされていません。Mantra ページからテキスト"
+"ファイルとしてエクスポートされたことを確認してください。"
+
+#: admin/admin-functions.php:177
+msgid ""
+"Oops! The file is empty or there was no file. This error could also be "
+"caused by uploads being disabled in your php.ini or by post_max_size being "
+"defined as smaller than upload_max_filesize in php.ini."
+msgstr ""
+"ファイルが空か、ファイルがありません。このエラーは、php.ini の設定で、アップ"
+"ロードが有効になっていないか、post_max_size の値が upload_max_filesize の値よ"
+"りも小さいことが原因かもしれません。"
+
+#: admin/admin-functions.php:183
+msgid "ERROR: You are not authorised to perform that operation"
+msgstr "ERROR: この機能を使用する権限がありません。"
+
+#: admin/main.php:93
+msgid "Layout Settings"
+msgstr "レイアウト設定"
+
+#: admin/main.php:94
+msgid "Presentation Page"
+msgstr "プレゼンテーションページ"
+
+#: admin/main.php:95
+msgid "Text Settings"
+msgstr "テキスト設定"
+
+#: admin/main.php:96
+msgid "Color Settings"
+msgstr "カラー設定"
+
+#: admin/main.php:97
+msgid "Graphics Settings"
+msgstr "グラフィックス設定"
+
+#: admin/main.php:98
+msgid "Post Information Settings"
+msgstr "投稿情報設定"
+
+#: admin/main.php:99
+msgid "Post Excerpt Settings"
+msgstr "投稿抜粋設定"
+
+#: admin/main.php:100
+msgid "Featured Image Settings"
+msgstr "お気に入り画像設定"
+
+#: admin/main.php:101
+msgid "Social Media Settings"
+msgstr "ソーシャルメディア設定"
+
+#: admin/main.php:102
+msgid "Miscellaneous Settings"
+msgstr "その他設定"
+
+#: admin/main.php:104
+msgid "Main Layout"
+msgstr "メインレイアウト"
+
+#: admin/main.php:105
+msgid "Content / Sidebar Width"
+msgstr "コンテンツ / サイドバーの幅"
+
+#: admin/main.php:106
+msgid "Header Image Height"
+msgstr "ヘッダー画像の高さ"
+
+#: admin/main.php:108
+msgid "Enable Presentation Page"
+msgstr "プレゼンテーションページの有効化"
+
+#: admin/main.php:109
+msgid "Slider Settings"
+msgstr "スライダー設定"
+
+#: admin/main.php:110
+msgid "Slides"
+msgstr "スライド"
+
+#: admin/main.php:111
+msgid "Presentation Page Columns"
+msgstr "プレゼンテーションページコラム"
+
+#: admin/main.php:112
+msgid "Extras"
+msgstr "エキストラ"
+
+#: admin/main.php:114
+msgid "General Font"
+msgstr "一般フォント"
+
+#: admin/main.php:115
+msgid "General Font Size"
+msgstr "一般フォントサイズ"
+
+#: admin/main.php:116
+msgid "Post Title Font "
+msgstr "投稿タイトルフォント"
+
+#: admin/main.php:117
+msgid "Post Title Font Size"
+msgstr "投稿タイトルフォントサイズ"
+
+#: admin/main.php:118
+msgid "Sidebar Font"
+msgstr "サイドバーフォント"
+
+#: admin/main.php:119
+msgid "SideBar Font Size"
+msgstr "サイドバーフォントサイズ"
+
+#: admin/main.php:120
+msgid "Sub-Headers Font"
+msgstr "サブヘッダフォント"
+
+#: admin/main.php:121
+msgid "Force Text Align"
+msgstr "強調テキスト整列"
+
+#: admin/main.php:122
+msgid "Paragraph indent"
+msgstr "段落インデント"
+
+#: admin/main.php:123
+msgid "Header indent"
+msgstr "ヘッダインデント"
+
+#: admin/main.php:124
+msgid "Line Height"
+msgstr "ラインの高さ"
+
+#: admin/main.php:125
+msgid "Word spacing"
+msgstr "単語間の幅"
+
+#: admin/main.php:126
+msgid "Letter spacing"
+msgstr "文字間の幅"
+
+#: admin/main.php:127
+msgid "Text shadow"
+msgstr "テキストシャドウ"
+
+#: admin/main.php:129
+msgid "Background Color"
+msgstr "背景色"
+
+#: admin/main.php:130
+msgid "Header (Banner and Menu) Background Color"
+msgstr "ヘッダ（バナー、メニュー）の背景色"
+
+#: admin/main.php:131
+msgid "Content Background Color"
+msgstr "コンテンツの背景色"
+
+#: admin/main.php:132
+msgid "Menu Background Color"
+msgstr "メニューの背景色"
+
+#: admin/main.php:133
+msgid "First Sidebar Background Color"
+msgstr "1st サイドバーの背景色"
+
+#: admin/main.php:134
+msgid "Second Sidebar Background Color"
+msgstr "2nd サイドバーの背景色"
+
+#: admin/main.php:136
+msgid "Site Title Color"
+msgstr "サイトタイトルカラー"
+
+#: admin/main.php:137
+msgid "Site Description Color"
+msgstr "サイトディスクリプションカラー"
+
+#: admin/main.php:139
+msgid "Content Text Color"
+msgstr "コンテンツテキストカラー"
+
+#: admin/main.php:140
+msgid "Links Color"
+msgstr "リンクカラー"
+
+#: admin/main.php:141
+msgid "Links Hover Color"
+msgstr "リンクホバーカラー"
+
+#: admin/main.php:142
+msgid "Post Title Color"
+msgstr "投稿タイトルカラー"
+
+#: admin/main.php:143
+msgid "Post Title Hover Color"
+msgstr "投稿タイトルホバーカラー"
+
+#: admin/main.php:144
+msgid "Sidebar Header Background Color"
+msgstr "サイドバーヘッダ背景色"
+
+#: admin/main.php:145
+msgid "Sidebar Header Text Color"
+msgstr "サイドバーヘッダテキストカラー"
+
+#: admin/main.php:146
+msgid "Footer Widget Background Color"
+msgstr "フッタウィジェット背景色"
+
+#: admin/main.php:147
+msgid "Footer Background Color"
+msgstr "フッタ背景色"
+
+#: admin/main.php:148
+msgid "Footer Widget Header Text Color"
+msgstr "フッタウィジェットヘッダテキストカラー"
+
+#: admin/main.php:149
+msgid "Footer Widget Link Color"
+msgstr "フッタウィジェットリンクカラー"
+
+#: admin/main.php:150
+msgid "Footer Widget Hover Color"
+msgstr "フッタウィジェットホバーカラー"
+
+#: admin/main.php:152
+msgid "Caption Border"
+msgstr "キャプションボーダー"
+
+#: admin/main.php:153
+msgid "Post Images Border"
+msgstr "投稿画像ボーダー"
+
+#: admin/main.php:154
+msgid "Caption Pin"
+msgstr "キャプションピン"
+
+#: admin/main.php:155
+msgid "Sidebar Menu Bullets"
+msgstr "サイドメニューブレット"
+
+#: admin/main.php:156
+msgid "Meta Area Background"
+msgstr "メタエリア背景"
+
+#: admin/main.php:157
+msgid "Post Separator"
+msgstr "投稿セパレータ"
+
+#: admin/main.php:158
+msgid "Content List Bullets"
+msgstr "コンテンツリストブレット"
+
+#: admin/main.php:159
+msgid "Title and Description"
+msgstr "タイトルと説明"
+
+#: admin/main.php:160
+msgid "Page Titles"
+msgstr "ページタイトル"
+
+#: admin/main.php:161
+msgid "Category Page Titles"
+msgstr "カテゴリページタイトル"
+
+#: admin/main.php:162
+msgid "Hide Tables"
+msgstr "テーブルを非表示にします"
+
+#: admin/main.php:163
+msgid "Back to Top button"
+msgstr "トップへ戻るボタン"
+
+#: admin/main.php:164
+msgid "Text Under Comments"
+msgstr "コメント下のテキスト"
+
+#: admin/main.php:165
+msgid "Comments are closed text"
+msgstr "コメント停止中テキスト"
+
+#: admin/main.php:166
+msgid "Comments off"
+msgstr "コメントオフ"
+
+#: admin/main.php:167
+msgid "Custom Footer Text"
+msgstr "カスタムフッタテキスト"
+
+#: admin/main.php:169
+msgid "Post Comments Link"
+msgstr "コメント投稿リンク"
+
+#: admin/main.php:170
+msgid "Post Date"
+msgstr "投稿日"
+
+#: admin/main.php:171
+msgid "Post Time"
+msgstr "投稿時刻"
+
+#: admin/main.php:172
+msgid "Post Author"
+msgstr "著者"
+
+#: admin/main.php:173
+msgid "Post Category"
+msgstr "投稿カテゴリ"
+
+#: admin/main.php:174
+msgid "Post Tags"
+msgstr "投稿タグ"
+
+#: admin/main.php:175
+msgid "Post Permalink"
+msgstr "投稿パーマリンク"
+
+#: admin/main.php:176
+msgid "All Post Metas"
+msgstr "すべての投稿メタ"
+
+#: admin/main.php:178
+msgid "Post Excerpts on Home Page"
+msgstr "ホームページの投稿抜粋"
+
+#: admin/main.php:179
+msgid "Affect Sticky Posts"
+msgstr "メモ投稿へ影響"
+
+#: admin/main.php:180
+msgid "Post Excerpts on Archive and Category Pages"
+msgstr "アーカイブおよびカテゴリページの投稿抜粋"
+
+#: admin/main.php:181
+msgid "Number of Words for Post Excerpts "
+msgstr "投稿抜粋の単語数"
+
+#: admin/main.php:182
+msgid "Magazine Layout"
+msgstr "雑誌レイアウト"
+
+#: admin/main.php:183
+msgid "Excerpt suffix"
+msgstr "抜粋の接尾辞"
+
+#: admin/main.php:184
+msgid "Continue reading link text "
+msgstr "続きを読むリンクテキスト"
+
+#: admin/main.php:185
+msgid "HTML tags in Excerpts"
+msgstr "抜粋中のHTMLタグ"
+
+#: admin/main.php:187
+msgid "Featured Images as POST Thumbnails "
+msgstr "投稿アイキャッチ画像としてのお気に入り画像"
+
+#: admin/main.php:188
+msgid "Auto Select Images From Posts "
+msgstr "投稿から自動的に画像を選択"
+
+#: admin/main.php:189
+msgid "Thumbnails Alignment "
+msgstr "アイキャッチ画像の整列"
+
+#: admin/main.php:190
+msgid "Thumbnails Size "
+msgstr "アイキャッチ画像サイズ"
+
+#: admin/main.php:191
+msgid "Featured Images as HEADER Images "
+msgstr "ヘッダイメージとしてのお気に入り画像"
+
+#: admin/main.php:193
+msgid "Link nr. 1"
+msgstr "リンク nr. 1"
+
+#: admin/main.php:194
+msgid "Link nr. 2"
+msgstr "リンク nr. 2"
+
+#: admin/main.php:195
+msgid "Link nr. 3"
+msgstr "リンク nr. 3"
+
+#: admin/main.php:196
+msgid "Link nr. 4"
+msgstr "リンク nr. 4"
+
+#: admin/main.php:197
+msgid "Link nr. 5"
+msgstr "リンク nr. 5"
+
+#: admin/main.php:198
+msgid "Socials display"
+msgstr "ソーシャル表示"
+
+#: admin/main.php:200
+msgid "Make Site Header a Link"
+msgstr "サイトヘッダをリンクにします"
+
+#: admin/main.php:201
+msgid "Breadcrumbs"
+msgstr "パン屑リスト"
+
+#: admin/main.php:202
+msgid "Pagination"
+msgstr "ページ送り"
+
+#: admin/main.php:203
+msgid "Mobile view"
+msgstr "モバイルビュー"
+
+#: admin/main.php:204
+msgid "FavIcon"
+msgstr "FavIcon"
+
+#: admin/main.php:205
+msgid "Custom CSS"
+msgstr "カスタム CSS"
+
+#: admin/main.php:206
+msgid "Custom JavaScript"
+msgstr "カスタム JavaScript"
+
+#: admin/main.php:207
+msgid "SEO Settings"
+msgstr "SEO 設定"
+
+#: admin/main.php:224
+msgid "Sorry, but you do not have sufficient permissions to access this page."
+msgstr "このページにアクセスするパーミッションがありません。"
+
+#: admin/main.php:234
+msgid "Mantra settings updated successfully."
+msgstr "Mantra 設定は更新されました。"
+
+#: admin/main.php:245
+msgid "Reset to Defaults"
+msgstr "既定値に戻す"
+
+#: admin/main.php:246
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: admin/main.php:260
+msgid ""
+"<p>Here at Cryout Creations (the developers of yours truly Mantra Theme), we "
+"spend night after night improving the Mantra Theme. We fix a lot of bugs "
+"(that we previously created); we add more and more customization options "
+"while also trying to keep things as simple as possible; then... we might "
+"play a game or two but rest assured that we return to read and (in most "
+"cases) reply to your late night emails and comments, take notes and draw "
+"dashboards of things to implement in future versions.</p>\n"
+"\t\t\t<p>So you might ask yourselves: <i>How do they do it? How can they "
+"keep so fresh after all that hard labor for that darned theme? </i> Well "
+"folks, it's simple. We drink coffee. Industrial quantities of hot boiling "
+"coffee. We love it! So if you want to help with the further development of "
+"the Mantra Theme...</p> "
+msgstr ""
+"<p>Cryout Creations (Mantra テーマの開発者)では、常にMantra テーマの改善に努"
+"めています。今まで多くの不具合を直してきました; 多くのカスタマイズオプション"
+"を追加すると同時に、できるだけシンプルに保つよう努力してきました; そして...い"
+"つも皆さんのメールやコメントを読み、ノートを取り、将来のバージョンで実現する"
+"機能をリストアップしています。</p>\n"
+"\t\t\t<p><i>彼らはどうやっているの? どうやってテーマを良好に保ち続けているの?"
+"</i> と言うような疑問を持っているかもしれません。それは簡単なのでです。コー"
+"ヒーを飲んでいるだけです。それも熱いコーヒーを。私たちはそれが好きなのです! "
+"Mantra テーマの将来の開発に力を貸してください...</p>"
+
+#: admin/main.php:275
+msgid "Import/Export Settings"
+msgstr "インポート / エクスポート 設定"
+
+#: admin/main.php:281
+msgid "Export Theme options"
+msgstr "テーマオプションエクスポート"
+
+#: admin/main.php:282
+msgid ""
+"It's that easy: a mouse click away - the ability to export your Mantra "
+"settings and save them on your computer. Feeling safer? You should!"
+msgstr ""
+"簡単です。マウスをクリックしてMantra 設定をエクスポートし、PCに保存することが"
+"できます。"
+
+#: admin/main.php:287
+msgid "Import Theme options"
+msgstr "テーマオプションインポート"
+
+#: admin/main.php:288
+msgid ""
+" Without the import, the export would just be a fool's exercise. Make sure "
+"you have the exported file ready and see you after the mouse click."
+msgstr ""
+"インポートがなければ、エクスポートもありません。エクスポートされたファイルが"
+"あることを確認してください。"
+
+#: admin/main.php:295
+msgid "Mantra Latest News"
+msgstr "Mantra 最新ニュース"
+
+#: admin/main.php:306
+msgid "No news items."
+msgstr "新しいアイテムはありません。"
+
+#: admin/main.php:320
+msgid "Mantra Help"
+msgstr "Mantra ヘルプ"
+
+#: admin/main.php:323
+msgid ""
+"\n"
+"\t\t\t<ul>\n"
+"\t\t\t\t<li>- Need any Mantra or WordPress help?</li>\n"
+"\t\t\t\t<li>- Want to know what changes are made to the theme with each new "
+"version?</li>\n"
+"\t\t\t\t<li>- Found a bug or maybe something doesn't work exactly as "
+"expected?</li>\n"
+"\t\t\t\t<li>- Got an idea on how to improve the Mantra Theme to better suit "
+"your needs?</li>\n"
+"\t\t\t\t<li>- Want a setting implemented?</li>\n"
+"\t\t\t\t<li>- Do you have or would you like to make a translation of the "
+"Mantra Theme?</li>\n"
+"\t\t\t</ul>\n"
+"\t\t\t<p>Then come visit us at Mantra's support page.</p>\n"
+"\t"
+msgstr ""
+"\n"
+"\t\t\t<ul>\n"
+"\t\t\t\t<li>- Mantra か Wordpress のヘルプが必要ですか？</li>\n"
+"\t\t\t\t<li>- 新バージョンのテーマで何が変更されたか知りたいですか？</li>\n"
+"\t\t\t\t<li>- 不具合を見つけたり、思ったように動かないものを見つけましたか?</"
+"li>\n"
+"\t\t\t\t<li>- あなたのニーズに合うように Mantra テーマを改善するアイデアが浮"
+"かびましたか?</li>\n"
+"\t\t\t\t<li>- 設定を実行したいですか?</li>\n"
+"\t\t\t\t<li>- Mantra テーマの翻訳をしたいですか?</li>\n"
+"\t\t\t</ul>\n"
+"\t\t\t<p>そのような時は、Mantra サポートページを訪問してください。</p>\n"
+"\t"
+
+#: admin/main.php:334
+msgid "Mantra Support Page"
+msgstr "Mantra サポートページ"
+
+#: admin/settings.php:61
+msgid "One column (no sidebars)"
+msgstr "1 コラム、サイドバーなし"
+
+#: admin/settings.php:62
+msgid "Two columns,  sidebar on the right"
+msgstr "2 コラム、右サイドバー"
+
+#: admin/settings.php:63
+msgid "Two columns,  sidebar on the left"
+msgstr "2 コラム、左サイドバー"
+
+#: admin/settings.php:64
+msgid "Three columns, sidebars on the right"
+msgstr "3 コラム、右サイドバー"
+
+#: admin/settings.php:65
+msgid "Three columns, sidebars on the left"
+msgstr "3 コラム、左サイドバー"
+
+#: admin/settings.php:66
+msgid "Three columns, one sidebar on each side"
+msgstr "2 コラム、両側サイドバー"
+
+#: admin/settings.php:81
+msgid "Choose your layout "
+msgstr "レイアウトを選択"
+
+#: admin/settings.php:89
+msgid "Absolute"
+msgstr "絶対"
+
+#: admin/settings.php:89
+msgid "Relative"
+msgstr "相対"
+
+#: admin/settings.php:90
+msgid "Dimensions to use: "
+msgstr "使用する大きさ:"
+
+#: admin/settings.php:189 admin/settings.php:209
+msgid "Content ="
+msgstr "コンテンツ ="
+
+#: admin/settings.php:190 admin/settings.php:210
+msgid "Sidebar(s) ="
+msgstr "サイドバー ="
+
+#: admin/settings.php:191 admin/settings.php:211
+msgid "Total width ="
+msgstr "幅合計 ="
+
+#: admin/settings.php:200
+msgid ""
+"Select the width of your <b>content</b> and <b>sidebar(s)</b>. \n"
+" \t\tWhile the content cannot be less than 500px wide, the sidebar area is "
+"at least 220px and no more than 800px.<br />\n"
+"\tIf you went for a 3 column area ( with 2 sidebars) they will each have "
+"half the selected width."
+msgstr ""
+"<b>コンテンツ</b>と<b>サイドバー</b>の幅を選択してください。\n"
+" \t\tコンテンツは 500px 以上の幅、サイドバーは 220px 以上で800px 以下でなけれ"
+"ばなりません。<br />\n"
+"\tもし 3 コラムエリア（2サイドバー）を使用したい時は、それぞれの幅は選択した"
+"幅の半分です。"
+
+#: admin/settings.php:220
+msgid ""
+"Select the width of your <b>content</b> and <b>sidebar(s)</b>. \n"
+" \t\tThese are realtive dimmensions - relative to the user's browser. The "
+"total width is a percentage of the browser's width.<br />\n"
+"\t While the content cannot be less than 40% wide, the sidebar area is at "
+"least 20% and no more than 50%.<br />\n"
+"\tIf you went for a 3 column area ( with 2 sidebars) they will each have "
+"half the selected width."
+msgstr ""
+"<b>コンテンツ</b>と<b>サイドバー</b>の幅を選択してください。\n"
+" \t\tユーザのブラウザに対して相対的な割合を選択することもできます。その場合は"
+"ブラウザの幅に対する % で設定します。<br />\n"
+"\t コンテンツは 40% 以上が必要で、サードバーは 20% 以上で 50% 以下でなければ"
+"なりません。<br />\n"
+"\tもし 3 コラムエリア（2サイドバー）を使用したい時は、それぞれの幅は選択した"
+"幅の半分です。"
+
+#: admin/settings.php:244
+msgid ""
+"Select the header's height. After saving the settings go and upload your new "
+"header image. The header's width will be = "
+msgstr ""
+"ヘッダの高さを指定してください。設定を保存した後で、新しいヘッダイメージを"
+"アップロードしてください。ヘッダの幅 ="
+
+#: admin/settings.php:257 admin/settings.php:969 admin/settings.php:1031
+#: admin/settings.php:1367 admin/settings.php:1429 admin/settings.php:1637
+#: admin/settings.php:1666 admin/settings.php:1689 admin/settings.php:1712
+#: admin/settings.php:1761 admin/settings.php:1890 admin/settings.php:1905
+#: admin/settings.php:1920 admin/settings.php:1935 admin/settings.php:1977
+msgid "Enable"
+msgstr "有効化"
+
+#: admin/settings.php:257 admin/settings.php:969 admin/settings.php:1031
+#: admin/settings.php:1367 admin/settings.php:1429 admin/settings.php:1637
+#: admin/settings.php:1666 admin/settings.php:1689 admin/settings.php:1712
+#: admin/settings.php:1761 admin/settings.php:1890 admin/settings.php:1905
+#: admin/settings.php:1920 admin/settings.php:1935 admin/settings.php:1977
+msgid "Disable"
+msgstr "無効化"
+
+#: admin/settings.php:265
+msgid ""
+"Enable the presentation front-page. This will become your new home page. It "
+"has a slider and columns for presentation\n"
+"\t\ttext and images.<br>If you have this enabled but don't see a "
+"Presentation page then go to <a href='options-reading.php'> Settings &raquo; "
+"Reading </a> and make sure you have selected <strong>Front Page Displays</"
+"strong> as <Strong>Your Latest Posts</strong>."
+msgstr ""
+"プレゼンテーションフロントページを有効化します。これで、あなたの新しいホーム"
+"ページになります。ページには、プレゼンテーション\n"
+"\t\tテキストとイメージ付のプレゼンテーション用スライダーとコラムがあります。"
+"<br />有効化してもプレゼンテーションページが表示されない時は、<a "
+"href='options-reading.php'> 設定 &raquo; 読み込み</a>へ行き、<strong>あなたの"
+"最新の投稿</strong>が<strong>フロントページ表示</strong>に選択されているかど"
+"うかを確認してください。"
+
+#: admin/settings.php:275
+msgid "Slider Dimensions:"
+msgstr "スライダーの大きさ:"
+
+#: admin/settings.php:276
+msgid "width"
+msgstr "幅"
+
+#: admin/settings.php:277
+msgid "height"
+msgstr "高さ"
+
+#: admin/settings.php:278
+msgid ""
+"The dimensions of your slider. Make sure your images are of the same size."
+msgstr "スライダーの大きさは、イメージと同じサイズです。"
+
+#: admin/settings.php:280
+msgid "Animation:"
+msgstr "アニメーション:"
+
+#: admin/settings.php:282
+msgid "Random"
+msgstr "ランダム"
+
+#: admin/settings.php:282
+msgid "Fold"
+msgstr "折りたたみ"
+
+#: admin/settings.php:282
+msgid "Fade"
+msgstr "フェード"
+
+#: admin/settings.php:282
+msgid "SlideInRight"
+msgstr "右からスライドイン"
+
+#: admin/settings.php:282
+msgid "SlideInLeft"
+msgstr "左からスライドイン"
+
+#: admin/settings.php:282
+msgid "SliceDown"
+msgstr "スライドダウン"
+
+#: admin/settings.php:282
+msgid "SliceDownLeft"
+msgstr "左からスライドダウン"
+
+#: admin/settings.php:282
+msgid "SliceUp"
+msgstr "スライドアップ"
+
+#: admin/settings.php:282
+msgid "SliceUpLeft"
+msgstr "左へスライドアップ"
+
+#: admin/settings.php:282
+msgid "SliceUpDown"
+msgstr "上下へスライス"
+
+#: admin/settings.php:282
+msgid "SliceUpDownLeft"
+msgstr "左から上下へスライス"
+
+#: admin/settings.php:282
+msgid "BoxRandom"
+msgstr "ボックスランダム"
+
+#: admin/settings.php:282
+msgid "BoxRain"
+msgstr "ボックスレイン"
+
+#: admin/settings.php:282
+msgid "BoxRainReverse"
+msgstr "逆ボックスレイン"
+
+#: admin/settings.php:282
+msgid "BoxRainGrow"
+msgstr "ボックスレイングロウ"
+
+#: admin/settings.php:282
+msgid "BoxRainGrowReverse"
+msgstr "逆ボックスレイングロウ"
+
+#: admin/settings.php:290
+msgid "The transition effect your slider will have."
+msgstr "スライドのトランジション効果です。"
+
+#: admin/settings.php:292
+msgid "Border Settings:"
+msgstr "ボーダー設定:"
+
+#: admin/settings.php:293
+msgid "Width"
+msgstr "幅"
+
+#: admin/settings.php:294
+msgid "Color"
+msgstr "カラー"
+
+#: admin/settings.php:296
+msgid "The width and color of the slider's border."
+msgstr "スライダーボーダーの幅とカラー"
+
+#: admin/settings.php:298
+msgid "Animation Time:"
+msgstr "アニメーション時間:"
+
+#: admin/settings.php:299 admin/settings.php:303
+msgid "milliseconds (1000ms = 1 second) "
+msgstr "ミリセカンド(1000ms = 1 秒)"
+
+#: admin/settings.php:300
+msgid "The time in which the transition animation will take place."
+msgstr "トランジションアニメーションを継続する時間"
+
+#: admin/settings.php:302
+msgid "Pause Time:"
+msgstr "ポーズ時間:"
+
+#: admin/settings.php:304
+msgid "The time in which a slide will be still and visible."
+msgstr "スライドが静止し表示される時間。"
+
+#: admin/settings.php:307
+msgid "Slider navigation:"
+msgstr "スライダーナビゲーション:"
+
+#: admin/settings.php:309
+msgid "Numbers"
+msgstr "数"
+
+#: admin/settings.php:309
+msgid "Bullets"
+msgstr "ブレット"
+
+#: admin/settings.php:309 admin/settings.php:1273
+msgid "None"
+msgstr "なし"
+
+#: admin/settings.php:317
+msgid "Your slider navigation type. Shown under the slider."
+msgstr "スライダーのナビゲーションタイプ。スライダーの下に表示されます。"
+
+#: admin/settings.php:319
+msgid "Slider arrows:"
+msgstr "スライダーの矢印:"
+
+#: admin/settings.php:321
+msgid "Always Visible"
+msgstr "常に表示"
+
+#: admin/settings.php:321
+msgid "Visible on Hover"
+msgstr "ホバー時に表示"
+
+#: admin/settings.php:321
+msgid "Hidden"
+msgstr "非表示"
+
+#: admin/settings.php:329
+msgid "The Left and Right arrows on your slider"
+msgstr "スライダーに右および左矢印"
+
+#: admin/settings.php:370 admin/settings.php:438
+msgid "Select Category"
+msgstr "カテゴリ選択"
+
+#: admin/settings.php:397
+msgid "Custom Slides"
+msgstr "カスタムスライド"
+
+#: admin/settings.php:397
+msgid "Latest Posts"
+msgstr "最新の投稿"
+
+#: admin/settings.php:397
+msgid "Random Posts"
+msgstr "ランダム投稿"
+
+#: admin/settings.php:397
+msgid "Sticky Posts"
+msgstr "メモ投稿"
+
+#: admin/settings.php:397
+msgid "Latest Posts from Category"
+msgstr "カテゴリからの最新の投稿"
+
+#: admin/settings.php:397
+msgid "Random Posts from Category"
+msgstr "カテゴリからのランダム投稿"
+
+#: admin/settings.php:397
+msgid "Specific Posts"
+msgstr "特定の投稿"
+
+#: admin/settings.php:410
+msgid "Latest posts will be loaded into the slider."
+msgstr "最新の投稿がスライダーに表示されます。"
+
+#: admin/settings.php:414
+msgid "Random  posts will be loaded into the slider."
+msgstr "ランダム投稿がスライダーに表示されます。"
+
+#: admin/settings.php:418
+msgid "Latest posts from the category you choose will be loaded in the slider."
+msgstr "カテゴリからの最新の投稿がスライダーに表示されます。"
+
+#: admin/settings.php:423
+msgid ""
+"Random posts from the category you choose will be loaded into the slider."
+msgstr "カテゴリからのランダム投稿がスライダーに表示されます。"
+
+#: admin/settings.php:427
+msgid "Only sticky posts will be loaded into the slider."
+msgstr "メモ投稿だけがスライダーに表示されます。"
+
+#: admin/settings.php:431
+msgid "List the post IDs you want to display (separated by a comma): "
+msgstr "表示したい投稿IDリスト（コンマで区切る）"
+
+#: admin/settings.php:436
+msgid "<br> Choose the cateogry: "
+msgstr "<br /> カテゴリ選択:"
+
+#: admin/settings.php:453
+msgid "Number of posts to show:"
+msgstr "表示する投稿数:"
+
+#: admin/settings.php:460
+msgid "Slide 1"
+msgstr "スライド 1"
+
+#: admin/settings.php:464 admin/settings.php:479 admin/settings.php:494
+#: admin/settings.php:509 admin/settings.php:524 admin/settings.php:567
+#: admin/settings.php:582 admin/settings.php:597 admin/settings.php:612
+msgid "Upload or select image from gallery"
+msgstr "アップロード、あるいは、ギャラリーから画像選択"
+
+#: admin/settings.php:465 admin/settings.php:480 admin/settings.php:495
+#: admin/settings.php:510 admin/settings.php:525 admin/settings.php:568
+#: admin/settings.php:583 admin/settings.php:613
+msgid "Title"
+msgstr "タイトル"
+
+#: admin/settings.php:467 admin/settings.php:482 admin/settings.php:497
+#: admin/settings.php:512 admin/settings.php:527 admin/settings.php:570
+#: admin/settings.php:585 admin/settings.php:600 admin/settings.php:615
+msgid "Text"
+msgstr "テキスト"
+
+#: admin/settings.php:475
+msgid "Slide 2"
+msgstr "スライド 2"
+
+#: admin/settings.php:490
+msgid "Slide 3"
+msgstr "スライド 3"
+
+#: admin/settings.php:505
+msgid "Slide 4"
+msgstr "スライド 4"
+
+#: admin/settings.php:520
+msgid "Slide 5"
+msgstr "スライド 5"
+
+#: admin/settings.php:533
+msgid ""
+"Your slides' content. Only the image is required, all other fields are "
+"optional. Only the slides with an image selected will become acitve and "
+"visible in the live slider."
+msgstr ""
+"スライドのコンテンツ。画像が必須です。他の項目はオプションです。画像が選択さ"
+"れているスライドだけがスライダーに表示されます。"
+
+#: admin/settings.php:543
+msgid "Number of columns:"
+msgstr "コラム数:"
+
+#: admin/settings.php:553
+msgid "Image Height:"
+msgstr "画像の高さ:"
+
+#: admin/settings.php:556
+msgid "Read more text:"
+msgstr "続きを読むテキスト:"
+
+#: admin/settings.php:559
+msgid ""
+"The linked text that appears at the bottom of all the columns. You can "
+"delete all text inside if you don't want it."
+msgstr "コラムの下部に表示されるリンクテキスト。削除することもできます。"
+
+#: admin/settings.php:563
+msgid "1st Column"
+msgstr "1st コラム"
+
+#: admin/settings.php:578
+msgid "2nd Column"
+msgstr "2nd コラム"
+
+#: admin/settings.php:593
+msgid "3rd Column"
+msgstr "3rd コラム"
+
+#: admin/settings.php:608
+msgid "4th Column"
+msgstr "4th コラム"
+
+#: admin/settings.php:630
+msgid "Extra Text"
+msgstr "拡張テキスト"
+
+#: admin/settings.php:630
+msgid "Top Title"
+msgstr "トップタイトル"
+
+#: admin/settings.php:632
+msgid "Second Title"
+msgstr "セカンドタイトル"
+
+#: admin/settings.php:635
+msgid "Title color"
+msgstr "タイトルカラー"
+
+#: admin/settings.php:638
+msgid "The titles' color (Default value is 333333)."
+msgstr "タイトルカラー (既定値 333333)。"
+
+#: admin/settings.php:640
+msgid "Bottom Text 1"
+msgstr "ボトムテキスト 1"
+
+#: admin/settings.php:642
+msgid "Bottom Text 2"
+msgstr "ボトムテキスト 2"
+
+#: admin/settings.php:645
+msgid ""
+"More text for your front page. The top title is above the slider, the second "
+"title between the slider and the columns and 2 more rows of text under the "
+"columns.\n"
+"\t\t It's all optional so leave any input field empty if it's not required. "
+msgstr ""
+"フロントページのテキスト。トップタイトルはスライダー上部、セカンドタイトルは"
+"スライダーとコラムの間、そして、コラム下部の2行のテキスト。\n"
+"\t\tすべてオプションですので、入力しなくても良いです。 "
+
+#: admin/settings.php:651
+msgid "Hide areas"
+msgstr "エリアを非表示にします"
+
+#: admin/settings.php:664
+msgid "Hide the header area (image or background color)."
+msgstr "ヘッダエリア（画像や背景色）を非表示にします。"
+
+#: admin/settings.php:668
+msgid "Hide the main menu (the top navigation tabs)."
+msgstr "メインメニュー（トップナビゲーションタブ）を非表示にします。"
+
+#: admin/settings.php:672
+msgid "Hide the footer widgets. "
+msgstr "フッタウィジェットを非表示にします。"
+
+#: admin/settings.php:676
+msgid "Hide the footer (copyright area)."
+msgstr "フッタ（コピーライトエリア）を非表示にします。"
+
+#: admin/settings.php:680
+msgid "Hide the white color. Only the background color remains."
+msgstr "白色を非表示にします。背景色のみが残ります。"
+
+#: admin/settings.php:684
+msgid "Choose the areas to hide on the first page."
+msgstr "最初のページの非表示エリアを選択してください。"
+
+#: admin/settings.php:703
+msgid ""
+"Select the font size you'll use in your blog. Pages, posts and comments will "
+"be affected. Buttons, Headers and Side menus will remain the same."
+msgstr ""
+"ブログで使用するフォントサイズを選択してください。ページ、投稿、そして、コメ"
+"ントに適用されます。ボタン、ヘッダ、サイドメニューは変更しません。"
+
+#: admin/settings.php:747
+msgid ""
+"Select the font family you'll use in your blog. All content text will be "
+"affected (including menu buttons). "
+msgstr ""
+"ブログで使用するフォントファミリーを選択してください。すべてのコンテンツテキ"
+"ストに適用されます。ボタン、メニューも含まれます。"
+
+#: admin/settings.php:748 admin/settings.php:797 admin/settings.php:848
+#: admin/settings.php:899
+msgid ""
+"Or insert your Google Font below. Please only isert the <strong>name</"
+"strong> of the font.<br /> Ex: Marko One. Go to <a href='http://www.google."
+"com/webfonts' > google fonts </a> for some font inspiration."
+msgstr ""
+"あるいは、Googleフォントを下に挿入してください。フォントの<strong>名前</"
+"strong>だけを挿入してください。<br />例: Marko One。<a href='http://www."
+"google.com/webfonts' >Googleフォント</a>を参照してください。"
+
+#: admin/settings.php:795
+msgid ""
+"Select the font family you want for your titles. It will affect post titles "
+"and page titles. Leave 'Default' and the general font you selected will be "
+"used."
+msgstr ""
+"タイトルに使用するフォントファミリーを選択してください。投稿と固定ページのタ"
+"イトルに適用されます。「既定値」のままにすると、一般フォントが適用されます。"
+
+#: admin/settings.php:846
+msgid ""
+"Select the font family you want your sidebar(s) to have. Text in sidebars "
+"will be affected, including any widgets. Leave 'Default' and the general "
+"font you selected will be used."
+msgstr ""
+"サイドバーに使用するフォントファミリーを選択してください。ウィジェットを含み"
+"サイドバーのテキストに適用されます。「既定値」のままにすると、一般フォントが"
+"適用されます。"
+
+#: admin/settings.php:897
+msgid ""
+"Select the font family you want your subheaders to have (h2 - h6 tags will "
+"be affected). Leave 'Default' and the general font you selected will be used."
+msgstr ""
+"サブヘッダ（h2 - h6間でのタグ）に使用するフォントファミリーを選択してくださ"
+"い。「既定値」のままにすると、一般フォントが適用されます。"
+
+#: admin/settings.php:909 admin/settings.php:924 admin/settings.php:939
+#: admin/settings.php:984 admin/settings.php:999 admin/settings.php:1014
+msgid "Default"
+msgstr "既定値"
+
+#: admin/settings.php:917
+msgid ""
+"Post Header Font size. Leave 'Default' for normal settings (size value will "
+"be as set in the CSS)."
+msgstr ""
+"投稿ヘッダフォントサイズ。「既定値」のままにすると、一般設定が適用されます"
+"（サイズ値はCSSで設定されます）。"
+
+#: admin/settings.php:932
+msgid ""
+"Sidebar Font size. Leave 'Default' for normal settings (size value will be "
+"as set in the CSS)."
+msgstr ""
+"サイドバーフォントサイズ。「既定値」のままにすると、一般設定が適用されます"
+"（サイズ値はCSSで設定されます）。"
+
+#: admin/settings.php:939 admin/settings.php:1728
+msgid "Left"
+msgstr "左"
+
+#: admin/settings.php:939 admin/settings.php:1728
+msgid "Right"
+msgstr "右"
+
+#: admin/settings.php:939
+msgid "Justify"
+msgstr "両端揃え"
+
+#: admin/settings.php:939 admin/settings.php:1728
+msgid "Center"
+msgstr "中央"
+
+#: admin/settings.php:947
+msgid ""
+"This overwrites the text alignment in posts and pages. Leave 'Default' for "
+"normal settings (alignment will remain as declared in posts, comments etc.)."
+msgstr ""
+"これは投稿とページのテキスト整列を変更します。「既定値」のままにすると、一般"
+"設定が適用されます（テキスト整列は投稿やコメントで設定されたものが使用されま"
+"す）。"
+
+#: admin/settings.php:961
+msgid "Choose the indent for your paragraphs."
+msgstr "段落のインデントを選択してください。"
+
+#: admin/settings.php:977
+msgid "Disable the default header and title indent (left margin)."
+msgstr "既定のヘッダとタイトルインデント（左マージン）を無効にします。"
+
+#: admin/settings.php:992
+msgid ""
+"Text line height. The height between 2 rows of text. Leave 'Default' for "
+"normal settings (size value will be as set in the CSS)."
+msgstr ""
+"テキストの行の高さ。テキストの行間の高さ。「既定値」のままにすると、一般設定"
+"が適用されます（CSSで設定された値が使用されます）。"
+
+#: admin/settings.php:1007
+msgid ""
+"The space between <i>words</i>. Leave 'Default' for normal settings (size "
+"value will be as set in the CSS)."
+msgstr ""
+"<i>単語</i>間のスペース。「既定値」のままにすると、一般設定が適用されます"
+"（CSSで設定された値が使用されます）。"
+
+#: admin/settings.php:1022
+msgid ""
+"The space between <i>letters</i>. Leave 'Default' for normal settings (size "
+"value will be as set in the CSS)."
+msgstr ""
+"<i>文字</i>間のスペース。「既定値」のままにすると、一般設定が適用されます"
+"（CSSで設定された値が使用されます）。"
+
+#: admin/settings.php:1039
+msgid "Disable the default text shadow on headers and titles."
+msgstr "ヘッダとタイトルのテキストシャドウを無効にします。"
+
+#: admin/settings.php:1051
+msgid "Background color (Default value is 444444)."
+msgstr "背景色（既定値 444444）。"
+
+#: admin/settings.php:1059
+msgid ""
+"Header background color (Default value is 333333). You can delete all inside "
+"text for no background color."
+msgstr "ヘッダ背景色（既定値 333333）。ブランクにすると背景色を無くします。"
+
+#: admin/settings.php:1066
+msgid ""
+"Content background color (Default value is FFFFFF). Works best with really "
+"light colors."
+msgstr "コンテンツ背景色（既定値 FFFFFF）。明るい色を設定した方が良いです。"
+
+#: admin/settings.php:1073
+msgid ""
+"Main menu background color (Default value is FAFAFA). Should be the same "
+"color as the content bg or something just as light."
+msgstr ""
+"メインメニュー背景色（既定値 FAFAFA）。コンテンツの背景色と同色か明るい色が良"
+"いでしょう。"
+
+#: admin/settings.php:1080 admin/settings.php:1087
+msgid "First sidebar background color (Default value is FFFFFF)."
+msgstr "1st サイドバーの背景色（既定値 FFFFFF）。"
+
+#: admin/settings.php:1095
+msgid "Footer widget-area background color. (Default value is 171717)."
+msgstr "フッタウィジェットエリア背景色（既定値 171717）。"
+
+#: admin/settings.php:1103
+msgid "Footer background color (Default value is 222222)."
+msgstr "フッタ背景色（既定値 222222）。"
+
+#: admin/settings.php:1111
+msgid "Your blog's title color (Default value is 0D85CC)."
+msgstr "ブログタイトルカラー（既定値 0D85CC）。"
+
+#: admin/settings.php:1119
+msgid "Your blog's description color(Default value is 222222)."
+msgstr "ブログのデスクリプションカラー（既定値 222222）。"
+
+#: admin/settings.php:1127
+msgid "Content Text Color (Default value is 333333)."
+msgstr "コンテンツテキストカラー（既定値 333333）。"
+
+#: admin/settings.php:1135
+msgid "Links color (Default value is 0D85CC)."
+msgstr "リンクカラー（既定値 0D85CC）。"
+
+#: admin/settings.php:1143
+msgid "Links color on mouse over (Default value is 333333)."
+msgstr "マウスオーバー時リンクのカラー（既定値 333333）。"
+
+#: admin/settings.php:1151
+msgid "Post Header Text Color (Default value is 333333)."
+msgstr "投稿ヘッダテキストカラー（既定値 333333）。"
+
+#: admin/settings.php:1159
+msgid "Post Header Text Color on Mouse over (Default value is 000000)."
+msgstr "マウスオーバー時の投稿ヘッダテキストカラー（既定値 000000）。"
+
+#: admin/settings.php:1167
+msgid "Sidebar Header Background color (Default value is 444444)."
+msgstr "サイドバーヘッダ背景色（既定値 444444）。"
+
+#: admin/settings.php:1176
+msgid "Sidebar Header Text Color(Default value is 2EA5FD)."
+msgstr "サイドバーヘッダテキストカラー（既定値 2EA5FD）。"
+
+#: admin/settings.php:1184
+msgid "Footer Widget Text Color (Default value is 0D85CC)."
+msgstr "フッタウィジェットテキストカラー（既定値 0D85CC）。"
+
+#: admin/settings.php:1192
+msgid "Footer Widget Link Color (Default value is 666666)."
+msgstr "フッタウィジェットリンクカラー（既定値 666666）。"
+
+#: admin/settings.php:1200
+msgid "Footer Widget Link Color on Mouse Over (Default value is 888888)."
+msgstr "マウスオーバー時のフッタウィジェットリンクカラー（既定値 888888）。"
+
+#: admin/settings.php:1212 admin/settings.php:1273
+msgid "White"
+msgstr "ホワイト"
+
+#: admin/settings.php:1212
+msgid "Light"
+msgstr "淡色"
+
+#: admin/settings.php:1212
+msgid "Light Gray"
+msgstr "淡いグレー"
+
+#: admin/settings.php:1212 admin/settings.php:1273
+msgid "Gray"
+msgstr "グレー"
+
+#: admin/settings.php:1212
+msgid "Dark Gray"
+msgstr "暗いグレー"
+
+#: admin/settings.php:1212
+msgid "Black"
+msgstr "ブラック"
+
+#: admin/settings.php:1220
+msgid ""
+"This setting changes the look of your captions. Images that are not inserted "
+"through captions will not be affected."
+msgstr ""
+"この設定は、キャプションの見栄えを変更します。キャプションがない画像には影響"
+"しません。"
+
+#: admin/settings.php:1236
+msgid "The border around your inserted images. "
+msgstr "挿入した画像のボーダー。"
+
+#: admin/settings.php:1251
+msgid "The image on top of your captions. "
+msgstr "画像上部のキャプション。"
+
+#: admin/settings.php:1266
+msgid "The sidebar list bullets. "
+msgstr "サイドバーのリストブレット。"
+
+#: admin/settings.php:1281
+msgid ""
+"The background for your post-metas area (under your post tiltes). Gray by "
+"default.<"
+msgstr "投稿メタエリア（投稿タイトルの下）背景色。既定値はグレー。<"
+
+#: admin/settings.php:1289 admin/settings.php:1305 admin/settings.php:1322
+#: admin/settings.php:1337 admin/settings.php:1352 admin/settings.php:1382
+#: admin/settings.php:1397 admin/settings.php:1413 admin/settings.php:1456
+#: admin/settings.php:1471 admin/settings.php:1486 admin/settings.php:1501
+#: admin/settings.php:1516 admin/settings.php:1531 admin/settings.php:1546
+#: admin/settings.php:1561
+msgid "Show"
+msgstr "表示"
+
+#: admin/settings.php:1289 admin/settings.php:1305 admin/settings.php:1322
+#: admin/settings.php:1337 admin/settings.php:1352 admin/settings.php:1382
+#: admin/settings.php:1413 admin/settings.php:1456 admin/settings.php:1471
+#: admin/settings.php:1486 admin/settings.php:1501 admin/settings.php:1516
+#: admin/settings.php:1531 admin/settings.php:1546 admin/settings.php:1561
+msgid "Hide"
+msgstr "非表示"
+
+#: admin/settings.php:1297
+msgid "Hide or show a horizontal rule to separate posts."
+msgstr "投稿を分ける水平ルーラーを表示、非表示します。"
+
+#: admin/settings.php:1313
+msgid ""
+"Hide or show  bullets next to lists that are in your content area (posts, "
+"pages etc.)."
+msgstr ""
+"コンテンツエリア（投稿、ページなど）のリストブレットを表示、非表示します。"
+
+#: admin/settings.php:1330
+msgid ""
+"Hide or show your blog's Title and Description in the header (recommended if "
+"you have a custom header image with text)."
+msgstr ""
+"ヘッダ内のブログタイトルと説明（カスタムヘッダ画像を使用する場合、テキスト付"
+"の画像を推奨）を表示、非表示します。"
+
+#: admin/settings.php:1345
+msgid "Hide or show Page titles on any <i>created</i> pages. "
+msgstr "<i>作成された</i>ページのページタイトルを表示、非表示します。"
+
+#: admin/settings.php:1360
+msgid "Hide or show Page titles on <i>Category</i> Pages. "
+msgstr "<i>カテゴリ</i>ページのページタイトルを表示、非表示します。"
+
+#: admin/settings.php:1375
+msgid "Hide table borders and background color."
+msgstr "テーブルボーダーと背景色を非表示にします。"
+
+#: admin/settings.php:1390
+msgid ""
+"Hide the explanatory text under the comments form. (starts with  <i>You may "
+"use these HTML tags and attributes:...</i>)."
+msgstr ""
+"コメントフォーム下部の説明テキストを非表示にします。（<i>次のHTML タグと属性"
+"が使えます:...</i>で始まるテキスト）"
+
+#: admin/settings.php:1397
+msgid "Hide in posts"
+msgstr "投稿内を非表示にします。"
+
+#: admin/settings.php:1397
+msgid "Hide in pages"
+msgstr "ページ内を非表示にします。"
+
+#: admin/settings.php:1397
+msgid "Hide everywhere"
+msgstr "どこでも非表示にします。"
+
+#: admin/settings.php:1405
+msgid ""
+"Hide the  <b>Comments are closed</b> text that by default shows up on pages "
+"or posts with the comments disabled."
+msgstr ""
+"コメントを受け取らない設定をしている時に既定値として設定されているテキスト "
+"<b>コメントは停止中です</b> を非表示にします。"
+
+#: admin/settings.php:1421
+msgid ""
+"Hide the <b>Comments off</b> text next to posts that have comments disabled."
+msgstr ""
+"コメントを受け取らない投稿に表示されるテキスト <b>コメントオフ</b> を非表示に"
+"します。"
+
+#: admin/settings.php:1437
+msgid ""
+"Enable the Back to Top button. The button appears after scrolling the page "
+"down."
+msgstr ""
+"トップに戻るボタンを有効化します。ボタンはページをしたにスクロールすると表示"
+"されます。"
+
+#: admin/settings.php:1444
+msgid ""
+"Insert custom text or HTML code that will appear last in you footer. <br /> "
+"You can use HTML to insert links, images and special characters like &copy ."
+msgstr ""
+"フッタの最後に表示されるカスタムテキストや HTML コードを挿入します。<br />リ"
+"ンク、画像、&copyなどの特殊文字を含んだHTMLを使用することができます。"
+
+#: admin/settings.php:1464
+msgid ""
+"Hide or show the <strong>Leave a comment</strong> or <strong>x Comments</"
+"strong> next to posts or post excerpts."
+msgstr ""
+"投稿や抜粋の後に表示される<strong>コメントをどうぞ</strong>や<strong>x 件のコ"
+"メント</strong>を表示、非表示にします。"
+
+#: admin/settings.php:1479
+msgid "Hide or show the post date."
+msgstr "投稿日を表示、非表示にします。"
+
+#: admin/settings.php:1494
+msgid ""
+"Show the post time with the date. Time will not be visible if the Post Date "
+"is hidden."
+msgstr ""
+"投稿時間付の投稿日を表示します。投稿時間は、投稿日が非表示の場合、表示されま"
+"せん。"
+
+#: admin/settings.php:1509
+msgid "Hide or show the post author."
+msgstr "著者を表示、非表示にします。"
+
+#: admin/settings.php:1524
+msgid "Hide the post category."
+msgstr "投稿カテゴリを非表示にします。"
+
+#: admin/settings.php:1539
+msgid "Hide the post tags."
+msgstr "投稿タグを非表示にします。"
+
+#: admin/settings.php:1554
+msgid "Hide the 'Bookmark permalink'."
+msgstr "'ブックマークパーマリンク'を非表示にします。"
+
+#: admin/settings.php:1569
+msgid "Hide all the post metas. All meta info and meta areas will be hidden."
+msgstr ""
+"すべての投稿メタを非表示にします。すべてのメタ情報、メタエリアが非表示になり"
+"ます。"
+
+#: admin/settings.php:1582 admin/settings.php:1597 admin/settings.php:1613
+msgid "Excerpt"
+msgstr "抜粋"
+
+#: admin/settings.php:1582 admin/settings.php:1597 admin/settings.php:1613
+msgid "Full Post"
+msgstr "投稿全文"
+
+#: admin/settings.php:1590
+msgid ""
+"Excerpts on the main page. Only standard posts will be affected. All other "
+"post formats (aside, image, chat, quote etc.) have their specific formating."
+msgstr ""
+"メインページに表示される抜粋。標準投稿に適用されます。その他の投稿フォーマッ"
+"ト（アサイド、イメージ、チャット、引用など）は、それぞれ独自のフォーマットを"
+"持っています。"
+
+#: admin/settings.php:1605
+msgid ""
+"Choose if you want the sticky posts on your home page to be visible in full "
+"or just the excerpts. "
+msgstr ""
+"ホームページのメモ投稿を全文表示するか、抜粋表示するかを選択してください。"
+
+#: admin/settings.php:1621
+msgid ""
+"Excerpts on archive, categroy and search pages. Same as above, only standard "
+"posts will be affected."
+msgstr ""
+"アーカイブ、カテゴリ、検索ページに表示される抜粋。上記と同様に、標準投稿に適"
+"用されます。"
+
+#: admin/settings.php:1629
+msgid ""
+"The number of words an excerpt will have. When that number is reached the "
+"post will be interrupted by a <i>Continue reading</i> link that\n"
+"\t\t\t\t\t\t\twill take the reader to the full post page."
+msgstr ""
+"抜粋に表示する単語数。上限に達すると全文ページにリンクする<i>続きを読む</i>リ"
+"ンクが表示されます。"
+
+#: admin/settings.php:1645
+msgid ""
+"Enable the Magazine Layout. This layout applies to pages with posts and "
+"shows 2 posts per row."
+msgstr ""
+"雑誌レイアウトを有効化します。このレイアウトは、投稿のある固定ページで、2段組"
+"で表示されます。"
+
+#: admin/settings.php:1652
+msgid ""
+"Replaces the three dots ('[...])' that are appended automatically to "
+"excerpts."
+msgstr "3ドット（[...]）を置換します。抜粋に自動的に追加されます。"
+
+#: admin/settings.php:1659
+msgid "Edit the 'Continue Reading' link added to your post excerpts."
+msgstr "抜粋に追加される'続きを読む'リンクを編集します。"
+
+#: admin/settings.php:1674
+msgid "By default WordPress excerpts remove all HTML tags ("
+msgstr "WordPressはデフォルトですべてのHTMLタグを取り除きます ("
+
+#: admin/settings.php:1705
+msgid ""
+"Show featured images as thumbnails on posts. The images must be selected for "
+"each post in the Featured Image section."
+msgstr ""
+"投稿にアイキャッチ画像としてお気に入り画像を表示します。画像はお気に入りイ"
+"メージセクションで、投稿毎に選択しなければなりません。"
+
+#: admin/settings.php:1720
+msgid ""
+"Show the first image that you inserted in a post as a thumbnail. If you "
+"enable this option, the first image in your post will be used even if you "
+"selected a Featured Image in you post."
+msgstr ""
+"投稿に挿入されたイメージで最初の画像をアイキャッチ画像として表示します。"
+
+#: admin/settings.php:1736
+msgid "Thumbnail alignment."
+msgstr "アイキャッチ画像の整列"
+
+#: admin/settings.php:1753
+msgid ""
+"The size you want the thumbnails to have (in pixels). By default imges will "
+"be scaled with aspect ratio kept. Choose to crop the images if you want the "
+"exact size."
+msgstr ""
+"アイキャッチ画像のサイズ（ピクセル単位）。デフォルトでは、画像のアスペクト比"
+"で調整されます。特定のサイズが必要な場合は、画像を切り取るなどしてください。"
+
+#: admin/settings.php:1769
+msgid ""
+"Show featured images on headers. The header will be replaced with a featured "
+"image if you selected it as a Featured Image in the post and\n"
+"\t\t\t\t\t\t\tand if it is bigger or at least equal to the current header "
+"size."
+msgstr ""
+"ヘッダーにお気に入り画像を表示します。投稿のお気に入りイメージを選択し、\n"
+"\t\t\t\t\t\t\tその画像が現在のヘッダサイズと同等か大きい場合にヘッダがお気に"
+"入り画像に置き換わります。"
+
+#: admin/settings.php:1790
+msgid ""
+"Select your desired Social network from the left dropdown menu and insert "
+"your corresponding address in the right input field. (ex: <i>http://www."
+"facebook.com/yourname</i> )"
+msgstr ""
+"左のドロップダウンメニューからソーシャルネットワークを選択し、右の入力欄にそ"
+"のアドレスを挿入してください。（例: <i>http://www.facebook.com/yourname</i>）"
+
+#: admin/settings.php:1804
+msgid "You can insert up to 5 different social sites and addresses."
+msgstr "ソーシャルネットワークを最大5つ挿入することができます。"
+
+#: admin/settings.php:1818
+msgid "There are a total of 27 social networks to choose from. "
+msgstr "全部で27のソーシャルネットワークから選択できます。"
+
+#: admin/settings.php:1832
+msgid "You can leave any number of inputs empty. "
+msgstr "入力欄はいくつでも空のままにしておいてもかまいません。"
+
+#: admin/settings.php:1846
+msgid "You can choose the same social media any number of times.  "
+msgstr "同じソーシャルメディアを何度でも選択することができます。"
+
+#: admin/settings.php:1877
+msgid "Choose the <b>areas</b> where to display the social icons."
+msgstr ""
+"ソーシャルネットワークアイコンを表示する<b>エリア</b>を選択してください。"
+
+#: admin/settings.php:1898
+msgid ""
+"Make the site header into a clickable link that links to your index page."
+msgstr ""
+"サイトヘッダをクリックしてインデックスページへリンクするように設定します。"
+
+#: admin/settings.php:1913
+msgid ""
+"Show breadcrumbs at the top of the content area. Breadcrumbs are a form of "
+"navigation that keeps track of your location withtin the site."
+msgstr ""
+"コンテンツエリアの最上部にパン屑リストを表示します。パン屑リストはサイト内で"
+"どこにいるかを示すナビゲーションです。"
+
+#: admin/settings.php:1928
+msgid ""
+"Show numbered pagination. Where there is more than one page, instead of the "
+"bottom <b>Older Posts</b> and <b>Newer posts</b> links you have a numbered "
+"pagination. "
+msgstr ""
+"ページネーションを表示します。2ページ以上存在する時は、ページ最下部の<b>古い"
+"投稿</b>と<b>新しい投稿</b>リンクがページを選択できるリンクに置き換わります。"
+
+#: admin/settings.php:1943
+msgid ""
+"Enable the mobile view and make Mantra responsive. The layout and look of "
+"your blog will change depending on what device and what resolution it is "
+"viewed in. "
+msgstr ""
+"モバイルビューを有効化し、Mantraをレスポンシブにします。レイアウトとブログの"
+"見え方は、デバイスの解像度によって変わります。"
+
+#: admin/settings.php:1953
+msgid "Upload or select favicon from gallery"
+msgstr "アップロードするか、ギャラリーからfaviconを選択します。"
+
+#: admin/settings.php:1957
+msgid ""
+"Limitations: It has to be an image. It should be max 64x64 pixels in "
+"dimensions. Recommended file extensions .ico and .png . "
+msgstr ""
+"制限: イメージが無ければなりません。イメージの大きさは、最大64 x 64 です。"
+"ファイルの形式は .ico と .png を推奨します。"
+
+#: admin/settings.php:1965
+msgid ""
+"Insert your custom CSS here. Any CSS declarations made here will overwrite "
+"Mantra's (even the custom options specified right here in the Mantra "
+"Settings page). <br /> Your custom CSS will be preserved when updating the "
+"theme."
+msgstr ""
+"カスタムCSSを挿入します。設定されたCSSは、Mantra 標準CSS（Mantra 設定ページで"
+"設定したカスタムオプションを含む）より優先されます。<br /> カスタムCSSは、"
+"テーマを更新した場合でも保持されます。"
+
+#: admin/settings.php:1972
+msgid ""
+"Insert your custom Javascript code here. (Google Analytics and any other "
+"forms of Analytic software)."
+msgstr ""
+"カスタム Javascript コードを挿入します。（Google Analytcs やその他アクセス分"
+"析ソフトウェアなど）"
+
+#: admin/settings.php:1985
+msgid ""
+"Enable Mantra's Search Engine Optimization. This is enabled by default and "
+"should only be disabled if you are using a SEO plugin."
+msgstr ""
+"Mantra のSEOを有効化します。最初から有効化されていますが、SEO プラグインを使"
+"用する場合に無効化することができます。"
+
+#: admin/settings.php:1997
+msgid "Auto"
+msgstr "自動"
+
+#: admin/settings.php:1997
+msgid "Manual"
+msgstr "手動"
+
+#: includes/theme-comments.php:28
+msgid "says:"
+msgstr "曰く:"
+
+#: includes/theme-comments.php:34
+msgid "Your comment is awaiting moderation."
+msgstr "コメントは承認待ちです。"
+
+#: includes/theme-comments.php:41
+msgid "at"
+msgstr "at"
+
+#: includes/theme-comments.php:41 includes/theme-comments.php:58
+msgid "(Edit)"
+msgstr "（編集）"
+
+#: includes/theme-comments.php:58
+msgid "Pingback: "
+msgstr "ピンバック:"
+
+#: includes/theme-comments.php:85
+msgid "Leave a comment"
+msgstr "コメントをどうぞ"
+
+#: includes/theme-comments.php:85
+msgid "<b>1</b> Comment"
+msgstr "<b>1</b>件のコメント"
+
+#: includes/theme-comments.php:85
+msgid "<b>%</b> Comments"
+msgstr "<b>%</b>件のコメント"
+
+#: includes/theme-comments.php:107
+msgid "Older Comments"
+msgstr "古いコメント"
+
+#: includes/theme-comments.php:108
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: includes/theme-functions.php:233
+msgid "Home Page"
+msgstr "ホームページ"
+
+#: includes/theme-functions.php:297
+msgid "Powered by"
+msgstr "Powered by"
+
+#: includes/theme-loop.php:145
+msgid "By "
+msgstr "By "
+
+#: includes/theme-loop.php:185
+msgid " Bookmark the "
+msgstr " ブックマークする"
+
+#: includes/theme-loop.php:185 includes/theme-loop.php:187
+#: includes/theme-loop.php:189
+msgid "Permalink to"
+msgstr "パーマリンク"
+
+#: includes/theme-loop.php:185 includes/theme-loop.php:187
+#: includes/theme-loop.php:189
+msgid "permalink"
+msgstr "へのパーマリンク"
+
+#: includes/theme-loop.php:187 includes/theme-loop.php:189
+msgid "Bookmark the "
+msgstr "ブックマーク"
+
+#: includes/theme-loop.php:211
+msgid "<span class=\"meta-nav\">&laquo;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&laquo;</span> 古い投稿"
+
+#: includes/theme-loop.php:212
+msgid "Newer posts <span class=\"meta-nav\">&raquo;</span>"
+msgstr "新しい投稿 <span class=\"meta-nav\">&raquo;</span>"
+
+#: includes/theme-seo.php:26
+#, php-format
+msgid "Page %s"
+msgstr "ページ %s"
+
+#: includes/theme-setup.php:90
+msgid "Primary Navigation"
+msgstr "プライマリーナビゲーション"
+
+#: includes/theme-setup.php:91
+msgid "Top Navigation"
+msgstr "トップナビゲーション"
+
+#: includes/theme-setup.php:92
+msgid "Footer Navigation"
+msgstr "フッタナビゲーション"
+
+#: includes/theme-setup.php:139
+msgid "mantra"
+msgstr "mantra"
+
+#: includes/theme-setup.php:200
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: includes/theme-setup.php:227
+msgid "Primary Widget Area - Sidebar 1"
+msgstr "プライマリーウィジェットエリア - サイドバー 1"
+
+#: includes/theme-setup.php:229
+msgid "Primary widget area - Sidebar 1"
+msgstr "プライマリーウィジェットエリア - サイドバー 1"
+
+#: includes/theme-setup.php:238
+msgid "Secondary Widget Area - Sidebar 1"
+msgstr "2nd ウィジェットエリア - サイドバー 1"
+
+#: includes/theme-setup.php:240
+msgid "Secondary widget area - Sidebar 1"
+msgstr "2nd ウィジェットエリア - サイドバー 1"
+
+#: includes/theme-setup.php:249
+msgid "Third Widget Area - Sidebar 2"
+msgstr "3rd ウィジェットエリア - サイドバー 2"
+
+#: includes/theme-setup.php:251
+msgid "Third widget area - Sidebar 2"
+msgstr "3rd ウィジェットエリア - サイドバー 2"
+
+#: includes/theme-setup.php:260
+msgid "Fourth Widget Area - Sidebar 2"
+msgstr "4th ウィジェットエリア - サイドバー 2"
+
+#: includes/theme-setup.php:262
+msgid "Fourth widget area  - Sidebar 2"
+msgstr "4th ウィジェットエリア - サイドバー 2"
+
+#: includes/theme-setup.php:271
+msgid "First Footer Widget Area"
+msgstr "1st フッタウィジェットエリア"
+
+#: includes/theme-setup.php:273
+msgid "First footer widget area"
+msgstr "1st フッタウィジェットエリア"
+
+#: includes/theme-setup.php:282
+msgid "Second Footer Widget Area"
+msgstr "2nd フッタウィジェットエリア"
+
+#: includes/theme-setup.php:284
+msgid "Second footer widget area"
+msgstr "2nd フッタウィジェットエリア"
+
+#: includes/theme-setup.php:293
+msgid "Third Footer Widget Area"
+msgstr "3rd フッタウィジェットエリア"
+
+#: includes/theme-setup.php:295
+msgid "The third footer widget area"
+msgstr "3rd フッタウィジェットエリア"
+
+#: includes/theme-setup.php:304
+msgid "Fourth Footer Widget Area"
+msgstr "4th フッタウィジェットエリア"
+
+#: includes/theme-setup.php:306
+msgid "The fourth footer widget area"
+msgstr "4th フッタウィジェットエリア"
