@@ -11,7 +11,7 @@
  * @package Cryout Creations
  * @subpackage Mantra
  */
-get_header(); 
+get_header();
 if ($mantra_frontpage=="Enable" && is_front_page() ):
 	mantra_frontpage_generator();
 	if ($mantra_frontposts=="Enable"): get_template_part('content','frontpage'); endif;
@@ -52,6 +52,6 @@ else:
 			</div><!-- #content -->
 	<?php get_sidebar(); ?>
 		</section><!-- #container -->
-<?php 
+<?php
 endif;
 get_footer(); ?>
