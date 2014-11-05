@@ -90,8 +90,7 @@ border-radius: 2px 2px 3px 3px;height:38px; }
 .mainbody .aboutus{width:365px;height:180px;float:right;line-height:22px;color:#888;}
 .mainbody .aboutus img{float:left;margin:5px 15px 0px 0;}
 .mainbody .aboutus a{color:#2554b3;}
-.mainbody .contact{width:178px;height:180px;float:right;}
-.mainbody .contact img{float:left;margin:5px 15px 0px 0;}
+.mainbody .contact{float:right;}
 .mainbody .contactus a{color:#2554b3;}
 .mainbody .contact {line-height:22px;}
 
@@ -193,9 +192,8 @@ select{vertical-align: middle;padding: 2px;-webkit-appearance: menulist;box-sizi
 .xiaocms-page a:hover { background:#f1f1f1; color:#000; text-decoration:none; }
 .xiaocms-page span { display:inline-block; height:22px;padding:0 10px; line-height:22px; background:#5a85b2; border:1px solid #5a85b2; color:#fff; text-align:center;margin-left: 1px; }
 
-.site-logo{
-    display:inline-block;
-    vertical-align: middle;
-    height:50px;
-}
+.site-logo{display:inline-block;vertical-align: middle;height:50px;}
+.w740 .banner,.w740 .slideBox,.w740 .slideBox .bd img{width:100%;}
+.mainbody.index .tempWrap{width:100% ! important;}
+
 
