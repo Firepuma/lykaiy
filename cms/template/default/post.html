@@ -1,0 +1,54 @@
+{xiao:template header.html}
+
+<link href="admin/img/admin.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="admin/js/jquery.min.js"></script>
+
+
+    <div class="blank10 clear"></div>
+    <div class="mainbody">
+		<div class="bg" style="padding:20px;">
+		               
+
+			{xiao:if $select}
+			<div style="text-align:center;padding:20px;">
+              <select   onchange='document.location.href=this.options[this.selectedIndex].value;'>
+               <option> -选择投稿栏目- </option>
+               {xiao:$post_category}
+               </select>
+			</div>
+            {xiao:else}
+				
+
+    		<!--投稿的模板-->
+            <form action="" method="post">
+			<table width="100%" class="table_form">
+			<tr>
+				<th width="100">投稿栏目：</th>
+				<td>{xiao:$cats[$catid]['catname']} <a href="/index.php?c=post">返回重选</a></td>
+			</tr>
+            <tr>
+                <th><font color="red">*</font>标题：</th>
+                <td><input type="text" class="input-text" size="50" id="title" value="{xiao:$data['title']}" name="data[title]" onBlur="get_kw()">
+                <div class="onShow" id="title_text"></div></td>
+            </tr>
+            <tr>
+                <th>简介：</th>
+                <td><textarea style="width:490px;height:66px;" id="description" name="data[description]">{xiao:$data['description']}</textarea></td>
+            </tr>
+			{xiao:$fields}
+			<tr>
+				<th>验证码：</th>
+				<td><input name="code" type="text" class="input-text" size=10 /><img id="code" src="{xiao:function.url("api/checkcode/", array("width"=>80, "height"=>28))}" align="absmiddle" title="看不清楚？换一张" onclick="document.getElementById('code').src='{xiao:function.url("api/checkcode/", array("width"=>80, "height"=>28))}&'+Math.random();" style="cursor:pointer;" /></td>
+			</tr>
+			<tr>
+				<th style="border:none">&nbsp;</th>
+				<td style="border:none"><input type="submit" class="button" value="提 交" name="submit"></td>
+			</tr>
+			</table>
+			</form>
+            {/xiao:if}    <div class="clear blank10"></div>
+
+        </div>
+    </div>
+    <div class="clear blank10"></div>
+{xiao:template footer.html}

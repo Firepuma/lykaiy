@@ -1,0 +1,1 @@
+a:1:{i:5;a:9:{s:7:"modelid";s:1:"5";s:6:"typeid";s:1:"2";s:9:"modelname";s:6:"个人";s:9:"tablename";s:12:"member_geren";s:7:"listtpl";s:15:"list_geren.html";s:7:"showtpl";s:15:"show_geren.html";s:6:"joinid";N;s:7:"setting";a:0:{}s:6:"fields";a:0:{}}}

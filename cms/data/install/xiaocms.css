@@ -1,0 +1,19 @@
+* { margin:0; padding:0; }
+body, input { font:14px/1.5 arial, "微软雅黑"; color:#666; outline:0; }
+a { color:#666; text-decoration:none; }
+body {background: #f1f1f1;}
+.install-box { width:700px; margin:5% auto 0 auto; border:1px solid #ccc; padding-bottom:30px;-moz-border-radius: 4px;-webkit-border-radius: 4px;border-radius: 4px;color: #666;background: #fff;}
+.head { height:50px; line-height:60px; font-size:16px; text-align:center;}
+.install-button {margin-top: 20px; text-align:center; }
+.install-error { margin:auto; line-height:35px; text-align:center; color:#F00 }
+.copyright { line-height:25px; padding-top:10px; text-align:center; color:#999;font-family: 微软雅黑; }
+.copyright a { color:#999 }
+.red{font-weight: 700;color: red;font-size: 18px;}
+.install {padding: 0 25px;margin-top: 10px; line-height:35px; }
+.install .formitm { padding: 8px 0px; height:30px; line-height: 30px; }
+.install .lab { float: left; width: 260px; text-align: right; }
+.u-ipt { color: #333;float: left; width: 180px; padding: 5px; height: 17px; border: 1px solid #D9D9D9; border-top-color: #c0c0c0; line-height: 17px; margin-right: 5px; vertical-align: middle; background:#f5f5f5}
+.button { padding:10px 40px; font-size: 16px; cursor: pointer;color:#333;border-radius: 3px;color: #FFF;
+background: #117ed2;
+background-image: linear-gradient(to bottom,#2488d4 0,#1c5bad 100%); }
+.button:hover {background: #2488d4; background-image: linear-gradient(to bottom,#37aaea 0,#117ed2 100%);}
