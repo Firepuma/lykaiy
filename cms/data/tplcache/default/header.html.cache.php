@@ -23,10 +23,13 @@
 </head>
 <body> 
 <!-- header-->
-<div class="header">
-	<a href="<?php echo $site_url; ?>" title="<?php echo $site_name; ?>"><h1 class="logo"></h1></a>
-	<h1 class="txt">矿山设备批发零售</h1>
-	<div class="tel">电话：<span>18888888888</span></div>
+<div class="header" style="text-align: center;">
+
+	<a href="<?php echo $site_url; ?>" title="<?php echo $site_name; ?>" style="" class="site-logo">
+        <div style="display:inline-block;" clas="logo"></div>&nbsp;
+        <div style="display:inline-block; vertical-align: middle; font-size:28px" class="site-title">涟源凯越</div>&nbsp;
+    </a>
+    <div class="tel">矿山设备批发零售 18888888888</div>
 </div>
 
 <div class="nav-bg">

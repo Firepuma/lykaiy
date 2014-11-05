@@ -1,5 +1,4 @@
 <?php include $this->_include('header.html'); ?>
-
 <div class="mainbody">
 	<div class="w210 fl">
 	<?php include $this->_include('left.html'); ?>

@@ -64,8 +64,6 @@
 		jQuery(".picMarquee-left").slide({mainCell:".bd ul",autoPlay:true,effect:"leftMarquee",vis:6,interTime:50,trigger:"click"});
 		</script>
 <div class="blank10 clear"></div>
-
-<div  class="link bg">测试区块：<?php $this->block(7);?></div>
 </div>
 
 <?php include $this->_include('footer.html'); ?>

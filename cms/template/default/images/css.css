@@ -19,13 +19,13 @@ a img {  border: none;}
 .w210{width:210px;}
 
 /*头部区域*/
-.header{width:960px;height:90px;margin:0 auto;position:relative;z-index:1;}
+.header{width:960px;height:50px;margin:0 auto;position:relative;z-index:1;line-height:50px;}
 .header h1{width:265px;height:48px;float:left;margin:24px 0 0 5px;}
 .header h1.logo{background:url(logo.png) no-repeat;}
 .header .txt{position:absolute;top:18px;right:16px;text-align:right;color:#333;_display:inline-block;}
 .header .txt a{color: #333;}
 .header .txt span{padding:0 10px;}
-.header .tel{position:absolute;top:50px;right:16px;height:14px;line-height:14px;padding-left:70px;text-align:center;font-size:14px;color:#8d8c8c;}
+.header .tel{line-height: 30px;vertical-align: bottom;display: inline-block;}
 .header .tel span{font-family:Verdana;}
  
  /*导航条*/
@@ -192,3 +192,10 @@ select{vertical-align: middle;padding: 2px;-webkit-appearance: menulist;box-sizi
 .xiaocms-page a { display:inline-block; height:22px; line-height:22px; background:#fff; border:1px solid #e3e3e3; text-align:center; color:#333; padding:0 10px;margin-left: 1px;}
 .xiaocms-page a:hover { background:#f1f1f1; color:#000; text-decoration:none; }
 .xiaocms-page span { display:inline-block; height:22px;padding:0 10px; line-height:22px; background:#5a85b2; border:1px solid #5a85b2; color:#fff; text-align:center;margin-left: 1px; }
+
+.site-logo{
+    display:inline-block;
+    vertical-align: middle;
+    height:50px;
+}
+

@@ -9,7 +9,7 @@
 		<?php } ?>
 			
         </div>
-       <div class="copyright">Powered by <a href="http://www.xiaocms.com" target="_blank">Firepuma</a>  © 2014</div>
+       <div class="copyright">Powered by <a href="https://github.com/Firepuma" target="_blank">Firepuma</a>  © 2014</div>
     </div>
 </body>
 </html>
