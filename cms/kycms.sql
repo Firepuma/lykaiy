@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50520
 File Encoding         : 65001
 
-Date: 2014-11-05 20:58:06
+Date: 2014-11-05 23:01:23
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -90,7 +90,7 @@ CREATE TABLE `ky_category` (
   `pagesize` smallint(5) NOT NULL,
   PRIMARY KEY (`catid`),
   KEY `listorder` (`listorder`,`catid`)
-) ENGINE=MyISAM AUTO_INCREMENT=17 DEFAULT CHARSET=utf8;
+) ENGINE=MyISAM AUTO_INCREMENT=19 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
 -- Records of ky_category
@@ -100,10 +100,12 @@ INSERT INTO `ky_category` VALUES ('2', '2', '0', '0', '1', '3,4,', '新闻资讯
 INSERT INTO `ky_category` VALUES ('3', '1', '1', '2', '0', '', '公司新闻', '', '', '', '', '', 'gongsixinwen', '', '9', '2', '1', '0', '0', '0', 'list_news.html', 'show_news.html', '', '10');
 INSERT INTO `ky_category` VALUES ('4', '1', '1', '2', '0', '', '行业新闻', '', '', '', '', '', 'xingyexinwen', '', '12', '2', '1', '0', '0', '0', 'list_news.html', 'show_news.html', '', '10');
 INSERT INTO `ky_category` VALUES ('5', '1', '2', '0', '1', '6,7,8,', '矿山设备', '', '', '', '', '', 'product', '', '13', '3', '1', '0', '0', '0', 'list_product.html', 'show_product.html', '', '9');
-INSERT INTO `ky_category` VALUES ('6', '1', '2', '5', '0', '', '矿用支护', '', '', '', '', '', 'chanpinxilieyi', '', '11', '3', '1', '0', '0', '0', 'list_product.html', 'show_product.html', '', '9');
-INSERT INTO `ky_category` VALUES ('7', '1', '2', '5', '0', '', '矿用运输', '', '', '', '', '', 'chanpinxilieer', '', '2', '3', '1', '0', '0', '0', 'list_product.html', 'show_product.html', '', '9');
-INSERT INTO `ky_category` VALUES ('8', '1', '2', '5', '0', '', '矿用材料', '', '', '', '', '', 'chanpinxiliesan', '', '0', '3', '1', '0', '0', '0', 'list_product.html', 'show_product.html', '', '9');
+INSERT INTO `ky_category` VALUES ('6', '1', '2', '5', '0', '', '矿用支护', '', '', '', '', '', 'chanpinxilieyi', '', '11', '0', '1', '0', '0', '0', 'list_product.html', 'show_product.html', '', '9');
+INSERT INTO `ky_category` VALUES ('7', '1', '2', '5', '0', '', '矿用运输', '', '', '', '', '', 'chanpinxilieer', '', '2', '0', '1', '0', '0', '0', 'list_product.html', 'show_product.html', '', '9');
+INSERT INTO `ky_category` VALUES ('8', '1', '2', '5', '0', '', '矿用材料', '', '', '', '', '', 'chanpinxiliesan', '', '0', '0', '1', '0', '0', '0', 'list_product.html', 'show_product.html', '', '9');
+INSERT INTO `ky_category` VALUES ('17', '1', '2', '0', '0', '', '原材料', '', '', '', '', '', 'yuancailiao', '', '0', '3', '1', '0', '0', '0', 'list_product.html', 'show_product.html', '', '10');
 INSERT INTO `ky_category` VALUES ('13', '2', '0', '0', '0', '', '联系我们', '', '&lt;p&gt;\r\n	官方网站：&lt;a href=&quot;http://www.xiaocms.com&quot; target=&quot;_blank&quot;&gt;http://www.xiaocms.com&lt;/a&gt; \r\n&lt;/p&gt;\r\n&lt;p&gt;\r\n	百度技术有限责任公司\r\n&lt;/p&gt;\r\n&lt;p&gt;\r\n	地　址&lt;span&gt;：&lt;/span&gt;北京市海淀区上地十街10号\r\n&lt;/p&gt;\r\n&lt;p&gt;\r\n	邮　编&lt;span&gt;：&lt;/span&gt;100085\r\n&lt;/p&gt;\r\n&lt;p&gt;\r\n	总　机： (+86 10) 5992 8888\r\n&lt;/p&gt;\r\n&lt;p&gt;\r\n	传　真： (+86 10) 5992 0000\r\n&lt;/p&gt;\r\n&lt;p&gt;\r\n	&lt;iframe src=&quot;/core/img/kindeditor/plugins/baidumap/index.html?center=116.428308%2C39.919095&amp;zoom=13&amp;width=558&amp;height=360&amp;markers=116.428308%2C39.919095&amp;markerStyles=l%2CA&quot; frameborder=&quot;0&quot; style=&quot;width:560px;height:362px;&quot;&gt;\r\n	&lt;/iframe&gt;\r\n&lt;/p&gt;', '', '', '', 'contact', '', '0', '1', '1', '0', '0', '0', '', '', 'page.html', '10');
+INSERT INTO `ky_category` VALUES ('18', '1', '2', '0', '0', '', '机械加工', '', '', '', '', '', 'jixiejiagong', '', '0', '3', '1', '0', '0', '0', 'list_product.html', 'show_product.html', 'page.html', '10');
 
 -- ----------------------------
 -- Table structure for ky_content
@@ -149,14 +151,14 @@ INSERT INTO `ky_content` VALUES ('15', '3', '1', '手机健康应用和可穿戴
 INSERT INTO `ky_content` VALUES ('16', '3', '1', '处理器提升显著 评海尔T400便携笔记本', '', '', 'T400，这个型号在电脑产品中经常见到，其中最有名的就要属ThinkPadT400了。不过，在海尔笔记本电脑产品线上，也有型号为T400的产品，而且它的定位与ThinkPad完全不同。面向家庭用户的海尔T400除了具备不错的综合性能...', '0', '1', '1', 'admin', '1392972243');
 INSERT INTO `ky_content` VALUES ('17', '3', '1', '英特尔2014规划图曝光 移动市场依旧是重点', '', '', '英特尔作为全球最大的芯片制造商，它的动向往往影响着整个产业的发展。那么2014年英特尔的重点会是什么呢？近日VR-Zone公布了一张英特尔2014年芯片方面的规划图，下面就让笔者带大家来看一看。2014年，英特尔首先将...', '0', '1', '0', 'admin', '1392972288');
 INSERT INTO `ky_content` VALUES ('18', '3', '1', '可穿戴智能设备的未来：留下智能，摆脱设备', '', '', '最近我使用了一款Picooc的智能秤，之所以称为智能秤，是因为通过它不只能得到自己的体重数据，还能了解自己的BMI（即身体质量指数）以及多项身体指标，根据你的身体数据系统会有针对性地给出运动和饮食建议。正如智...', '0', '1', '0', 'admin', '1392972322');
-INSERT INTO `ky_content` VALUES ('19', '3', '1', '专家详解网购新规热点：7天无理由退货怎么退', '', '', '记者在淘宝网高级搜索中发现，全网符合全新商品检索条件的商品为34247万件，而加入七天退换保障条件的宝贝仅有12281.24万件。不少店铺仍在首页挂出类似“尺码色差等不属于质量问题不予退换”的免责声明，看似温馨提...', '0', '1', '0', 'admin', '1392972444');
+INSERT INTO `ky_content` VALUES ('19', '3', '1', '专家详解网购新规热点：7天无理由退货怎么退', '', '', '记者在淘宝网高级搜索中发现，全网符合全新商品检索条件的商品为34247万件，而加入七天退换保障条件的宝贝仅有12281.24万件。不少店铺仍在首页挂出类似“尺码色差等不属于质量问题不予退换”的免责声明，看似温馨提...', '0', '1', '2', 'admin', '1392972444');
 INSERT INTO `ky_content` VALUES ('20', '3', '1', '从PC走向多元市场 AMD高管Lisa Su看涨APU走势', '', '', '网易科技讯2月21日消息，正是由于一年多以前开始的复兴计划，AMD并没有随着PC市场的下滑而进入困境，相反，AMD通过嵌入式、游戏主机、数据中心等领域的业务发展反哺PC，再次通过KaveriAPU走回PC市场。AMD高级副总裁...', '0', '1', '3', 'admin', '1392972494');
-INSERT INTO `ky_content` VALUES ('21', '3', '1', 'XiaoCMS X1 企业建站版 正式发布', 'http://demo.xiaocms.com/template/default/images/benchi.jpg', '', '官方网站：http://www.xiaocms.com\r如果您有任何问题或者建议欢迎联系我们', '0', '2', '1', 'admin', '1392975675');
+INSERT INTO `ky_content` VALUES ('21', '3', '1', 'XiaoCMS X1 企业建站版 正式发布', 'http://demo.xiaocms.com/template/default/images/benchi.jpg', '', '官方网站：http://www.xiaocms.com\r如果您有任何问题或者建议欢迎联系我们', '0', '2', '2', 'admin', '1392975675');
 INSERT INTO `ky_content` VALUES ('27', '6', '2', '案例展示', 'http://demo.xiaocms.com/template/default/images/bigmacbook.jpg', '', '', '0', '1', '1', 'admin', '1392974354');
 INSERT INTO `ky_content` VALUES ('24', '6', '2', '案例展示', 'http://demo.xiaocms.com/template/default/images/macbook.jpg', '', '', '0', '1', '0', 'admin', '1392974257');
 INSERT INTO `ky_content` VALUES ('26', '6', '2', '案例展示', 'http://demo.xiaocms.com/template/default/images/macbook.jpg', '', '', '0', '1', '0', 'admin', '1392974339');
 INSERT INTO `ky_content` VALUES ('28', '6', '2', '案例展示', 'http://demo.xiaocms.com/template/default/images/macbook.jpg', '', '', '0', '1', '1', 'admin', '1392974364');
-INSERT INTO `ky_content` VALUES ('29', '6', '2', '案例展示', 'http://demo.xiaocms.com/template/default/images/macbook.jpg', '', '', '0', '1', '0', 'admin', '1392974386');
+INSERT INTO `ky_content` VALUES ('29', '6', '2', '案例展示', 'http://demo.xiaocms.com/template/default/images/macbook.jpg', '', '', '0', '1', '1', 'admin', '1392974386');
 INSERT INTO `ky_content` VALUES ('30', '7', '2', '产品展示', 'http://demo.xiaocms.com/template/default/images/macbook.jpg', '', '', '0', '1', '0', 'admin', '1392974404');
 INSERT INTO `ky_content` VALUES ('31', '7', '2', '产品展示', 'http://demo.xiaocms.com/template/default/images/macbook.jpg', '', '', '0', '1', '1', 'admin', '1392974410');
 INSERT INTO `ky_content` VALUES ('32', '6', '2', '产品展示', 'http://demo.xiaocms.com/template/default/images/macbook.jpg', '', '', '0', '1', '0', 'admin', '1392974422');
