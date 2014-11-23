@@ -29,7 +29,7 @@ a img {  border: none;}
 .header .txt span{padding:0 10px;}
 .header .tel{vertical-align: middle;display: inline-block;font-family: 'Arial Normal', 'Arial';font-weight: 400;font-style: normal;font-size: 16px;color: #333333;}
 .header .tel span{font-family:Verdana;}
-.site-logo{display:inline-block;vertical-align: middle;height:80px;}
+.site-logo{display:inline-block;vertical-align: middle;height:80px;line-height: 80px;}
 .site-logo .logo{ vertical-align: middle;}
 .logo-text{ display:inline-block; vertical-align: middle; font-size:36px;font-family: 'Arial Negreta', 'Arial';font-weight: 700;color: #333333;text-align: left;}
  
