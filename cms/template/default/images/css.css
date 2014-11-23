@@ -16,17 +16,22 @@ a img {  border: none;}
 .fl{float:left;}
 .fr{float:right;}
 .w740{width:740px;}
+.w710{width:710px;}
 .w210{width:210px;}
+.w240{width:240px;}
 
 /*头部区域*/
-.header{width:960px;height:50px;margin:0 auto;position:relative;z-index:1;line-height:50px;}
+.header{width:930px;height:80px;margin:0 auto;position:relative;z-index:1;line-height:50px; padding:0 10px;}
 .header h1{width:265px;height:48px;float:left;margin:24px 0 0 5px;}
 .header h1.logo{background:url(logo.png) no-repeat;}
 .header .txt{position:absolute;top:18px;right:16px;text-align:right;color:#333;_display:inline-block;}
 .header .txt a{color: #333;}
 .header .txt span{padding:0 10px;}
-.header .tel{line-height: 30px;vertical-align: bottom;display: inline-block;}
+.header .tel{vertical-align: middle;display: inline-block;font-family: 'Arial Normal', 'Arial';font-weight: 400;font-style: normal;font-size: 16px;color: #333333;}
 .header .tel span{font-family:Verdana;}
+.site-logo{display:inline-block;vertical-align: middle;height:80px;}
+.site-logo .logo{ vertical-align: middle;}
+.logo-text{ display:inline-block; vertical-align: middle; font-size:36px;font-family: 'Arial Negreta', 'Arial';font-weight: 700;color: #333333;text-align: left;}
  
  /*导航条*/
 
@@ -36,8 +41,8 @@ a img {  border: none;}
 -o-border-radius: 2px 2px 3px 3px;
 -ms-border-radius: 2px 2px 3px 3px;
 border-radius: 2px 2px 3px 3px;height:38px; }
-.nav-bg-bottom{height:25px;background: url(nav-bg-bottom.png) repeat-x 0 bottom;}
-.nav{width:960px;height:38px;margin:0 auto; line-height: 38px;  position:relative; z-index:1; }
+.nav-bg-bottom{height:10px;background: url(nav-bg-bottom.png) repeat-x 0 bottom;}
+.nav{width:950px;height:38px;margin:0 auto; line-height: 38px;  position:relative; z-index:1; }
 .nav a{ color:#fff;  }
 .nav .nLi{ float:left;  position:relative; display:inline;  }
 .nav .nLi h3{ float:left;  }
@@ -57,7 +62,7 @@ border-radius: 2px 2px 3px 3px;height:38px; }
 .slideBox .hd ul li{ float:left; margin-right:2px;  width:30px; height:15px; line-height:16px; text-align:center; background:#fff; cursor:pointer; }
 .slideBox .hd ul li.on{ background:#f00; color:#fff; }
 .slideBox .bd{ position:relative; height:100%; z-index:0;   }
-.slideBox .bd li{ zoom:1; vertical-align:middle; }
+.slideBox .bd li{ zoom:1; vertical-align:middle;height:290px; }
 .slideBox .bd img{ width:960px; height:350px; display:block;  }
 
 /* 下面是前/后按钮代码，如果不需要删除即可 */
@@ -71,7 +76,7 @@ border-radius: 2px 2px 3px 3px;height:38px; }
 
 
 .mainbody {width: 960px;margin: 0 auto;}
-.mainbody .bg{background:#fcfcfc;border: 1px solid #f4f4f4; border-bottom:2px solid #e6e6e6;  border-radius: 5px;padding: 15px;}
+.mainbody .bg{background:#fcfcfc;border: 1px solid #f4f4f4; padding: 15px;}
 .mainbody .newwarp{width:300px;height:180px;float:left;}
 .mainbody .newstitle{line-height:14px;height:20px;}
 .mainbody .newstitle a{color:#929292}
@@ -90,7 +95,6 @@ border-radius: 2px 2px 3px 3px;height:38px; }
 .mainbody .aboutus{width:365px;height:180px;float:right;line-height:22px;color:#888;}
 .mainbody .aboutus img{float:left;margin:5px 15px 0px 0;}
 .mainbody .aboutus a{color:#2554b3;}
-.mainbody .contact{float:right;}
 .mainbody .contactus a{color:#2554b3;}
 .mainbody .contact {line-height:22px;}
 
@@ -107,8 +111,8 @@ border-radius: 2px 2px 3px 3px;height:38px; }
 .content{line-height:24px;}
 /* 本例子css */
 .picMarquee-left{  position:relative;   }
-.picMarquee-left .hd{ overflow:hidden;  height:30px; padding:0 5px;  }
-.picMarquee-left .hd h3{float:left; font-size: 14px; }
+.picMarquee-left .hd{ overflow:hidden;  height:25px; }
+.picMarquee-left .hd h3{float:left;color:#333;font-size:15px;font-weight:bold;line-height: 25px;padding:0 10px; }
 
 .picMarquee-left .hd .prev,.picMarquee-left .hd .next{ display:block;  width:5px; height:9px; float:right; margin-right:5px; margin-top:10px;  overflow:hidden;cursor:pointer; background:url("arrow.png") no-repeat;}
 .picMarquee-left .hd .next{ background-position:0 -50px;  }
@@ -192,8 +196,54 @@ select{vertical-align: middle;padding: 2px;-webkit-appearance: menulist;box-sizi
 .xiaocms-page a:hover { background:#f1f1f1; color:#000; text-decoration:none; }
 .xiaocms-page span { display:inline-block; height:22px;padding:0 10px; line-height:22px; background:#5a85b2; border:1px solid #5a85b2; color:#fff; text-align:center;margin-left: 1px; }
 
-.site-logo{display:inline-block;vertical-align: middle;height:50px;}
-.w740 .banner,.w740 .slideBox,.w740 .slideBox .bd img{width:100%;}
+
+.w740 .banner,.w740 .slideBox,.w740 .slideBox .bd img{width:100%;height:100%;}
+.w710 .banner,.w710 .slideBox,.w710 .slideBox .bd img{width:100%;height:100%;}
 .mainbody.index .tempWrap{width:100% ! important;}
+.w230{width:240px;border:1px solid #ccc;}
+
+.ent-info,.contact{
+    padding:10px;
+    color:#333;
+    font-size:13px;
+    border-bottom:1px solid #ddd;
+}
+.ent-info h3{
+    font-family: 'Arial Negreta', 'Arial';
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 30px;
+}
+.ent-info .item,
+.contact .item{
+    margin-top:5px;
+    line-height: 30px;
+}
+.ent-info .label{
+    font-weight:bold;
+    font-size:15px;
+}
+.ent-info .address{
+    text-decoration: underline;
+    line-height: 25px;
+}
+
+.contact{
+    border-bottom:0;
+    height:300px;
+}
+.contact .online img{
+    margin: 10px 0;
+}
+.contact .mobile{
+    margin-top:20px;
+}
+.contact .mobile p{
+    text-indent: 2em;
+}
+.contact-area.bg{
+    padding:0;
+}
+
 
 

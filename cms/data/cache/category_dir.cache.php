@@ -1,1 +1,1 @@
-a:11:{s:7:"product";s:1:"5";s:11:"yuancailiao";s:2:"17";s:12:"jixiejiagong";s:2:"18";s:4:"news";s:1:"2";s:12:"gongsixinwen";s:1:"3";s:12:"xingyexinwen";s:1:"4";s:7:"contact";s:2:"13";s:5:"about";s:1:"1";s:14:"chanpinxilieyi";s:1:"6";s:14:"chanpinxilieer";s:1:"7";s:15:"chanpinxiliesan";s:1:"8";}
+a:5:{s:20:"kuangyongzhihugongju";s:2:"19";s:21:"kuangshanyunshugongju";s:2:"20";s:26:"kuangyongjinshuyuancailiao";s:2:"21";s:7:"contact";s:2:"13";s:5:"about";s:1:"1";}
