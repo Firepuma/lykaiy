@@ -191,7 +191,7 @@ class uploadfile extends Admin {
     /**
      * 文件上传
      */
-    private function upload($fields, $type, $size) {
+    private function upload($fields, $type, $size=0) {
 		$upload   = xiaocms::load_class('upload');
         $ext      = strtolower(substr(strrchr($_FILES[$fields]['name'], '.'), 1));
         if (in_array($ext, array('jpg','jpeg','bmp','png','gif'))) {
